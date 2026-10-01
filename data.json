@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,442.27",
-      "change": -1.54,
+      "value": "10,443.20",
+      "change": -1.53,
       "series": [
         10756.5,
         10831.5,
@@ -113,7 +113,7 @@
         10684.9,
         10636.7,
         10606.0,
-        10442.27
+        10443.2
       ]
     }
   ],
@@ -553,13 +553,6 @@
   ],
   "markets": [
     {
-      "title": "Trump touts economic wins in battleground states \u2014 like a $54 billion Alaskan pipeline \u2014 as the midterms draw closer",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
       "summary": "",
       "source": "MarketWatch",
@@ -627,6 +620,13 @@
       "tags": []
     },
     {
+      "title": "France\u2019s bond market is stumbling. Should Americans care?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/frances-bond-market-is-stumbling-should-americans-care-202ea2af?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
       "summary": "",
       "source": "CNBC",
@@ -641,6 +641,6 @@
       "tags": []
     }
   ],
-  "updated": "01 Oct 2026, 09:29 UTC",
-  "updated_iso": "2026-10-01T09:29:50.878741+00:00"
+  "updated": "01 Oct 2026, 09:45 UTC",
+  "updated_iso": "2026-10-01T09:45:34.334344+00:00"
 }
