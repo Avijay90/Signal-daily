@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,627.32",
-      "change": -0.32,
+      "value": "7,633.33",
+      "change": -0.24,
       "series": [
         7631.47,
         7666.6,
@@ -27,14 +27,14 @@
         7683.69,
         7670.84,
         7651.54,
-        7627.32
+        7633.33
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,801.82",
-      "change": -0.22,
+      "value": "26,833.60",
+      "change": -0.1,
       "series": [
         26099.77,
         26217.83,
@@ -57,7 +57,7 @@
         26820.38,
         26797.54,
         26861.06,
-        26801.82
+        26833.6
       ]
     },
     {
@@ -91,8 +91,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,459.18",
-      "change": -1.38,
+      "value": "10,438.44",
+      "change": -1.58,
       "series": [
         10756.5,
         10831.5,
@@ -115,15 +115,15 @@
         10684.9,
         10636.7,
         10606.0,
-        10459.18
+        10438.44
       ]
     }
   ],
   "stocks": [
     {
       "symbol": "PLTR",
-      "price": 190.65,
-      "change": 1.92,
+      "price": 190.49,
+      "change": 1.84,
       "series": [
         179.92,
         169.46,
@@ -146,7 +146,7 @@
         187.48,
         186.97,
         187.05,
-        190.65
+        190.49
       ]
     },
     {
@@ -175,13 +175,13 @@
         509.22,
         508.96,
         512.9,
-        517.61
+        517.6
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 230.14,
-      "change": 0.77,
+      "price": 229.89,
+      "change": 0.66,
       "series": [
         217.44,
         224.41,
@@ -204,13 +204,13 @@
         228.86,
         227.21,
         228.38,
-        230.14
+        229.89
       ]
     },
     {
       "symbol": "TSLA",
-      "price": 354.73,
-      "change": -0.02,
+      "price": 355.33,
+      "change": 0.15,
       "series": [
         356.09,
         357.01,
@@ -233,13 +233,13 @@
         357.45,
         352.84,
         354.81,
-        354.73
+        355.33
       ]
     },
     {
       "symbol": "TSM",
-      "price": 454.9,
-      "change": -0.28,
+      "price": 456.27,
+      "change": 0.02,
       "series": [
         414.0,
         415.5,
@@ -262,13 +262,13 @@
         452.88,
         456.94,
         456.19,
-        454.9
+        456.27
       ]
     },
     {
       "symbol": "META",
-      "price": 721.72,
-      "change": -0.48,
+      "price": 725.1,
+      "change": -0.01,
       "series": [
         578.54,
         592.85,
@@ -291,13 +291,13 @@
         715.62,
         738.79,
         725.18,
-        721.72
+        725.1
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 342.08,
-      "change": -0.58,
+      "price": 341.9,
+      "change": -0.63,
       "series": [
         335.02,
         337.12,
@@ -320,71 +320,13 @@
         342.75,
         340.92,
         344.08,
-        342.08
-      ]
-    },
-    {
-      "symbol": "AMZN",
-      "price": 247.29,
-      "change": -0.74,
-      "series": [
-        254.92,
-        254.98,
-        258.9,
-        258.51,
-        256.97,
-        252.4,
-        251.89,
-        256.78,
-        253.54,
-        248.42,
-        245.96,
-        251.19,
-        253.71,
-        258.45,
-        254.98,
-        249.27,
-        249.38,
-        249.67,
-        246.15,
-        246.67,
-        249.15,
-        247.29
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "price": 347.83,
-      "change": -0.96,
-      "series": [
-        369.68,
-        367.24,
-        357.16,
-        357.9,
-        368.56,
-        364.38,
-        360.83,
-        361.99,
-        344.72,
-        339.27,
-        339.51,
-        347.3,
-        357.61,
-        362.66,
-        364.54,
-        354.99,
-        350.36,
-        352.81,
-        349.57,
-        355.1,
-        351.19,
-        347.83
+        341.9
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 329.11,
-      "change": -1.17,
+      "price": 330.9,
+      "change": -0.64,
       "series": [
         325.13,
         324.96,
@@ -407,13 +349,13 @@
         338.4,
         329.4,
         333.02,
-        329.11
+        330.9
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 135.33,
-      "change": -1.43,
+      "price": 136.41,
+      "change": -0.65,
       "series": [
         141.32,
         145.75,
@@ -436,13 +378,13 @@
         132.6,
         137.79,
         137.3,
-        135.33
+        136.41
       ]
     },
     {
       "symbol": "AMD",
-      "price": 602.97,
-      "change": -1.44,
+      "price": 606.96,
+      "change": -0.78,
       "series": [
         459.61,
         457.06,
@@ -465,7 +407,65 @@
         607.87,
         607.57,
         611.76,
-        602.97
+        606.96
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "price": 246.95,
+      "change": -0.88,
+      "series": [
+        254.92,
+        254.98,
+        258.9,
+        258.51,
+        256.97,
+        252.4,
+        251.89,
+        256.78,
+        253.54,
+        248.42,
+        245.96,
+        251.19,
+        253.71,
+        258.45,
+        254.98,
+        249.27,
+        249.38,
+        249.67,
+        246.15,
+        246.67,
+        249.15,
+        246.95
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "price": 347.66,
+      "change": -1.01,
+      "series": [
+        369.68,
+        367.24,
+        357.16,
+        357.9,
+        368.56,
+        364.38,
+        360.83,
+        361.99,
+        344.72,
+        339.27,
+        339.51,
+        347.3,
+        357.61,
+        362.66,
+        364.54,
+        354.99,
+        350.36,
+        352.81,
+        349.57,
+        355.1,
+        351.19,
+        347.66
       ]
     }
   ],
@@ -561,22 +561,6 @@
   ],
   "markets": [
     {
-      "title": "The latest oil-price shock rippling through the economy is a refining crisis \u2014\u00a0not a crude crisis",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-latest-oil-price-shock-rippling-through-the-economy-is-a-refining-crisis-not-a-crude-crisis-e304a589?mod=mw_rss_topstories",
-      "tags": [
-        "Oil & energy"
-      ]
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
       "summary": "",
       "source": "MarketWatch",
@@ -635,6 +619,22 @@
       "tags": []
     },
     {
+      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "tags": [
+        "Crypto"
+      ]
+    },
+    {
       "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
       "summary": "",
       "source": "CNBC",
@@ -651,6 +651,6 @@
       ]
     }
   ],
-  "updated": "01 Oct 2026, 14:06 UTC",
-  "updated_iso": "2026-10-01T14:06:41.027177+00:00"
+  "updated": "01 Oct 2026, 14:29 UTC",
+  "updated_iso": "2026-10-01T14:29:22.352970+00:00"
 }
