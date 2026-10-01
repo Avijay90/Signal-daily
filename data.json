@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,426.80",
-      "change": -1.69,
+      "value": "10,431.58",
+      "change": -1.64,
       "series": [
         10756.5,
         10831.5,
@@ -113,7 +113,7 @@
         10684.9,
         10636.7,
         10606.0,
-        10426.8
+        10431.58
       ]
     }
   ],
@@ -553,13 +553,6 @@
   ],
   "markets": [
     {
-      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "A brutal September for bonds points to an even darker October",
       "summary": "",
       "source": "MarketWatch",
@@ -627,6 +620,13 @@
       "tags": []
     },
     {
+      "title": "Angelina Jolie sells L.A. mansion with illustrious Hollywood history for $24.75 million",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/angelina-jolie-sells-l-a-mansion-with-illustrious-hollywood-history-for-24-75-million-d0e38495?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
       "summary": "",
       "source": "CNBC",
@@ -641,6 +641,6 @@
       "tags": []
     }
   ],
-  "updated": "01 Oct 2026, 08:58 UTC",
-  "updated_iso": "2026-10-01T08:58:12.115746+00:00"
+  "updated": "01 Oct 2026, 09:12 UTC",
+  "updated_iso": "2026-10-01T09:12:15.830394+00:00"
 }
