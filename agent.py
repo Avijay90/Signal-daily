@@ -69,7 +69,7 @@ for n, s in INDICES:
     if q: data["indices"].append({"name": n, "symbol": s, "value": f"{q[0]:,.2f}", "change": q[1], "series": q[2]})
 for s in WATCH:
     q = chart(s)
-    if q: data["stocks"].append({"symbol": s, "price": round(q[0], 2), "change": q[1]})
+    if q: data["stocks"].append({"symbol": s, "price": round(q[0], 2), "change": q[1], "series": q[2]})
 data["stocks"].sort(key=lambda x: x["change"], reverse=True)
 for key, feeds in FEEDS.items():
     allit = sorted([i for s, u in feeds for i in items(s, u)], key=lambda i: i["_t"], reverse=True)
