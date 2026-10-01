@@ -30,11 +30,19 @@ article small{color:var(--mut)}article a{color:var(--acc)}
 .tg button{font:inherit;font-size:.8rem;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:6px;padding:2px 8px;cursor:pointer}
 .tg button[aria-pressed=true]{background:var(--acc);color:var(--bg);border-color:var(--acc)}
 .tg2{margin-top:6px}.tg2 em{font-style:normal;font-size:.75rem;color:var(--mut);margin-right:8px}
+.idx div,.st span{cursor:pointer}.idx div:focus-visible,.st span:focus-visible,#dx:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.on{border-color:var(--acc)!important;box-shadow:0 0 0 1px var(--acc)}
+.dp{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 14px;margin:-6px 0 18px}
+.dh{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px}
+#dx{font:inherit;font-size:.8rem;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:6px;padding:2px 10px;cursor:pointer}
+.dp svg{display:block;width:100%;height:120px}.dp polyline{fill:none;stroke:currentColor;stroke-width:2;vector-effect:non-scaling-stroke}
+.dp small{color:var(--mut)}.dp a{color:var(--acc);margin-left:8px;font-size:.85rem}
 </style></head><body><main>
 <h1>Signal Daily</h1>
 <p class="meta" id="meta">Loading…</p>
 <div class="idx" id="idx" aria-label="Market snapshot"></div>
 <p class="h">AI and big-tech stocks, today</p><div class="st" id="st"></div>
+<div id="dt"></div>
 <div class="tabs" role="tablist">
 <button role="tab" aria-selected="true" data-t="ai">AI</button>
 <button role="tab" aria-selected="false" data-t="markets">Stock market</button></div>
@@ -47,8 +55,8 @@ var GC="";/* GoatCounter site code, e.g. "mysignal" (see setup notes) */
 if(GC){var g=document.createElement("script");g.async=true;g.src="https://gc.zgo.at/count.js";g.dataset.goatcounter="https://"+GC+".goatcounter.com/count";document.head.appendChild(g)}
 var ser=[100,102,101,104,103,106,105,108,107,110,109,112];
 var SAMPLE={updated:"Sample data (agent not run yet)",
-indices:[{name:"S&P 500",value:"sample",change:0.4,series:ser},{name:"Nasdaq",value:"sample",change:-0.3,series:ser.slice().reverse()}],
-stocks:[{symbol:"NVDA",price:0,change:1.2},{symbol:"MSFT",price:0,change:-0.5}],
+indices:[{name:"S&P 500",symbol:"^GSPC",value:"sample",change:0.4,series:ser},{name:"Nasdaq",symbol:"^IXIC",value:"sample",change:-0.3,series:ser.slice().reverse()}],
+stocks:[{symbol:"NVDA",price:0,change:1.2,series:ser},{symbol:"MSFT",price:0,change:-0.5}],
 ai:[{title:"Sample AI story",summary:"The daily agent replaces this with real headlines.",source:"example.com",url:"#",tags:["OpenAI","Funding"]}],
 markets:[{title:"Sample market story",summary:"The daily agent replaces this with real headlines.",source:"example.com",url:"#",tags:["Earnings"]}]};
 var LIVE="";/* Cloudflare Worker URL, e.g. https://quotes.yourname.workers.dev */
@@ -61,6 +69,7 @@ fetch(LIVE+"?symbols="+encodeURIComponent(sy.join(","))).then(function(r){return
 (D.stocks||[]).forEach(function(s){var x=q[s.symbol];if(x){s.price=x.price;s.change=x.change}});
 D.stocks.sort(function(a,b){return b.change-a.change});
 LIVE_T=new Date().toLocaleTimeString([],{hour:"2-digit",minute:"2-digit",second:"2-digit"});render()}).catch(function(){})}
+var SEL=null;
 var D=SAMPLE,tab="ai",tag=null;
 function esc(s){var d=document.createElement("div");d.textContent=s==null?"":s;return d.innerHTML}
 function safe(u){return /^https?:\/\//.test(u)?u:"#"}
@@ -70,11 +79,23 @@ var p=a.map(function(v,i){return (i/(a.length-1)*100).toFixed(1)+","+(26-(v-lo)/
 return '<svg viewBox="0 0 100 28" preserveAspectRatio="none" class="'+(c>=0?"up":"dn")+'"><polyline points="'+p+'"/></svg>'}
 function meta(){var m=document.getElementById("meta"),t=D.updated_iso?Math.round((Date.now()-new Date(D.updated_iso))/60000):null;
 m.textContent="Last updated: "+D.updated+(t!==null&&t>=0?" ("+(t<1?"just now":t<60?t+" min ago":Math.round(t/60)+" h ago")+")":"")+(LIVE_T?". Live prices as of "+LIVE_T+".":". Prices may be delayed ~15 min.")}
-function render(){
+function big(a,c){if(!a||a.length<2)return"<p>Chart data not available yet.</p>";var lo=Math.min.apply(0,a),hi=Math.max.apply(0,a),r=hi-lo||1;
+var p=a.map(function(v,i){return (i/(a.length-1)*100).toFixed(1)+","+(38-(v-lo)/r*36).toFixed(1)}).join(" ");
+return '<svg viewBox="0 0 100 40" preserveAspectRatio="none" class="'+(c>=0?"up":"dn")+'"><polyline points="'+p+'"/></svg>'}
+function detail(){var el=document.getElementById("dt");if(!SEL){el.innerHTML="";return}
+var x=(D.indices||[]).concat(D.stocks||[]).filter(function(a){return a.symbol===SEL})[0];if(!x){el.innerHTML="";return}
+var a=x.series||[],lo=a.length?Math.min.apply(0,a):0,hi=a.length?Math.max.apply(0,a):0,pr=x.value||(x.price!=null?Number(x.price).toFixed(2):"");
+el.innerHTML='<div class="dp"><div class="dh"><div><b>'+esc(x.name||x.symbol)+"</b> "+esc(pr)+" "+pct(x.change)+'</div><button id="dx" aria-label="Close chart">Close</button></div>'+big(a,x.change)+
+'<small>Last month: low '+lo.toFixed(2)+", high "+hi.toFixed(2)+'</small><a href="https://finance.yahoo.com/quote/'+encodeURIComponent(x.symbol)+'/" target="_blank" rel="noopener">Full chart on Yahoo Finance</a></div>';
+document.getElementById("dx").onclick=function(){SEL=null;render()}}
+function pick(e){var t=e.target.closest&&e.target.closest("[data-s]");if(!t)return;SEL=SEL===t.dataset.s?null:t.dataset.s;render()}
+document.addEventListener("click",pick);
+document.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){var t=e.target.closest&&e.target.closest("[data-s]");if(t){e.preventDefault();pick(e)}}});
+function render(){detail();
 meta();
 document.getElementById("idx").innerHTML=(D.indices||[]).map(function(i){
-return '<div><b>'+esc(i.name)+'</b><span>'+esc(i.value)+"</span> "+pct(i.change)+spark(i.series,i.change)+"</div>"}).join("");
-document.getElementById("st").innerHTML=(D.stocks||[]).map(function(s){return "<span>"+esc(s.symbol)+" "+pct(s.change)+"</span>"}).join("");
+return '<div role="button" tabindex="0" data-s="'+esc(i.symbol)+'" class="'+(SEL&&SEL===i.symbol?"on":"")+'"><b>'+esc(i.name)+'</b><span>'+esc(i.value)+"</span> "+pct(i.change)+spark(i.series,i.change)+"</div>"}).join("");
+document.getElementById("st").innerHTML=(D.stocks||[]).map(function(s){return '<span role="button" tabindex="0" data-s="'+esc(s.symbol)+'" class="'+(SEL&&SEL===s.symbol?"on":"")+'">'+esc(s.symbol)+" "+pct(s.change)+"</span>"}).join("");
 var L=D[tab]||[],cnt={};L.forEach(function(n){(n.tags||[]).forEach(function(t){cnt[t]=(cnt[t]||0)+1})});
 document.getElementById("tg").innerHTML=Object.keys(cnt).map(function(t){return '<button aria-pressed="'+(t===tag)+'" data-g="'+esc(t)+'">'+esc(t)+" "+cnt[t]+"</button>"}).join("");
 document.querySelectorAll("#tg button").forEach(function(b){b.onclick=function(){tag=tag===b.dataset.g?null:b.dataset.g;render()}});
