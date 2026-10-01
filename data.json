@@ -555,13 +555,6 @@
   ],
   "markets": [
     {
-      "title": "Trump\u2019s SEC wants to allow fund managers to charge extra fees for better performance. Here\u2019s why it\u2019s a terrible idea.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trumps-sec-wants-to-allow-fund-managers-to-charge-extra-fees-for-better-performance-heres-why-its-a-terrible-idea-61f6e0cc?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
       "summary": "",
       "source": "MarketWatch",
@@ -629,6 +622,13 @@
       ]
     },
     {
+      "title": "Here\u2019s who\u2019s joining the S&P 500 in the index\u2019s latest shakeup",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves premarket: MGM, Darden Restaurants, Meta, BlackBerry & more",
       "summary": "",
       "source": "CNBC",
@@ -647,6 +647,6 @@
       ]
     }
   ],
-  "updated": "01 Oct 2026, 23:02 UTC",
-  "updated_iso": "2026-10-01T23:02:38.260262+00:00"
+  "updated": "01 Oct 2026, 23:22 UTC",
+  "updated_iso": "2026-10-01T23:22:07.697471+00:00"
 }
