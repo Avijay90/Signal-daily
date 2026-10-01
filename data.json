@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,647.92",
-      "change": -0.05,
+      "value": "7,641.82",
+      "change": -0.13,
       "series": [
         7631.47,
         7666.6,
@@ -27,14 +27,14 @@
         7683.69,
         7670.84,
         7651.54,
-        7647.92
+        7641.82
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,824.12",
-      "change": -0.14,
+      "value": "26,796.67",
+      "change": -0.24,
       "series": [
         26099.77,
         26217.83,
@@ -57,7 +57,7 @@
         26820.38,
         26797.54,
         26861.06,
-        26824.12
+        26796.67
       ]
     },
     {
@@ -121,8 +121,8 @@
   "stocks": [
     {
       "symbol": "NVDA",
-      "price": 230.81,
-      "change": 1.06,
+      "price": 230.37,
+      "change": 0.87,
       "series": [
         217.44,
         224.41,
@@ -145,13 +145,13 @@
         228.86,
         227.21,
         228.38,
-        230.8
+        230.37
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 188.75,
-      "change": 0.91,
+      "price": 188.59,
+      "change": 0.82,
       "series": [
         179.92,
         169.46,
@@ -174,13 +174,13 @@
         187.48,
         186.97,
         187.05,
-        188.75
+        188.59
       ]
     },
     {
       "symbol": "META",
-      "price": 729.33,
-      "change": 0.57,
+      "price": 728.25,
+      "change": 0.42,
       "series": [
         578.54,
         592.85,
@@ -203,42 +203,13 @@
         715.62,
         738.79,
         725.18,
-        729.33
-      ]
-    },
-    {
-      "symbol": "MSFT",
-      "price": 514.66,
-      "change": 0.34,
-      "series": [
-        501.02,
-        496.82,
-        510.12,
-        499.7,
-        493.95,
-        491.65,
-        492.44,
-        495.63,
-        505.41,
-        497.12,
-        490.3,
-        497.75,
-        493.78,
-        501.61,
-        498.0,
-        500.59,
-        497.93,
-        516.17,
-        509.22,
-        508.96,
-        512.9,
-        514.66
+        728.25
       ]
     },
     {
       "symbol": "TSLA",
-      "price": 355.75,
-      "change": 0.27,
+      "price": 355.61,
+      "change": 0.23,
       "series": [
         356.09,
         357.01,
@@ -261,12 +232,41 @@
         357.45,
         352.84,
         354.81,
-        355.76
+        355.61
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "price": 513.06,
+      "change": 0.03,
+      "series": [
+        501.02,
+        496.82,
+        510.12,
+        499.7,
+        493.95,
+        491.65,
+        492.44,
+        495.63,
+        505.41,
+        497.12,
+        490.3,
+        497.75,
+        493.78,
+        501.61,
+        498.0,
+        500.59,
+        497.93,
+        516.17,
+        509.22,
+        508.96,
+        512.9,
+        513.06
       ]
     },
     {
       "symbol": "TSM",
-      "price": 455.96,
+      "price": 455.97,
       "change": -0.05,
       "series": [
         414.0,
@@ -290,13 +290,13 @@
         452.88,
         456.94,
         456.19,
-        455.96
+        455.97
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 137.16,
-      "change": -0.1,
+      "price": 137.22,
+      "change": -0.06,
       "series": [
         141.32,
         145.75,
@@ -319,13 +319,13 @@
         132.6,
         137.79,
         137.3,
-        137.16
+        137.22
       ]
     },
     {
       "symbol": "AMD",
-      "price": 610.42,
-      "change": -0.22,
+      "price": 611.29,
+      "change": -0.08,
       "series": [
         459.61,
         457.06,
@@ -348,13 +348,13 @@
         607.87,
         607.57,
         611.76,
-        610.42
+        611.29
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 247.59,
-      "change": -0.62,
+      "price": 247.31,
+      "change": -0.74,
       "series": [
         254.92,
         254.98,
@@ -377,13 +377,13 @@
         246.15,
         246.67,
         249.15,
-        247.59
+        247.32
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 348.14,
-      "change": -0.87,
+      "price": 347.33,
+      "change": -1.1,
       "series": [
         369.68,
         367.24,
@@ -406,13 +406,13 @@
         349.57,
         355.1,
         351.19,
-        348.14
+        347.33
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 328.25,
-      "change": -1.43,
+      "price": 327.99,
+      "change": -1.51,
       "series": [
         325.13,
         324.96,
@@ -435,13 +435,13 @@
         338.4,
         329.4,
         333.02,
-        328.25
+        327.99
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 338.76,
-      "change": -1.55,
+      "price": 336.73,
+      "change": -2.14,
       "series": [
         335.02,
         337.12,
@@ -464,25 +464,11 @@
         342.75,
         340.92,
         344.08,
-        338.76
+        336.73
       ]
     }
   ],
   "ai": [
-    {
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "tags": []
-    },
-    {
-      "title": "Airbnb adds AI search, more social features",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-      "tags": []
-    },
     {
       "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
       "summary": "",
@@ -553,6 +539,24 @@
       "summary": "",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "tags": [
+        "Funding"
+      ]
+    },
+    {
+      "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
       "tags": [
         "Funding"
       ]
@@ -627,19 +631,10 @@
       "tags": []
     },
     {
-      "title": "Meta\u2019s Mark Zuckerberg is coming for Apple\u2019s empire",
+      "title": "Mark Zuckerberg is coming for Apple\u2019s empire",
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
-      "tags": [
-        "Meta"
-      ]
-    },
-    {
-      "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
       "tags": []
     },
     {
@@ -650,8 +645,17 @@
       "tags": [
         "Meta"
       ]
+    },
+    {
+      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
+      "tags": [
+        "Rates & Fed"
+      ]
     }
   ],
-  "updated": "01 Oct 2026, 16:39 UTC",
-  "updated_iso": "2026-10-01T16:39:21.512839+00:00"
+  "updated": "01 Oct 2026, 16:52 UTC",
+  "updated_iso": "2026-10-01T16:52:42.260209+00:00"
 }
