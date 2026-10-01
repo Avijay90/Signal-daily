@@ -456,13 +456,6 @@
   ],
   "ai": [
     {
-      "title": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "tags": []
-    },
-    {
       "title": "DoorDash launches an AI agent you can text to order food",
       "summary": "",
       "source": "TechCrunch",
@@ -551,23 +544,16 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
       "tags": []
+    },
+    {
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Mark Zuckerberg is coming for Apple\u2019s empire",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here\u2019s how it worked out.",
       "summary": "",
@@ -627,6 +613,20 @@
       "tags": []
     },
     {
+      "title": "The stock market is anything but normal right now \u2014 and these charts show it",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Nike\u2019s troubles are mounting, and sales could fall further",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves premarket: MGM, Darden Restaurants, Meta, BlackBerry & more",
       "summary": "",
       "source": "CNBC",
@@ -645,6 +645,6 @@
       ]
     }
   ],
-  "updated": "01 Oct 2026, 21:03 UTC",
-  "updated_iso": "2026-10-01T21:03:29.977073+00:00"
+  "updated": "01 Oct 2026, 21:24 UTC",
+  "updated_iso": "2026-10-01T21:24:52.170185+00:00"
 }
