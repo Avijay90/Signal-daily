@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,654.25",
-      "change": 0.04,
+      "value": "7,667.68",
+      "change": 0.21,
       "series": [
         7631.47,
         7666.6,
@@ -27,14 +27,14 @@
         7683.69,
         7670.84,
         7651.54,
-        7654.25
+        7667.68
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,870.32",
-      "change": 0.03,
+      "value": "26,915.95",
+      "change": 0.2,
       "series": [
         26099.77,
         26217.83,
@@ -57,7 +57,7 @@
         26820.38,
         26797.54,
         26861.06,
-        26870.32
+        26915.95
       ]
     },
     {
@@ -121,8 +121,8 @@
   "stocks": [
     {
       "symbol": "PLTR",
-      "price": 189.05,
-      "change": 1.07,
+      "price": 189.8,
+      "change": 1.47,
       "series": [
         179.92,
         169.46,
@@ -145,13 +145,13 @@
         187.48,
         186.97,
         187.05,
-        189.05
+        189.8
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 230.34,
-      "change": 0.86,
+      "price": 231.06,
+      "change": 1.17,
       "series": [
         217.44,
         224.41,
@@ -174,129 +174,13 @@
         228.86,
         227.21,
         228.38,
-        230.34
-      ]
-    },
-    {
-      "symbol": "ORCL",
-      "price": 138.13,
-      "change": 0.61,
-      "series": [
-        141.32,
-        145.75,
-        154.04,
-        158.78,
-        162.52,
-        161.63,
-        152.94,
-        150.28,
-        144.79,
-        140.35,
-        143.16,
-        150.59,
-        147.61,
-        148.56,
-        149.2,
-        144.56,
-        139.54,
-        137.1,
-        132.6,
-        137.79,
-        137.3,
-        138.13
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "price": 458.35,
-      "change": 0.47,
-      "series": [
-        414.0,
-        415.5,
-        417.01,
-        428.91,
-        439.0,
-        435.36,
-        428.03,
-        433.24,
-        418.01,
-        413.75,
-        417.72,
-        430.26,
-        434.67,
-        445.14,
-        452.0,
-        446.57,
-        451.15,
-        450.61,
-        452.88,
-        456.94,
-        456.19,
-        458.35
-      ]
-    },
-    {
-      "symbol": "META",
-      "price": 728.34,
-      "change": 0.44,
-      "series": [
-        578.54,
-        592.85,
-        610.68,
-        616.77,
-        613.48,
-        653.69,
-        644.38,
-        648.03,
-        665.6,
-        670.24,
-        673.31,
-        682.31,
-        665.75,
-        741.25,
-        736.6,
-        744.1,
-        777.59,
-        751.66,
-        715.62,
-        738.79,
-        725.18,
-        728.34
-      ]
-    },
-    {
-      "symbol": "MSFT",
-      "price": 514.8,
-      "change": 0.37,
-      "series": [
-        501.02,
-        496.82,
-        510.12,
-        499.7,
-        493.95,
-        491.65,
-        492.44,
-        495.63,
-        505.41,
-        497.12,
-        490.3,
-        497.75,
-        493.78,
-        501.61,
-        498.0,
-        500.59,
-        497.93,
-        516.17,
-        509.22,
-        508.96,
-        512.9,
-        514.8
+        231.05
       ]
     },
     {
       "symbol": "TSLA",
-      "price": 355.73,
-      "change": 0.26,
+      "price": 357.2,
+      "change": 0.67,
       "series": [
         356.09,
         357.01,
@@ -319,13 +203,13 @@
         357.45,
         352.84,
         354.81,
-        355.73
+        357.2
       ]
     },
     {
       "symbol": "AMD",
-      "price": 613.18,
-      "change": 0.23,
+      "price": 615.76,
+      "change": 0.65,
       "series": [
         459.61,
         457.06,
@@ -348,13 +232,129 @@
         607.87,
         607.57,
         611.76,
-        613.18
+        615.76
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "price": 458.69,
+      "change": 0.55,
+      "series": [
+        414.0,
+        415.5,
+        417.01,
+        428.91,
+        439.0,
+        435.36,
+        428.03,
+        433.24,
+        418.01,
+        413.75,
+        417.72,
+        430.26,
+        434.67,
+        445.14,
+        452.0,
+        446.57,
+        451.15,
+        450.61,
+        452.88,
+        456.94,
+        456.19,
+        458.69
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "price": 515.64,
+      "change": 0.54,
+      "series": [
+        501.02,
+        496.82,
+        510.12,
+        499.7,
+        493.95,
+        491.65,
+        492.44,
+        495.63,
+        505.41,
+        497.12,
+        490.3,
+        497.75,
+        493.78,
+        501.61,
+        498.0,
+        500.59,
+        497.93,
+        516.17,
+        509.22,
+        508.96,
+        512.9,
+        515.65
+      ]
+    },
+    {
+      "symbol": "META",
+      "price": 728.59,
+      "change": 0.47,
+      "series": [
+        578.54,
+        592.85,
+        610.68,
+        616.77,
+        613.48,
+        653.69,
+        644.38,
+        648.03,
+        665.6,
+        670.24,
+        673.31,
+        682.31,
+        665.75,
+        741.25,
+        736.6,
+        744.1,
+        777.59,
+        751.66,
+        715.62,
+        738.79,
+        725.18,
+        728.59
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "price": 137.73,
+      "change": 0.31,
+      "series": [
+        141.32,
+        145.75,
+        154.04,
+        158.78,
+        162.52,
+        161.63,
+        152.94,
+        150.28,
+        144.79,
+        140.35,
+        143.16,
+        150.59,
+        147.61,
+        148.56,
+        149.2,
+        144.56,
+        139.54,
+        137.1,
+        132.6,
+        137.79,
+        137.3,
+        137.73
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 248.93,
-      "change": -0.09,
+      "price": 249.2,
+      "change": 0.02,
       "series": [
         254.92,
         254.98,
@@ -377,42 +377,13 @@
         246.15,
         246.67,
         249.15,
-        248.93
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "price": 347.38,
-      "change": -1.08,
-      "series": [
-        369.68,
-        367.24,
-        357.16,
-        357.9,
-        368.56,
-        364.38,
-        360.83,
-        361.99,
-        344.72,
-        339.27,
-        339.51,
-        347.3,
-        357.61,
-        362.66,
-        364.54,
-        354.99,
-        350.36,
-        352.81,
-        349.57,
-        355.1,
-        351.19,
-        347.39
+        249.2
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 328.89,
-      "change": -1.24,
+      "price": 329.58,
+      "change": -1.03,
       "series": [
         325.13,
         324.96,
@@ -435,13 +406,42 @@
         338.4,
         329.4,
         333.02,
-        328.89
+        329.58
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "price": 347.48,
+      "change": -1.06,
+      "series": [
+        369.68,
+        367.24,
+        357.16,
+        357.9,
+        368.56,
+        364.38,
+        360.83,
+        361.99,
+        344.72,
+        339.27,
+        339.51,
+        347.3,
+        357.61,
+        362.66,
+        364.54,
+        354.99,
+        350.36,
+        352.81,
+        349.57,
+        355.1,
+        351.19,
+        347.48
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 339.24,
-      "change": -1.41,
+      "price": 338.6,
+      "change": -1.59,
       "series": [
         335.02,
         337.12,
@@ -464,18 +464,11 @@
         342.75,
         340.92,
         344.08,
-        339.23
+        338.6
       ]
     }
   ],
   "ai": [
-    {
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "tags": []
-    },
     {
       "title": "Cerebras Systems\u2019 Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
       "summary": "",
@@ -562,16 +555,19 @@
       "tags": [
         "Google"
       ]
+    },
+    {
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "tags": [
+        "Google",
+        "Funding"
+      ]
     }
   ],
   "markets": [
-    {
-      "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "September jobs report may show labor market is on the mend \u2014 but it\u2019s far from cured",
       "summary": "",
@@ -638,6 +634,13 @@
       "tags": []
     },
     {
+      "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-silent-alarm-in-the-bond-market-tells-you-which-stocks-to-buy-and-which-to-avoid-4568ac53?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves premarket: MGM, Darden Restaurants, Meta, BlackBerry & more",
       "summary": "",
       "source": "CNBC",
@@ -656,6 +659,6 @@
       ]
     }
   ],
-  "updated": "01 Oct 2026, 18:06 UTC",
-  "updated_iso": "2026-10-01T18:06:32.955816+00:00"
+  "updated": "01 Oct 2026, 18:30 UTC",
+  "updated_iso": "2026-10-01T18:30:53.545484+00:00"
 }
