@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,490.36",
-      "change": -1.09,
+      "value": "10,502.70",
+      "change": -0.97,
       "series": [
         10756.5,
         10831.5,
@@ -113,7 +113,7 @@
         10684.9,
         10636.7,
         10606.0,
-        10490.36
+        10502.7
       ]
     }
   ],
@@ -553,20 +553,6 @@
   ],
   "markets": [
     {
-      "title": "Cars have become unaffordable for many Americans. Here\u2019s what the numbers show.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Angelina Jolie sells L.A. mansion with illustrious Hollywood history for $24.75 million",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/angelina-jolie-sells-l-a-mansion-with-illustrious-hollywood-history-for-24-75-million-d0e38495?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "summary": "",
       "source": "MarketWatch",
@@ -602,13 +588,6 @@
       "tags": []
     },
     {
-      "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
       "summary": "",
       "source": "MarketWatch",
@@ -623,10 +602,26 @@
       "tags": []
     },
     {
-      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+      "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Meta, ServiceNow and these 7 other tech stocks could lead the next leg of the AI trade",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/meta-servicenow-and-these-7-other-tech-stocks-could-lead-the-next-leg-of-the-ai-trade-b8b68c93?mod=mw_rss_topstories",
+      "tags": [
+        "Meta"
+      ]
+    },
+    {
+      "title": "How European supplies could impact a U.S. diesel ban as White House reportedly asks Germany, France to release stockpiles",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-european-supplies-could-impact-a-u-s-diesel-ban-as-white-house-reportedly-asks-germany-france-to-release-stockpiles-5edd8284?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -635,8 +630,17 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
       "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: MGM, Darden Restaurants, Meta, BlackBerry & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/24/stocks-making-the-biggest-moves-premarket-mgm-dri-meta-bb.html",
+      "tags": [
+        "Meta"
+      ]
     }
   ],
-  "updated": "01 Oct 2026, 11:53 UTC",
-  "updated_iso": "2026-10-01T11:53:53.108840+00:00"
+  "updated": "01 Oct 2026, 12:07 UTC",
+  "updated_iso": "2026-10-01T12:07:00.636048+00:00"
 }
