@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,645.05",
-      "change": -0.08,
+      "value": "7,647.92",
+      "change": -0.05,
       "series": [
         7631.47,
         7666.6,
@@ -27,13 +27,13 @@
         7683.69,
         7670.84,
         7651.54,
-        7645.05
+        7647.92
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,822.42",
+      "value": "26,824.12",
       "change": -0.14,
       "series": [
         26099.77,
@@ -57,7 +57,7 @@
         26820.38,
         26797.54,
         26861.06,
-        26822.42
+        26824.12
       ]
     },
     {
@@ -121,8 +121,8 @@
   "stocks": [
     {
       "symbol": "NVDA",
-      "price": 230.48,
-      "change": 0.92,
+      "price": 230.81,
+      "change": 1.06,
       "series": [
         217.44,
         224.41,
@@ -145,13 +145,13 @@
         228.86,
         227.21,
         228.38,
-        230.48
+        230.8
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 188.69,
-      "change": 0.88,
+      "price": 188.75,
+      "change": 0.91,
       "series": [
         179.92,
         169.46,
@@ -174,13 +174,13 @@
         187.48,
         186.97,
         187.05,
-        188.69
+        188.75
       ]
     },
     {
       "symbol": "META",
-      "price": 729.43,
-      "change": 0.59,
+      "price": 729.33,
+      "change": 0.57,
       "series": [
         578.54,
         592.85,
@@ -203,42 +203,13 @@
         715.62,
         738.79,
         725.18,
-        729.43
-      ]
-    },
-    {
-      "symbol": "TSLA",
-      "price": 356.19,
-      "change": 0.39,
-      "series": [
-        356.09,
-        357.01,
-        376.37,
-        354.08,
-        368.16,
-        367.81,
-        363.56,
-        365.44,
-        358.97,
-        356.58,
-        358.08,
-        366.2,
-        364.27,
-        375.3,
-        378.9,
-        380.12,
-        377.94,
-        372.11,
-        357.45,
-        352.84,
-        354.81,
-        356.18
+        729.33
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 514.39,
-      "change": 0.29,
+      "price": 514.66,
+      "change": 0.34,
       "series": [
         501.02,
         496.82,
@@ -261,13 +232,42 @@
         509.22,
         508.96,
         512.9,
-        514.39
+        514.66
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "price": 355.75,
+      "change": 0.27,
+      "series": [
+        356.09,
+        357.01,
+        376.37,
+        354.08,
+        368.16,
+        367.81,
+        363.56,
+        365.44,
+        358.97,
+        356.58,
+        358.08,
+        366.2,
+        364.27,
+        375.3,
+        378.9,
+        380.12,
+        377.94,
+        372.11,
+        357.45,
+        352.84,
+        354.81,
+        355.76
       ]
     },
     {
       "symbol": "TSM",
-      "price": 456.13,
-      "change": -0.01,
+      "price": 455.96,
+      "change": -0.05,
       "series": [
         414.0,
         415.5,
@@ -290,13 +290,13 @@
         452.88,
         456.94,
         456.19,
-        456.14
+        455.96
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 137.24,
-      "change": -0.04,
+      "price": 137.16,
+      "change": -0.1,
       "series": [
         141.32,
         145.75,
@@ -319,13 +319,13 @@
         132.6,
         137.79,
         137.3,
-        137.24
+        137.16
       ]
     },
     {
       "symbol": "AMD",
-      "price": 611.05,
-      "change": -0.12,
+      "price": 610.42,
+      "change": -0.22,
       "series": [
         459.61,
         457.06,
@@ -348,13 +348,13 @@
         607.87,
         607.57,
         611.76,
-        611.05
+        610.42
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 247.37,
-      "change": -0.72,
+      "price": 247.59,
+      "change": -0.62,
       "series": [
         254.92,
         254.98,
@@ -377,13 +377,13 @@
         246.15,
         246.67,
         249.15,
-        247.37
+        247.59
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 347.86,
-      "change": -0.95,
+      "price": 348.14,
+      "change": -0.87,
       "series": [
         369.68,
         367.24,
@@ -406,42 +406,13 @@
         349.57,
         355.1,
         351.19,
-        347.86
-      ]
-    },
-    {
-      "symbol": "GOOGL",
-      "price": 340.0,
-      "change": -1.19,
-      "series": [
-        335.02,
-        337.12,
-        342.48,
-        338.46,
-        338.36,
-        330.65,
-        332.6,
-        338.5,
-        349.39,
-        344.98,
-        342.87,
-        347.33,
-        349.54,
-        354.97,
-        351.16,
-        337.83,
-        342.36,
-        343.92,
-        342.75,
-        340.92,
-        344.08,
-        339.99
+        348.14
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 328.57,
-      "change": -1.34,
+      "price": 328.25,
+      "change": -1.43,
       "series": [
         325.13,
         324.96,
@@ -464,7 +435,36 @@
         338.4,
         329.4,
         333.02,
-        328.57
+        328.25
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 338.76,
+      "change": -1.55,
+      "series": [
+        335.02,
+        337.12,
+        342.48,
+        338.46,
+        338.36,
+        330.65,
+        332.6,
+        338.5,
+        349.39,
+        344.98,
+        342.87,
+        347.33,
+        349.54,
+        354.97,
+        351.16,
+        337.83,
+        342.36,
+        343.92,
+        342.75,
+        340.92,
+        344.08,
+        338.76
       ]
     }
   ],
@@ -560,13 +560,6 @@
   ],
   "markets": [
     {
-      "title": "More than 10 million older adults are now living in poverty as Social Security cuts loom: \u2018I don\u2019t know how anyone is making it\u2019",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/more-than-10-million-older-adults-are-now-living-in-poverty-as-social-security-cuts-loom-i-dont-know-how-anyone-is-making-it-237ab798?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
       "summary": "",
       "source": "MarketWatch",
@@ -620,7 +613,7 @@
       "tags": []
     },
     {
-      "title": "30-year mortgage rate posts biggest jump in four years",
+      "title": "30-year mortgage rate posts biggest jump in four years \u2014 to nearly 7.3%",
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/30-year-mortgage-rate-posts-biggest-jump-in-four-years-e288f596?mod=mw_rss_topstories",
@@ -632,6 +625,15 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "tags": []
+    },
+    {
+      "title": "Meta\u2019s Mark Zuckerberg is coming for Apple\u2019s empire",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
+      "tags": [
+        "Meta"
+      ]
     },
     {
       "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
@@ -650,6 +652,6 @@
       ]
     }
   ],
-  "updated": "01 Oct 2026, 16:26 UTC",
-  "updated_iso": "2026-10-01T16:26:08.277544+00:00"
+  "updated": "01 Oct 2026, 16:39 UTC",
+  "updated_iso": "2026-10-01T16:39:21.512839+00:00"
 }
