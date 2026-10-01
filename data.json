@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,431.58",
-      "change": -1.64,
+      "value": "10,442.27",
+      "change": -1.54,
       "series": [
         10756.5,
         10831.5,
@@ -113,7 +113,7 @@
         10684.9,
         10636.7,
         10606.0,
-        10431.58
+        10442.27
       ]
     }
   ],
@@ -553,20 +553,6 @@
   ],
   "markets": [
     {
-      "title": "A brutal September for bonds points to an even darker October",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "How the \u2018AI put\u2019 has become the only thing that matters for stocks",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Trump touts economic wins in battleground states \u2014 like a $54 billion Alaskan pipeline \u2014 as the midterms draw closer",
       "summary": "",
       "source": "MarketWatch",
@@ -627,6 +613,20 @@
       "tags": []
     },
     {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Retail investors are aggressively piling into this bold contrarian bet through one ETF.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/retail-investors-are-aggressively-piling-into-this-bold-contrarian-bet-through-one-etf-da26f208?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
       "summary": "",
       "source": "CNBC",
@@ -641,6 +641,6 @@
       "tags": []
     }
   ],
-  "updated": "01 Oct 2026, 09:12 UTC",
-  "updated_iso": "2026-10-01T09:12:15.830394+00:00"
+  "updated": "01 Oct 2026, 09:29 UTC",
+  "updated_iso": "2026-10-01T09:29:50.878741+00:00"
 }
