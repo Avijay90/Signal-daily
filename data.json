@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,502.70",
-      "change": -0.97,
+      "value": "10,518.12",
+      "change": -0.83,
       "series": [
         10756.5,
         10831.5,
@@ -113,7 +113,7 @@
         10684.9,
         10636.7,
         10606.0,
-        10502.7
+        10518.12
       ]
     }
   ],
@@ -457,16 +457,6 @@
   ],
   "ai": [
     {
-      "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "tags": [
-        "OpenAI",
-        "Nvidia"
-      ]
-    },
-    {
       "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
       "summary": "",
       "source": "TechCrunch",
@@ -549,23 +539,18 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
       "tags": []
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "tags": [
+        "Meta"
+      ]
     }
   ],
   "markets": [
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Retail investors are aggressively piling into this bold contrarian bet through one ETF.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/retail-investors-are-aggressively-piling-into-this-bold-contrarian-bet-through-one-etf-da26f208?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "France\u2019s bond market is stumbling. Should Americans care?",
       "summary": "",
@@ -625,6 +610,20 @@
       "tags": []
     },
     {
+      "title": "Why Amazon got a call-up to the Goldman Sachs conviction list of top stocks",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-amazon-got-a-call-up-to-the-goldman-sachs-conviction-list-of-top-stocks-9c937472?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
       "summary": "",
       "source": "CNBC",
@@ -641,6 +640,6 @@
       ]
     }
   ],
-  "updated": "01 Oct 2026, 12:07 UTC",
-  "updated_iso": "2026-10-01T12:07:00.636048+00:00"
+  "updated": "01 Oct 2026, 12:33 UTC",
+  "updated_iso": "2026-10-01T12:33:06.782187+00:00"
 }
