@@ -1,0 +1,89 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Signal Daily: AI and markets</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;800&display=swap">
+<style>
+:root{--bg:#f3f1ec;--ink:#14213d;--mut:#5b6478;--card:#fff;--line:#d9d5cb;--acc:#0b7a75;--up:#1a7f4b;--dn:#c23b3b;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#10151f;--ink:#e8ebf2;--mut:#9aa4b8;--card:#182030;--line:#2a3448;--acc:#4fd1c5;--up:#4ade80;--dn:#f87171}}
+:root[data-theme="dark"]{--bg:#10151f;--ink:#e8ebf2;--mut:#9aa4b8;--card:#182030;--line:#2a3448;--acc:#4fd1c5;--up:#4ade80;--dn:#f87171}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "Public Sans",system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:20px 16px 48px}
+h1{font-size:2rem;font-weight:800;margin:0;letter-spacing:-.02em}
+.meta{color:var(--mut);font-size:.85rem;margin:4px 0 20px}
+.idx{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px;margin-bottom:20px}
+.idx div{flex:0 0 auto;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:8px 12px;min-width:112px}
+.idx b{display:block;font-size:.8rem;color:var(--mut);font-weight:600}.idx span{font-weight:800}
+.up{color:var(--up)}.dn{color:var(--dn)}
+.tabs{display:flex;gap:8px;margin-bottom:12px}
+.tabs button{font:inherit;font-weight:600;border:1px solid var(--line);background:transparent;color:var(--ink);padding:8px 16px;border-radius:999px;cursor:pointer}
+.tabs button[aria-selected=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.tabs button:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+article{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--acc);border-radius:6px;padding:14px 16px;margin-bottom:12px}
+article h2{font-size:1.05rem;margin:0 0 4px}article p{margin:0 0 6px}
+article small{color:var(--mut)}article a{color:var(--acc)}
+.note{color:var(--mut);font-size:.8rem;margin-top:24px}
+.idx svg{display:block;width:100%;height:26px;margin-top:4px}.idx polyline{fill:none;stroke:currentColor;stroke-width:2}
+.st{display:flex;gap:6px;overflow-x:auto;margin:-8px 0 18px;padding-bottom:4px}
+.st span{flex:0 0 auto;font-size:.8rem;font-weight:600;border:1px solid var(--line);background:var(--card);border-radius:6px;padding:3px 8px}
+.h{font-size:.8rem;color:var(--mut);margin:0 0 6px;font-weight:600}
+.tg{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+.tg button{font:inherit;font-size:.8rem;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:6px;padding:2px 8px;cursor:pointer}
+.tg button[aria-pressed=true]{background:var(--acc);color:var(--bg);border-color:var(--acc)}
+.tg2{margin-top:6px}.tg2 em{font-style:normal;font-size:.75rem;color:var(--mut);margin-right:8px}
+</style></head><body><main>
+<h1>Signal Daily</h1>
+<p class="meta" id="meta">Loading…</p>
+<div class="idx" id="idx" aria-label="Market snapshot"></div>
+<p class="h">AI and big-tech stocks, today</p><div class="st" id="st"></div>
+<div class="tabs" role="tablist">
+<button role="tab" aria-selected="true" data-t="ai">AI</button>
+<button role="tab" aria-selected="false" data-t="markets">Stock market</button></div>
+<div class="tg" id="tg"></div>
+<section id="list"></section>
+<p class="note">Automated summary of public news. Not financial advice.</p>
+</main>
+<script>
+var GC="";/* GoatCounter site code, e.g. "mysignal" (see setup notes) */
+if(GC){var g=document.createElement("script");g.async=true;g.src="https://gc.zgo.at/count.js";g.dataset.goatcounter="https://"+GC+".goatcounter.com/count";document.head.appendChild(g)}
+var ser=[100,102,101,104,103,106,105,108,107,110,109,112];
+var SAMPLE={updated:"Sample data (agent not run yet)",
+indices:[{name:"S&P 500",value:"sample",change:0.4,series:ser},{name:"Nasdaq",value:"sample",change:-0.3,series:ser.slice().reverse()}],
+stocks:[{symbol:"NVDA",price:0,change:1.2},{symbol:"MSFT",price:0,change:-0.5}],
+ai:[{title:"Sample AI story",summary:"The daily agent replaces this with real headlines.",source:"example.com",url:"#",tags:["OpenAI","Funding"]}],
+markets:[{title:"Sample market story",summary:"The daily agent replaces this with real headlines.",source:"example.com",url:"#",tags:["Earnings"]}]};
+var LIVE="";/* Cloudflare Worker URL, e.g. https://quotes.yourname.workers.dev */
+var LIVE_T="";
+function live(){if(!LIVE||document.hidden)return;
+var sy=(D.indices||[]).map(function(i){return i.symbol}).concat((D.stocks||[]).map(function(s){return s.symbol})).filter(Boolean);
+if(!sy.length)return;
+fetch(LIVE+"?symbols="+encodeURIComponent(sy.join(","))).then(function(r){return r.ok?r.json():Promise.reject()}).then(function(q){
+(D.indices||[]).forEach(function(i){var x=q[i.symbol];if(x){i.value=x.price.toLocaleString("en-US",{minimumFractionDigits:2,maximumFractionDigits:2});i.change=x.change}});
+(D.stocks||[]).forEach(function(s){var x=q[s.symbol];if(x){s.price=x.price;s.change=x.change}});
+D.stocks.sort(function(a,b){return b.change-a.change});
+LIVE_T=new Date().toLocaleTimeString([],{hour:"2-digit",minute:"2-digit",second:"2-digit"});render()}).catch(function(){})}
+var D=SAMPLE,tab="ai",tag=null;
+function esc(s){var d=document.createElement("div");d.textContent=s==null?"":s;return d.innerHTML}
+function safe(u){return /^https?:\/\//.test(u)?u:"#"}
+function pct(c){c=Number(c)||0;return '<span class="'+(c>=0?"up":"dn")+'">'+(c>=0?"+":"")+c.toFixed(2)+"%</span>"}
+function spark(a,c){if(!a||a.length<2)return"";var lo=Math.min.apply(0,a),hi=Math.max.apply(0,a),r=hi-lo||1;
+var p=a.map(function(v,i){return (i/(a.length-1)*100).toFixed(1)+","+(26-(v-lo)/r*24).toFixed(1)}).join(" ");
+return '<svg viewBox="0 0 100 28" preserveAspectRatio="none" class="'+(c>=0?"up":"dn")+'"><polyline points="'+p+'"/></svg>'}
+function meta(){var m=document.getElementById("meta"),t=D.updated_iso?Math.round((Date.now()-new Date(D.updated_iso))/60000):null;
+m.textContent="Last updated: "+D.updated+(t!==null&&t>=0?" ("+(t<1?"just now":t<60?t+" min ago":Math.round(t/60)+" h ago")+")":"")+(LIVE_T?". Live prices as of "+LIVE_T+".":". Prices may be delayed ~15 min.")}
+function render(){
+meta();
+document.getElementById("idx").innerHTML=(D.indices||[]).map(function(i){
+return '<div><b>'+esc(i.name)+'</b><span>'+esc(i.value)+"</span> "+pct(i.change)+spark(i.series,i.change)+"</div>"}).join("");
+document.getElementById("st").innerHTML=(D.stocks||[]).map(function(s){return "<span>"+esc(s.symbol)+" "+pct(s.change)+"</span>"}).join("");
+var L=D[tab]||[],cnt={};L.forEach(function(n){(n.tags||[]).forEach(function(t){cnt[t]=(cnt[t]||0)+1})});
+document.getElementById("tg").innerHTML=Object.keys(cnt).map(function(t){return '<button aria-pressed="'+(t===tag)+'" data-g="'+esc(t)+'">'+esc(t)+" "+cnt[t]+"</button>"}).join("");
+document.querySelectorAll("#tg button").forEach(function(b){b.onclick=function(){tag=tag===b.dataset.g?null:b.dataset.g;render()}});
+document.getElementById("list").innerHTML=L.filter(function(n){return !tag||(n.tags||[]).indexOf(tag)>-1}).map(function(n){
+return '<article><h2>'+esc(n.title)+"</h2>"+(n.summary?"<p>"+esc(n.summary)+"</p>":"")+'<small><a href="'+safe(n.url)+'" target="_blank" rel="noopener">'+esc(n.source)+" - read story</a></small></article>"}).join("")}
+document.querySelectorAll(".tabs button").forEach(function(b){b.onclick=function(){tab=b.dataset.t;tag=null;
+document.querySelectorAll(".tabs button").forEach(function(x){x.setAttribute("aria-selected",x===b)});render()}});
+render();
+function load(){fetch("data.json?"+Date.now()).then(function(r){return r.ok?r.json():Promise.reject()}).then(function(j){D=j;render();live()}).catch(function(){})}
+load();setInterval(function(){if(!document.hidden)load()},300000);setInterval(meta,30000);setInterval(live,30000);
+document.addEventListener("visibilitychange",function(){if(!document.hidden)load()});
+</script></body></html>
