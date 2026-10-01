@@ -555,15 +555,6 @@
   ],
   "markets": [
     {
-      "title": "U.S. manufacturers say inflation is bad and not getting any better",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-manufacturers-say-inflation-is-bad-and-not-getting-any-better-8281edef?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
       "title": "Tesla\u2019s delivery report is just around the corner. Expect a sales drop.",
       "summary": "",
       "source": "MarketWatch",
@@ -627,6 +618,13 @@
       "tags": []
     },
     {
+      "title": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves premarket: MGM, Darden Restaurants, Meta, BlackBerry & more",
       "summary": "",
       "source": "CNBC",
@@ -645,6 +643,6 @@
       ]
     }
   ],
-  "updated": "01 Oct 2026, 20:26 UTC",
-  "updated_iso": "2026-10-01T20:26:54.542374+00:00"
+  "updated": "01 Oct 2026, 20:41 UTC",
+  "updated_iso": "2026-10-01T20:41:47.472107+00:00"
 }
