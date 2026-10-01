@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,663.95",
-      "change": 0.16,
+      "value": "7,667.30",
+      "change": 0.21,
       "series": [
         7631.47,
         7666.6,
@@ -27,14 +27,14 @@
         7683.69,
         7670.84,
         7651.54,
-        7663.95
+        7667.3
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,967.81",
-      "change": 0.4,
+      "value": "26,959.54",
+      "change": 0.37,
       "series": [
         26099.77,
         26217.83,
@@ -57,7 +57,7 @@
         26820.38,
         26797.54,
         26861.06,
-        26967.81
+        26959.54
       ]
     },
     {
@@ -91,8 +91,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,504.75",
-      "change": -0.95,
+      "value": "10,472.08",
+      "change": -1.26,
       "series": [
         10756.5,
         10831.5,
@@ -115,218 +115,15 @@
         10684.9,
         10636.7,
         10606.0,
-        10504.75
+        10472.08
       ]
     }
   ],
   "stocks": [
     {
-      "symbol": "MSFT",
-      "price": 521.86,
-      "change": 1.75,
-      "series": [
-        501.02,
-        496.82,
-        510.12,
-        499.7,
-        493.95,
-        491.65,
-        492.44,
-        495.63,
-        505.41,
-        497.12,
-        490.3,
-        497.75,
-        493.78,
-        501.61,
-        498.0,
-        500.59,
-        497.93,
-        516.17,
-        509.22,
-        508.96,
-        512.9,
-        521.86
-      ]
-    },
-    {
-      "symbol": "GOOGL",
-      "price": 349.42,
-      "change": 1.55,
-      "series": [
-        335.02,
-        337.12,
-        342.48,
-        338.46,
-        338.36,
-        330.65,
-        332.6,
-        338.5,
-        349.39,
-        344.98,
-        342.87,
-        347.33,
-        349.54,
-        354.97,
-        351.16,
-        337.83,
-        342.36,
-        343.92,
-        342.75,
-        340.92,
-        344.08,
-        349.42
-      ]
-    },
-    {
-      "symbol": "ORCL",
-      "price": 138.79,
-      "change": 1.09,
-      "series": [
-        141.32,
-        145.75,
-        154.04,
-        158.78,
-        162.52,
-        161.63,
-        152.94,
-        150.28,
-        144.79,
-        140.35,
-        143.16,
-        150.59,
-        147.61,
-        148.56,
-        149.2,
-        144.56,
-        139.54,
-        137.1,
-        132.6,
-        137.79,
-        137.3,
-        138.79
-      ]
-    },
-    {
-      "symbol": "META",
-      "price": 730.63,
-      "change": 0.75,
-      "series": [
-        578.54,
-        592.85,
-        610.68,
-        616.77,
-        613.48,
-        653.69,
-        644.38,
-        648.03,
-        665.6,
-        670.24,
-        673.31,
-        682.31,
-        665.75,
-        741.25,
-        736.6,
-        744.1,
-        777.59,
-        751.66,
-        715.62,
-        738.79,
-        725.18,
-        730.63
-      ]
-    },
-    {
-      "symbol": "TSLA",
-      "price": 357.16,
-      "change": 0.66,
-      "series": [
-        356.09,
-        357.01,
-        376.37,
-        354.08,
-        368.16,
-        367.81,
-        363.56,
-        365.44,
-        358.97,
-        356.58,
-        358.08,
-        366.2,
-        364.27,
-        375.3,
-        378.9,
-        380.12,
-        377.94,
-        372.11,
-        357.45,
-        352.84,
-        354.81,
-        357.16
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "price": 353.51,
-      "change": 0.66,
-      "series": [
-        369.68,
-        367.24,
-        357.16,
-        357.9,
-        368.56,
-        364.38,
-        360.83,
-        361.99,
-        344.72,
-        339.27,
-        339.51,
-        347.3,
-        357.61,
-        362.66,
-        364.54,
-        354.99,
-        350.36,
-        352.81,
-        349.57,
-        355.1,
-        351.19,
-        353.51
-      ]
-    },
-    {
-      "symbol": "AMZN",
-      "price": 250.78,
-      "change": 0.65,
-      "series": [
-        254.92,
-        254.98,
-        258.9,
-        258.51,
-        256.97,
-        252.4,
-        251.89,
-        256.78,
-        253.54,
-        248.42,
-        245.96,
-        251.19,
-        253.71,
-        258.45,
-        254.98,
-        249.27,
-        249.38,
-        249.67,
-        246.15,
-        246.67,
-        249.15,
-        250.77
-      ]
-    },
-    {
       "symbol": "PLTR",
-      "price": 187.97,
-      "change": 0.49,
+      "price": 190.12,
+      "change": 1.64,
       "series": [
         179.92,
         169.46,
@@ -349,13 +146,13 @@
         187.48,
         186.97,
         187.05,
-        187.98
+        190.12
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 228.74,
-      "change": 0.16,
+      "price": 231.57,
+      "change": 1.4,
       "series": [
         217.44,
         224.41,
@@ -378,42 +175,187 @@
         228.86,
         227.21,
         228.38,
-        228.74
+        231.57
       ]
     },
     {
-      "symbol": "AMD",
-      "price": 612.21,
-      "change": 0.07,
+      "symbol": "MSFT",
+      "price": 519.14,
+      "change": 1.22,
       "series": [
-        459.61,
-        457.06,
-        456.16,
-        477.57,
-        505.74,
-        521.1,
-        503.6,
-        516.13,
-        493.41,
-        504.2,
-        512.5,
-        545.09,
-        559.82,
-        615.52,
-        623.77,
-        614.61,
-        629.26,
-        630.63,
-        607.87,
-        607.57,
-        611.76,
-        612.21
+        501.02,
+        496.82,
+        510.12,
+        499.7,
+        493.95,
+        491.65,
+        492.44,
+        495.63,
+        505.41,
+        497.12,
+        490.3,
+        497.75,
+        493.78,
+        501.61,
+        498.0,
+        500.59,
+        497.93,
+        516.17,
+        509.22,
+        508.96,
+        512.9,
+        519.14
+      ]
+    },
+    {
+      "symbol": "META",
+      "price": 729.81,
+      "change": 0.64,
+      "series": [
+        578.54,
+        592.85,
+        610.68,
+        616.77,
+        613.48,
+        653.69,
+        644.38,
+        648.03,
+        665.6,
+        670.24,
+        673.31,
+        682.31,
+        665.75,
+        741.25,
+        736.6,
+        744.1,
+        777.59,
+        751.66,
+        715.62,
+        738.79,
+        725.18,
+        729.81
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "price": 356.29,
+      "change": 0.42,
+      "series": [
+        356.09,
+        357.01,
+        376.37,
+        354.08,
+        368.16,
+        367.81,
+        363.56,
+        365.44,
+        358.97,
+        356.58,
+        358.08,
+        366.2,
+        364.27,
+        375.3,
+        378.9,
+        380.12,
+        377.94,
+        372.11,
+        357.45,
+        352.84,
+        354.81,
+        356.29
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "price": 351.94,
+      "change": 0.21,
+      "series": [
+        369.68,
+        367.24,
+        357.16,
+        357.9,
+        368.56,
+        364.38,
+        360.83,
+        361.99,
+        344.72,
+        339.27,
+        339.51,
+        347.3,
+        357.61,
+        362.66,
+        364.54,
+        354.99,
+        350.36,
+        352.81,
+        349.57,
+        355.1,
+        351.19,
+        351.95
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 344.5,
+      "change": 0.12,
+      "series": [
+        335.02,
+        337.12,
+        342.48,
+        338.46,
+        338.36,
+        330.65,
+        332.6,
+        338.5,
+        349.39,
+        344.98,
+        342.87,
+        347.33,
+        349.54,
+        354.97,
+        351.16,
+        337.83,
+        342.36,
+        343.92,
+        342.75,
+        340.92,
+        344.08,
+        344.5
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "price": 249.16,
+      "change": 0.0,
+      "series": [
+        254.92,
+        254.98,
+        258.9,
+        258.51,
+        256.97,
+        252.4,
+        251.89,
+        256.78,
+        253.54,
+        248.42,
+        245.96,
+        251.19,
+        253.71,
+        258.45,
+        254.98,
+        249.27,
+        249.38,
+        249.67,
+        246.15,
+        246.67,
+        249.15,
+        249.16
       ]
     },
     {
       "symbol": "TSM",
-      "price": 456.43,
-      "change": 0.05,
+      "price": 456.2,
+      "change": 0.0,
       "series": [
         414.0,
         415.5,
@@ -436,13 +378,71 @@
         452.88,
         456.94,
         456.19,
-        456.42
+        456.2
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "price": 137.03,
+      "change": -0.2,
+      "series": [
+        141.32,
+        145.75,
+        154.04,
+        158.78,
+        162.52,
+        161.63,
+        152.94,
+        150.28,
+        144.79,
+        140.35,
+        143.16,
+        150.59,
+        147.61,
+        148.56,
+        149.2,
+        144.56,
+        139.54,
+        137.1,
+        132.6,
+        137.79,
+        137.3,
+        137.02
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "price": 608.86,
+      "change": -0.47,
+      "series": [
+        459.61,
+        457.06,
+        456.16,
+        477.57,
+        505.74,
+        521.1,
+        503.6,
+        516.13,
+        493.41,
+        504.2,
+        512.5,
+        545.09,
+        559.82,
+        615.52,
+        623.77,
+        614.61,
+        629.26,
+        630.63,
+        607.87,
+        607.57,
+        611.76,
+        608.86
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 328.7,
-      "change": -1.3,
+      "price": 330.81,
+      "change": -0.67,
       "series": [
         325.13,
         324.96,
@@ -465,7 +465,7 @@
         338.4,
         329.4,
         333.02,
-        328.7
+        330.8
       ]
     }
   ],
@@ -563,43 +563,6 @@
   ],
   "markets": [
     {
-      "title": "After I sold TOMS Shoes for $400 million I was misdiagnosed with bipolar disorder \u2014 and it almost cost me everything",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/after-i-sold-toms-shoes-for-400-million-i-was-misdiagnosed-with-bipolar-disorder-and-it-almost-cost-me-everything-4409da4c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Meta, ServiceNow and these 7 other tech stocks could lead the next leg of the AI trade",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/meta-servicenow-and-these-7-other-tech-stocks-could-lead-the-next-leg-of-the-ai-trade-b8b68c93?mod=mw_rss_topstories",
-      "tags": [
-        "Meta"
-      ]
-    },
-    {
-      "title": "How European supplies could impact a U.S. diesel ban as White House reportedly asks Germany, France to release stockpiles",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-european-supplies-could-impact-a-u-s-diesel-ban-as-white-house-reportedly-asks-germany-france-to-release-stockpiles-5edd8284?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Why Amazon got a call-up to the Goldman Sachs conviction list of top stocks",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-amazon-got-a-call-up-to-the-goldman-sachs-conviction-list-of-top-stocks-9c937472?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Google is sending its first AI data center to space",
       "summary": "",
       "source": "MarketWatch",
@@ -609,13 +572,20 @@
       ]
     },
     {
-      "title": "The latest oil-price shock rippling through the economy is a refining crisis \u2014\u00a0 not a crude crisis",
+      "title": "The latest oil-price shock rippling through the economy is a refining crisis \u2014\u00a0not a crude crisis",
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-latest-oil-price-shock-rippling-through-the-economy-is-a-refining-crisis-not-a-crude-crisis-e304a589?mod=mw_rss_topstories",
       "tags": [
         "Oil & energy"
       ]
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "tags": []
     },
     {
       "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
@@ -625,10 +595,31 @@
       "tags": []
     },
     {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "title": "U.S. reportedly asks Germany and France to release diesel stockpiles: What that means for a U.S. ban on exports of the fuel",
       "summary": "",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/how-european-supplies-could-impact-a-u-s-diesel-ban-as-white-house-reportedly-asks-germany-france-to-release-stockpiles-5edd8284?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Cars have become unaffordable for many Americans. Here\u2019s what the numbers show.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Why American investors should care as France\u2019s bond market stumbles",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/frances-bond-market-is-stumbling-should-americans-care-202ea2af?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -639,6 +630,13 @@
       "tags": [
         "Earnings"
       ]
+    },
+    {
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "tags": []
     },
     {
       "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
@@ -657,6 +655,6 @@
       ]
     }
   ],
-  "updated": "01 Oct 2026, 13:32 UTC",
-  "updated_iso": "2026-10-01T13:32:30.100863+00:00"
+  "updated": "01 Oct 2026, 13:54 UTC",
+  "updated_iso": "2026-10-01T13:54:41.489061+00:00"
 }
