@@ -1,0 +1,370 @@
+{
+  "indices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "value": "7,651.54",
+      "change": -0.25,
+      "series": [
+        7631.47,
+        7666.6,
+        7747.71,
+        7718.6,
+        7673.52,
+        7636.36,
+        7591.7,
+        7656.98,
+        7619.98,
+        7585.73,
+        7551.81,
+        7637.76,
+        7650.5,
+        7764.7,
+        7764.64,
+        7706.03,
+        7704.13,
+        7743.41,
+        7683.69,
+        7670.84,
+        7651.54
+      ]
+    },
+    {
+      "name": "Nasdaq",
+      "symbol": "^IXIC",
+      "value": "26,861.06",
+      "change": 0.24,
+      "series": [
+        26099.77,
+        26217.83,
+        26584.06,
+        26506.99,
+        26421.41,
+        26253.34,
+        26081.72,
+        26333.04,
+        26186.41,
+        25981.57,
+        25978.43,
+        26418.3,
+        26522.54,
+        27122.09,
+        27244.28,
+        26936.04,
+        26939.37,
+        27068.72,
+        26820.38,
+        26797.54,
+        26861.06
+      ]
+    },
+    {
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "value": "68,355.81",
+      "change": 2.4,
+      "series": [
+        66215.34,
+        64325.64,
+        64214.48,
+        65020.94,
+        66399.84,
+        65269.33,
+        65142.78,
+        65270.95,
+        64011.34,
+        63492.99,
+        63484.1,
+        63923.0,
+        64136.25,
+        65018.95,
+        65513.99,
+        66364.2,
+        65877.62,
+        65481.27,
+        66753.72,
+        68355.81
+      ]
+    },
+    {
+      "name": "FTSE 100",
+      "symbol": "^FTSE",
+      "value": "10,606.00",
+      "change": -0.29,
+      "series": [
+        10789.3,
+        10756.5,
+        10831.5,
+        10831.1,
+        10822.1,
+        10811.7,
+        10670.1,
+        10608.9,
+        10650.4,
+        10697.6,
+        10658.1,
+        10688.5,
+        10816.1,
+        10659.1,
+        10739.0,
+        10708.3,
+        10705.3,
+        10680.0,
+        10695.3,
+        10684.9,
+        10636.7,
+        10606.0
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "AAPL",
+      "price": 333.02,
+      "change": 1.1
+    },
+    {
+      "symbol": "AMZN",
+      "price": 249.15,
+      "change": 1.01
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 344.08,
+      "change": 0.93
+    },
+    {
+      "symbol": "MSFT",
+      "price": 512.9,
+      "change": 0.77
+    },
+    {
+      "symbol": "AMD",
+      "price": 611.76,
+      "change": 0.69
+    },
+    {
+      "symbol": "TSLA",
+      "price": 354.81,
+      "change": 0.56
+    },
+    {
+      "symbol": "NVDA",
+      "price": 228.38,
+      "change": 0.51
+    },
+    {
+      "symbol": "PLTR",
+      "price": 187.05,
+      "change": 0.04
+    },
+    {
+      "symbol": "TSM",
+      "price": 456.19,
+      "change": -0.16
+    },
+    {
+      "symbol": "ORCL",
+      "price": 137.3,
+      "change": -0.36
+    },
+    {
+      "symbol": "AVGO",
+      "price": 351.19,
+      "change": -1.1
+    },
+    {
+      "symbol": "META",
+      "price": 725.18,
+      "change": -1.84
+    }
+  ],
+  "ai": [
+    {
+      "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "tags": [
+        "OpenAI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "tags": [
+        "OpenAI",
+        "Funding"
+      ]
+    },
+    {
+      "title": "OpenAI\u2019s latest features take direct aim at the app store model",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "tags": []
+    },
+    {
+      "title": "Airbnb adds AI search, more social features",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "tags": []
+    },
+    {
+      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+      "tags": []
+    },
+    {
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "tags": []
+    },
+    {
+      "title": "Cerebras Systems\u2019 Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "tags": []
+    },
+    {
+      "title": "Instinct\u2019s new product recommendations are giving some users the ick",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "tags": []
+    },
+    {
+      "title": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "tags": []
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "tags": []
+    }
+  ],
+  "markets": [
+    {
+      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "A brutal September for bonds points to an even darker October",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "How the \u2018AI put\u2019 has become the only thing that matters for stocks",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Trump touts economic wins in battleground states \u2014 like a $54 billion Alaskan pipeline \u2014 as the midterms draw closer",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Google shows it\u2019s not out of the AI race just yet",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
+      "tags": [
+        "Google"
+      ]
+    },
+    {
+      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "tags": [
+        "Crypto"
+      ]
+    },
+    {
+      "title": "Cars have become unaffordable for many Americans. Here\u2019s what the numbers show.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "tags": []
+    },
+    {
+      "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
+      "tags": []
+    }
+  ],
+  "updated": "01 Oct 2026, 02:58 UTC",
+  "updated_iso": "2026-10-01T02:58:38.200651+00:00"
+}
