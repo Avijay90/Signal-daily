@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,672.08",
-      "change": 0.27,
+      "value": "7,672.65",
+      "change": 0.28,
       "series": [
         7631.47,
         7666.6,
@@ -27,14 +27,14 @@
         7683.69,
         7670.84,
         7651.54,
-        7672.08
+        7672.65
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,926.79",
-      "change": 0.24,
+      "value": "26,922.96",
+      "change": 0.23,
       "series": [
         26099.77,
         26217.83,
@@ -57,7 +57,7 @@
         26820.38,
         26797.54,
         26861.06,
-        26926.79
+        26922.96
       ]
     },
     {
@@ -121,8 +121,8 @@
   "stocks": [
     {
       "symbol": "PLTR",
-      "price": 190.23,
-      "change": 1.7,
+      "price": 190.55,
+      "change": 1.87,
       "series": [
         179.92,
         169.46,
@@ -145,13 +145,13 @@
         187.48,
         186.97,
         187.05,
-        190.23
+        190.55
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 231.85,
-      "change": 1.52,
+      "price": 231.47,
+      "change": 1.35,
       "series": [
         217.44,
         224.41,
@@ -174,42 +174,13 @@
         228.86,
         227.21,
         228.38,
-        231.85
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "price": 616.74,
-      "change": 0.81,
-      "series": [
-        459.61,
-        457.06,
-        456.16,
-        477.57,
-        505.74,
-        521.1,
-        503.6,
-        516.13,
-        493.41,
-        504.2,
-        512.5,
-        545.09,
-        559.82,
-        615.52,
-        623.77,
-        614.61,
-        629.26,
-        630.63,
-        607.87,
-        607.57,
-        611.76,
-        616.74
+        231.47
       ]
     },
     {
       "symbol": "TSLA",
-      "price": 357.18,
-      "change": 0.67,
+      "price": 356.94,
+      "change": 0.6,
       "series": [
         356.09,
         357.01,
@@ -232,13 +203,13 @@
         357.45,
         352.84,
         354.81,
-        357.18
+        356.94
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 515.73,
-      "change": 0.55,
+      "price": 515.79,
+      "change": 0.56,
       "series": [
         501.02,
         496.82,
@@ -261,42 +232,42 @@
         509.22,
         508.96,
         512.9,
-        515.72
+        515.79
       ]
     },
     {
-      "symbol": "TSM",
-      "price": 458.26,
-      "change": 0.45,
+      "symbol": "AMD",
+      "price": 615.06,
+      "change": 0.54,
       "series": [
-        414.0,
-        415.5,
-        417.01,
-        428.91,
-        439.0,
-        435.36,
-        428.03,
-        433.24,
-        418.01,
-        413.75,
-        417.72,
-        430.26,
-        434.67,
-        445.14,
-        452.0,
-        446.57,
-        451.15,
-        450.61,
-        452.88,
-        456.94,
-        456.19,
-        458.26
+        459.61,
+        457.06,
+        456.16,
+        477.57,
+        505.74,
+        521.1,
+        503.6,
+        516.13,
+        493.41,
+        504.2,
+        512.5,
+        545.09,
+        559.82,
+        615.52,
+        623.77,
+        614.61,
+        629.26,
+        630.63,
+        607.87,
+        607.57,
+        611.76,
+        615.06
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 137.71,
-      "change": 0.3,
+      "price": 138.04,
+      "change": 0.54,
       "series": [
         141.32,
         145.75,
@@ -319,13 +290,13 @@
         132.6,
         137.79,
         137.3,
-        137.71
+        138.04
       ]
     },
     {
       "symbol": "META",
-      "price": 726.51,
-      "change": 0.18,
+      "price": 728.38,
+      "change": 0.44,
       "series": [
         578.54,
         592.85,
@@ -348,13 +319,42 @@
         715.62,
         738.79,
         725.18,
-        726.51
+        728.38
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "price": 457.87,
+      "change": 0.37,
+      "series": [
+        414.0,
+        415.5,
+        417.01,
+        428.91,
+        439.0,
+        435.36,
+        428.03,
+        433.24,
+        418.01,
+        413.75,
+        417.72,
+        430.26,
+        434.67,
+        445.14,
+        452.0,
+        446.57,
+        451.15,
+        450.61,
+        452.88,
+        456.94,
+        456.19,
+        457.87
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 249.25,
-      "change": 0.04,
+      "price": 248.69,
+      "change": -0.18,
       "series": [
         254.92,
         254.98,
@@ -377,13 +377,13 @@
         246.15,
         246.67,
         249.15,
-        249.25
+        248.69
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 329.75,
-      "change": -0.98,
+      "price": 329.57,
+      "change": -1.04,
       "series": [
         325.13,
         324.96,
@@ -406,13 +406,13 @@
         338.4,
         329.4,
         333.02,
-        329.75
+        329.57
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 347.17,
-      "change": -1.15,
+      "price": 346.96,
+      "change": -1.2,
       "series": [
         369.68,
         367.24,
@@ -435,13 +435,13 @@
         349.57,
         355.1,
         351.19,
-        347.17
+        346.96
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 338.35,
-      "change": -1.67,
+      "price": 338.96,
+      "change": -1.49,
       "series": [
         335.02,
         337.12,
@@ -464,25 +464,11 @@
         342.75,
         340.92,
         344.08,
-        338.35
+        338.96
       ]
     }
   ],
   "ai": [
-    {
-      "title": "Cerebras Systems\u2019 Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-      "tags": []
-    },
-    {
-      "title": "Instinct\u2019s new product recommendations are giving some users the ick",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-      "tags": []
-    },
     {
       "title": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
       "summary": "",
@@ -565,6 +551,20 @@
         "Google",
         "Funding"
       ]
+    },
+    {
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "tags": []
+    },
+    {
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "tags": []
     }
   ],
   "markets": [
@@ -659,6 +659,6 @@
       ]
     }
   ],
-  "updated": "01 Oct 2026, 19:04 UTC",
-  "updated_iso": "2026-10-01T19:04:31.710821+00:00"
+  "updated": "01 Oct 2026, 19:25 UTC",
+  "updated_iso": "2026-10-01T19:25:39.282694+00:00"
 }
