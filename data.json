@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,531.85",
-      "change": -0.7,
+      "value": "10,519.61",
+      "change": -0.81,
       "series": [
         10756.5,
         10831.5,
@@ -113,7 +113,7 @@
         10684.9,
         10636.7,
         10606.0,
-        10531.85
+        10519.61
       ]
     }
   ],
@@ -457,16 +457,6 @@
   ],
   "ai": [
     {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "tags": [
-        "OpenAI",
-        "Funding"
-      ]
-    },
-    {
       "title": "OpenAI\u2019s latest features take direct aim at the app store model",
       "summary": "",
       "source": "TechCrunch",
@@ -548,6 +538,13 @@
       "tags": [
         "Meta"
       ]
+    },
+    {
+      "title": "The ugly economics of consumer AI",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "tags": []
     }
   ],
   "markets": [
@@ -570,13 +567,6 @@
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/after-i-sold-toms-shoes-for-400-million-i-was-misdiagnosed-with-bipolar-disorder-and-it-almost-cost-me-everything-4409da4c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -628,6 +618,13 @@
       ]
     },
     {
+      "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
       "summary": "",
       "source": "CNBC",
@@ -644,6 +641,6 @@
       ]
     }
   ],
-  "updated": "01 Oct 2026, 12:57 UTC",
-  "updated_iso": "2026-10-01T12:57:50.502012+00:00"
+  "updated": "01 Oct 2026, 13:13 UTC",
+  "updated_iso": "2026-10-01T13:13:03.359501+00:00"
 }
