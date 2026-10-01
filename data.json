@@ -555,13 +555,6 @@
   ],
   "markets": [
     {
-      "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here\u2019s how it worked out.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Trump\u2019s SEC wants to allow fund managers to charge extra fees for better performance. Here\u2019s why it\u2019s a terrible idea.",
       "summary": "",
       "source": "MarketWatch",
@@ -627,6 +620,15 @@
       "tags": []
     },
     {
+      "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
       "title": "Stocks making the biggest moves premarket: MGM, Darden Restaurants, Meta, BlackBerry & more",
       "summary": "",
       "source": "CNBC",
@@ -645,6 +647,6 @@
       ]
     }
   ],
-  "updated": "01 Oct 2026, 21:24 UTC",
-  "updated_iso": "2026-10-01T21:24:52.170185+00:00"
+  "updated": "01 Oct 2026, 21:39 UTC",
+  "updated_iso": "2026-10-01T21:39:17.187254+00:00"
 }
