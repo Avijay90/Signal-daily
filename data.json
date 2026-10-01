@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,476.47",
-      "change": -1.22,
+      "value": "10,472.30",
+      "change": -1.26,
       "series": [
         10756.5,
         10831.5,
@@ -113,7 +113,7 @@
         10684.9,
         10636.7,
         10606.0,
-        10476.47
+        10472.3
       ]
     }
   ],
@@ -553,15 +553,6 @@
   ],
   "markets": [
     {
-      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "tags": [
-        "Crypto"
-      ]
-    },
-    {
       "title": "Cars have become unaffordable for many Americans. Here\u2019s what the numbers show.",
       "summary": "",
       "source": "MarketWatch",
@@ -625,6 +616,13 @@
       "tags": []
     },
     {
+      "title": "After I sold TOMS Shoes for $400 million I was misdiagnosed with bipolar disorder \u2014 and it almost cost me everything",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/after-i-sold-toms-shoes-for-400-million-i-was-misdiagnosed-with-bipolar-disorder-and-it-almost-cost-me-everything-4409da4c?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
       "summary": "",
       "source": "CNBC",
@@ -639,6 +637,6 @@
       "tags": []
     }
   ],
-  "updated": "01 Oct 2026, 11:25 UTC",
-  "updated_iso": "2026-10-01T11:25:57.826482+00:00"
+  "updated": "01 Oct 2026, 11:39 UTC",
+  "updated_iso": "2026-10-01T11:39:23.181765+00:00"
 }
