@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,447.09",
-      "change": -1.5,
+      "value": "10,434.39",
+      "change": -1.62,
       "series": [
         10756.5,
         10831.5,
@@ -113,7 +113,7 @@
         10684.9,
         10636.7,
         10606.0,
-        10447.09
+        10434.39
       ]
     }
   ],
@@ -553,22 +553,6 @@
   ],
   "markets": [
     {
-      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Google shows it\u2019s not out of the AI race just yet",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
-      "tags": [
-        "Google"
-      ]
-    },
-    {
       "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
       "summary": "",
       "source": "MarketWatch",
@@ -627,6 +611,20 @@
       "tags": []
     },
     {
+      "title": "Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
       "summary": "",
       "source": "CNBC",
@@ -641,6 +639,6 @@
       "tags": []
     }
   ],
-  "updated": "01 Oct 2026, 10:06 UTC",
-  "updated_iso": "2026-10-01T10:06:21.239265+00:00"
+  "updated": "01 Oct 2026, 10:27 UTC",
+  "updated_iso": "2026-10-01T10:27:22.867545+00:00"
 }
