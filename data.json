@@ -555,20 +555,6 @@
   ],
   "markets": [
     {
-      "title": "Tesla\u2019s delivery report is just around the corner. Expect a sales drop.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "30-year mortgage rate posts biggest jump in four years \u2014 to nearly 7.3%",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/30-year-mortgage-rate-posts-biggest-jump-in-four-years-e288f596?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "summary": "",
       "source": "MarketWatch",
@@ -625,6 +611,22 @@
       "tags": []
     },
     {
+      "title": "Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/republicans-sabotaged-their-own-bill-to-prevent-people-in-congress-from-trading-stocks-why-828ef40d?mod=mw_rss_topstories",
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "title": "Here\u2019s how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves premarket: MGM, Darden Restaurants, Meta, BlackBerry & more",
       "summary": "",
       "source": "CNBC",
@@ -643,6 +645,6 @@
       ]
     }
   ],
-  "updated": "01 Oct 2026, 20:53 UTC",
-  "updated_iso": "2026-10-01T20:53:30.396572+00:00"
+  "updated": "01 Oct 2026, 21:03 UTC",
+  "updated_iso": "2026-10-01T21:03:29.977073+00:00"
 }
