@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,716.90",
-      "change": 0.66,
+      "value": "7,722.12",
+      "change": 0.73,
       "series": [
         7666.6,
         7747.71,
@@ -27,14 +27,14 @@
         7670.84,
         7651.54,
         7666.45,
-        7716.9
+        7722.12
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,163.47",
-      "change": 1.09,
+      "value": "27,184.81",
+      "change": 1.17,
       "series": [
         26217.83,
         26584.06,
@@ -57,7 +57,7 @@
         26797.54,
         26861.06,
         26871.6,
-        27163.47
+        27184.81
       ]
     },
     {
@@ -121,8 +121,8 @@
   "stocks": [
     {
       "symbol": "TSLA",
-      "price": 372.26,
-      "change": 5.13,
+      "price": 373.08,
+      "change": 5.36,
       "series": [
         357.01,
         376.37,
@@ -145,13 +145,13 @@
         352.84,
         354.81,
         354.11,
-        372.26
+        373.08
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 352.17,
-      "change": 2.48,
+      "price": 353.04,
+      "change": 2.74,
       "series": [
         367.24,
         357.16,
@@ -174,13 +174,13 @@
         355.1,
         351.19,
         343.64,
-        352.17
+        353.04
       ]
     },
     {
       "symbol": "AMD",
-      "price": 630.67,
-      "change": 2.43,
+      "price": 632.22,
+      "change": 2.68,
       "series": [
         457.06,
         456.16,
@@ -203,13 +203,13 @@
         607.57,
         611.76,
         615.73,
-        630.67
+        632.22
       ]
     },
     {
       "symbol": "TSM",
-      "price": 469.56,
-      "change": 2.26,
+      "price": 471.27,
+      "change": 2.63,
       "series": [
         415.5,
         417.01,
@@ -232,13 +232,13 @@
         456.94,
         456.19,
         459.2,
-        469.56
+        471.27
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 140.6,
-      "change": 1.84,
+      "price": 141.17,
+      "change": 2.24,
       "series": [
         145.75,
         154.04,
@@ -261,42 +261,13 @@
         137.79,
         137.3,
         138.07,
-        140.6
-      ]
-    },
-    {
-      "symbol": "GOOGL",
-      "price": 343.62,
-      "change": 1.59,
-      "series": [
-        337.12,
-        342.48,
-        338.46,
-        338.36,
-        330.65,
-        332.6,
-        338.5,
-        349.39,
-        344.98,
-        342.87,
-        347.33,
-        349.54,
-        354.97,
-        351.16,
-        337.83,
-        342.36,
-        343.92,
-        342.75,
-        340.92,
-        344.08,
-        338.24,
-        343.62
+        141.17
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 234.41,
-      "change": 1.54,
+      "price": 234.72,
+      "change": 1.67,
       "series": [
         224.41,
         228.45,
@@ -319,13 +290,42 @@
         227.21,
         228.38,
         230.86,
-        234.41
+        234.73
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 343.83,
+      "change": 1.65,
+      "series": [
+        337.12,
+        342.48,
+        338.46,
+        338.36,
+        330.65,
+        332.6,
+        338.5,
+        349.39,
+        344.98,
+        342.87,
+        347.33,
+        349.54,
+        354.97,
+        351.16,
+        337.83,
+        342.36,
+        343.92,
+        342.75,
+        340.92,
+        344.08,
+        338.24,
+        343.83
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 251.11,
-      "change": 1.16,
+      "price": 251.2,
+      "change": 1.2,
       "series": [
         254.98,
         258.9,
@@ -348,13 +348,13 @@
         246.67,
         249.15,
         248.23,
-        251.11
+        251.2
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 333.44,
-      "change": 0.94,
+      "price": 333.52,
+      "change": 0.97,
       "series": [
         324.96,
         328.21,
@@ -377,13 +377,13 @@
         329.4,
         333.02,
         330.32,
-        333.43
+        333.52
       ]
     },
     {
       "symbol": "META",
-      "price": 728.79,
-      "change": 0.39,
+      "price": 729.22,
+      "change": 0.45,
       "series": [
         592.85,
         610.68,
@@ -406,13 +406,13 @@
         738.79,
         725.18,
         725.93,
-        728.79
+        729.22
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 514.37,
-      "change": 0.31,
+      "price": 514.77,
+      "change": 0.39,
       "series": [
         496.82,
         510.12,
@@ -435,13 +435,13 @@
         508.96,
         512.9,
         512.8,
-        514.36
+        514.78
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 189.12,
-      "change": -0.48,
+      "price": 189.06,
+      "change": -0.52,
       "series": [
         169.46,
         182.53,
@@ -464,20 +464,11 @@
         186.97,
         187.05,
         190.04,
-        189.12
+        189.05
       ]
     }
   ],
   "ai": [
-    {
-      "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "tags": [
-        "OpenAI"
-      ]
-    },
     {
       "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
       "summary": "",
@@ -565,23 +556,18 @@
       "tags": [
         "Google"
       ]
+    },
+    {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "tags": [
+        "OpenAI"
+      ]
     }
   ],
   "markets": [
-    {
-      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
       "summary": "",
@@ -594,13 +580,6 @@
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Europe\u2019s leaders rush to release diesel from stockpiles as fuel-shock hangs over U.S. midterms",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -639,6 +618,27 @@
       "tags": []
     },
     {
+      "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Europe\u2019s leaders rush to release diesel from stockpiles as fuel-shock hangs over U.S. midterms",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "How much higher can bond yields rise \u2014 and what does it mean for stocks?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
       "summary": "",
       "source": "CNBC",
@@ -655,6 +655,6 @@
       ]
     }
   ],
-  "updated": "02 Oct 2026, 17:38 UTC",
-  "updated_iso": "2026-10-02T17:38:44.704567+00:00"
+  "updated": "02 Oct 2026, 17:51 UTC",
+  "updated_iso": "2026-10-02T17:51:47.770964+00:00"
 }
