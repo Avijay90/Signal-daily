@@ -54,9 +54,14 @@ article small{color:var(--mut)}article a{color:var(--acc)}
 .ni a{margin:0;font-size:1rem;font-weight:600;color:var(--ink);text-decoration:none}.ni a:hover{color:var(--acc)}.ni small{display:block;color:var(--mut)}.msg a{margin-left:0}
 .st span span{border:0;padding:0;background:none;font-size:inherit}.ba{display:flex;gap:6px}#wb{font:inherit;font-size:.8rem;border:1px solid var(--acc);background:transparent;color:var(--acc);border-radius:6px;padding:2px 10px;cursor:pointer}
 #wb[aria-pressed=true]{background:var(--acc);color:var(--bg)}#wb:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:8px 12px;flex-wrap:wrap}
+.ab{font:inherit;font-size:.8rem;font-weight:600;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:6px;padding:4px 12px;cursor:pointer}
+.ab:focus-visible{outline:2px solid var(--acc);outline-offset:2px}#au .msg{display:inline-block;max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;vertical-align:middle;margin:0 6px 0 0}
+#ap{margin-bottom:12px}
 </style></head><body><main>
-<h1>Signal Daily</h1>
+<div class="top"><h1>Signal Daily</h1><div id="au"></div></div>
 <p class="meta" id="meta">Loading…</p>
+<div id="ap"></div>
 <div class="idx" id="idx" aria-label="Market snapshot"></div>
 <form class="sf" id="sf"><input id="q" type="search" placeholder="Search any stock worldwide, e.g. Tesla or RELIANCE.NS" aria-label="Search stocks" autocomplete="off"><button type="submit">Search</button></form>
 <div id="sr" aria-live="polite"></div>
@@ -70,6 +75,7 @@ article small{color:var(--mut)}article a{color:var(--acc)}
 <section id="list"></section>
 <p class="note">Automated summary of public news. Not financial advice.</p>
 </main>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.117.2/dist/umd/supabase.js"></script>
 <script>
 var GC="";/* GoatCounter site code, e.g. "mysignal" (see setup notes) */
 if(GC){var g=document.createElement("script");g.async=true;g.src="https://gc.zgo.at/count.js";g.dataset.goatcounter="https://"+GC+".goatcounter.com/count";document.head.appendChild(g)}
@@ -91,6 +97,8 @@ fetch(LIVE+"?symbols="+encodeURIComponent(sy.join(","))).then(function(r){return
 D.stocks.sort(function(a,b){return b.change-a.change});
 LIVE_T=new Date().toLocaleTimeString([],{hour:"2-digit",minute:"2-digit",second:"2-digit"});render()}).catch(function(){})}
 var SEL=null;
+var SB_URL="https://cdaqjlsumhvxhyioasjv.supabase.co",SB_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNkYXFqbHN1bWh2eGh5aW9hc2p2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA5MTQzNTMsImV4cCI6MjEwNjQ5MDM1M30.sIvYADY-kUW4rXwFAdOD57vMN3QTxOjKPfqdC8uCANc",sb=null,USER=null,AU_OPEN=false;
+try{if(window.supabase)sb=window.supabase.createClient(SB_URL,SB_KEY)}catch(e){sb=null}
 var D=SAMPLE,tab="ai",tag=null;
 function esc(s){var d=document.createElement("div");d.textContent=s==null?"":s;return d.innerHTML}
 function safe(u){return /^https?:\/\//.test(u)?u:"#"}
@@ -117,9 +125,30 @@ ix.forEach(function(i,j){var t=dts&&dts[i]?ax(dts[i]):(j===0?"Start":j===ix.leng
 g+='<text x="'+X(i).toFixed(1)+'" y="'+(CH-6)+'" text-anchor="'+(j===0?"start":j===ix.length-1?"end":"middle")+'">'+t+"</text>"});
 var p=a.map(function(v,i){return X(i).toFixed(1)+","+Y(v).toFixed(1)}).join(" ");
 return '<svg id="cs" viewBox="0 0 '+W+" "+CH+'" class="'+(c>=0?"up":"dn")+'" role="img" aria-label="Price chart with time and value markers">'+g+'<polyline points="'+p+'"/><line id="mk" class="mk" y1="'+CT+'" y2="'+(CH-CB)+'" style="display:none"/><circle id="mc" r="4" style="display:none"/></svg>'}
+function saveRemote(l){if(!sb||!USER)return;
+sb.from("watchlists").upsert({user_id:USER.id,items:l,updated_at:new Date().toISOString()}).then(function(){},function(){})}
+function syncWatch(){if(!sb||!USER)return;
+sb.from("watchlists").select("items").eq("user_id",USER.id).maybeSingle().then(function(r){
+if(r.error)return;
+var server=(r.data&&Array.isArray(r.data.items))?r.data.items:[],seen={},m=[];
+server.concat(wl()).forEach(function(q){if(q&&WRX.test(q.symbol)&&!seen[q.symbol]&&m.length<20){seen[q.symbol]=1;m.push({symbol:q.symbol,name:String(q.name||q.symbol).slice(0,60)})}});
+WMEM=m;try{localStorage.setItem("sd_watch",JSON.stringify(m))}catch(e){}
+renderW();wq();detail();saveRemote(m)},function(){})}
+function renderAuth(){var a=document.getElementById("au"),p=document.getElementById("ap");
+if(!sb){a.innerHTML="";p.innerHTML="";return}
+if(USER){a.innerHTML='<span class="msg">'+esc(USER.email||"Logged in")+'</span><button id="lo" class="ab">Log out</button>';p.innerHTML=""}
+else{a.innerHTML='<button id="li" class="ab">Log in</button>';
+p.innerHTML=AU_OPEN?'<form id="lf" class="sf"><input id="le" type="email" required placeholder="Your email, to sync your watchlist" aria-label="Email" autocomplete="email"><button type="submit">Email me a link</button></form><p class="msg" id="lm">No password needed. We email you a one-time login link.</p>':""}
+var li=document.getElementById("li");if(li)li.onclick=function(){AU_OPEN=!AU_OPEN;renderAuth()};
+var lo=document.getElementById("lo");if(lo)lo.onclick=function(){sb.auth.signOut().then(function(){USER=null;WMEM=[];try{localStorage.removeItem("sd_watch")}catch(e){}renderAuth();renderW()})}}
+document.getElementById("ap").addEventListener("submit",function(e){e.preventDefault();var em=document.getElementById("le").value.trim(),m=document.getElementById("lm");if(!em||!sb)return;
+m.textContent="Sending...";
+sb.auth.signInWithOtp({email:em,options:{emailRedirectTo:location.origin+location.pathname}}).then(function(r){m.textContent=r.error?"Could not send the link: "+r.error.message:"Check your email and tap the login link."},function(){m.textContent="Could not send the link. Try again."})});
+if(sb)sb.auth.onAuthStateChange(function(ev,session){var u=session?session.user:null,changed=(u?u.id:null)!==(USER?USER.id:null);USER=u;renderAuth();if(u&&changed)setTimeout(syncWatch,0)});
+renderAuth();
 var WQ={},WMEM=null,WRX=/^[\^A-Za-z0-9.\-=]{1,15}$/;
 function wl(){if(WMEM)return WMEM;try{var j=JSON.parse(localStorage.getItem("sd_watch")||"[]");return Array.isArray(j)?j.filter(function(q){return q&&WRX.test(q.symbol)}).slice(0,20):[]}catch(e){return[]}}
-function wsave(l){WMEM=l;try{localStorage.setItem("sd_watch",JSON.stringify(l))}catch(e){}}
+function wsave(l){WMEM=l;try{localStorage.setItem("sd_watch",JSON.stringify(l))}catch(e){}saveRemote(l)}
 function renderW(){var l=wl(),el=document.getElementById("wl");
 el.innerHTML=l.length?l.map(function(q){var x=WQ[q.symbol];return '<span role="button" tabindex="0" data-w="'+esc(q.symbol)+'" class="'+(SEL===q.symbol?"on":"")+'">'+esc(q.symbol)+(x?" "+pct(x.change):"")+"</span>"}).join(""):'<p class="msg">Tap "Watch" on any stock chart to save it here.</p>'}
 function wq(){if(!LIVE||document.hidden)return;var l=wl();if(!l.length)return;
