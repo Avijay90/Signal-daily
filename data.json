@@ -3,7 +3,7 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,717.14",
+      "value": "7,716.90",
       "change": 0.66,
       "series": [
         7666.6,
@@ -27,13 +27,13 @@
         7670.84,
         7651.54,
         7666.45,
-        7717.14
+        7716.9
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,164.44",
+      "value": "27,163.47",
       "change": 1.09,
       "series": [
         26217.83,
@@ -57,7 +57,7 @@
         26797.54,
         26861.06,
         26871.6,
-        27164.44
+        27163.47
       ]
     },
     {
@@ -121,8 +121,8 @@
   "stocks": [
     {
       "symbol": "TSLA",
-      "price": 371.41,
-      "change": 4.89,
+      "price": 372.26,
+      "change": 5.13,
       "series": [
         357.01,
         376.37,
@@ -145,13 +145,13 @@
         352.84,
         354.81,
         354.11,
-        371.41
+        372.26
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 352.84,
-      "change": 2.68,
+      "price": 352.17,
+      "change": 2.48,
       "series": [
         367.24,
         357.16,
@@ -174,42 +174,13 @@
         355.1,
         351.19,
         343.64,
-        352.84
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "price": 470.64,
-      "change": 2.49,
-      "series": [
-        415.5,
-        417.01,
-        428.91,
-        439.0,
-        435.36,
-        428.03,
-        433.24,
-        418.01,
-        413.75,
-        417.72,
-        430.26,
-        434.67,
-        445.14,
-        452.0,
-        446.57,
-        451.15,
-        450.61,
-        452.88,
-        456.94,
-        456.19,
-        459.2,
-        470.64
+        352.17
       ]
     },
     {
       "symbol": "AMD",
-      "price": 629.2,
-      "change": 2.19,
+      "price": 630.67,
+      "change": 2.43,
       "series": [
         457.06,
         456.16,
@@ -232,13 +203,42 @@
         607.57,
         611.76,
         615.73,
-        629.2
+        630.67
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "price": 469.56,
+      "change": 2.26,
+      "series": [
+        415.5,
+        417.01,
+        428.91,
+        439.0,
+        435.36,
+        428.03,
+        433.24,
+        418.01,
+        413.75,
+        417.72,
+        430.26,
+        434.67,
+        445.14,
+        452.0,
+        446.57,
+        451.15,
+        450.61,
+        452.88,
+        456.94,
+        456.19,
+        459.2,
+        469.56
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 140.55,
-      "change": 1.79,
+      "price": 140.6,
+      "change": 1.84,
       "series": [
         145.75,
         154.04,
@@ -261,13 +261,13 @@
         137.79,
         137.3,
         138.07,
-        140.55
+        140.6
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 344.16,
-      "change": 1.75,
+      "price": 343.62,
+      "change": 1.59,
       "series": [
         337.12,
         342.48,
@@ -290,13 +290,13 @@
         340.92,
         344.08,
         338.24,
-        344.16
+        343.62
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 234.51,
-      "change": 1.58,
+      "price": 234.41,
+      "change": 1.54,
       "series": [
         224.41,
         228.45,
@@ -319,13 +319,13 @@
         227.21,
         228.38,
         230.86,
-        234.51
+        234.41
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 251.63,
-      "change": 1.37,
+      "price": 251.11,
+      "change": 1.16,
       "series": [
         254.98,
         258.9,
@@ -348,13 +348,13 @@
         246.67,
         249.15,
         248.23,
-        251.63
+        251.11
       ]
     },
     {
       "symbol": "AAPL",
       "price": 333.44,
-      "change": 0.95,
+      "change": 0.94,
       "series": [
         324.96,
         328.21,
@@ -377,13 +377,13 @@
         329.4,
         333.02,
         330.32,
-        333.45
+        333.43
       ]
     },
     {
       "symbol": "META",
-      "price": 729.68,
-      "change": 0.52,
+      "price": 728.79,
+      "change": 0.39,
       "series": [
         592.85,
         610.68,
@@ -406,13 +406,13 @@
         738.79,
         725.18,
         725.93,
-        729.68
+        728.79
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 514.63,
-      "change": 0.36,
+      "price": 514.37,
+      "change": 0.31,
       "series": [
         496.82,
         510.12,
@@ -435,13 +435,13 @@
         508.96,
         512.9,
         512.8,
-        514.63
+        514.36
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 189.2,
-      "change": -0.44,
+      "price": 189.12,
+      "change": -0.48,
       "series": [
         169.46,
         182.53,
@@ -464,7 +464,7 @@
         186.97,
         187.05,
         190.04,
-        189.2
+        189.12
       ]
     }
   ],
@@ -569,20 +569,6 @@
   ],
   "markets": [
     {
-      "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
       "summary": "",
       "source": "MarketWatch",
@@ -639,6 +625,20 @@
       "tags": []
     },
     {
+      "title": "The U.S. can\u2019t find enough of this critical machine component to win the humanoid-robots race",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
       "summary": "",
       "source": "CNBC",
@@ -655,6 +655,6 @@
       ]
     }
   ],
-  "updated": "02 Oct 2026, 17:26 UTC",
-  "updated_iso": "2026-10-02T17:26:03.072550+00:00"
+  "updated": "02 Oct 2026, 17:38 UTC",
+  "updated_iso": "2026-10-02T17:38:44.704567+00:00"
 }
