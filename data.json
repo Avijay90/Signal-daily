@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,722.39",
-      "change": 0.73,
+      "value": "7,741.64",
+      "change": 0.98,
       "series": [
         7666.6,
         7747.71,
@@ -27,14 +27,14 @@
         7670.84,
         7651.54,
         7666.45,
-        7722.39
+        7741.64
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,224.06",
-      "change": 1.31,
+      "value": "27,309.58",
+      "change": 1.63,
       "series": [
         26217.83,
         26584.06,
@@ -57,7 +57,7 @@
         26797.54,
         26861.06,
         26871.6,
-        27224.06
+        27309.58
       ]
     },
     {
@@ -91,8 +91,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,479.74",
-      "change": 0.49,
+      "value": "10,474.53",
+      "change": 0.44,
       "series": [
         10831.5,
         10831.1,
@@ -115,15 +115,15 @@
         10636.7,
         10606.0,
         10428.3,
-        10479.74
+        10474.53
       ]
     }
   ],
   "stocks": [
     {
       "symbol": "TSLA",
-      "price": 369.41,
-      "change": 4.32,
+      "price": 372.17,
+      "change": 5.1,
       "series": [
         357.01,
         376.37,
@@ -146,42 +146,13 @@
         352.84,
         354.81,
         354.11,
-        369.41
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "price": 638.46,
-      "change": 3.69,
-      "series": [
-        457.06,
-        456.16,
-        477.57,
-        505.74,
-        521.1,
-        503.6,
-        516.13,
-        493.41,
-        504.2,
-        512.5,
-        545.09,
-        559.82,
-        615.52,
-        623.77,
-        614.61,
-        629.26,
-        630.63,
-        607.87,
-        607.57,
-        611.76,
-        615.73,
-        638.46
+        372.17
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 142.01,
-      "change": 2.85,
+      "price": 143.81,
+      "change": 4.15,
       "series": [
         145.75,
         154.04,
@@ -204,42 +175,42 @@
         137.79,
         137.3,
         138.07,
-        142.01
+        143.8
       ]
     },
     {
-      "symbol": "NVDA",
-      "price": 237.0,
-      "change": 2.66,
+      "symbol": "AMD",
+      "price": 636.76,
+      "change": 3.42,
       "series": [
-        224.41,
-        228.45,
-        230.36,
-        225.73,
-        223.67,
-        218.36,
-        218.29,
-        210.96,
-        212.17,
-        213.9,
-        219.34,
-        222.27,
-        227.38,
-        228.87,
-        225.51,
-        224.58,
-        225.07,
-        228.86,
-        227.21,
-        228.38,
-        230.86,
-        237.0
+        457.06,
+        456.16,
+        477.57,
+        505.74,
+        521.1,
+        503.6,
+        516.13,
+        493.41,
+        504.2,
+        512.5,
+        545.09,
+        559.82,
+        615.52,
+        623.77,
+        614.61,
+        629.26,
+        630.63,
+        607.87,
+        607.57,
+        611.76,
+        615.73,
+        636.76
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 352.33,
-      "change": 2.53,
+      "price": 354.53,
+      "change": 3.17,
       "series": [
         367.24,
         357.16,
@@ -262,13 +233,42 @@
         355.1,
         351.19,
         343.64,
-        352.33
+        354.53
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "price": 236.41,
+      "change": 2.4,
+      "series": [
+        224.41,
+        228.45,
+        230.36,
+        225.73,
+        223.67,
+        218.36,
+        218.29,
+        210.96,
+        212.17,
+        213.9,
+        219.34,
+        222.27,
+        227.38,
+        228.87,
+        225.51,
+        224.58,
+        225.07,
+        228.86,
+        227.21,
+        228.38,
+        230.86,
+        236.41
       ]
     },
     {
       "symbol": "TSM",
-      "price": 470.04,
-      "change": 2.36,
+      "price": 469.38,
+      "change": 2.22,
       "series": [
         415.5,
         417.01,
@@ -291,13 +291,13 @@
         456.94,
         456.19,
         459.2,
-        470.04
+        469.38
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 343.23,
-      "change": 1.48,
+      "price": 344.47,
+      "change": 1.84,
       "series": [
         337.12,
         342.48,
@@ -320,13 +320,13 @@
         340.92,
         344.08,
         338.24,
-        343.23
+        344.47
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 251.0,
-      "change": 1.12,
+      "price": 252.6,
+      "change": 1.76,
       "series": [
         254.98,
         258.9,
@@ -349,42 +349,13 @@
         246.67,
         249.15,
         248.23,
-        251.0
-      ]
-    },
-    {
-      "symbol": "PLTR",
-      "price": 192.04,
-      "change": 1.05,
-      "series": [
-        169.46,
-        182.53,
-        174.33,
-        170.3,
-        169.53,
-        165.86,
-        167.23,
-        173.31,
-        172.56,
-        174.34,
-        176.24,
-        177.64,
-        183.09,
-        184.99,
-        191.79,
-        192.59,
-        189.67,
-        187.48,
-        186.97,
-        187.05,
-        190.04,
-        192.04
+        252.6
       ]
     },
     {
       "symbol": "META",
-      "price": 731.07,
-      "change": 0.71,
+      "price": 734.89,
+      "change": 1.23,
       "series": [
         592.85,
         610.68,
@@ -407,13 +378,13 @@
         738.79,
         725.18,
         725.93,
-        731.07
+        734.89
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 516.3,
-      "change": 0.68,
+      "price": 518.37,
+      "change": 1.09,
       "series": [
         496.82,
         510.12,
@@ -436,13 +407,42 @@
         508.96,
         512.9,
         512.8,
-        516.3
+        518.37
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "price": 192.11,
+      "change": 1.09,
+      "series": [
+        169.46,
+        182.53,
+        174.33,
+        170.3,
+        169.53,
+        165.86,
+        167.23,
+        173.31,
+        172.56,
+        174.34,
+        176.24,
+        177.64,
+        183.09,
+        184.99,
+        191.79,
+        192.59,
+        189.67,
+        187.48,
+        186.97,
+        187.05,
+        190.04,
+        192.11
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 330.95,
-      "change": 0.19,
+      "price": 333.76,
+      "change": 1.04,
       "series": [
         324.96,
         328.21,
@@ -465,18 +465,11 @@
         329.4,
         333.02,
         330.32,
-        330.95
+        333.76
       ]
     }
   ],
   "ai": [
-    {
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "tags": []
-    },
     {
       "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
       "summary": "",
@@ -566,16 +559,16 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
       "tags": []
+    },
+    {
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "The stock market is anything but normal right now \u2014 and these charts show it",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
       "summary": "",
@@ -640,6 +633,13 @@
       "tags": []
     },
     {
+      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
       "summary": "",
       "source": "CNBC",
@@ -654,6 +654,6 @@
       "tags": []
     }
   ],
-  "updated": "02 Oct 2026, 13:56 UTC",
-  "updated_iso": "2026-10-02T13:56:55.931485+00:00"
+  "updated": "02 Oct 2026, 14:09 UTC",
+  "updated_iso": "2026-10-02T14:09:34.049851+00:00"
 }
