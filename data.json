@@ -548,13 +548,6 @@
   ],
   "markets": [
     {
-      "title": "Switching jobs to get higher pay works best in these industries",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Saving your retirement could come down to this simple writing exercise",
       "summary": "",
       "source": "MarketWatch",
@@ -623,6 +616,13 @@
       "tags": []
     },
     {
+      "title": "Why Western Digital and Seagate are seeing big stock drops today",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
       "summary": "",
       "source": "CNBC",
@@ -639,6 +639,6 @@
       ]
     }
   ],
-  "updated": "02 Oct 2026, 22:37 UTC",
-  "updated_iso": "2026-10-02T22:37:39.092033+00:00"
+  "updated": "02 Oct 2026, 22:51 UTC",
+  "updated_iso": "2026-10-02T22:51:47.221492+00:00"
 }
