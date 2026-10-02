@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,447.01",
-      "change": 0.18,
+      "value": "10,460.78",
+      "change": 0.31,
       "series": [
         10831.5,
         10831.1,
@@ -113,7 +113,7 @@
         10636.7,
         10606.0,
         10428.3,
-        10447.01
+        10460.78
       ]
     }
   ],
@@ -556,13 +556,6 @@
   ],
   "markets": [
     {
-      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
       "summary": "",
       "source": "MarketWatch",
@@ -628,6 +621,13 @@
       "tags": []
     },
     {
+      "title": "TV dinner overload? The frozen-food aisle may be too crowded for its own good.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tv-dinner-overload-the-frozen-food-aisle-may-be-too-crowded-for-its-own-good-55bfed39?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Here's who attended the Trump-Xi state dinner",
       "summary": "",
       "source": "CNBC",
@@ -642,6 +642,6 @@
       "tags": []
     }
   ],
-  "updated": "02 Oct 2026, 10:53 UTC",
-  "updated_iso": "2026-10-02T10:53:03.339774+00:00"
+  "updated": "02 Oct 2026, 11:04 UTC",
+  "updated_iso": "2026-10-02T11:04:00.790259+00:00"
 }
