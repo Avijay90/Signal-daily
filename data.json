@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,713.15",
-      "change": 0.61,
+      "value": "7,718.34",
+      "change": 0.68,
       "series": [
         7666.6,
         7747.71,
@@ -27,14 +27,14 @@
         7670.84,
         7651.54,
         7666.45,
-        7713.15
+        7718.34
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,150.38",
-      "change": 1.04,
+      "value": "27,174.38",
+      "change": 1.13,
       "series": [
         26217.83,
         26584.06,
@@ -57,7 +57,7 @@
         26797.54,
         26861.06,
         26871.6,
-        27150.38
+        27174.38
       ]
     },
     {
@@ -90,8 +90,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,465.17",
-      "change": 0.35,
+      "value": "10,461.95",
+      "change": 0.32,
       "series": [
         10831.5,
         10831.1,
@@ -114,15 +114,15 @@
         10636.7,
         10606.0,
         10428.3,
-        10465.17
+        10461.95
       ]
     }
   ],
   "stocks": [
     {
       "symbol": "TSLA",
-      "price": 372.3,
-      "change": 5.14,
+      "price": 371.95,
+      "change": 5.04,
       "series": [
         357.01,
         376.37,
@@ -145,71 +145,13 @@
         352.84,
         354.81,
         354.11,
-        372.3
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "price": 633.56,
-      "change": 2.9,
-      "series": [
-        457.06,
-        456.16,
-        477.57,
-        505.74,
-        521.1,
-        503.6,
-        516.13,
-        493.41,
-        504.2,
-        512.5,
-        545.09,
-        559.82,
-        615.52,
-        623.77,
-        614.61,
-        629.26,
-        630.63,
-        607.87,
-        607.57,
-        611.76,
-        615.73,
-        633.56
-      ]
-    },
-    {
-      "symbol": "ORCL",
-      "price": 141.91,
-      "change": 2.78,
-      "series": [
-        145.75,
-        154.04,
-        158.78,
-        162.52,
-        161.63,
-        152.94,
-        150.28,
-        144.79,
-        140.35,
-        143.16,
-        150.59,
-        147.61,
-        148.56,
-        149.2,
-        144.56,
-        139.54,
-        137.1,
-        132.6,
-        137.79,
-        137.3,
-        138.07,
-        141.91
+        371.95
       ]
     },
     {
       "symbol": "TSM",
-      "price": 470.8,
-      "change": 2.53,
+      "price": 474.18,
+      "change": 3.26,
       "series": [
         415.5,
         417.01,
@@ -232,13 +174,13 @@
         456.94,
         456.19,
         459.2,
-        470.8
+        474.18
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 351.9,
-      "change": 2.4,
+      "price": 354.51,
+      "change": 3.16,
       "series": [
         367.24,
         357.16,
@@ -261,13 +203,71 @@
         355.1,
         351.19,
         343.64,
-        351.9
+        354.51
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "price": 633.77,
+      "change": 2.93,
+      "series": [
+        457.06,
+        456.16,
+        477.57,
+        505.74,
+        521.1,
+        503.6,
+        516.13,
+        493.41,
+        504.2,
+        512.5,
+        545.09,
+        559.82,
+        615.52,
+        623.77,
+        614.61,
+        629.26,
+        630.63,
+        607.87,
+        607.57,
+        611.76,
+        615.73,
+        633.77
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "price": 141.02,
+      "change": 2.14,
+      "series": [
+        145.75,
+        154.04,
+        158.78,
+        162.52,
+        161.63,
+        152.94,
+        150.28,
+        144.79,
+        140.35,
+        143.16,
+        150.59,
+        147.61,
+        148.56,
+        149.2,
+        144.56,
+        139.54,
+        137.1,
+        132.6,
+        137.79,
+        137.3,
+        138.07,
+        141.02
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 234.57,
-      "change": 1.61,
+      "price": 235.46,
+      "change": 1.99,
       "series": [
         224.41,
         228.45,
@@ -290,13 +290,13 @@
         227.21,
         228.38,
         230.86,
-        234.57
+        235.46
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 341.62,
-      "change": 1.0,
+      "price": 341.65,
+      "change": 1.01,
       "series": [
         337.12,
         342.48,
@@ -319,13 +319,13 @@
         340.92,
         344.08,
         338.24,
-        341.62
+        341.65
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 250.53,
-      "change": 0.92,
+      "price": 250.15,
+      "change": 0.77,
       "series": [
         254.98,
         258.9,
@@ -348,13 +348,13 @@
         246.67,
         249.15,
         248.23,
-        250.52
+        250.15
       ]
     },
     {
       "symbol": "META",
-      "price": 731.0,
-      "change": 0.7,
+      "price": 729.4,
+      "change": 0.48,
       "series": [
         592.85,
         610.68,
@@ -377,12 +377,12 @@
         738.79,
         725.18,
         725.93,
-        731.01
+        729.4
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 331.87,
+      "price": 331.86,
       "change": 0.47,
       "series": [
         324.96,
@@ -411,8 +411,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 515.15,
-      "change": 0.46,
+      "price": 514.17,
+      "change": 0.27,
       "series": [
         496.82,
         510.12,
@@ -435,13 +435,13 @@
         508.96,
         512.9,
         512.8,
-        515.15
+        514.17
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 190.67,
-      "change": 0.33,
+      "price": 189.54,
+      "change": -0.26,
       "series": [
         169.46,
         182.53,
@@ -464,18 +464,11 @@
         186.97,
         187.05,
         190.04,
-        190.67
+        189.54
       ]
     }
   ],
   "ai": [
-    {
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "tags": []
-    },
     {
       "title": "AI voice startup ElevenLabs doubles valuation to $22B",
       "summary": "",
@@ -563,30 +556,18 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
       "tags": []
+    },
+    {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "tags": [
+        "OpenAI"
+      ]
     }
   ],
   "markets": [
-    {
-      "title": "Why Western Digital and Seagate are seeing big stock drops today",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
       "summary": "",
@@ -637,6 +618,27 @@
       "tags": []
     },
     {
+      "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here\u2019s how it worked out.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Europe\u2019s leaders rush to release diesel from stockpiles as fuel-shock hangs over U.S. midterms",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "More than 10 million older adults are now living in poverty as Social Security cuts loom: \u2018I don\u2019t know how anyone is making it\u2019",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/more-than-10-million-older-adults-are-now-living-in-poverty-as-social-security-cuts-loom-i-dont-know-how-anyone-is-making-it-237ab798?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
       "summary": "",
       "source": "CNBC",
@@ -651,6 +653,6 @@
       "tags": []
     }
   ],
-  "updated": "02 Oct 2026, 15:31 UTC",
-  "updated_iso": "2026-10-02T15:31:12.197338+00:00"
+  "updated": "02 Oct 2026, 15:54 UTC",
+  "updated_iso": "2026-10-02T15:54:14.556706+00:00"
 }
