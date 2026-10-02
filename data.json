@@ -61,8 +61,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "68,956.72",
-      "change": 5.31,
+      "value": "68,550.81",
+      "change": 2.69,
       "series": [
         64325.64,
         64214.48,
@@ -81,7 +81,8 @@
         66364.2,
         65877.62,
         65481.27,
-        66753.72
+        66753.72,
+        68550.81
       ]
     },
     {
@@ -542,20 +543,6 @@
   ],
   "markets": [
     {
-      "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-silent-alarm-in-the-bond-market-tells-you-which-stocks-to-buy-and-which-to-avoid-4568ac53?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Financial stocks are falling below a key chart level to warn the worst is yet to come",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/financial-stocks-are-falling-below-a-key-chart-level-to-warn-the-worst-is-yet-to-come-86e43092?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "The Treasury Department started Trump accounts for 60 million kids \u2014 but families still have to take this step if they want one",
       "summary": "",
       "source": "MarketWatch",
@@ -602,6 +589,13 @@
       ]
     },
     {
+      "title": "This could be the worst year ever for Nike\u2019s stock, with sales set to fall further",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Here\u2019s who\u2019s joining the S&P 500 in the index\u2019s latest shakeup",
       "summary": "",
       "source": "MarketWatch",
@@ -609,10 +603,17 @@
       "tags": []
     },
     {
-      "title": "This could be the worst year ever for Nike\u2019s stock, with sales set to fall further",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "summary": "",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -634,6 +635,6 @@
       ]
     }
   ],
-  "updated": "02 Oct 2026, 00:04 UTC",
-  "updated_iso": "2026-10-02T00:04:47.574160+00:00"
+  "updated": "02 Oct 2026, 00:32 UTC",
+  "updated_iso": "2026-10-02T00:32:44.371680+00:00"
 }
