@@ -551,24 +551,6 @@
   ],
   "markets": [
     {
-      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "tags": [
-        "Crypto"
-      ]
-    },
-    {
-      "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
       "summary": "",
       "source": "MarketWatch",
@@ -625,6 +607,22 @@
       "tags": []
     },
     {
+      "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Why mixing politics with your stock portfolio might be costing you money",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
       "summary": "",
       "source": "CNBC",
@@ -641,6 +639,6 @@
       ]
     }
   ],
-  "updated": "02 Oct 2026, 20:38 UTC",
-  "updated_iso": "2026-10-02T20:38:35.870051+00:00"
+  "updated": "02 Oct 2026, 20:53 UTC",
+  "updated_iso": "2026-10-02T20:53:05.806653+00:00"
 }
