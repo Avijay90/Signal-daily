@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,419.25",
-      "change": -0.09,
+      "value": "10,447.01",
+      "change": 0.18,
       "series": [
         10831.5,
         10831.1,
@@ -113,7 +113,7 @@
         10636.7,
         10606.0,
         10428.3,
-        10419.25
+        10447.01
       ]
     }
   ],
@@ -556,13 +556,6 @@
   ],
   "markets": [
     {
-      "title": "Here\u2019s who\u2019s joining the S&P 500 in the index\u2019s latest shakeup",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
       "summary": "",
       "source": "MarketWatch",
@@ -628,6 +621,13 @@
       "tags": []
     },
     {
+      "title": "Three reasons why this Wall Street market-making powerhouse says investors should reload on stocks now",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Here's who attended the Trump-Xi state dinner",
       "summary": "",
       "source": "CNBC",
@@ -642,6 +642,6 @@
       "tags": []
     }
   ],
-  "updated": "02 Oct 2026, 10:38 UTC",
-  "updated_iso": "2026-10-02T10:38:48.526835+00:00"
+  "updated": "02 Oct 2026, 10:53 UTC",
+  "updated_iso": "2026-10-02T10:53:03.339774+00:00"
 }
