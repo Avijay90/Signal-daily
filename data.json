@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,495.55",
-      "change": 0.64,
+      "value": "10,500.67",
+      "change": 0.69,
       "series": [
         10831.5,
         10831.1,
@@ -113,7 +113,7 @@
         10636.7,
         10606.0,
         10428.3,
-        10495.55
+        10500.67
       ]
     }
   ],
@@ -556,13 +556,6 @@
   ],
   "markets": [
     {
-      "title": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?",
       "summary": "",
       "source": "MarketWatch",
@@ -630,6 +623,13 @@
       "tags": []
     },
     {
+      "title": "Famed former Boston Celtics commentator lists sunny Boston penthouse for $1.5 million",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/famed-former-boston-celtics-commentator-lists-sunny-boston-penthouse-for-1-5-million-dedfb48a?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
       "summary": "",
       "source": "CNBC",
@@ -646,6 +646,6 @@
       "tags": []
     }
   ],
-  "updated": "02 Oct 2026, 08:53 UTC",
-  "updated_iso": "2026-10-02T08:53:39.474585+00:00"
+  "updated": "02 Oct 2026, 09:05 UTC",
+  "updated_iso": "2026-10-02T09:05:32.228222+00:00"
 }
