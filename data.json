@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,723.53",
-      "change": 0.74,
+      "value": "7,726.22",
+      "change": 0.78,
       "series": [
         7666.6,
         7747.71,
@@ -27,14 +27,14 @@
         7670.84,
         7651.54,
         7666.45,
-        7723.53
+        7726.22
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,199.31",
-      "change": 1.22,
+      "value": "27,209.54",
+      "change": 1.26,
       "series": [
         26217.83,
         26584.06,
@@ -57,7 +57,7 @@
         26797.54,
         26861.06,
         26871.6,
-        27199.3
+        27209.54
       ]
     },
     {
@@ -121,8 +121,8 @@
   "stocks": [
     {
       "symbol": "TSLA",
-      "price": 372.29,
-      "change": 5.13,
+      "price": 372.58,
+      "change": 5.22,
       "series": [
         357.01,
         376.37,
@@ -145,13 +145,13 @@
         352.84,
         354.81,
         354.11,
-        372.29
+        372.58
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 354.69,
-      "change": 3.22,
+      "price": 354.13,
+      "change": 3.05,
       "series": [
         367.24,
         357.16,
@@ -174,13 +174,13 @@
         355.1,
         351.19,
         343.64,
-        354.69
+        354.13
       ]
     },
     {
       "symbol": "TSM",
-      "price": 472.86,
-      "change": 2.97,
+      "price": 472.93,
+      "change": 2.99,
       "series": [
         415.5,
         417.01,
@@ -203,13 +203,13 @@
         456.94,
         456.19,
         459.2,
-        472.86
+        472.93
       ]
     },
     {
       "symbol": "AMD",
-      "price": 630.6,
-      "change": 2.42,
+      "price": 630.54,
+      "change": 2.41,
       "series": [
         457.06,
         456.16,
@@ -232,13 +232,13 @@
         607.57,
         611.76,
         615.73,
-        630.6
+        630.54
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 140.87,
-      "change": 2.03,
+      "price": 140.97,
+      "change": 2.1,
       "series": [
         145.75,
         154.04,
@@ -261,13 +261,13 @@
         137.79,
         137.3,
         138.07,
-        140.87
+        140.97
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 235.3,
-      "change": 1.92,
+      "price": 235.34,
+      "change": 1.94,
       "series": [
         224.41,
         228.45,
@@ -290,13 +290,13 @@
         227.21,
         228.38,
         230.86,
-        235.3
+        235.34
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 344.0,
-      "change": 1.7,
+      "price": 344.18,
+      "change": 1.76,
       "series": [
         337.12,
         342.48,
@@ -319,13 +319,13 @@
         340.92,
         344.08,
         338.24,
-        344.0
+        344.18
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 251.05,
-      "change": 1.14,
+      "price": 251.22,
+      "change": 1.2,
       "series": [
         254.98,
         258.9,
@@ -348,13 +348,13 @@
         246.67,
         249.15,
         248.23,
-        251.05
+        251.22
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 333.5,
-      "change": 0.96,
+      "price": 333.6,
+      "change": 0.99,
       "series": [
         324.96,
         328.21,
@@ -377,13 +377,13 @@
         329.4,
         333.02,
         330.32,
-        333.5
+        333.6
       ]
     },
     {
       "symbol": "META",
-      "price": 730.59,
-      "change": 0.64,
+      "price": 730.77,
+      "change": 0.67,
       "series": [
         592.85,
         610.68,
@@ -406,13 +406,13 @@
         738.79,
         725.18,
         725.93,
-        730.59
+        730.78
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 514.13,
-      "change": 0.26,
+      "price": 514.38,
+      "change": 0.31,
       "series": [
         496.82,
         510.12,
@@ -435,13 +435,13 @@
         508.96,
         512.9,
         512.8,
-        514.14
+        514.38
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 190.23,
-      "change": 0.1,
+      "price": 190.21,
+      "change": 0.09,
       "series": [
         169.46,
         182.53,
@@ -464,20 +464,11 @@
         186.97,
         187.05,
         190.04,
-        190.23
+        190.21
       ]
     }
   ],
   "ai": [
-    {
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "tags": [
-        "Funding"
-      ]
-    },
     {
       "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
       "summary": "",
@@ -565,6 +556,15 @@
       "tags": [
         "OpenAI"
       ]
+    },
+    {
+      "title": "Google thinks SpaceX\u2019s Starship has to launch 1,800 times before space data centers get off the ground",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "tags": [
+        "Google"
+      ]
     }
   ],
   "markets": [
@@ -639,20 +639,22 @@
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
-      "tags": []
-    },
-    {
       "title": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
       "summary": "",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-midday-akam-geni-ppli.html",
       "tags": []
+    },
+    {
+      "title": "Appeals court rules that states can regulate Kalshi\u2019s sports prediction markets, dealing another legal blow to platforms",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
+      "tags": [
+        "Regulation"
+      ]
     }
   ],
-  "updated": "02 Oct 2026, 16:55 UTC",
-  "updated_iso": "2026-10-02T16:55:02.873299+00:00"
+  "updated": "02 Oct 2026, 17:04 UTC",
+  "updated_iso": "2026-10-02T17:04:09.259889+00:00"
 }
