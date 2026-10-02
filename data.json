@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,460.97",
-      "change": 0.31,
+      "value": "10,455.83",
+      "change": 0.26,
       "series": [
         10831.5,
         10831.1,
@@ -113,7 +113,7 @@
         10636.7,
         10606.0,
         10428.3,
-        10460.97
+        10455.83
       ]
     }
   ],
@@ -556,13 +556,6 @@
   ],
   "markets": [
     {
-      "title": "Famed former Boston Celtics commentator lists sunny Boston penthouse for $1.5 million",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/famed-former-boston-celtics-commentator-lists-sunny-boston-penthouse-for-1-5-million-dedfb48a?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Amazon is hiking chip-rental prices and reportedly moving Nvidia processors off the balance sheet",
       "summary": "",
       "source": "MarketWatch",
@@ -607,7 +600,7 @@
       "tags": []
     },
     {
-      "title": "Three reasons why this Wall Street market-making powerhouse says investors should reload on stocks now",
+      "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
@@ -628,6 +621,13 @@
       "tags": []
     },
     {
+      "title": "The stock market is anything but normal right now \u2014 and these charts show it",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "China's Xi urges U.S. to cooperate on AI",
       "summary": "",
       "source": "CNBC",
@@ -644,6 +644,6 @@
       ]
     }
   ],
-  "updated": "02 Oct 2026, 11:39 UTC",
-  "updated_iso": "2026-10-02T11:39:02.748646+00:00"
+  "updated": "02 Oct 2026, 11:53 UTC",
+  "updated_iso": "2026-10-02T11:53:02.404578+00:00"
 }
