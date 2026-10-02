@@ -61,8 +61,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "68,289.64",
-      "change": -0.97,
+      "value": "68,267.13",
+      "change": -1.0,
       "series": [
         64325.64,
         64214.48,
@@ -83,7 +83,7 @@
         65481.27,
         66753.72,
         68956.72,
-        68289.64
+        68267.13
       ]
     },
     {
@@ -630,15 +630,6 @@
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: MGM, Darden Restaurants, Meta, BlackBerry & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/24/stocks-making-the-biggest-moves-premarket-mgm-dri-meta-bb.html",
-      "tags": [
-        "Meta"
-      ]
-    },
-    {
       "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
       "summary": "",
       "source": "CNBC",
@@ -646,8 +637,15 @@
       "tags": [
         "Rates & Fed"
       ]
+    },
+    {
+      "title": "Here's who attended the Trump-Xi state dinner",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+      "tags": []
     }
   ],
-  "updated": "02 Oct 2026, 05:28 UTC",
-  "updated_iso": "2026-10-02T05:28:14.297862+00:00"
+  "updated": "02 Oct 2026, 05:31 UTC",
+  "updated_iso": "2026-10-02T05:31:56.570464+00:00"
 }
