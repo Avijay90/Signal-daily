@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,448.41",
-      "change": 0.19,
+      "value": "10,438.93",
+      "change": 0.1,
       "series": [
         10831.5,
         10831.1,
@@ -113,7 +113,7 @@
         10636.7,
         10606.0,
         10428.3,
-        10448.41
+        10438.93
       ]
     }
   ],
@@ -556,22 +556,6 @@
   ],
   "markets": [
     {
-      "title": "Amazon is hiking chip-rental prices and reportedly moving Nvidia processors off the balance sheet",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/amazon-is-hiking-chip-rental-prices-and-reportedly-moving-nvidia-processors-off-the-balance-sheet-b205a0b0?mod=mw_rss_topstories",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Another viral AI-doomsday report claims \u2018it\u2019s over.\u2019 Why home prices could take a hit as screen-based jobs disappear.",
       "summary": "",
       "source": "MarketWatch",
@@ -628,6 +612,20 @@
       "tags": []
     },
     {
+      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "To win the humanoid-robots race, the U.S. needs this critical machine component that\u2019s hard to find",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
       "summary": "",
       "source": "CNBC",
@@ -644,6 +642,6 @@
       "tags": []
     }
   ],
-  "updated": "02 Oct 2026, 12:04 UTC",
-  "updated_iso": "2026-10-02T12:04:50.453962+00:00"
+  "updated": "02 Oct 2026, 12:31 UTC",
+  "updated_iso": "2026-10-02T12:31:23.406647+00:00"
 }
