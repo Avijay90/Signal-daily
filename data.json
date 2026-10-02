@@ -456,16 +456,6 @@
   ],
   "ai": [
     {
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "tags": [
-        "Google",
-        "Funding"
-      ]
-    },
-    {
       "title": "Hearing tech startup Legato launches its AI hearing glasses",
       "summary": "",
       "source": "TechCrunch",
@@ -546,6 +536,13 @@
       "summary": "",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+      "tags": []
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Clay\u2019s Kareem Amin on the rise of the GTM engineer",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
       "tags": []
     }
   ],
@@ -639,6 +636,6 @@
       ]
     }
   ],
-  "updated": "02 Oct 2026, 21:04 UTC",
-  "updated_iso": "2026-10-02T21:04:16.975838+00:00"
+  "updated": "02 Oct 2026, 21:24 UTC",
+  "updated_iso": "2026-10-02T21:24:53.229521+00:00"
 }
