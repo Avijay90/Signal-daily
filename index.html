@@ -50,12 +50,17 @@ article small{color:var(--mut)}article a{color:var(--acc)}
 .rg{display:flex;gap:6px;margin:4px 0 8px;flex-wrap:wrap}
 .rg button{font:inherit;font-size:.8rem;font-weight:600;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:6px;padding:2px 10px;cursor:pointer}
 .rg button[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}.rg button:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.nh{font-size:.95rem;margin:16px 0 4px}.ni{border-top:1px solid var(--line);padding:8px 0}
+.ni a{margin:0;font-size:1rem;font-weight:600;color:var(--ink);text-decoration:none}.ni a:hover{color:var(--acc)}.ni small{display:block;color:var(--mut)}.msg a{margin-left:0}
+.ba{display:flex;gap:6px}#wb{font:inherit;font-size:.8rem;border:1px solid var(--acc);background:transparent;color:var(--acc);border-radius:6px;padding:2px 10px;cursor:pointer}
+#wb[aria-pressed=true]{background:var(--acc);color:var(--bg)}#wb:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
 </style></head><body><main>
 <h1>Signal Daily</h1>
 <p class="meta" id="meta">Loading…</p>
 <div class="idx" id="idx" aria-label="Market snapshot"></div>
 <form class="sf" id="sf"><input id="q" type="search" placeholder="Search any stock worldwide, e.g. Tesla or RELIANCE.NS" aria-label="Search stocks" autocomplete="off"><button type="submit">Search</button></form>
 <div id="sr" aria-live="polite"></div>
+<p class="h">My watchlist <span style="font-weight:400">(saved on this device)</span></p><div class="st" id="wl"></div>
 <p class="h">AI and big-tech stocks, today</p><div class="st" id="st"></div>
 <div id="dt"></div>
 <div class="tabs" role="tablist">
@@ -112,9 +117,40 @@ ix.forEach(function(i,j){var t=dts&&dts[i]?ax(dts[i]):(j===0?"Start":j===ix.leng
 g+='<text x="'+X(i).toFixed(1)+'" y="'+(CH-6)+'" text-anchor="'+(j===0?"start":j===ix.length-1?"end":"middle")+'">'+t+"</text>"});
 var p=a.map(function(v,i){return X(i).toFixed(1)+","+Y(v).toFixed(1)}).join(" ");
 return '<svg id="cs" viewBox="0 0 '+W+" "+CH+'" class="'+(c>=0?"up":"dn")+'" role="img" aria-label="Price chart with time and value markers">'+g+'<polyline points="'+p+'"/><line id="mk" class="mk" y1="'+CT+'" y2="'+(CH-CB)+'" style="display:none"/><circle id="mc" r="4" style="display:none"/></svg>'}
+var WQ={},WMEM=null,WRX=/^[\^A-Za-z0-9.\-=]{1,15}$/;
+function wl(){if(WMEM)return WMEM;try{var j=JSON.parse(localStorage.getItem("sd_watch")||"[]");return Array.isArray(j)?j.filter(function(q){return q&&WRX.test(q.symbol)}).slice(0,20):[]}catch(e){return[]}}
+function wsave(l){WMEM=l;try{localStorage.setItem("sd_watch",JSON.stringify(l))}catch(e){}}
+function renderW(){var l=wl(),el=document.getElementById("wl");
+el.innerHTML=l.length?l.map(function(q){var x=WQ[q.symbol];return '<span role="button" tabindex="0" data-w="'+esc(q.symbol)+'" class="'+(SEL===q.symbol?"on":"")+'">'+esc(q.symbol)+(x?" "+pct(x.change):"")+"</span>"}).join(""):'<p class="msg">Tap "Watch" on any stock chart to save it here.</p>'}
+function wq(){if(!LIVE||document.hidden)return;var l=wl();if(!l.length)return;
+fetch(api("/?symbols="+encodeURIComponent(l.map(function(q){return q.symbol}).join(",")))).then(function(r){return r.ok?r.json():Promise.reject()}).then(function(q){WQ=q;renderW()}).catch(function(){})}
+function toggleW(x){var l=wl(),i=-1;l.forEach(function(q,j){if(q.symbol===x.symbol)i=j});
+if(i>-1)l.splice(i,1);else if(l.length<20&&WRX.test(x.symbol))l.push({symbol:x.symbol,name:String(x.name||x.symbol).slice(0,60)});wsave(l);renderW();wq();detail()}
+function openSym(sym){var known=(D.indices||[]).concat(D.stocks||[]).some(function(a){return a.symbol===sym});
+function show(){SEL=sym;render();document.getElementById("dt").scrollIntoView({block:"nearest",behavior:"smooth"})}
+if(known||(EXTRA&&EXTRA.symbol===sym)){show();return}
+if(!LIVE){window.open("https://finance.yahoo.com/quote/"+encodeURIComponent(sym)+"/","_blank","noopener");return}
+fetch(api("/chart?symbol="+encodeURIComponent(sym))).then(function(r){return r.ok?r.json():Promise.reject()}).then(function(x){if(x.error)throw 0;EXTRA=x;show()}).catch(function(){})}
+document.addEventListener("click",function(e){var t=e.target.closest&&e.target.closest("[data-w]");if(t)openSym(t.dataset.w)});
+document.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){var t=e.target.closest&&e.target.closest("[data-w]");if(t){e.preventDefault();openSym(t.dataset.w)}}});
+setInterval(wq,30000);setTimeout(wq,500);
+var NC={},NL={};
+function nd(iso){var d=new Date(iso);return d.getDate()+" "+MO[d.getMonth()]}
+function newsHtml(sym,x){
+var q=encodeURIComponent((x.name||sym)+(sym[0]==="^"?" market":" stock")+" when:30d"),
+more='<a href="https://news.google.com/search?q='+q+'" target="_blank" rel="noopener">More news on Google News</a>',c=NC[sym],h='<h3 class="nh">News from the last 30 days</h3>';
+if(!LIVE)return h+'<p class="msg">'+more+"</p>";
+if(!c)return h+'<p class="msg">Loading news...</p>';
+if(!c.items)return h+'<p class="msg">Could not load news. '+more+"</p>";
+if(!c.items.length)return h+'<p class="msg">No recent news found. '+more+"</p>";
+return h+c.items.map(function(n){return '<div class="ni"><a href="'+safe(n.url)+'" target="_blank" rel="noopener">'+esc(n.title)+"</a><small>"+esc(n.source)+" - "+nd(n.date)+"</small></div>"}).join("")+'<p class="msg">'+more+"</p>"}
+function loadNews(x){var sym=x.symbol;NL[sym]=1;
+fetch(api("/news?symbol="+encodeURIComponent(sym)+"&name="+encodeURIComponent(x.name||sym))).then(function(r){return r.ok?r.json():Promise.reject()}).then(function(j){if(!Array.isArray(j))throw 0;NC[sym]={t:Date.now(),items:j}}).catch(function(){NC[sym]={t:Date.now(),items:null}}).then(function(){delete NL[sym];if(SEL===sym)detail()})}
 function detail(){var el=document.getElementById("dt");if(!SEL){el.innerHTML="";LS=null;return}
 if(LS!==SEL){LS=SEL;RNG="1mo"}
 var x=(D.indices||[]).concat(D.stocks||[]).concat(EXTRA?[EXTRA]:[]).filter(function(a){return a.symbol===SEL})[0];if(!x){el.innerHTML="";return}
+var c0=NC[SEL];if(LIVE&&!NL[SEL]&&(!c0||Date.now()-c0.t>(c0.items?600000:60000)))loadNews(x);
+var inW=wl().some(function(q){return q.symbol===x.symbol});
 var key=SEL+"|"+RNG,rc=RNG==="1mo"?null:RC[key],a=[],dts=null;
 if(RNG==="1mo"){a=x.series||[];dts=x.dates||null}else if(rc){a=rc.series;dts=rc.dates}
 var n=a.length,lo=n?Math.min.apply(0,a):0,hi=n?Math.max.apply(0,a):0,pr=x.value||(x.price!=null?Number(x.price).toFixed(2):""),
@@ -124,9 +160,10 @@ if(RNG!=="1mo"&&!rc)body='<p class="msg">'+(RL[key]==="err"?"Could not load this
 else if(n<2)body="<p>Chart data not available yet.</p>";else body=chartSvg(a,dts,col,W);
 var rg=LIVE?'<div class="rg">'+RGS.map(function(q){return '<button data-r="'+q[0]+'" aria-pressed="'+(q[0]===RNG)+'">'+q[1]+"</button>"}).join("")+"</div>":"";
 var sm=n>1?"<small>"+RLB[RNG]+": low "+fv(lo)+", high "+fv(hi)+(RNG!=="1d"?", change "+pct((a[n-1]-a[0])/a[0]*100):"")+(RNG==="1d"?". Times are exchange local time.":"")+"</small>":"";
-el.innerHTML='<div class="dp"><div class="dh"><div><b>'+esc(x.name||x.symbol)+"</b> "+esc(pr)+" "+pct(x.change)+' <small>today</small></div><button id="dx" aria-label="Close chart">Close</button></div>'+rg+'<div class="rd" id="rd">'+(n>1?"Touch or hover on the chart for time and value":"")+"</div>"+body+
-sm+' <a href="https://finance.yahoo.com/quote/'+encodeURIComponent(x.symbol)+'/" target="_blank" rel="noopener">Full chart on Yahoo Finance</a></div>';
+el.innerHTML='<div class="dp"><div class="dh"><div><b>'+esc(x.name||x.symbol)+"</b> "+esc(pr)+" "+pct(x.change)+' <small>today</small></div><div class="ba"><button id="wb" aria-pressed="'+inW+'">'+(inW?"&#9733; Watching":"&#9734; Watch")+'</button><button id="dx" aria-label="Close chart">Close</button></div></div>'+rg+'<div class="rd" id="rd">'+(n>1?"Touch or hover on the chart for time and value":"")+"</div>"+body+
+sm+' <a href="https://finance.yahoo.com/quote/'+encodeURIComponent(x.symbol)+'/" target="_blank" rel="noopener">Full chart on Yahoo Finance</a>'+newsHtml(SEL,x)+'</div>';
 document.getElementById("dx").onclick=function(){SEL=null;render()};
+document.getElementById("wb").onclick=function(){toggleW(x)};
 var svg=document.getElementById("cs");if(!svg||n<2)return;
 var rd=document.getElementById("rd"),mk=document.getElementById("mk"),mc=document.getElementById("mc");
 function mv(e){var b=svg.getBoundingClientRect(),px=(e.clientX-b.left)*(W/b.width),i=Math.max(0,Math.min(n-1,Math.round((px-CL)/pw*(n-1)))),
@@ -157,7 +194,7 @@ if(LIVE)doSearch(v);else window.open("https://finance.yahoo.com/lookup?s="+encod
 document.getElementById("sr").addEventListener("click",function(e){var b=e.target.closest("[data-f]");if(!b)return;
 fetch(api("/chart?symbol="+encodeURIComponent(b.dataset.f))).then(function(r){return r.ok?r.json():Promise.reject()}).then(function(x){
 if(x.error)throw 0;EXTRA=x;SEL=x.symbol;sr("");render();document.getElementById("dt").scrollIntoView({block:"nearest",behavior:"smooth"})}).catch(function(){sr('<p class="msg">Could not load that chart.</p>')})});
-function render(){detail();
+function render(){detail();renderW();
 meta();
 document.getElementById("idx").innerHTML=(D.indices||[]).map(function(i){
 return '<div role="button" tabindex="0" data-s="'+esc(i.symbol)+'" class="'+(SEL&&SEL===i.symbol?"on":"")+'"><b>'+esc(i.name)+'</b><span>'+esc(i.value)+"</span> "+pct(i.change)+spark(i.series,i.change)+"</div>"}).join("");
