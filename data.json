@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,438.93",
-      "change": 0.1,
+      "value": "10,462.38",
+      "change": 0.33,
       "series": [
         10831.5,
         10831.1,
@@ -113,7 +113,7 @@
         10636.7,
         10606.0,
         10428.3,
-        10438.93
+        10462.38
       ]
     }
   ],
@@ -556,13 +556,6 @@
   ],
   "markets": [
     {
-      "title": "Another viral AI-doomsday report claims \u2018it\u2019s over.\u2019 Why home prices could take a hit as screen-based jobs disappear.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "summary": "",
       "source": "MarketWatch",
@@ -581,13 +574,6 @@
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/heres-the-bond-market-alternative-as-u-s-and-other-developed-markets-debt-deteriorate-e3d57b02?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -626,6 +612,20 @@
       "tags": []
     },
     {
+      "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Nike\u2019s stock heads for its worst year ever as the company\u2019s troubles mount",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
       "summary": "",
       "source": "CNBC",
@@ -642,6 +642,6 @@
       "tags": []
     }
   ],
-  "updated": "02 Oct 2026, 12:31 UTC",
-  "updated_iso": "2026-10-02T12:31:23.406647+00:00"
+  "updated": "02 Oct 2026, 12:56 UTC",
+  "updated_iso": "2026-10-02T12:56:05.707813+00:00"
 }
