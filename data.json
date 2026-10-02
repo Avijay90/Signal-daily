@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,711.41",
-      "change": 0.59,
+      "value": "7,713.15",
+      "change": 0.61,
       "series": [
         7666.6,
         7747.71,
@@ -27,14 +27,14 @@
         7670.84,
         7651.54,
         7666.45,
-        7711.41
+        7713.15
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,155.96",
-      "change": 1.06,
+      "value": "27,150.38",
+      "change": 1.04,
       "series": [
         26217.83,
         26584.06,
@@ -57,7 +57,7 @@
         26797.54,
         26861.06,
         26871.6,
-        27155.96
+        27150.38
       ]
     },
     {
@@ -90,8 +90,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,481.06",
-      "change": 0.51,
+      "value": "10,465.17",
+      "change": 0.35,
       "series": [
         10831.5,
         10831.1,
@@ -114,15 +114,15 @@
         10636.7,
         10606.0,
         10428.3,
-        10481.06
+        10465.17
       ]
     }
   ],
   "stocks": [
     {
       "symbol": "TSLA",
-      "price": 370.35,
-      "change": 4.58,
+      "price": 372.3,
+      "change": 5.14,
       "series": [
         357.01,
         376.37,
@@ -145,13 +145,13 @@
         352.84,
         354.81,
         354.11,
-        370.35
+        372.3
       ]
     },
     {
       "symbol": "AMD",
-      "price": 636.09,
-      "change": 3.31,
+      "price": 633.56,
+      "change": 2.9,
       "series": [
         457.06,
         456.16,
@@ -174,71 +174,13 @@
         607.57,
         611.76,
         615.73,
-        636.09
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "price": 353.19,
-      "change": 2.78,
-      "series": [
-        367.24,
-        357.16,
-        357.9,
-        368.56,
-        364.38,
-        360.83,
-        361.99,
-        344.72,
-        339.27,
-        339.51,
-        347.3,
-        357.61,
-        362.66,
-        364.54,
-        354.99,
-        350.36,
-        352.81,
-        349.57,
-        355.1,
-        351.19,
-        343.64,
-        353.19
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "price": 470.01,
-      "change": 2.36,
-      "series": [
-        415.5,
-        417.01,
-        428.91,
-        439.0,
-        435.36,
-        428.03,
-        433.24,
-        418.01,
-        413.75,
-        417.72,
-        430.26,
-        434.67,
-        445.14,
-        452.0,
-        446.57,
-        451.15,
-        450.61,
-        452.88,
-        456.94,
-        456.19,
-        459.2,
-        470.02
+        633.56
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 140.94,
-      "change": 2.08,
+      "price": 141.91,
+      "change": 2.78,
       "series": [
         145.75,
         154.04,
@@ -261,13 +203,71 @@
         137.79,
         137.3,
         138.07,
-        140.95
+        141.91
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "price": 470.8,
+      "change": 2.53,
+      "series": [
+        415.5,
+        417.01,
+        428.91,
+        439.0,
+        435.36,
+        428.03,
+        433.24,
+        418.01,
+        413.75,
+        417.72,
+        430.26,
+        434.67,
+        445.14,
+        452.0,
+        446.57,
+        451.15,
+        450.61,
+        452.88,
+        456.94,
+        456.19,
+        459.2,
+        470.8
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "price": 351.9,
+      "change": 2.4,
+      "series": [
+        367.24,
+        357.16,
+        357.9,
+        368.56,
+        364.38,
+        360.83,
+        361.99,
+        344.72,
+        339.27,
+        339.51,
+        347.3,
+        357.61,
+        362.66,
+        364.54,
+        354.99,
+        350.36,
+        352.81,
+        349.57,
+        355.1,
+        351.19,
+        343.64,
+        351.9
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 235.04,
-      "change": 1.81,
+      "price": 234.57,
+      "change": 1.61,
       "series": [
         224.41,
         228.45,
@@ -290,13 +290,13 @@
         227.21,
         228.38,
         230.86,
-        235.04
+        234.57
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 343.41,
-      "change": 1.53,
+      "price": 341.62,
+      "change": 1.0,
       "series": [
         337.12,
         342.48,
@@ -319,42 +319,13 @@
         340.92,
         344.08,
         338.24,
-        343.41
-      ]
-    },
-    {
-      "symbol": "PLTR",
-      "price": 192.2,
-      "change": 1.14,
-      "series": [
-        169.46,
-        182.53,
-        174.33,
-        170.3,
-        169.53,
-        165.86,
-        167.23,
-        173.31,
-        172.56,
-        174.34,
-        176.24,
-        177.64,
-        183.09,
-        184.99,
-        191.79,
-        192.59,
-        189.67,
-        187.48,
-        186.97,
-        187.05,
-        190.04,
-        192.2
+        341.62
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 250.87,
-      "change": 1.06,
+      "price": 250.53,
+      "change": 0.92,
       "series": [
         254.98,
         258.9,
@@ -377,13 +348,13 @@
         246.67,
         249.15,
         248.23,
-        250.87
+        250.52
       ]
     },
     {
       "symbol": "META",
-      "price": 731.06,
-      "change": 0.71,
+      "price": 731.0,
+      "change": 0.7,
       "series": [
         592.85,
         610.68,
@@ -406,42 +377,13 @@
         738.79,
         725.18,
         725.93,
-        731.06
-      ]
-    },
-    {
-      "symbol": "MSFT",
-      "price": 514.76,
-      "change": 0.38,
-      "series": [
-        496.82,
-        510.12,
-        499.7,
-        493.95,
-        491.65,
-        492.44,
-        495.63,
-        505.41,
-        497.12,
-        490.3,
-        497.75,
-        493.78,
-        501.61,
-        498.0,
-        500.59,
-        497.93,
-        516.17,
-        509.22,
-        508.96,
-        512.9,
-        512.8,
-        514.76
+        731.01
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 331.37,
-      "change": 0.32,
+      "price": 331.87,
+      "change": 0.47,
       "series": [
         324.96,
         328.21,
@@ -464,7 +406,65 @@
         329.4,
         333.02,
         330.32,
-        331.36
+        331.86
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "price": 515.15,
+      "change": 0.46,
+      "series": [
+        496.82,
+        510.12,
+        499.7,
+        493.95,
+        491.65,
+        492.44,
+        495.63,
+        505.41,
+        497.12,
+        490.3,
+        497.75,
+        493.78,
+        501.61,
+        498.0,
+        500.59,
+        497.93,
+        516.17,
+        509.22,
+        508.96,
+        512.9,
+        512.8,
+        515.15
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "price": 190.67,
+      "change": 0.33,
+      "series": [
+        169.46,
+        182.53,
+        174.33,
+        170.3,
+        169.53,
+        165.86,
+        167.23,
+        173.31,
+        172.56,
+        174.34,
+        176.24,
+        177.64,
+        183.09,
+        184.99,
+        191.79,
+        192.59,
+        189.67,
+        187.48,
+        186.97,
+        187.05,
+        190.04,
+        190.67
       ]
     }
   ],
@@ -616,13 +616,6 @@
       "tags": []
     },
     {
-      "title": "\u2018Complete destruction of the economy is all but certain\u2019: Top jobs and home prices are at risk, a new report on AI says",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
       "summary": "",
       "source": "MarketWatch",
@@ -634,6 +627,13 @@
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018Complete disruption of the economy is all but certain\u2019: Top jobs and home prices are at risk, a new report on AI says",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -651,6 +651,6 @@
       "tags": []
     }
   ],
-  "updated": "02 Oct 2026, 15:13 UTC",
-  "updated_iso": "2026-10-02T15:13:09.224801+00:00"
+  "updated": "02 Oct 2026, 15:31 UTC",
+  "updated_iso": "2026-10-02T15:31:12.197338+00:00"
 }
