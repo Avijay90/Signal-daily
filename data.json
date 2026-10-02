@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,720.35",
-      "change": 0.7,
+      "value": "7,720.87",
+      "change": 0.71,
       "series": [
         7666.6,
         7747.71,
@@ -27,14 +27,14 @@
         7670.84,
         7651.54,
         7666.45,
-        7720.35
+        7720.87
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,173.43",
-      "change": 1.12,
+      "value": "27,174.82",
+      "change": 1.13,
       "series": [
         26217.83,
         26584.06,
@@ -57,7 +57,7 @@
         26797.54,
         26861.06,
         26871.6,
-        27173.43
+        27174.82
       ]
     },
     {
@@ -121,8 +121,8 @@
   "stocks": [
     {
       "symbol": "TSLA",
-      "price": 370.93,
-      "change": 4.75,
+      "price": 372.5,
+      "change": 5.19,
       "series": [
         357.01,
         376.37,
@@ -145,13 +145,13 @@
         352.84,
         354.81,
         354.11,
-        370.93
+        372.5
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 355.78,
-      "change": 3.53,
+      "price": 355.11,
+      "change": 3.34,
       "series": [
         367.24,
         357.16,
@@ -174,42 +174,13 @@
         355.1,
         351.19,
         343.64,
-        355.78
-      ]
-    },
-    {
-      "symbol": "ORCL",
-      "price": 141.95,
-      "change": 2.81,
-      "series": [
-        145.75,
-        154.04,
-        158.78,
-        162.52,
-        161.63,
-        152.94,
-        150.28,
-        144.79,
-        140.35,
-        143.16,
-        150.59,
-        147.61,
-        148.56,
-        149.2,
-        144.56,
-        139.54,
-        137.1,
-        132.6,
-        137.79,
-        137.3,
-        138.07,
-        141.95
+        355.11
       ]
     },
     {
       "symbol": "TSM",
-      "price": 471.37,
-      "change": 2.65,
+      "price": 472.69,
+      "change": 2.94,
       "series": [
         415.5,
         417.01,
@@ -232,13 +203,42 @@
         456.94,
         456.19,
         459.2,
-        471.37
+        472.69
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "price": 142.03,
+      "change": 2.87,
+      "series": [
+        145.75,
+        154.04,
+        158.78,
+        162.52,
+        161.63,
+        152.94,
+        150.28,
+        144.79,
+        140.35,
+        143.16,
+        150.59,
+        147.61,
+        148.56,
+        149.2,
+        144.56,
+        139.54,
+        137.1,
+        132.6,
+        137.79,
+        137.3,
+        138.07,
+        142.03
       ]
     },
     {
       "symbol": "AMD",
-      "price": 631.69,
-      "change": 2.59,
+      "price": 631.99,
+      "change": 2.64,
       "series": [
         457.06,
         456.16,
@@ -261,13 +261,13 @@
         607.57,
         611.76,
         615.73,
-        631.69
+        631.98
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 234.47,
-      "change": 1.56,
+      "price": 234.53,
+      "change": 1.59,
       "series": [
         224.41,
         228.45,
@@ -290,13 +290,13 @@
         227.21,
         228.38,
         230.86,
-        234.47
+        234.53
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 343.25,
-      "change": 1.48,
+      "price": 342.94,
+      "change": 1.39,
       "series": [
         337.12,
         342.48,
@@ -319,13 +319,13 @@
         340.92,
         344.08,
         338.24,
-        343.25
+        342.94
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 333.69,
-      "change": 1.02,
+      "price": 333.52,
+      "change": 0.97,
       "series": [
         324.96,
         328.21,
@@ -348,13 +348,13 @@
         329.4,
         333.02,
         330.32,
-        333.69
+        333.52
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 250.4,
-      "change": 0.87,
+      "price": 250.56,
+      "change": 0.94,
       "series": [
         254.98,
         258.9,
@@ -377,13 +377,13 @@
         246.67,
         249.15,
         248.23,
-        250.4
+        250.56
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 514.92,
-      "change": 0.41,
+      "price": 514.86,
+      "change": 0.4,
       "series": [
         496.82,
         510.12,
@@ -406,13 +406,13 @@
         508.96,
         512.9,
         512.8,
-        514.92
+        514.86
       ]
     },
     {
       "symbol": "META",
-      "price": 727.96,
-      "change": 0.28,
+      "price": 727.74,
+      "change": 0.25,
       "series": [
         592.85,
         610.68,
@@ -435,13 +435,13 @@
         738.79,
         725.18,
         725.93,
-        727.96
+        727.74
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 189.51,
-      "change": -0.28,
+      "price": 189.38,
+      "change": -0.35,
       "series": [
         169.46,
         182.53,
@@ -464,7 +464,7 @@
         186.97,
         187.05,
         190.04,
-        189.51
+        189.38
       ]
     }
   ],
@@ -567,27 +567,6 @@
   ],
   "markets": [
     {
-      "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018Complete disruption of the economy is all but certain\u2019: Top jobs and home prices are at risk, a new report on AI says",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "More than 10 million older adults are now living in poverty as Social Security cuts loom: \u2018I don\u2019t know how anyone is making it\u2019",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/more-than-10-million-older-adults-are-now-living-in-poverty-as-social-security-cuts-loom-i-dont-know-how-anyone-is-making-it-237ab798?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
       "summary": "",
       "source": "MarketWatch",
@@ -637,6 +616,27 @@
       "tags": []
     },
     {
+      "title": "Cars have become unaffordable for many Americans. Here\u2019s what the numbers show.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
       "summary": "",
       "source": "CNBC",
@@ -653,6 +653,6 @@
       ]
     }
   ],
-  "updated": "02 Oct 2026, 18:46 UTC",
-  "updated_iso": "2026-10-02T18:46:20.983619+00:00"
+  "updated": "02 Oct 2026, 19:05 UTC",
+  "updated_iso": "2026-10-02T19:05:22.282784+00:00"
 }
