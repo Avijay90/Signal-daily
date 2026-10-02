@@ -67,7 +67,7 @@ indices:[{name:"S&P 500",symbol:"^GSPC",value:"sample",change:0.4,series:ser},{n
 stocks:[{symbol:"NVDA",price:0,change:1.2,series:ser},{symbol:"MSFT",price:0,change:-0.5}],
 ai:[{title:"Sample AI story",summary:"The daily agent replaces this with real headlines.",source:"example.com",url:"#",tags:["OpenAI","Funding"]}],
 markets:[{title:"Sample market story",summary:"The daily agent replaces this with real headlines.",source:"example.com",url:"#",tags:["Earnings"]}]};
-var LIVE="";/* Cloudflare Worker URL, e.g. https://quotes.yourname.workers.dev */
+var LIVE="https://little-dream-15a6.toankurvijay-90.workers.dev";/* Cloudflare Worker URL, e.g. https://quotes.yourname.workers.dev */
 var LIVE_T="";
 function live(){if(!LIVE||document.hidden)return;
 var sy=(D.indices||[]).map(function(i){return i.symbol}).concat((D.stocks||[]).map(function(s){return s.symbol})).filter(Boolean);
