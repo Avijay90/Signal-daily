@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,488.66",
-      "change": 0.58,
+      "value": "10,479.21",
+      "change": 0.49,
       "series": [
         10831.5,
         10831.1,
@@ -113,7 +113,7 @@
         10636.7,
         10606.0,
         10428.3,
-        10488.66
+        10479.21
       ]
     }
   ],
@@ -556,13 +556,6 @@
   ],
   "markets": [
     {
-      "title": "The stock market is anything but normal right now \u2014 and these charts show it",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
       "summary": "",
       "source": "MarketWatch",
@@ -630,6 +623,13 @@
       "tags": []
     },
     {
+      "title": "Another viral AI doomsday report claims \u2018it\u2019s over.\u2019 Why home prices could take a hit as screen-based jobs disappear.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
       "summary": "",
       "source": "CNBC",
@@ -646,6 +646,6 @@
       "tags": []
     }
   ],
-  "updated": "02 Oct 2026, 09:27 UTC",
-  "updated_iso": "2026-10-02T09:27:26.525491+00:00"
+  "updated": "02 Oct 2026, 09:42 UTC",
+  "updated_iso": "2026-10-02T09:42:02.823073+00:00"
 }
