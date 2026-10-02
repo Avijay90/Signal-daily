@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,451.81",
-      "change": 0.23,
+      "value": "10,442.27",
+      "change": 0.13,
       "series": [
         10831.5,
         10831.1,
@@ -113,7 +113,7 @@
         10636.7,
         10606.0,
         10428.3,
-        10451.81
+        10442.27
       ]
     }
   ],
@@ -556,15 +556,6 @@
   ],
   "markets": [
     {
-      "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
       "title": "This could be the worst year ever for Nike\u2019s stock, with sales set to fall further",
       "summary": "",
       "source": "MarketWatch",
@@ -576,13 +567,6 @@
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -630,13 +614,18 @@
       "tags": []
     },
     {
-      "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
-      "tags": [
-        "Rates & Fed"
-      ]
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Brazil is holding an election \u2014 and for the stock market, there\u2019s more to gain than to lose, says fund manager",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/brazil-is-holding-an-election-and-for-the-stock-market-theres-more-to-gain-than-to-lose-says-fund-manager-fa29f26e?mod=mw_rss_topstories",
+      "tags": []
     },
     {
       "title": "Here's who attended the Trump-Xi state dinner",
@@ -644,8 +633,15 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
       "tags": []
+    },
+    {
+      "title": "China's Xi urges U.S. to cooperate on AI",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+      "tags": []
     }
   ],
-  "updated": "02 Oct 2026, 10:03 UTC",
-  "updated_iso": "2026-10-02T10:03:26.338748+00:00"
+  "updated": "02 Oct 2026, 10:25 UTC",
+  "updated_iso": "2026-10-02T10:25:17.941550+00:00"
 }
