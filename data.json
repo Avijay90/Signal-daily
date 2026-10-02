@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,748.63",
-      "change": 1.07,
+      "value": "7,739.05",
+      "change": 0.95,
       "series": [
         7666.6,
         7747.71,
@@ -27,14 +27,14 @@
         7670.84,
         7651.54,
         7666.45,
-        7748.63
+        7739.05
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,319.18",
-      "change": 1.67,
+      "value": "27,279.67",
+      "change": 1.52,
       "series": [
         26217.83,
         26584.06,
@@ -57,7 +57,7 @@
         26797.54,
         26861.06,
         26871.6,
-        27319.18
+        27279.67
       ]
     },
     {
@@ -91,7 +91,7 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,482.26",
+      "value": "10,482.10",
       "change": 0.52,
       "series": [
         10831.5,
@@ -115,15 +115,15 @@
         10636.7,
         10606.0,
         10428.3,
-        10482.26
+        10482.1
       ]
     }
   ],
   "stocks": [
     {
       "symbol": "TSLA",
-      "price": 373.3,
-      "change": 5.42,
+      "price": 371.95,
+      "change": 5.04,
       "series": [
         357.01,
         376.37,
@@ -146,42 +146,13 @@
         352.84,
         354.81,
         354.11,
-        373.3
-      ]
-    },
-    {
-      "symbol": "ORCL",
-      "price": 144.79,
-      "change": 4.87,
-      "series": [
-        145.75,
-        154.04,
-        158.78,
-        162.52,
-        161.63,
-        152.94,
-        150.28,
-        144.79,
-        140.35,
-        143.16,
-        150.59,
-        147.61,
-        148.56,
-        149.2,
-        144.56,
-        139.54,
-        137.1,
-        132.6,
-        137.79,
-        137.3,
-        138.07,
-        144.79
+        371.95
       ]
     },
     {
       "symbol": "AMD",
-      "price": 638.72,
-      "change": 3.73,
+      "price": 639.14,
+      "change": 3.8,
       "series": [
         457.06,
         456.16,
@@ -204,13 +175,42 @@
         607.57,
         611.76,
         615.73,
-        638.72
+        639.14
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "price": 142.75,
+      "change": 3.39,
+      "series": [
+        145.75,
+        154.04,
+        158.78,
+        162.52,
+        161.63,
+        152.94,
+        150.28,
+        144.79,
+        140.35,
+        143.16,
+        150.59,
+        147.61,
+        148.56,
+        149.2,
+        144.56,
+        139.54,
+        137.1,
+        132.6,
+        137.79,
+        137.3,
+        138.07,
+        142.75
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 356.27,
-      "change": 3.68,
+      "price": 354.85,
+      "change": 3.26,
       "series": [
         367.24,
         357.16,
@@ -233,13 +233,13 @@
         355.1,
         351.19,
         343.64,
-        356.27
+        354.85
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 236.72,
-      "change": 2.54,
+      "price": 236.75,
+      "change": 2.55,
       "series": [
         224.41,
         228.45,
@@ -262,13 +262,13 @@
         227.21,
         228.38,
         230.86,
-        236.72
+        236.75
       ]
     },
     {
       "symbol": "TSM",
-      "price": 469.48,
-      "change": 2.24,
+      "price": 469.77,
+      "change": 2.3,
       "series": [
         415.5,
         417.01,
@@ -291,13 +291,13 @@
         456.94,
         456.19,
         459.2,
-        469.48
+        469.77
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 194.03,
-      "change": 2.1,
+      "price": 193.86,
+      "change": 2.01,
       "series": [
         169.46,
         182.53,
@@ -320,13 +320,13 @@
         186.97,
         187.05,
         190.04,
-        194.04
+        193.86
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 345.29,
-      "change": 2.08,
+      "price": 344.71,
+      "change": 1.91,
       "series": [
         337.12,
         342.48,
@@ -349,13 +349,13 @@
         340.92,
         344.08,
         338.24,
-        345.29
+        344.71
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 252.22,
-      "change": 1.61,
+      "price": 251.54,
+      "change": 1.33,
       "series": [
         254.98,
         258.9,
@@ -378,13 +378,13 @@
         246.67,
         249.15,
         248.23,
-        252.22
+        251.54
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 333.86,
-      "change": 1.07,
+      "price": 333.36,
+      "change": 0.92,
       "series": [
         324.96,
         328.21,
@@ -407,13 +407,13 @@
         329.4,
         333.02,
         330.32,
-        333.86
+        333.36
       ]
     },
     {
       "symbol": "META",
-      "price": 733.62,
-      "change": 1.06,
+      "price": 732.3,
+      "change": 0.88,
       "series": [
         592.85,
         610.68,
@@ -436,13 +436,13 @@
         738.79,
         725.18,
         725.93,
-        733.62
+        732.3
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 516.93,
-      "change": 0.81,
+      "price": 515.81,
+      "change": 0.59,
       "series": [
         496.82,
         510.12,
@@ -465,7 +465,7 @@
         508.96,
         512.9,
         512.8,
-        516.93
+        515.81
       ]
     }
   ],
@@ -570,13 +570,6 @@
   ],
   "markets": [
     {
-      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "To win the humanoid-robots race, the U.S. needs this critical machine component that\u2019s hard to find",
       "summary": "",
       "source": "MarketWatch",
@@ -640,6 +633,13 @@
       "tags": []
     },
     {
+      "title": "\u2018Complete destruction of the economy is all but certain\u2019: Top jobs and home prices are at risk, a new report on AI says",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
       "summary": "",
       "source": "CNBC",
@@ -654,6 +654,6 @@
       "tags": []
     }
   ],
-  "updated": "02 Oct 2026, 14:44 UTC",
-  "updated_iso": "2026-10-02T14:44:41.857700+00:00"
+  "updated": "02 Oct 2026, 14:58 UTC",
+  "updated_iso": "2026-10-02T14:58:45.696542+00:00"
 }
