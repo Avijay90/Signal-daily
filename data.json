@@ -89,8 +89,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,455.83",
-      "change": 0.26,
+      "value": "10,448.41",
+      "change": 0.19,
       "series": [
         10831.5,
         10831.1,
@@ -113,7 +113,7 @@
         10636.7,
         10606.0,
         10428.3,
-        10455.83
+        10448.41
       ]
     }
   ],
@@ -628,13 +628,6 @@
       "tags": []
     },
     {
-      "title": "China's Xi urges U.S. to cooperate on AI",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
-      "tags": []
-    },
-    {
       "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
       "summary": "",
       "source": "CNBC",
@@ -642,8 +635,15 @@
       "tags": [
         "Crypto"
       ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
+      "tags": []
     }
   ],
-  "updated": "02 Oct 2026, 11:53 UTC",
-  "updated_iso": "2026-10-02T11:53:02.404578+00:00"
+  "updated": "02 Oct 2026, 12:04 UTC",
+  "updated_iso": "2026-10-02T12:04:50.453962+00:00"
 }
