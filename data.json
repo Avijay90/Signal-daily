@@ -548,13 +548,6 @@
   ],
   "markets": [
     {
-      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
       "summary": "",
       "source": "MarketWatch",
@@ -620,6 +613,16 @@
       "tags": []
     },
     {
+      "title": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed",
+        "Oil & energy"
+      ]
+    },
+    {
       "title": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
       "summary": "",
       "source": "CNBC",
@@ -636,6 +639,6 @@
       ]
     }
   ],
-  "updated": "02 Oct 2026, 21:52 UTC",
-  "updated_iso": "2026-10-02T21:52:04.711962+00:00"
+  "updated": "02 Oct 2026, 22:02 UTC",
+  "updated_iso": "2026-10-02T22:02:58.958385+00:00"
 }
