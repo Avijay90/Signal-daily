@@ -457,20 +457,6 @@
   ],
   "ai": [
     {
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "tags": []
-    },
-    {
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "tags": []
-    },
-    {
       "title": "Amazon releases its own Jev clone as decision models flood the web",
       "summary": "",
       "source": "TechCrunch",
@@ -545,17 +531,66 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
       "tags": []
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Blackstone\u2019s Jas Khaira on building the next generation of AI giants",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "tags": []
+    },
+    {
+      "title": "It\u2019s\u00a0not AI anymore,\u00a0it\u2019s\u00a0\u2018super intelligence\u2019 (according to the White House)",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "tags": []
     }
   ],
   "markets": [
     {
-      "title": "I bought a $126 concert ticket for my sister and now she can\u2019t go. Will I be able to make a profit selling the ticket?",
+      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
       "summary": "",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-bought-a-126-concert-ticket-for-my-sister-and-now-she-cant-go-will-i-be-able-to-make-a-profit-selling-the-ticket-1dd5cbe9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The Treasury Department started Trump accounts for 60 million kids \u2014 but families still have to take this step if they want one",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
       "tags": [
-        "Earnings"
+        "Crypto"
       ]
+    },
+    {
+      "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "tags": []
     },
     {
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
@@ -565,59 +600,24 @@
       "tags": []
     },
     {
-      "title": "The next big AI battle is all about cuteness",
+      "title": "Switching jobs to get higher pay works best in these industries",
       "summary": "",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-next-big-ai-battle-is-all-about-cuteness-41f6f948?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "The U.S. jobs market just took a turn for the worse. Or did it?",
+      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
       "summary": "",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-u-s-jobs-market-just-took-a-turn-for-the-worse-or-did-it-c44c371b?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
       "summary": "",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "I made $500,000 from a stock sale in my IRA. Could this change my retirement?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-made-500-000-from-a-stock-sale-in-my-ira-could-this-change-my-retirement-6bddcf0d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "You might be shocked by how many stocks are in a bear market right now",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Cars have become unaffordable for many Americans. Here\u2019s what the numbers show.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -637,6 +637,6 @@
       "tags": []
     }
   ],
-  "updated": "03 Oct 2026, 14:52 UTC",
-  "updated_iso": "2026-10-03T14:52:03.633593+00:00"
+  "updated": "03 Oct 2026, 18:47 UTC",
+  "updated_iso": "2026-10-03T18:47:55.035011+00:00"
 }
