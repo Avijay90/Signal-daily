@@ -549,13 +549,6 @@
   ],
   "markets": [
     {
-      "title": "Saving your retirement could come down to this simple writing exercise",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
       "summary": "",
       "source": "MarketWatch",
@@ -624,6 +617,13 @@
       "tags": []
     },
     {
+      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
       "summary": "",
       "source": "CNBC",
@@ -640,6 +640,6 @@
       ]
     }
   ],
-  "updated": "03 Oct 2026, 02:02 UTC",
-  "updated_iso": "2026-10-03T02:02:57.271989+00:00"
+  "updated": "03 Oct 2026, 02:25 UTC",
+  "updated_iso": "2026-10-03T02:25:59.301173+00:00"
 }
