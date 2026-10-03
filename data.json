@@ -444,13 +444,6 @@
   ],
   "ai": [
     {
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "tags": []
-    },
-    {
       "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
       "summary": "",
       "source": "TechCrunch",
@@ -531,6 +524,13 @@
       "summary": "",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "tags": []
+    },
+    {
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
       "tags": []
     }
   ],
@@ -627,6 +627,6 @@
       ]
     }
   ],
-  "updated": "03 Oct 2026, 00:31 UTC",
-  "updated_iso": "2026-10-03T00:31:07.349463+00:00"
+  "updated": "03 Oct 2026, 00:55 UTC",
+  "updated_iso": "2026-10-03T00:55:04.516039+00:00"
 }
