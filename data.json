@@ -457,13 +457,6 @@
   ],
   "ai": [
     {
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "tags": []
-    },
-    {
       "title": "Brian Chesky interview: AI agents need their own operating system",
       "summary": "",
       "source": "TechCrunch",
@@ -545,9 +538,25 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
       "tags": []
+    },
+    {
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "tags": []
     }
   ],
   "markets": [
+    {
+      "title": "I bought a $126 concert ticket for my sister and now she can\u2019t go. Will I be able to make a profit selling the ticket?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-bought-a-126-concert-ticket-for-my-sister-and-now-she-cant-go-will-i-be-able-to-make-a-profit-selling-the-ticket-1dd5cbe9?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
     {
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "summary": "",
@@ -556,30 +565,18 @@
       "tags": []
     },
     {
-      "title": "Does AI have a soul? Pope Leo and Anthropic clash.",
+      "title": "The next big AI battle is all about cuteness",
       "summary": "",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Why mixing politics with your stock portfolio might be costing you money",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/the-next-big-ai-battle-is-all-about-cuteness-41f6f948?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s",
+      "title": "The U.S. jobs market just took a turn for the worse. Or did it?",
       "summary": "",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed",
-        "Oil & energy"
-      ]
+      "url": "https://www.marketwatch.com/story/the-u-s-jobs-market-just-took-a-turn-for-the-worse-or-did-it-c44c371b?mod=mw_rss_topstories",
+      "tags": []
     },
     {
       "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
@@ -589,45 +586,38 @@
       "tags": []
     },
     {
-      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+      "title": "I made $500,000 from a stock sale in my IRA. Could this change my retirement?",
       "summary": "",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/i-made-500-000-from-a-stock-sale-in-my-ira-could-this-change-my-retirement-6bddcf0d?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Why Western Digital and Seagate are seeing big stock drops today",
+      "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
       "summary": "",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House",
+      "title": "You might be shocked by how many stocks are in a bear market right now",
       "summary": "",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-companies-look-set-to-face-high-profile-hearings-and-other-scrutiny-if-democrats-win-the-house-513fe8e7?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?",
       "summary": "",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "As Treasury yields touch generational highs, investors brace for the market fallout",
+      "title": "Cars have become unaffordable for many Americans. Here\u2019s what the numbers show.",
       "summary": "",
       "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/as-treasury-yields-touch-generational-highs-investors-brace-for-the-market-fallout-0457e698?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-midday-akam-geni-ppli.html",
+      "url": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -638,8 +628,15 @@
       "tags": [
         "Regulation"
       ]
+    },
+    {
+      "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
+      "tags": []
     }
   ],
-  "updated": "03 Oct 2026, 11:55 UTC",
-  "updated_iso": "2026-10-03T11:55:03.676716+00:00"
+  "updated": "03 Oct 2026, 14:52 UTC",
+  "updated_iso": "2026-10-03T14:52:03.633593+00:00"
 }
