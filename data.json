@@ -549,20 +549,6 @@
   ],
   "markets": [
     {
-      "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Europe\u2019s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "summary": "",
       "source": "MarketWatch",
@@ -617,10 +603,24 @@
       "tags": []
     },
     {
+      "title": "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-companies-look-set-to-face-high-profile-hearings-and-other-scrutiny-if-democrats-win-the-house-513fe8e7?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "As Treasury yields touch generational highs, investors brace for the market fallout",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/as-treasury-yields-touch-generational-highs-investors-brace-for-the-market-fallout-0457e698?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -640,6 +640,6 @@
       ]
     }
   ],
-  "updated": "03 Oct 2026, 10:48 UTC",
-  "updated_iso": "2026-10-03T10:48:59.630145+00:00"
+  "updated": "03 Oct 2026, 11:55 UTC",
+  "updated_iso": "2026-10-03T11:55:03.676716+00:00"
 }
