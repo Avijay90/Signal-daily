@@ -457,13 +457,6 @@
   ],
   "ai": [
     {
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "tags": []
-    },
-    {
       "title": "Opus 5.5 loves to tell you \u2018this matters\u2019 (and other AI writing tells)",
       "summary": "",
       "source": "TechCrunch",
@@ -545,30 +538,16 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
       "tags": []
+    },
+    {
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Switching jobs to get higher pay works best in these industries",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
       "summary": "",
@@ -622,12 +601,28 @@
       "tags": []
     },
     {
-      "title": "Appeals court rules that states can regulate Kalshi\u2019s sports prediction markets, dealing another legal blow to platforms",
+      "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
       "tags": [
-        "Regulation"
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "October can be a scary month for stocks. Here\u2019s what investors need to watch this year.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Corporate America has never been this upbeat about future profits",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
       ]
     },
     {
@@ -636,8 +631,15 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
       "tags": []
+    },
+    {
+      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "tags": []
     }
   ],
-  "updated": "04 Oct 2026, 10:30 UTC",
-  "updated_iso": "2026-10-04T10:30:09.512621+00:00"
+  "updated": "04 Oct 2026, 17:14 UTC",
+  "updated_iso": "2026-10-04T17:14:28.573158+00:00"
 }
