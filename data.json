@@ -549,36 +549,6 @@
   ],
   "markets": [
     {
-      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The Treasury Department started Trump accounts for 60 million kids \u2014 but families still have to take this step if they want one",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "tags": [
-        "Crypto"
-      ]
-    },
-    {
       "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
       "summary": "",
       "source": "MarketWatch",
@@ -590,13 +560,6 @@
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -621,6 +584,44 @@
       "tags": []
     },
     {
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed",
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Appeals court rules that states can regulate Kalshi\u2019s sports prediction markets, dealing another legal blow to platforms",
       "summary": "",
       "source": "CNBC",
@@ -637,6 +638,6 @@
       "tags": []
     }
   ],
-  "updated": "03 Oct 2026, 18:47 UTC",
-  "updated_iso": "2026-10-03T18:47:55.035011+00:00"
+  "updated": "04 Oct 2026, 02:24 UTC",
+  "updated_iso": "2026-10-04T02:24:49.860291+00:00"
 }
