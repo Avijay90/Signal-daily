@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,776.11",
-      "change": 0.69,
+      "value": "7,774.11",
+      "change": 0.67,
       "series": [
         7673.52,
         7636.36,
@@ -25,14 +25,14 @@
         7651.54,
         7666.45,
         7722.72,
-        7776.11
+        7774.11
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,467.89",
-      "change": 1.02,
+      "value": "27,445.97",
+      "change": 0.94,
       "series": [
         26421.41,
         26253.34,
@@ -53,7 +53,7 @@
         26861.06,
         26871.6,
         27190.86,
-        27467.89
+        27445.97
       ]
     },
     {
@@ -114,8 +114,8 @@
   "stocks": [
     {
       "symbol": "TSM",
-      "price": 486.52,
-      "change": 2.91,
+      "price": 485.38,
+      "change": 2.66,
       "series": [
         439.0,
         435.36,
@@ -136,13 +136,13 @@
         456.19,
         459.2,
         472.78,
-        486.52
+        485.38
       ]
     },
     {
       "symbol": "TSLA",
-      "price": 379.99,
-      "change": 2.54,
+      "price": 379.36,
+      "change": 2.37,
       "series": [
         368.16,
         367.81,
@@ -163,13 +163,13 @@
         354.81,
         354.11,
         370.59,
-        379.99
+        379.36
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 363.17,
-      "change": 2.26,
+      "price": 362.23,
+      "change": 1.99,
       "series": [
         368.56,
         364.38,
@@ -190,13 +190,13 @@
         351.19,
         343.64,
         355.14,
-        363.17
+        362.23
       ]
     },
     {
       "symbol": "META",
-      "price": 743.11,
-      "change": 2.06,
+      "price": 742.17,
+      "change": 1.94,
       "series": [
         613.48,
         653.69,
@@ -217,13 +217,13 @@
         725.18,
         725.93,
         728.08,
-        743.11
+        742.17
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 237.76,
-      "change": 1.63,
+      "price": 237.59,
+      "change": 1.56,
       "series": [
         225.73,
         223.67,
@@ -244,13 +244,13 @@
         228.38,
         230.86,
         233.95,
-        237.76
+        237.59
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 525.16,
-      "change": 1.47,
+      "price": 524.82,
+      "change": 1.41,
       "series": [
         493.95,
         491.65,
@@ -271,40 +271,13 @@
         512.9,
         512.8,
         517.53,
-        525.16
-      ]
-    },
-    {
-      "symbol": "ORCL",
-      "price": 143.76,
-      "change": 1.03,
-      "series": [
-        162.52,
-        161.63,
-        152.94,
-        150.28,
-        144.79,
-        140.35,
-        143.16,
-        150.59,
-        147.61,
-        148.56,
-        149.2,
-        144.56,
-        139.54,
-        137.1,
-        132.6,
-        137.79,
-        137.3,
-        138.07,
-        142.3,
-        143.76
+        524.82
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 347.0,
-      "change": 1.02,
+      "price": 347.1,
+      "change": 1.05,
       "series": [
         338.36,
         330.65,
@@ -325,13 +298,40 @@
         344.08,
         338.24,
         343.5,
-        347.0
+        347.1
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "price": 143.68,
+      "change": 0.97,
+      "series": [
+        162.52,
+        161.63,
+        152.94,
+        150.28,
+        144.79,
+        140.35,
+        143.16,
+        150.59,
+        147.61,
+        148.56,
+        149.2,
+        144.56,
+        139.54,
+        137.1,
+        132.6,
+        137.79,
+        137.3,
+        138.07,
+        142.3,
+        143.68
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 253.93,
-      "change": 0.96,
+      "price": 253.26,
+      "change": 0.69,
       "series": [
         256.97,
         252.4,
@@ -352,13 +352,13 @@
         249.15,
         248.23,
         251.52,
-        253.93
+        253.26
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 189.15,
-      "change": 0.21,
+      "price": 189.2,
+      "change": 0.24,
       "series": [
         170.3,
         169.53,
@@ -379,40 +379,13 @@
         187.05,
         190.04,
         188.75,
-        189.15
-      ]
-    },
-    {
-      "symbol": "AAPL",
-      "price": 333.13,
-      "change": -0.17,
-      "series": [
-        316.22,
-        315.34,
-        326.57,
-        332.27,
-        333.08,
-        331.34,
-        332.41,
-        337.0,
-        336.13,
-        338.98,
-        339.75,
-        337.02,
-        335.92,
-        341.07,
-        338.4,
-        329.4,
-        333.02,
-        330.32,
-        333.69,
-        333.13
+        189.2
       ]
     },
     {
       "symbol": "AMD",
-      "price": 632.53,
-      "change": -0.22,
+      "price": 631.9,
+      "change": -0.32,
       "series": [
         505.74,
         521.1,
@@ -433,7 +406,34 @@
         611.76,
         615.73,
         633.91,
-        632.53
+        631.9
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "price": 332.48,
+      "change": -0.36,
+      "series": [
+        316.22,
+        315.34,
+        326.57,
+        332.27,
+        333.08,
+        331.34,
+        332.41,
+        337.0,
+        336.13,
+        338.98,
+        339.75,
+        337.02,
+        335.92,
+        341.07,
+        338.4,
+        329.4,
+        333.02,
+        330.32,
+        333.69,
+        332.48
       ]
     }
   ],
@@ -531,13 +531,6 @@
   ],
   "markets": [
     {
-      "title": "I bought a $126 concert ticket for my sister and now she can\u2019t go. What\u2019s the latest I can resell my ticket to break even?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-bought-a-126-concert-ticket-for-my-sister-and-now-she-cant-go-will-i-be-able-to-make-a-profit-selling-the-ticket-1dd5cbe9?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected wealthy couples due to overspending. We\u2019re all heading for trouble.",
       "summary": "",
       "source": "MarketWatch",
@@ -564,15 +557,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
       "tags": []
-    },
-    {
-      "title": "Saudi Aramco\u2019s CEO may be too downbeat about the road to restocking global oil supplies",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
-      "tags": [
-        "Oil & energy"
-      ]
     },
     {
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
@@ -605,6 +589,22 @@
       "tags": []
     },
     {
+      "title": "AI chatbots recommend shopping at Walmart over just about anywhere else, analysts find",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ai-chatbots-recommend-shopping-at-walmart-over-just-about-anywhere-else-analysts-find-9483b266?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Saudi Aramco\u2019s CEO may be too downbeat about the road to restocking global oil supplies",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
       "title": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure",
       "summary": "",
       "source": "CNBC",
@@ -619,6 +619,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 17:54 UTC",
-  "updated_iso": "2026-10-05T17:54:10.635496+00:00"
+  "updated": "05 Oct 2026, 18:06 UTC",
+  "updated_iso": "2026-10-05T18:06:45.107625+00:00"
 }
