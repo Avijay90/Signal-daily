@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,753.03",
-      "change": 0.39,
+      "value": "7,757.24",
+      "change": 0.45,
       "series": [
         7673.52,
         7636.36,
@@ -25,13 +25,13 @@
         7651.54,
         7666.45,
         7722.72,
-        7753.03
+        7757.24
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,387.99",
+      "value": "27,385.64",
       "change": 0.72,
       "series": [
         26421.41,
@@ -53,7 +53,7 @@
         26861.06,
         26871.6,
         27190.86,
-        27387.99
+        27385.64
       ]
     },
     {
@@ -84,8 +84,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,500.28",
-      "change": 0.37,
+      "value": "10,486.92",
+      "change": 0.24,
       "series": [
         10822.1,
         10811.7,
@@ -107,15 +107,15 @@
         10606.0,
         10428.3,
         10462.0,
-        10500.28
+        10486.92
       ]
     }
   ],
   "stocks": [
     {
       "symbol": "META",
-      "price": 746.66,
-      "change": 2.55,
+      "price": 745.62,
+      "change": 2.41,
       "series": [
         613.48,
         653.69,
@@ -136,40 +136,13 @@
         725.18,
         725.93,
         728.08,
-        746.66
-      ]
-    },
-    {
-      "symbol": "TSLA",
-      "price": 379.01,
-      "change": 2.27,
-      "series": [
-        368.16,
-        367.81,
-        363.56,
-        365.44,
-        358.97,
-        356.58,
-        358.08,
-        366.2,
-        364.27,
-        375.3,
-        378.9,
-        380.12,
-        377.94,
-        372.11,
-        357.45,
-        352.84,
-        354.81,
-        354.11,
-        370.59,
-        379.01
+        745.62
       ]
     },
     {
       "symbol": "TSM",
-      "price": 482.54,
-      "change": 2.06,
+      "price": 484.12,
+      "change": 2.4,
       "series": [
         439.0,
         435.36,
@@ -190,13 +163,13 @@
         456.19,
         459.2,
         472.78,
-        482.54
+        484.12
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 362.14,
-      "change": 1.97,
+      "price": 362.34,
+      "change": 2.03,
       "series": [
         368.56,
         364.38,
@@ -217,13 +190,40 @@
         351.19,
         343.64,
         355.14,
-        362.14
+        362.34
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "price": 377.69,
+      "change": 1.91,
+      "series": [
+        368.16,
+        367.81,
+        363.56,
+        365.44,
+        358.97,
+        356.58,
+        358.08,
+        366.2,
+        364.27,
+        375.3,
+        378.9,
+        380.12,
+        377.94,
+        372.11,
+        357.45,
+        352.84,
+        354.81,
+        354.11,
+        370.59,
+        377.68
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 525.65,
-      "change": 1.57,
+      "price": 526.63,
+      "change": 1.76,
       "series": [
         493.95,
         491.65,
@@ -244,13 +244,13 @@
         512.9,
         512.8,
         517.53,
-        525.65
+        526.63
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 237.25,
-      "change": 1.41,
+      "price": 236.55,
+      "change": 1.11,
       "series": [
         225.73,
         223.67,
@@ -271,13 +271,13 @@
         228.38,
         230.86,
         233.95,
-        237.25
+        236.55
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 143.66,
-      "change": 0.96,
+      "price": 143.17,
+      "change": 0.61,
       "series": [
         162.52,
         161.63,
@@ -298,13 +298,13 @@
         137.3,
         138.07,
         142.3,
-        143.66
+        143.17
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 345.1,
-      "change": 0.47,
+      "price": 345.23,
+      "change": 0.5,
       "series": [
         338.36,
         330.65,
@@ -325,13 +325,13 @@
         344.08,
         338.24,
         343.5,
-        345.1
+        345.23
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 251.64,
-      "change": 0.05,
+      "price": 251.71,
+      "change": 0.07,
       "series": [
         256.97,
         252.4,
@@ -352,13 +352,13 @@
         249.15,
         248.23,
         251.52,
-        251.64
+        251.71
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 333.75,
-      "change": 0.02,
+      "price": 333.44,
+      "change": -0.07,
       "series": [
         316.22,
         315.34,
@@ -379,13 +379,13 @@
         333.02,
         330.32,
         333.69,
-        333.75
+        333.44
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 188.32,
-      "change": -0.23,
+      "price": 188.57,
+      "change": -0.09,
       "series": [
         170.3,
         169.53,
@@ -406,13 +406,13 @@
         187.05,
         190.04,
         188.75,
-        188.32
+        188.57
       ]
     },
     {
       "symbol": "AMD",
-      "price": 627.82,
-      "change": -0.96,
+      "price": 629.7,
+      "change": -0.66,
       "series": [
         505.74,
         521.1,
@@ -433,18 +433,11 @@
         611.76,
         615.73,
         633.91,
-        627.82
+        629.7
       ]
     }
   ],
   "ai": [
-    {
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "tags": []
-    },
     {
       "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
       "summary": "",
@@ -524,6 +517,13 @@
       "summary": "",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "tags": []
+    },
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
       "tags": []
     }
   ],
@@ -620,6 +620,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 15:09 UTC",
-  "updated_iso": "2026-10-05T15:09:20.360480+00:00"
+  "updated": "05 Oct 2026, 15:29 UTC",
+  "updated_iso": "2026-10-05T15:29:48.825069+00:00"
 }
