@@ -87,7 +87,7 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,501.42",
+      "value": "10,501.99",
       "change": 0.38,
       "series": [
         10822.1,
@@ -110,7 +110,7 @@
         10606.0,
         10428.3,
         10462.0,
-        10501.42
+        10501.99
       ]
     }
   ],
@@ -544,29 +544,6 @@
   ],
   "markets": [
     {
-      "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "October can be a scary month for stocks. Here\u2019s what investors need to watch this year.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Corporate America has never been this upbeat about future profits",
       "summary": "",
       "source": "MarketWatch",
@@ -620,6 +597,27 @@
       "tags": []
     },
     {
+      "title": "Larry Ellison to list Palm Beach property for $165 million",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/larry-ellison-to-list-palm-beach-property-for-165-million-6a9c71d2?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "What Bessent is now saying after bond yields didn\u2019t stop rising on \u2018I am the house\u2019 remark",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The average U.S. stock is quietly getting crushed. Morgan Stanley says these ones are worth buying now.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-average-u-s-stock-is-quietly-getting-crushed-morgan-stanley-says-these-ones-are-worth-buying-now-61e04eaa?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
       "summary": "",
       "source": "CNBC",
@@ -634,6 +632,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 09:06 UTC",
-  "updated_iso": "2026-10-05T09:06:43.112883+00:00"
+  "updated": "05 Oct 2026, 09:30 UTC",
+  "updated_iso": "2026-10-05T09:30:35.343256+00:00"
 }
