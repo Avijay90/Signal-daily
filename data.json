@@ -87,8 +87,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,484.27",
-      "change": 0.21,
+      "value": "10,476.48",
+      "change": 0.14,
       "series": [
         10822.1,
         10811.7,
@@ -110,7 +110,7 @@
         10606.0,
         10428.3,
         10462.0,
-        10484.27
+        10476.48
       ]
     }
   ],
@@ -553,13 +553,6 @@
       ]
     },
     {
-      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
       "summary": "",
       "source": "MarketWatch",
@@ -618,6 +611,13 @@
       ]
     },
     {
+      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
       "summary": "",
       "source": "CNBC",
@@ -632,6 +632,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 10:07 UTC",
-  "updated_iso": "2026-10-05T10:07:15.835207+00:00"
+  "updated": "05 Oct 2026, 10:29 UTC",
+  "updated_iso": "2026-10-05T10:29:01.920494+00:00"
 }
