@@ -148,7 +148,7 @@
       "name": "FTSE 100",
       "symbol": "^FTSE",
       "value": "10,497.94",
-      "change": 0.34,
+      "change": 0.67,
       "series": [
         10822.1,
         10811.7,
@@ -169,8 +169,7 @@
         10636.7,
         10606.0,
         10428.3,
-        10462.0,
-        10497.94
+        10462.0
       ],
       "dates": [
         "2026-09-07",
@@ -192,8 +191,7 @@
         "2026-09-29",
         "2026-09-30",
         "2026-10-01",
-        "2026-10-02",
-        "2026-10-05"
+        "2026-10-02"
       ]
     }
   ],
@@ -944,13 +942,6 @@
       "tags": []
     },
     {
-      "title": "New baby bank 'open to everybody'",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/ck624p1y8ejyo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
       "title": "Suppliers pile pressure on government over energy bills",
       "summary": "",
       "source": "BBC Business",
@@ -965,8 +956,15 @@
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
       "tags": []
+    },
+    {
+      "title": "Average five-year mortgage rate hits 6% for first time in three years",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+      "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 22:51 UTC",
-  "updated_iso": "2026-10-05T22:51:28.097446+00:00"
+  "updated": "05 Oct 2026, 23:03 UTC",
+  "updated_iso": "2026-10-05T23:03:31.852448+00:00"
 }
