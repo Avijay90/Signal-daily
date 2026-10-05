@@ -87,8 +87,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,516.52",
-      "change": 0.52,
+      "value": "10,523.30",
+      "change": 0.59,
       "series": [
         10822.1,
         10811.7,
@@ -110,7 +110,7 @@
         10606.0,
         10428.3,
         10462.0,
-        10516.52
+        10523.3
       ]
     }
   ],
@@ -454,15 +454,6 @@
   ],
   "ai": [
     {
-      "title": "Google thinks SpaceX\u2019s Starship has to launch 1,800 times before space data centers get off the ground",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "tags": [
-        "Google"
-      ]
-    },
-    {
       "title": "ChatGPT can now virtually try on clothes for you",
       "summary": "",
       "source": "TechCrunch",
@@ -540,18 +531,16 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
       "tags": []
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
-      "tags": [
-        "Funding"
-      ]
-    },
     {
       "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
       "summary": "",
@@ -567,7 +556,7 @@
       "tags": []
     },
     {
-      "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.",
+      "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says one major bank.",
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
@@ -620,6 +609,13 @@
       "tags": []
     },
     {
+      "title": "Go ahead and get that poetry degree. Republican law won\u2019t prevent people with humanities majors from getting student loans.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/go-ahead-and-get-that-poetry-degree-republican-law-wont-prevent-people-with-humanities-majors-from-getting-student-loans-f94587cf?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
       "summary": "",
       "source": "CNBC",
@@ -634,6 +630,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 12:05 UTC",
-  "updated_iso": "2026-10-05T12:05:59.449299+00:00"
+  "updated": "05 Oct 2026, 12:33 UTC",
+  "updated_iso": "2026-10-05T12:33:21.616251+00:00"
 }
