@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,734.66",
-      "change": 0.15,
+      "value": "7,744.74",
+      "change": 0.29,
       "series": [
         7673.52,
         7636.36,
@@ -25,14 +25,14 @@
         7651.54,
         7666.45,
         7722.72,
-        7734.66
+        7744.74
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,340.75",
-      "change": 0.55,
+      "value": "27,338.64",
+      "change": 0.54,
       "series": [
         26421.41,
         26253.34,
@@ -53,7 +53,7 @@
         26861.06,
         26871.6,
         27190.86,
-        27340.75
+        27338.64
       ]
     },
     {
@@ -85,8 +85,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,473.36",
-      "change": 0.11,
+      "value": "10,464.57",
+      "change": 0.02,
       "series": [
         10822.1,
         10811.7,
@@ -108,15 +108,15 @@
         10606.0,
         10428.3,
         10462.0,
-        10473.36
+        10464.57
       ]
     }
   ],
   "stocks": [
     {
       "symbol": "ORCL",
-      "price": 145.38,
-      "change": 2.16,
+      "price": 145.54,
+      "change": 2.28,
       "series": [
         162.52,
         161.63,
@@ -137,40 +137,13 @@
         137.3,
         138.07,
         142.3,
-        145.38
-      ]
-    },
-    {
-      "symbol": "MSFT",
-      "price": 527.92,
-      "change": 2.01,
-      "series": [
-        493.95,
-        491.65,
-        492.44,
-        495.63,
-        505.41,
-        497.12,
-        490.3,
-        497.75,
-        493.78,
-        501.61,
-        498.0,
-        500.59,
-        497.93,
-        516.17,
-        509.22,
-        508.96,
-        512.9,
-        512.8,
-        517.53,
-        527.92
+        145.54
       ]
     },
     {
       "symbol": "TSLA",
-      "price": 376.29,
-      "change": 1.54,
+      "price": 378.59,
+      "change": 2.16,
       "series": [
         368.16,
         367.81,
@@ -191,13 +164,40 @@
         354.81,
         354.11,
         370.59,
-        376.29
+        378.59
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "price": 526.7,
+      "change": 1.77,
+      "series": [
+        493.95,
+        491.65,
+        492.44,
+        495.63,
+        505.41,
+        497.12,
+        490.3,
+        497.75,
+        493.78,
+        501.61,
+        498.0,
+        500.59,
+        497.93,
+        516.17,
+        509.22,
+        508.96,
+        512.9,
+        512.8,
+        517.53,
+        526.7
       ]
     },
     {
       "symbol": "META",
-      "price": 739.03,
-      "change": 1.5,
+      "price": 739.18,
+      "change": 1.52,
       "series": [
         613.48,
         653.69,
@@ -218,13 +218,13 @@
         725.18,
         725.93,
         728.08,
-        739.03
+        739.18
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 237.19,
-      "change": 1.38,
+      "price": 236.78,
+      "change": 1.21,
       "series": [
         225.73,
         223.67,
@@ -245,13 +245,13 @@
         228.38,
         230.86,
         233.95,
-        237.18
+        236.79
       ]
     },
     {
       "symbol": "TSM",
-      "price": 478.01,
-      "change": 1.11,
+      "price": 477.16,
+      "change": 0.93,
       "series": [
         439.0,
         435.36,
@@ -272,40 +272,13 @@
         456.19,
         459.2,
         472.78,
-        478.01
-      ]
-    },
-    {
-      "symbol": "PLTR",
-      "price": 190.2,
-      "change": 0.77,
-      "series": [
-        170.3,
-        169.53,
-        165.86,
-        167.23,
-        173.31,
-        172.56,
-        174.34,
-        176.24,
-        177.64,
-        183.09,
-        184.99,
-        191.79,
-        192.59,
-        189.67,
-        187.48,
-        186.97,
-        187.05,
-        190.04,
-        188.75,
-        190.2
+        477.16
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 357.56,
-      "change": 0.68,
+      "price": 358.07,
+      "change": 0.83,
       "series": [
         368.56,
         364.38,
@@ -326,13 +299,13 @@
         351.19,
         343.64,
         355.14,
-        357.56
+        358.07
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 345.54,
-      "change": 0.59,
+      "price": 344.44,
+      "change": 0.27,
       "series": [
         338.36,
         330.65,
@@ -353,13 +326,40 @@
         344.08,
         338.24,
         343.5,
-        345.54
+        344.43
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "price": 189.14,
+      "change": 0.21,
+      "series": [
+        170.3,
+        169.53,
+        165.86,
+        167.23,
+        173.31,
+        172.56,
+        174.34,
+        176.24,
+        177.64,
+        183.09,
+        184.99,
+        191.79,
+        192.59,
+        189.67,
+        187.48,
+        186.97,
+        187.05,
+        190.04,
+        188.75,
+        189.14
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 252.79,
-      "change": 0.51,
+      "price": 251.67,
+      "change": 0.06,
       "series": [
         256.97,
         252.4,
@@ -380,13 +380,13 @@
         249.15,
         248.23,
         251.52,
-        252.79
+        251.67
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 334.51,
-      "change": 0.25,
+      "price": 333.24,
+      "change": -0.14,
       "series": [
         316.22,
         315.34,
@@ -407,13 +407,13 @@
         333.02,
         330.32,
         333.69,
-        334.52
+        333.23
       ]
     },
     {
       "symbol": "AMD",
-      "price": 629.28,
-      "change": -0.73,
+      "price": 627.84,
+      "change": -0.96,
       "series": [
         505.74,
         521.1,
@@ -434,20 +434,11 @@
         611.76,
         615.73,
         633.91,
-        629.28
+        627.84
       ]
     }
   ],
   "ai": [
-    {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "tags": [
-        "OpenAI"
-      ]
-    },
     {
       "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
       "summary": "",
@@ -524,16 +515,18 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
       "tags": []
+    },
+    {
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "tags": [
+        "Meta"
+      ]
     }
   ],
   "markets": [
-    {
-      "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says one major bank.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "What Bessent is now saying after bond yields didn\u2019t stop rising on \u2018I am the house\u2019 remark",
       "summary": "",
@@ -556,15 +549,6 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "tags": []
-    },
-    {
-      "title": "Musk hints TSMC may join his mega chip venture, and Intel\u2019s stock is taking a hit",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-      "tags": [
-        "Nvidia"
-      ]
     },
     {
       "title": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected wealthy couples due to overspending. We\u2019re all heading for trouble.",
@@ -605,6 +589,24 @@
       ]
     },
     {
+      "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
+      "tags": [
+        "Funding"
+      ]
+    },
+    {
+      "title": "Intel\u2019s stock drops after Musk hints at an additional partner for big chip venture",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
       "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
       "summary": "",
       "source": "CNBC",
@@ -619,6 +621,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 13:56 UTC",
-  "updated_iso": "2026-10-05T13:56:38.306088+00:00"
+  "updated": "05 Oct 2026, 14:10 UTC",
+  "updated_iso": "2026-10-05T14:10:56.670663+00:00"
 }
