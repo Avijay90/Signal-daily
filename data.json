@@ -87,8 +87,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,489.57",
-      "change": 0.26,
+      "value": "10,524.17",
+      "change": 0.59,
       "series": [
         10822.1,
         10811.7,
@@ -110,7 +110,7 @@
         10606.0,
         10428.3,
         10462.0,
-        10489.57
+        10524.17
       ]
     }
   ],
@@ -544,20 +544,6 @@
   ],
   "markets": [
     {
-      "title": "Larry Ellison to list Palm Beach property for $165 million",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/larry-ellison-to-list-palm-beach-property-for-165-million-6a9c71d2?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The average U.S. stock is quietly getting crushed. Morgan Stanley says these ones are worth buying now.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-average-u-s-stock-is-quietly-getting-crushed-morgan-stanley-says-these-ones-are-worth-buying-now-61e04eaa?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
       "summary": "",
       "source": "MarketWatch",
@@ -611,10 +597,26 @@
       "tags": []
     },
     {
-      "title": "An AI \u2018reality check\u2019 may take the S&P 500 to 5,000. Here\u2019s the trades to make, this strategist says.",
+      "title": "An AI \u2018reality check\u2019 may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Musk hints TSMC may join his mega chip venture, and Intel\u2019s stock is taking a hit",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected wealthy couples due to overspending. We\u2019re all heading for trouble.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -632,6 +634,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 11:28 UTC",
-  "updated_iso": "2026-10-05T11:28:31.906425+00:00"
+  "updated": "05 Oct 2026, 11:45 UTC",
+  "updated_iso": "2026-10-05T11:45:42.727862+00:00"
 }
