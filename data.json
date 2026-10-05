@@ -87,8 +87,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,476.48",
-      "change": 0.14,
+      "value": "10,484.02",
+      "change": 0.21,
       "series": [
         10822.1,
         10811.7,
@@ -110,7 +110,7 @@
         10606.0,
         10428.3,
         10462.0,
-        10476.48
+        10484.02
       ]
     }
   ],
@@ -544,22 +544,6 @@
   ],
   "markets": [
     {
-      "title": "Corporate America has never been this upbeat about future profits",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
       "summary": "",
       "source": "MarketWatch",
@@ -588,13 +572,6 @@
       "tags": []
     },
     {
-      "title": "What Bessent is now saying after bond yields didn\u2019t stop rising on \u2018I am the house\u2019 remark",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "The average U.S. stock is quietly getting crushed. Morgan Stanley says these ones are worth buying now.",
       "summary": "",
       "source": "MarketWatch",
@@ -618,6 +595,27 @@
       "tags": []
     },
     {
+      "title": "Micron\u2019s historic cash bonanza is set to rain down on investors",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microns-historic-cash-bonanza-is-set-to-rain-down-on-investors-b61e6955?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "What Bessent is now saying after bond yields didn\u2019t stop rising on \u2018I am the house\u2019 remark",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
       "summary": "",
       "source": "CNBC",
@@ -632,6 +630,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 10:29 UTC",
-  "updated_iso": "2026-10-05T10:29:01.920494+00:00"
+  "updated": "05 Oct 2026, 10:44 UTC",
+  "updated_iso": "2026-10-05T10:44:59.993290+00:00"
 }
