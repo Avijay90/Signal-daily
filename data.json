@@ -3,7 +3,7 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,752.52",
+      "value": "7,753.03",
       "change": 0.39,
       "series": [
         7673.52,
@@ -25,14 +25,14 @@
         7651.54,
         7666.45,
         7722.72,
-        7752.52
+        7753.03
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,378.11",
-      "change": 0.69,
+      "value": "27,387.99",
+      "change": 0.72,
       "series": [
         26421.41,
         26253.34,
@@ -53,14 +53,14 @@
         26861.06,
         26871.6,
         27190.86,
-        27378.11
+        27387.99
       ]
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "value": "69,946.86",
-      "change": 2.4,
+      "change": 1.44,
       "series": [
         66399.84,
         65269.33,
@@ -78,15 +78,14 @@
         65481.27,
         66753.72,
         68956.72,
-        68309.46,
-        69946.86
+        68309.46
       ]
     },
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,507.11",
-      "change": 0.43,
+      "value": "10,500.28",
+      "change": 0.37,
       "series": [
         10822.1,
         10811.7,
@@ -108,15 +107,15 @@
         10606.0,
         10428.3,
         10462.0,
-        10507.11
+        10500.28
       ]
     }
   ],
   "stocks": [
     {
       "symbol": "META",
-      "price": 743.9,
-      "change": 2.17,
+      "price": 746.66,
+      "change": 2.55,
       "series": [
         613.48,
         653.69,
@@ -137,94 +136,13 @@
         725.18,
         725.93,
         728.08,
-        743.91
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "price": 361.36,
-      "change": 1.75,
-      "series": [
-        368.56,
-        364.38,
-        360.83,
-        361.99,
-        344.72,
-        339.27,
-        339.51,
-        347.3,
-        357.61,
-        362.66,
-        364.54,
-        354.99,
-        350.36,
-        352.81,
-        349.57,
-        355.1,
-        351.19,
-        343.64,
-        355.14,
-        361.36
-      ]
-    },
-    {
-      "symbol": "MSFT",
-      "price": 526.3,
-      "change": 1.69,
-      "series": [
-        493.95,
-        491.65,
-        492.44,
-        495.63,
-        505.41,
-        497.12,
-        490.3,
-        497.75,
-        493.78,
-        501.61,
-        498.0,
-        500.59,
-        497.93,
-        516.17,
-        509.22,
-        508.96,
-        512.9,
-        512.8,
-        517.53,
-        526.3
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "price": 480.3,
-      "change": 1.59,
-      "series": [
-        439.0,
-        435.36,
-        428.03,
-        433.24,
-        418.01,
-        413.75,
-        417.72,
-        430.26,
-        434.67,
-        445.14,
-        452.0,
-        446.57,
-        451.15,
-        450.61,
-        452.88,
-        456.94,
-        456.19,
-        459.2,
-        472.78,
-        480.3
+        746.66
       ]
     },
     {
       "symbol": "TSLA",
-      "price": 375.81,
-      "change": 1.41,
+      "price": 379.01,
+      "change": 2.27,
       "series": [
         368.16,
         367.81,
@@ -245,40 +163,94 @@
         354.81,
         354.11,
         370.59,
-        375.81
+        379.01
       ]
     },
     {
-      "symbol": "ORCL",
-      "price": 144.28,
-      "change": 1.39,
+      "symbol": "TSM",
+      "price": 482.54,
+      "change": 2.06,
       "series": [
-        162.52,
-        161.63,
-        152.94,
-        150.28,
-        144.79,
-        140.35,
-        143.16,
-        150.59,
-        147.61,
-        148.56,
-        149.2,
-        144.56,
-        139.54,
-        137.1,
-        132.6,
-        137.79,
-        137.3,
-        138.07,
-        142.3,
-        144.27
+        439.0,
+        435.36,
+        428.03,
+        433.24,
+        418.01,
+        413.75,
+        417.72,
+        430.26,
+        434.67,
+        445.14,
+        452.0,
+        446.57,
+        451.15,
+        450.61,
+        452.88,
+        456.94,
+        456.19,
+        459.2,
+        472.78,
+        482.54
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "price": 362.14,
+      "change": 1.97,
+      "series": [
+        368.56,
+        364.38,
+        360.83,
+        361.99,
+        344.72,
+        339.27,
+        339.51,
+        347.3,
+        357.61,
+        362.66,
+        364.54,
+        354.99,
+        350.36,
+        352.81,
+        349.57,
+        355.1,
+        351.19,
+        343.64,
+        355.14,
+        362.14
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "price": 525.65,
+      "change": 1.57,
+      "series": [
+        493.95,
+        491.65,
+        492.44,
+        495.63,
+        505.41,
+        497.12,
+        490.3,
+        497.75,
+        493.78,
+        501.61,
+        498.0,
+        500.59,
+        497.93,
+        516.17,
+        509.22,
+        508.96,
+        512.9,
+        512.8,
+        517.53,
+        525.65
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 237.11,
-      "change": 1.35,
+      "price": 237.25,
+      "change": 1.41,
       "series": [
         225.73,
         223.67,
@@ -299,13 +271,40 @@
         228.38,
         230.86,
         233.95,
-        237.11
+        237.25
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "price": 143.66,
+      "change": 0.96,
+      "series": [
+        162.52,
+        161.63,
+        152.94,
+        150.28,
+        144.79,
+        140.35,
+        143.16,
+        150.59,
+        147.61,
+        148.56,
+        149.2,
+        144.56,
+        139.54,
+        137.1,
+        132.6,
+        137.79,
+        137.3,
+        138.07,
+        142.3,
+        143.66
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 343.75,
-      "change": 0.07,
+      "price": 345.1,
+      "change": 0.47,
       "series": [
         338.36,
         330.65,
@@ -326,13 +325,13 @@
         344.08,
         338.24,
         343.5,
-        343.75
+        345.1
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 251.6,
-      "change": 0.03,
+      "price": 251.64,
+      "change": 0.05,
       "series": [
         256.97,
         252.4,
@@ -353,12 +352,12 @@
         249.15,
         248.23,
         251.52,
-        251.6
+        251.64
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 333.76,
+      "price": 333.75,
       "change": 0.02,
       "series": [
         316.22,
@@ -380,13 +379,13 @@
         333.02,
         330.32,
         333.69,
-        333.76
+        333.75
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 188.09,
-      "change": -0.35,
+      "price": 188.32,
+      "change": -0.23,
       "series": [
         170.3,
         169.53,
@@ -407,13 +406,13 @@
         187.05,
         190.04,
         188.75,
-        188.09
+        188.32
       ]
     },
     {
       "symbol": "AMD",
-      "price": 629.99,
-      "change": -0.62,
+      "price": 627.82,
+      "change": -0.96,
       "series": [
         505.74,
         521.1,
@@ -434,18 +433,11 @@
         611.76,
         615.73,
         633.91,
-        629.99
+        627.82
       ]
     }
   ],
   "ai": [
-    {
-      "title": "TechCrunch Disrupt 2026: Clay\u2019s Kareem Amin on the rise of the GTM engineer",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "tags": []
-    },
     {
       "title": "Pope Leo XIV is not a fan of AI-generated art",
       "summary": "",
@@ -526,23 +518,16 @@
       "tags": [
         "OpenAI"
       ]
+    },
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected wealthy couples due to overspending. We\u2019re all heading for trouble.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "Go ahead and get that poetry degree. Republican law won\u2019t prevent people with humanities majors from getting student loans.",
       "summary": "",
@@ -600,13 +585,25 @@
       ]
     },
     {
-      "title": "I bought a $126 concert ticket for my sister and now she can\u2019t go. Will I be able to make a profit selling the ticket?",
+      "title": "I bought a $126 concert ticket for my sister and now she can\u2019t go. What\u2019s the latest I can resell my ticket to break even?",
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/i-bought-a-126-concert-ticket-for-my-sister-and-now-she-cant-go-will-i-be-able-to-make-a-profit-selling-the-ticket-1dd5cbe9?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
+      "tags": []
+    },
+    {
+      "title": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected wealthy couples due to overspending. We\u2019re all heading for trouble.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "I\u2019m in my 20s and keep getting laid off. Should I invest in my employer\u2019s 401(k) or look into other options?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-in-my-20s-and-keep-getting-laid-off-should-i-invest-in-my-employers-401-k-or-look-into-other-options-387b34d3?mod=mw_rss_topstories",
+      "tags": []
     },
     {
       "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
@@ -623,6 +620,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 14:56 UTC",
-  "updated_iso": "2026-10-05T14:56:19.885835+00:00"
+  "updated": "05 Oct 2026, 15:09 UTC",
+  "updated_iso": "2026-10-05T15:09:20.360480+00:00"
 }
