@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,759.54",
-      "change": 0.48,
+      "value": "7,758.84",
+      "change": 0.47,
       "series": [
         7673.52,
         7636.36,
@@ -25,14 +25,14 @@
         7651.54,
         7666.45,
         7722.72,
-        7759.54
+        7758.84
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,388.84",
-      "change": 0.73,
+      "value": "27,384.78",
+      "change": 0.71,
       "series": [
         26421.41,
         26253.34,
@@ -53,7 +53,7 @@
         26861.06,
         26871.6,
         27190.86,
-        27388.84
+        27384.78
       ]
     },
     {
@@ -84,8 +84,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,489.45",
-      "change": 0.26,
+      "value": "10,497.94",
+      "change": 0.34,
       "series": [
         10822.1,
         10811.7,
@@ -107,15 +107,15 @@
         10606.0,
         10428.3,
         10462.0,
-        10489.45
+        10497.94
       ]
     }
   ],
   "stocks": [
     {
       "symbol": "TSM",
-      "price": 484.86,
-      "change": 2.56,
+      "price": 483.97,
+      "change": 2.37,
       "series": [
         439.0,
         435.36,
@@ -136,13 +136,13 @@
         456.19,
         459.2,
         472.78,
-        484.86
+        483.97
       ]
     },
     {
       "symbol": "META",
-      "price": 745.47,
-      "change": 2.39,
+      "price": 743.06,
+      "change": 2.06,
       "series": [
         613.48,
         653.69,
@@ -163,13 +163,13 @@
         725.18,
         725.93,
         728.08,
-        745.47
+        743.06
       ]
     },
     {
       "symbol": "TSLA",
-      "price": 377.8,
-      "change": 1.95,
+      "price": 377.24,
+      "change": 1.79,
       "series": [
         368.16,
         367.81,
@@ -190,13 +190,13 @@
         354.81,
         354.11,
         370.59,
-        377.8
+        377.24
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 361.06,
-      "change": 1.67,
+      "price": 360.92,
+      "change": 1.63,
       "series": [
         368.56,
         364.38,
@@ -217,13 +217,13 @@
         351.19,
         343.64,
         355.14,
-        361.06
+        360.92
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 526.03,
-      "change": 1.64,
+      "price": 525.21,
+      "change": 1.48,
       "series": [
         493.95,
         491.65,
@@ -244,13 +244,13 @@
         512.9,
         512.8,
         517.53,
-        526.03
+        525.21
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 236.72,
-      "change": 1.18,
+      "price": 236.77,
+      "change": 1.21,
       "series": [
         225.73,
         223.67,
@@ -271,13 +271,13 @@
         228.38,
         230.86,
         233.95,
-        236.72
+        236.77
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 143.38,
-      "change": 0.76,
+      "price": 143.28,
+      "change": 0.69,
       "series": [
         162.52,
         161.63,
@@ -298,13 +298,13 @@
         137.3,
         138.07,
         142.3,
-        143.38
+        143.28
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 345.25,
-      "change": 0.51,
+      "price": 345.02,
+      "change": 0.44,
       "series": [
         338.36,
         330.65,
@@ -325,13 +325,13 @@
         344.08,
         338.24,
         343.5,
-        345.25
+        345.02
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 252.24,
-      "change": 0.29,
+      "price": 251.91,
+      "change": 0.16,
       "series": [
         256.97,
         252.4,
@@ -352,13 +352,13 @@
         249.15,
         248.23,
         251.52,
-        252.24
+        251.91
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 333.51,
-      "change": -0.05,
+      "price": 333.54,
+      "change": -0.04,
       "series": [
         316.22,
         315.34,
@@ -379,13 +379,13 @@
         333.02,
         330.32,
         333.69,
-        333.51
+        333.54
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 188.33,
-      "change": -0.22,
+      "price": 188.24,
+      "change": -0.27,
       "series": [
         170.3,
         169.53,
@@ -406,13 +406,13 @@
         187.05,
         190.04,
         188.75,
-        188.33
+        188.24
       ]
     },
     {
       "symbol": "AMD",
-      "price": 630.34,
-      "change": -0.56,
+      "price": 632.08,
+      "change": -0.29,
       "series": [
         505.74,
         521.1,
@@ -433,7 +433,7 @@
         611.76,
         615.73,
         633.91,
-        630.34
+        632.08
       ]
     }
   ],
@@ -529,20 +529,6 @@
   ],
   "markets": [
     {
-      "title": "Go ahead and get that poetry degree. Republican law won\u2019t prevent people with humanities majors from getting student loans.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/go-ahead-and-get-that-poetry-degree-republican-law-wont-prevent-people-with-humanities-majors-from-getting-student-loans-f94587cf?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018The pain was excruciating\u2019: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "An AI \u2018reality check\u2019 may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
       "summary": "",
       "source": "MarketWatch",
@@ -606,10 +592,17 @@
       "tags": []
     },
     {
-      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+      "title": "SpaceX\u2019s stock could actually be a bargain, according to this metric",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacexs-stock-could-actually-be-a-bargain-according-to-this-metric-ac3ddf45?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018The pain was excruciating\u2019: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -618,8 +611,15 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
       "tags": []
+    },
+    {
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 15:47 UTC",
-  "updated_iso": "2026-10-05T15:47:16.211384+00:00"
+  "updated": "05 Oct 2026, 16:05 UTC",
+  "updated_iso": "2026-10-05T16:05:05.663852+00:00"
 }
