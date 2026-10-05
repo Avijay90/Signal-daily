@@ -87,8 +87,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,505.96",
-      "change": 0.42,
+      "value": "10,489.57",
+      "change": 0.26,
       "series": [
         10822.1,
         10811.7,
@@ -110,7 +110,7 @@
         10606.0,
         10428.3,
         10462.0,
-        10505.96
+        10489.57
       ]
     }
   ],
@@ -544,20 +544,6 @@
   ],
   "markets": [
     {
-      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Tyler Perry lists huge Beverly Hills mansion for $57 million: \u2018Yep, moving to Puerto Rico\u2019",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tyler-perry-lists-huge-beverly-hills-mansion-for-57-million-yep-moving-to-puerto-rico-a080916b?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Larry Ellison to list Palm Beach property for $165 million",
       "summary": "",
       "source": "MarketWatch",
@@ -618,6 +604,20 @@
       ]
     },
     {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "An AI \u2018reality check\u2019 may take the S&P 500 to 5,000. Here\u2019s the trades to make, this strategist says.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
       "summary": "",
       "source": "CNBC",
@@ -632,6 +632,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 11:11 UTC",
-  "updated_iso": "2026-10-05T11:11:34.690022+00:00"
+  "updated": "05 Oct 2026, 11:28 UTC",
+  "updated_iso": "2026-10-05T11:28:31.906425+00:00"
 }
