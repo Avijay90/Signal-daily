@@ -87,7 +87,7 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,501.72",
+      "value": "10,501.42",
       "change": 0.38,
       "series": [
         10822.1,
@@ -110,7 +110,7 @@
         10606.0,
         10428.3,
         10462.0,
-        10501.72
+        10501.42
       ]
     }
   ],
@@ -544,16 +544,6 @@
   ],
   "markets": [
     {
-      "title": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed",
-        "Oil & energy"
-      ]
-    },
-    {
       "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
       "summary": "",
       "source": "MarketWatch",
@@ -623,6 +613,13 @@
       ]
     },
     {
+      "title": "Tyler Perry lists huge Beverly Hills mansion for $57 million: \u2018Yep, moving to Puerto Rico\u2019",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tyler-perry-lists-huge-beverly-hills-mansion-for-57-million-yep-moving-to-puerto-rico-a080916b?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
       "summary": "",
       "source": "CNBC",
@@ -637,6 +634,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 08:54 UTC",
-  "updated_iso": "2026-10-05T08:54:35.522883+00:00"
+  "updated": "05 Oct 2026, 09:06 UTC",
+  "updated_iso": "2026-10-05T09:06:43.112883+00:00"
 }
