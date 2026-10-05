@@ -87,8 +87,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,501.99",
-      "change": 0.38,
+      "value": "10,487.39",
+      "change": 0.24,
       "series": [
         10822.1,
         10811.7,
@@ -110,7 +110,7 @@
         10606.0,
         10428.3,
         10462.0,
-        10501.99
+        10487.39
       ]
     }
   ],
@@ -581,15 +581,6 @@
       "tags": []
     },
     {
-      "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
       "title": "Tyler Perry lists huge Beverly Hills mansion for $57 million: \u2018Yep, moving to Puerto Rico\u2019",
       "summary": "",
       "source": "MarketWatch",
@@ -618,6 +609,15 @@
       "tags": []
     },
     {
+      "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
+      "tags": [
+        "Funding"
+      ]
+    },
+    {
       "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
       "summary": "",
       "source": "CNBC",
@@ -632,6 +632,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 09:30 UTC",
-  "updated_iso": "2026-10-05T09:30:35.343256+00:00"
+  "updated": "05 Oct 2026, 09:54 UTC",
+  "updated_iso": "2026-10-05T09:54:51.679559+00:00"
 }
