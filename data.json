@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,764.13",
-      "change": 0.54,
+      "value": "7,773.18",
+      "change": 0.65,
       "series": [
         7673.52,
         7636.36,
@@ -25,14 +25,14 @@
         7651.54,
         7666.45,
         7722.72,
-        7764.13
+        7773.18
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,404.59",
-      "change": 0.79,
+      "value": "27,428.98",
+      "change": 0.88,
       "series": [
         26421.41,
         26253.34,
@@ -53,7 +53,7 @@
         26861.06,
         26871.6,
         27190.86,
-        27404.59
+        27428.98
       ]
     },
     {
@@ -114,8 +114,8 @@
   "stocks": [
     {
       "symbol": "TSM",
-      "price": 483.91,
-      "change": 2.35,
+      "price": 484.91,
+      "change": 2.57,
       "series": [
         439.0,
         435.36,
@@ -136,13 +136,13 @@
         456.19,
         459.2,
         472.78,
-        483.91
+        484.91
       ]
     },
     {
       "symbol": "META",
-      "price": 744.62,
-      "change": 2.27,
+      "price": 744.48,
+      "change": 2.25,
       "series": [
         613.48,
         653.69,
@@ -163,13 +163,13 @@
         725.18,
         725.93,
         728.08,
-        744.62
+        744.48
       ]
     },
     {
       "symbol": "TSLA",
-      "price": 378.29,
-      "change": 2.08,
+      "price": 378.47,
+      "change": 2.13,
       "series": [
         368.16,
         367.81,
@@ -190,13 +190,13 @@
         354.81,
         354.11,
         370.59,
-        378.29
+        378.47
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 361.31,
-      "change": 1.74,
+      "price": 362.41,
+      "change": 2.05,
       "series": [
         368.56,
         364.38,
@@ -217,13 +217,13 @@
         351.19,
         343.64,
         355.14,
-        361.32
+        362.41
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 525.67,
-      "change": 1.57,
+      "price": 526.6,
+      "change": 1.75,
       "series": [
         493.95,
         491.65,
@@ -244,40 +244,13 @@
         512.9,
         512.8,
         517.53,
-        525.67
-      ]
-    },
-    {
-      "symbol": "NVDA",
-      "price": 236.41,
-      "change": 1.05,
-      "series": [
-        225.73,
-        223.67,
-        218.36,
-        218.29,
-        210.96,
-        212.17,
-        213.9,
-        219.34,
-        222.27,
-        227.38,
-        228.87,
-        225.51,
-        224.58,
-        225.07,
-        228.86,
-        227.21,
-        228.38,
-        230.86,
-        233.95,
-        236.41
+        526.6
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 143.55,
-      "change": 0.88,
+      "price": 143.91,
+      "change": 1.13,
       "series": [
         162.52,
         161.63,
@@ -298,40 +271,40 @@
         137.3,
         138.07,
         142.3,
-        143.55
+        143.9
       ]
     },
     {
-      "symbol": "GOOGL",
-      "price": 345.37,
-      "change": 0.54,
+      "symbol": "NVDA",
+      "price": 236.32,
+      "change": 1.01,
       "series": [
-        338.36,
-        330.65,
-        332.6,
-        338.5,
-        349.39,
-        344.98,
-        342.87,
-        347.33,
-        349.54,
-        354.97,
-        351.16,
-        337.83,
-        342.36,
-        343.92,
-        342.75,
-        340.92,
-        344.08,
-        338.24,
-        343.5,
-        345.37
+        225.73,
+        223.67,
+        218.36,
+        218.29,
+        210.96,
+        212.17,
+        213.9,
+        219.34,
+        222.27,
+        227.38,
+        228.87,
+        225.51,
+        224.58,
+        225.07,
+        228.86,
+        227.21,
+        228.38,
+        230.86,
+        233.95,
+        236.32
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 252.37,
-      "change": 0.34,
+      "price": 253.07,
+      "change": 0.62,
       "series": [
         256.97,
         252.4,
@@ -352,13 +325,40 @@
         249.15,
         248.23,
         251.52,
-        252.37
+        253.07
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 345.58,
+      "change": 0.61,
+      "series": [
+        338.36,
+        330.65,
+        332.6,
+        338.5,
+        349.39,
+        344.98,
+        342.87,
+        347.33,
+        349.54,
+        354.97,
+        351.16,
+        337.83,
+        342.36,
+        343.92,
+        342.75,
+        340.92,
+        344.08,
+        338.24,
+        343.5,
+        345.58
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 334.26,
-      "change": 0.17,
+      "price": 334.5,
+      "change": 0.24,
       "series": [
         316.22,
         315.34,
@@ -379,13 +379,13 @@
         333.02,
         330.32,
         333.69,
-        334.26
+        334.49
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 187.94,
-      "change": -0.43,
+      "price": 188.74,
+      "change": -0.01,
       "series": [
         170.3,
         169.53,
@@ -406,13 +406,13 @@
         187.05,
         190.04,
         188.75,
-        187.94
+        188.74
       ]
     },
     {
       "symbol": "AMD",
-      "price": 631.12,
-      "change": -0.44,
+      "price": 632.01,
+      "change": -0.3,
       "series": [
         505.74,
         521.1,
@@ -433,18 +433,11 @@
         611.76,
         615.73,
         633.91,
-        631.12
+        632.01
       ]
     }
   ],
   "ai": [
-    {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "tags": []
-    },
     {
       "title": "TechCrunch Disrupt 2026: Blackstone\u2019s Jas Khaira on building the next generation of AI giants",
       "summary": "",
@@ -525,19 +518,16 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
       "tags": []
+    },
+    {
+      "title": "Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem?",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed",
-        "Oil & energy"
-      ]
-    },
     {
       "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
       "summary": "",
@@ -608,6 +598,13 @@
       ]
     },
     {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure",
       "summary": "",
       "source": "CNBC",
@@ -622,6 +619,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 16:28 UTC",
-  "updated_iso": "2026-10-05T16:28:06.347446+00:00"
+  "updated": "05 Oct 2026, 16:45 UTC",
+  "updated_iso": "2026-10-05T16:45:03.435310+00:00"
 }
