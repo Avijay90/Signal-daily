@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,770.41",
-      "change": 0.62,
+      "value": "7,769.54",
+      "change": 0.61,
       "series": [
         7673.52,
         7636.36,
@@ -25,14 +25,14 @@
         7651.54,
         7666.45,
         7722.72,
-        7770.41
+        7769.54
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,421.62",
-      "change": 0.85,
+      "value": "27,424.71",
+      "change": 0.86,
       "series": [
         26421.41,
         26253.34,
@@ -53,7 +53,7 @@
         26861.06,
         26871.6,
         27190.86,
-        27421.62
+        27424.71
       ]
     },
     {
@@ -114,8 +114,8 @@
   "stocks": [
     {
       "symbol": "TSM",
-      "price": 484.09,
-      "change": 2.39,
+      "price": 484.42,
+      "change": 2.46,
       "series": [
         439.0,
         435.36,
@@ -136,40 +136,13 @@
         456.19,
         459.2,
         472.78,
-        484.09
-      ]
-    },
-    {
-      "symbol": "META",
-      "price": 745.05,
-      "change": 2.33,
-      "series": [
-        613.48,
-        653.69,
-        644.38,
-        648.03,
-        665.6,
-        670.24,
-        673.31,
-        682.31,
-        665.75,
-        741.25,
-        736.6,
-        744.1,
-        777.59,
-        751.66,
-        715.62,
-        738.79,
-        725.18,
-        725.93,
-        728.08,
-        745.05
+        484.42
       ]
     },
     {
       "symbol": "TSLA",
-      "price": 378.54,
-      "change": 2.15,
+      "price": 378.87,
+      "change": 2.23,
       "series": [
         368.16,
         367.81,
@@ -190,13 +163,40 @@
         354.81,
         354.11,
         370.59,
-        378.54
+        378.86
+      ]
+    },
+    {
+      "symbol": "META",
+      "price": 743.56,
+      "change": 2.13,
+      "series": [
+        613.48,
+        653.69,
+        644.38,
+        648.03,
+        665.6,
+        670.24,
+        673.31,
+        682.31,
+        665.75,
+        741.25,
+        736.6,
+        744.1,
+        777.59,
+        751.66,
+        715.62,
+        738.79,
+        725.18,
+        725.93,
+        728.08,
+        743.56
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 362.36,
-      "change": 2.03,
+      "price": 362.69,
+      "change": 2.13,
       "series": [
         368.56,
         364.38,
@@ -217,13 +217,13 @@
         351.19,
         343.64,
         355.14,
-        362.36
+        362.7
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 526.14,
-      "change": 1.66,
+      "price": 525.45,
+      "change": 1.53,
       "series": [
         493.95,
         491.65,
@@ -244,13 +244,13 @@
         512.9,
         512.8,
         517.53,
-        526.14
+        525.45
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 236.64,
-      "change": 1.15,
+      "price": 237.37,
+      "change": 1.46,
       "series": [
         225.73,
         223.67,
@@ -271,13 +271,13 @@
         228.38,
         230.86,
         233.95,
-        236.64
+        237.37
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 143.66,
-      "change": 0.96,
+      "price": 143.44,
+      "change": 0.8,
       "series": [
         162.52,
         161.63,
@@ -298,13 +298,13 @@
         137.3,
         138.07,
         142.3,
-        143.66
+        143.44
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 345.4,
-      "change": 0.55,
+      "price": 345.48,
+      "change": 0.57,
       "series": [
         338.36,
         330.65,
@@ -325,13 +325,13 @@
         344.08,
         338.24,
         343.5,
-        345.4
+        345.48
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 252.54,
-      "change": 0.41,
+      "price": 252.9,
+      "change": 0.55,
       "series": [
         256.97,
         252.4,
@@ -352,13 +352,13 @@
         249.15,
         248.23,
         251.52,
-        252.54
+        252.9
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 334.63,
-      "change": 0.28,
+      "price": 333.64,
+      "change": -0.01,
       "series": [
         316.22,
         315.34,
@@ -379,13 +379,13 @@
         333.02,
         330.32,
         333.69,
-        334.63
+        333.64
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 188.39,
-      "change": -0.19,
+      "price": 188.44,
+      "change": -0.16,
       "series": [
         170.3,
         169.53,
@@ -406,13 +406,13 @@
         187.05,
         190.04,
         188.75,
-        188.39
+        188.44
       ]
     },
     {
       "symbol": "AMD",
-      "price": 631.03,
-      "change": -0.45,
+      "price": 630.67,
+      "change": -0.51,
       "series": [
         505.74,
         521.1,
@@ -433,7 +433,7 @@
         611.76,
         615.73,
         633.91,
-        631.03
+        630.67
       ]
     }
   ],
@@ -529,22 +529,6 @@
   ],
   "markets": [
     {
-      "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
-      "title": "I got a $499 body scan to see if I have cancer. Here\u2019s what I learned.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-got-a-499-body-scan-to-see-if-i-have-cancer-heres-what-i-learned-09cfca29?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Intel\u2019s stock drops after Musk hints at an additional partner for big chip venture",
       "summary": "",
       "source": "MarketWatch",
@@ -605,6 +589,22 @@
       "tags": []
     },
     {
+      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Microsoft\u2019s blazing stock comeback isn\u2019t even close to being over, analyst says",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
+      "tags": [
+        "Microsoft"
+      ]
+    },
+    {
       "title": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure",
       "summary": "",
       "source": "CNBC",
@@ -619,6 +619,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 16:58 UTC",
-  "updated_iso": "2026-10-05T16:58:35.140418+00:00"
+  "updated": "05 Oct 2026, 17:10 UTC",
+  "updated_iso": "2026-10-05T17:10:28.878678+00:00"
 }
