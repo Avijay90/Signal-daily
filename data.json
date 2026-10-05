@@ -87,8 +87,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,484.02",
-      "change": 0.21,
+      "value": "10,490.33",
+      "change": 0.27,
       "series": [
         10822.1,
         10811.7,
@@ -110,7 +110,7 @@
         10606.0,
         10428.3,
         10462.0,
-        10484.02
+        10490.33
       ]
     }
   ],
@@ -544,13 +544,6 @@
   ],
   "markets": [
     {
-      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?",
       "summary": "",
       "source": "MarketWatch",
@@ -602,7 +595,7 @@
       "tags": []
     },
     {
-      "title": "Bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.",
+      "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.",
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
@@ -614,6 +607,15 @@
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
       "tags": []
+    },
+    {
+      "title": "Bitcoin\u2019s big bounce has graduated to a longer-term uptrend. Is it too late to buy?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bitcoins-big-bounce-has-graduated-to-a-longer-term-uptrend-is-it-too-late-to-buy-a9bc585c?mod=mw_rss_topstories",
+      "tags": [
+        "Crypto"
+      ]
     },
     {
       "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
@@ -630,6 +632,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 10:44 UTC",
-  "updated_iso": "2026-10-05T10:44:59.993290+00:00"
+  "updated": "05 Oct 2026, 10:58 UTC",
+  "updated_iso": "2026-10-05T10:58:21.454432+00:00"
 }
