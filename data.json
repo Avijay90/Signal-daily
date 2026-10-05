@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,758.84",
-      "change": 0.47,
+      "value": "7,764.13",
+      "change": 0.54,
       "series": [
         7673.52,
         7636.36,
@@ -25,14 +25,14 @@
         7651.54,
         7666.45,
         7722.72,
-        7758.84
+        7764.13
       ]
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,384.78",
-      "change": 0.71,
+      "value": "27,404.59",
+      "change": 0.79,
       "series": [
         26421.41,
         26253.34,
@@ -53,7 +53,7 @@
         26861.06,
         26871.6,
         27190.86,
-        27384.78
+        27404.59
       ]
     },
     {
@@ -114,8 +114,8 @@
   "stocks": [
     {
       "symbol": "TSM",
-      "price": 483.97,
-      "change": 2.37,
+      "price": 483.91,
+      "change": 2.35,
       "series": [
         439.0,
         435.36,
@@ -136,13 +136,13 @@
         456.19,
         459.2,
         472.78,
-        483.97
+        483.91
       ]
     },
     {
       "symbol": "META",
-      "price": 743.06,
-      "change": 2.06,
+      "price": 744.62,
+      "change": 2.27,
       "series": [
         613.48,
         653.69,
@@ -163,13 +163,13 @@
         725.18,
         725.93,
         728.08,
-        743.06
+        744.62
       ]
     },
     {
       "symbol": "TSLA",
-      "price": 377.24,
-      "change": 1.79,
+      "price": 378.29,
+      "change": 2.08,
       "series": [
         368.16,
         367.81,
@@ -190,13 +190,13 @@
         354.81,
         354.11,
         370.59,
-        377.24
+        378.29
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 360.92,
-      "change": 1.63,
+      "price": 361.31,
+      "change": 1.74,
       "series": [
         368.56,
         364.38,
@@ -217,13 +217,13 @@
         351.19,
         343.64,
         355.14,
-        360.92
+        361.32
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 525.21,
-      "change": 1.48,
+      "price": 525.67,
+      "change": 1.57,
       "series": [
         493.95,
         491.65,
@@ -244,13 +244,13 @@
         512.9,
         512.8,
         517.53,
-        525.21
+        525.67
       ]
     },
     {
       "symbol": "NVDA",
-      "price": 236.77,
-      "change": 1.21,
+      "price": 236.41,
+      "change": 1.05,
       "series": [
         225.73,
         223.67,
@@ -271,13 +271,13 @@
         228.38,
         230.86,
         233.95,
-        236.77
+        236.41
       ]
     },
     {
       "symbol": "ORCL",
-      "price": 143.28,
-      "change": 0.69,
+      "price": 143.55,
+      "change": 0.88,
       "series": [
         162.52,
         161.63,
@@ -298,13 +298,13 @@
         137.3,
         138.07,
         142.3,
-        143.28
+        143.55
       ]
     },
     {
       "symbol": "GOOGL",
-      "price": 345.02,
-      "change": 0.44,
+      "price": 345.37,
+      "change": 0.54,
       "series": [
         338.36,
         330.65,
@@ -325,13 +325,13 @@
         344.08,
         338.24,
         343.5,
-        345.02
+        345.37
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 251.91,
-      "change": 0.16,
+      "price": 252.37,
+      "change": 0.34,
       "series": [
         256.97,
         252.4,
@@ -352,13 +352,13 @@
         249.15,
         248.23,
         251.52,
-        251.91
+        252.37
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 333.54,
-      "change": -0.04,
+      "price": 334.26,
+      "change": 0.17,
       "series": [
         316.22,
         315.34,
@@ -379,13 +379,13 @@
         333.02,
         330.32,
         333.69,
-        333.54
+        334.26
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 188.24,
-      "change": -0.27,
+      "price": 187.94,
+      "change": -0.43,
       "series": [
         170.3,
         169.53,
@@ -406,13 +406,13 @@
         187.05,
         190.04,
         188.75,
-        188.24
+        187.94
       ]
     },
     {
       "symbol": "AMD",
-      "price": 632.08,
-      "change": -0.29,
+      "price": 631.12,
+      "change": -0.44,
       "series": [
         505.74,
         521.1,
@@ -433,7 +433,7 @@
         611.76,
         615.73,
         633.91,
-        632.08
+        631.12
       ]
     }
   ],
@@ -529,13 +529,6 @@
   ],
   "markets": [
     {
-      "title": "An AI \u2018reality check\u2019 may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s",
       "summary": "",
       "source": "MarketWatch",
@@ -606,6 +599,15 @@
       "tags": []
     },
     {
+      "title": "Saudi Aramco\u2019s CEO may be too downbeat about the road to restocking global oil supplies",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
       "title": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure",
       "summary": "",
       "source": "CNBC",
@@ -620,6 +622,6 @@
       "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 16:05 UTC",
-  "updated_iso": "2026-10-05T16:05:05.663852+00:00"
+  "updated": "05 Oct 2026, 16:28 UTC",
+  "updated_iso": "2026-10-05T16:28:06.347446+00:00"
 }
