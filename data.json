@@ -87,8 +87,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,524.17",
-      "change": 0.59,
+      "value": "10,516.52",
+      "change": 0.52,
       "series": [
         10822.1,
         10811.7,
@@ -110,7 +110,7 @@
         10606.0,
         10428.3,
         10462.0,
-        10524.17
+        10516.52
       ]
     }
   ],
@@ -620,20 +620,20 @@
       "tags": []
     },
     {
-      "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
-      "tags": []
-    },
-    {
       "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
       "summary": "",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
       "tags": []
+    },
+    {
+      "title": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
+      "tags": []
     }
   ],
-  "updated": "05 Oct 2026, 11:45 UTC",
-  "updated_iso": "2026-10-05T11:45:42.727862+00:00"
+  "updated": "05 Oct 2026, 12:05 UTC",
+  "updated_iso": "2026-10-05T12:05:59.449299+00:00"
 }
