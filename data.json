@@ -151,8 +151,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,590.43",
-      "change": 0.88,
+      "value": "10,583.85",
+      "change": 0.82,
       "series": [
         10822.1,
         10811.7,
@@ -175,7 +175,7 @@
         10428.3,
         10462.0,
         10497.9,
-        10590.43
+        10583.85
       ],
       "dates": [
         "2026-09-07",
@@ -795,15 +795,6 @@
   ],
   "ai": [
     {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "tags": [
-        "Meta"
-      ]
-    },
-    {
       "title": "All the AI agents that can live in your text messages",
       "summary": "",
       "source": "TechCrunch",
@@ -883,32 +874,18 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
       "tags": []
+    },
+    {
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "tags": [
+        "OpenAI"
+      ]
     }
   ],
   "markets": [
-    {
-      "title": "Intel\u2019s stock drops after Musk hints at an additional partner for big chip venture",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here\u2019s the hidden cost.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "This rare stock-market divide means an elevated chance of a big surge \u2014 or a deep plunge",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
       "summary": "",
@@ -963,20 +940,44 @@
       "tags": []
     },
     {
-      "title": "Business Daily",
+      "title": "Elon Musk is a trillionaire again. Here\u2019s how his wealth stacks up against national economies.",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9w?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Why are minimum alcohol prices going up?",
+      "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cm2dwd97repyo?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "tags": []
+    },
+    {
+      "title": "The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-facing-rate-chaos-and-narrow-breadth-why-one-goldman-sachs-insider-is-still-bullish-on-stocks-84a20206?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
+      "tags": [
+        "Meta",
+        "Nvidia"
+      ]
     }
   ],
-  "updated": "06 Oct 2026, 09:09 UTC",
-  "updated_iso": "2026-10-06T09:09:04.743043+00:00"
+  "updated": "06 Oct 2026, 09:27 UTC",
+  "updated_iso": "2026-10-06T09:27:55.391574+00:00"
 }
