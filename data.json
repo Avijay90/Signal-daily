@@ -103,8 +103,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "70,143.67",
-      "change": 0.28,
+      "value": "70,081.53",
+      "change": 0.19,
       "series": [
         66399.84,
         65269.33,
@@ -124,7 +124,7 @@
         68956.72,
         68309.46,
         69946.86,
-        70143.67
+        70081.53
       ],
       "dates": [
         "2026-09-07",
@@ -885,96 +885,92 @@
   ],
   "markets": [
     {
-      "title": "Investors see big opportunity in ferocious 2026 bond-market rout",
+      "title": "Business Daily",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9w?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Intel\u2019s stock drops after Musk hints at an additional partner for big chip venture",
+      "title": "Why are minimum alcohol prices going up?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cm2dwd97repyo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Watch: Why has UK diesel price hit an all time high?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "How much is your salary?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cr4glg9p4188o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why Gen Z are planning for life without a state pension",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why the UK is dithering over what to do about e-scooters",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Suppliers pile pressure on government over energy bills",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
       "tags": [
-        "Nvidia"
+        "Oil & energy"
       ]
     },
     {
-      "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here\u2019s the hidden cost.",
+      "title": "The job interview question you don't have to answer",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "This rare stock-market divide means an elevated chance of a big surge \u2014 or a deep plunge",
+      "title": "Average five-year mortgage rate hits 6% for first time in three years",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Microsoft\u2019s blazing stock comeback isn\u2019t even close to being over, analyst says",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
-      "tags": [
-        "Microsoft"
-      ]
-    },
-    {
-      "title": "This new AI model could help America close a technological gap with China",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The case for Nvidia\u2019s stock to march even higher after clinching its first record high in months",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "\u2018The pain was excruciating\u2019: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected wealthy couples due to overspending. We\u2019re all heading for trouble.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
-      "tags": []
-    },
-    {
-      "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "06 Oct 2026, 02:40 UTC",
-  "updated_iso": "2026-10-06T02:40:16.709738+00:00"
+  "updated": "06 Oct 2026, 02:53 UTC",
+  "updated_iso": "2026-10-06T02:53:33.457032+00:00"
 }
