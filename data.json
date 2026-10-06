@@ -151,8 +151,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,578.32",
-      "change": 0.77,
+      "value": "10,576.50",
+      "change": 0.75,
       "series": [
         10822.1,
         10811.7,
@@ -175,7 +175,7 @@
         10428.3,
         10462.0,
         10497.9,
-        10578.32
+        10576.5
       ],
       "dates": [
         "2026-09-07",
@@ -963,20 +963,20 @@
       "tags": []
     },
     {
-      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+      "title": "Business Daily",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9w?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
+      "title": "Why are minimum alcohol prices going up?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cm2dwd97repyo?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "06 Oct 2026, 08:27 UTC",
-  "updated_iso": "2026-10-06T08:27:58.656447+00:00"
+  "updated": "06 Oct 2026, 08:43 UTC",
+  "updated_iso": "2026-10-06T08:43:19.286460+00:00"
 }
