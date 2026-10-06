@@ -3,7 +3,7 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,818.94",
+      "value": "7,818.93",
       "change": 0.58,
       "series": [
         7673.52,
@@ -26,7 +26,7 @@
         7666.45,
         7722.72,
         7773.95,
-        7818.94
+        7818.93
       ],
       "dates": [
         "2026-09-08",
@@ -361,8 +361,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 144.76,
-      "change": 1.6,
+      "price": 144.77,
+      "change": 1.61,
       "series": [
         162.52,
         161.63,
@@ -384,7 +384,7 @@
         138.07,
         142.3,
         142.48,
-        144.76
+        144.77
       ],
       "dates": [
         "2026-09-08",
@@ -769,8 +769,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 482.27,
-      "change": -0.73,
+      "price": 482.3,
+      "change": -0.72,
       "series": [
         439.0,
         435.36,
@@ -792,7 +792,7 @@
         459.2,
         472.78,
         485.8,
-        482.27
+        482.3
       ],
       "dates": [
         "2026-09-08",
@@ -912,92 +912,90 @@
   ],
   "markets": [
     {
-      "title": "America\u2019s renters are emerging as a political movement",
+      "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
       "tags": []
     },
     {
-      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
       "tags": []
     },
     {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "title": "Trump\u2019s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
       "tags": []
     },
     {
-      "title": "How Meta\u2019s stock can surge to $1,000, according to the biggest bull on Wall Street",
+      "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
-      "tags": [
-        "Meta"
-      ]
-    },
-    {
-      "title": "Marvell just impressed Wall Street with \u2018good numbers plus a better story\u2019",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
       "tags": []
     },
     {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
       "tags": []
     },
     {
-      "title": "\u2018Trump accounts\u2019 could force MAGA children to own New York Times stock",
+      "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
       "tags": []
     },
     {
-      "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
+      "title": "Goldman Sachs CEO succession planning faces one big problem",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-waives-rules-on-red-dyed-diesel-but-local-tax-and-other-concerns-remain-f6b448c8?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
       "tags": []
     },
     {
-      "title": "The S&P 500 is back in record territory as the \u2018Magnificent Seven\u2019 ride to the rescue",
+      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
       "tags": []
     },
     {
-      "title": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
+      "title": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html",
       "tags": []
     },
     {
-      "title": "Business Daily",
+      "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9w?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
       "tags": []
     },
     {
-      "title": "Why are minimum alcohol prices going up?",
+      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cm2dwd97repyo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
       "tags": []
     }
   ],
-  "updated": "06 Oct 2026, 20:03 UTC",
-  "updated_iso": "2026-10-06T20:03:32.767860+00:00"
+  "updated": "06 Oct 2026, 20:26 UTC",
+  "updated_iso": "2026-10-06T20:26:44.541574+00:00"
 }
