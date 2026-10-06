@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,819.95",
-      "change": 0.59,
+      "value": "7,827.57",
+      "change": 0.69,
       "series": [
         7673.52,
         7636.36,
@@ -26,7 +26,7 @@
         7666.45,
         7722.72,
         7773.95,
-        7819.95
+        7827.57
       ],
       "dates": [
         "2026-09-08",
@@ -55,8 +55,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,609.45",
-      "change": 0.48,
+      "value": "27,648.86",
+      "change": 0.62,
       "series": [
         26421.41,
         26253.34,
@@ -78,7 +78,7 @@
         26871.6,
         27190.86,
         27477.31,
-        27609.45
+        27648.86
       ],
       "dates": [
         "2026-09-08",
@@ -208,8 +208,8 @@
   "stocks": [
     {
       "symbol": "AVGO",
-      "price": 378.6,
-      "change": 4.44,
+      "price": 379.99,
+      "change": 4.82,
       "series": [
         368.56,
         364.38,
@@ -231,7 +231,7 @@
         343.64,
         355.14,
         362.51,
-        378.6
+        379.99
       ],
       "dates": [
         "2026-09-08",
@@ -259,8 +259,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 654.65,
-      "change": 3.62,
+      "price": 654.73,
+      "change": 3.64,
       "series": [
         505.74,
         521.1,
@@ -282,7 +282,7 @@
         615.73,
         633.91,
         631.75,
-        654.65
+        654.72
       ],
       "dates": [
         "2026-09-08",
@@ -310,8 +310,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 146.08,
-      "change": 2.53,
+      "price": 146.29,
+      "change": 2.68,
       "series": [
         162.52,
         161.63,
@@ -333,7 +333,7 @@
         138.07,
         142.3,
         142.48,
-        146.08
+        146.29
       ],
       "dates": [
         "2026-09-08",
@@ -361,8 +361,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 192.38,
-      "change": 1.57,
+      "price": 192.7,
+      "change": 1.74,
       "series": [
         170.3,
         169.53,
@@ -384,7 +384,7 @@
         190.04,
         188.75,
         189.4,
-        192.38
+        192.7
       ],
       "dates": [
         "2026-09-08",
@@ -412,8 +412,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 254.94,
-      "change": 1.41,
+      "price": 255.6,
+      "change": 1.67,
       "series": [
         256.97,
         252.4,
@@ -435,7 +435,7 @@
         248.23,
         251.52,
         251.4,
-        254.95
+        255.6
       ],
       "dates": [
         "2026-09-08",
@@ -463,8 +463,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 531.57,
-      "change": 1.22,
+      "price": 532.23,
+      "change": 1.34,
       "series": [
         493.95,
         491.65,
@@ -486,7 +486,7 @@
         512.8,
         517.53,
         525.18,
-        531.57
+        532.23
       ],
       "dates": [
         "2026-09-08",
@@ -514,8 +514,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 380.39,
-      "change": 0.44,
+      "price": 380.73,
+      "change": 0.53,
       "series": [
         368.16,
         367.81,
@@ -537,7 +537,7 @@
         354.11,
         370.59,
         378.73,
-        380.39
+        380.73
       ],
       "dates": [
         "2026-09-08",
@@ -565,8 +565,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 239.74,
-      "change": 0.35,
+      "price": 239.79,
+      "change": 0.37,
       "series": [
         225.73,
         223.67,
@@ -588,7 +588,7 @@
         230.86,
         233.95,
         238.9,
-        239.74
+        239.79
       ],
       "dates": [
         "2026-09-08",
@@ -616,8 +616,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 346.58,
-      "change": 0.03,
+      "price": 347.11,
+      "change": 0.18,
       "series": [
         338.36,
         330.65,
@@ -639,58 +639,7 @@
         338.24,
         343.5,
         346.47,
-        346.58
-      ],
-      "dates": [
-        "2026-09-08",
-        "2026-09-09",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-14",
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06"
-      ]
-    },
-    {
-      "symbol": "AAPL",
-      "price": 332.49,
-      "change": -0.12,
-      "series": [
-        316.22,
-        315.34,
-        326.57,
-        332.27,
-        333.08,
-        331.34,
-        332.41,
-        337.0,
-        336.13,
-        338.98,
-        339.75,
-        337.02,
-        335.92,
-        341.07,
-        338.4,
-        329.4,
-        333.02,
-        330.32,
-        333.69,
-        332.89,
-        332.48
+        347.11
       ],
       "dates": [
         "2026-09-08",
@@ -718,8 +667,8 @@
     },
     {
       "symbol": "META",
-      "price": 740.76,
-      "change": -0.15,
+      "price": 743.2,
+      "change": 0.18,
       "series": [
         613.48,
         653.69,
@@ -741,7 +690,58 @@
         725.93,
         728.08,
         741.9,
-        740.76
+        743.2
+      ],
+      "dates": [
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06"
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "price": 332.98,
+      "change": 0.03,
+      "series": [
+        316.22,
+        315.34,
+        326.57,
+        332.27,
+        333.08,
+        331.34,
+        332.41,
+        337.0,
+        336.13,
+        338.98,
+        339.75,
+        337.02,
+        335.92,
+        341.07,
+        338.4,
+        329.4,
+        333.02,
+        330.32,
+        333.69,
+        332.89,
+        332.98
       ],
       "dates": [
         "2026-09-08",
@@ -769,8 +769,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 483.55,
-      "change": -0.46,
+      "price": 484.35,
+      "change": -0.3,
       "series": [
         439.0,
         435.36,
@@ -792,7 +792,7 @@
         459.2,
         472.78,
         485.8,
-        483.55
+        484.35
       ],
       "dates": [
         "2026-09-08",
@@ -912,90 +912,93 @@
   ],
   "markets": [
     {
-      "title": "Business Daily",
+      "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9w?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
+      "tags": [
+        "Meta",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
       "tags": []
     },
     {
-      "title": "Why are minimum alcohol prices going up?",
+      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cm2dwd97repyo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
       "tags": []
     },
     {
-      "title": "Watch: Why has UK diesel price hit an all time high?",
+      "title": "Trump\u2019s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
       "tags": []
     },
     {
-      "title": "How much is your salary?",
+      "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cr4glg9p4188o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
       "tags": []
     },
     {
-      "title": "Why Gen Z are planning for life without a state pension",
+      "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
       "tags": []
     },
     {
-      "title": "Why the UK is dithering over what to do about e-scooters",
+      "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
       "tags": []
     },
     {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "title": "Goldman Sachs CEO succession planning faces one big problem",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
       "tags": []
     },
     {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
       "tags": []
     },
     {
-      "title": "My hometown shows that high streets have to change or die",
+      "title": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html",
       "tags": []
     },
     {
-      "title": "Average five-year mortgage rate hits 6% for first time in three years",
+      "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
       "tags": []
     },
     {
-      "title": "Community supermarket opens in shopping centre",
+      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgjnmx6ln4o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Banks still refusing credit cards, watchdog says",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg0lyl3v8eo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
       "tags": []
     }
   ],
-  "updated": "06 Oct 2026, 17:24 UTC",
-  "updated_iso": "2026-10-06T17:24:26.168980+00:00"
+  "updated": "06 Oct 2026, 17:38 UTC",
+  "updated_iso": "2026-10-06T17:38:29.899746+00:00"
 }
