@@ -912,13 +912,6 @@
   ],
   "markets": [
     {
-      "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
-      "tags": []
-    },
-    {
       "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
       "summary": "",
       "source": "CNBC",
@@ -994,8 +987,17 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
       "tags": []
+    },
+    {
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "tags": [
+        "Rates & Fed"
+      ]
     }
   ],
-  "updated": "06 Oct 2026, 20:41 UTC",
-  "updated_iso": "2026-10-06T20:41:42.698234+00:00"
+  "updated": "06 Oct 2026, 20:53 UTC",
+  "updated_iso": "2026-10-06T20:53:48.037808+00:00"
 }
