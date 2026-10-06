@@ -3,7 +3,7 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,833.17",
+      "value": "7,833.13",
       "change": 0.76,
       "series": [
         7673.52,
@@ -26,7 +26,7 @@
         7666.45,
         7722.72,
         7773.95,
-        7833.17
+        7833.13
       ],
       "dates": [
         "2026-09-08",
@@ -55,8 +55,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,658.41",
-      "change": 0.66,
+      "value": "27,664.80",
+      "change": 0.68,
       "series": [
         26421.41,
         26253.34,
@@ -78,7 +78,7 @@
         26871.6,
         27190.86,
         27477.31,
-        27658.41
+        27664.8
       ],
       "dates": [
         "2026-09-08",
@@ -208,8 +208,8 @@
   "stocks": [
     {
       "symbol": "AVGO",
-      "price": 378.4,
-      "change": 4.38,
+      "price": 378.08,
+      "change": 4.3,
       "series": [
         368.56,
         364.38,
@@ -231,7 +231,7 @@
         343.64,
         355.14,
         362.51,
-        378.4
+        378.08
       ],
       "dates": [
         "2026-09-08",
@@ -259,8 +259,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 656.29,
-      "change": 3.88,
+      "price": 656.38,
+      "change": 3.9,
       "series": [
         505.74,
         521.1,
@@ -282,7 +282,7 @@
         615.73,
         633.91,
         631.75,
-        656.29
+        656.39
       ],
       "dates": [
         "2026-09-08",
@@ -310,8 +310,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 145.04,
-      "change": 1.8,
+      "price": 146.0,
+      "change": 2.47,
       "series": [
         162.52,
         161.63,
@@ -333,7 +333,7 @@
         138.07,
         142.3,
         142.48,
-        145.04
+        146.0
       ],
       "dates": [
         "2026-09-08",
@@ -361,8 +361,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 255.41,
-      "change": 1.6,
+      "price": 255.71,
+      "change": 1.71,
       "series": [
         256.97,
         252.4,
@@ -384,7 +384,7 @@
         248.23,
         251.52,
         251.4,
-        255.41
+        255.71
       ],
       "dates": [
         "2026-09-08",
@@ -412,8 +412,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 532.42,
-      "change": 1.38,
+      "price": 532.97,
+      "change": 1.48,
       "series": [
         493.95,
         491.65,
@@ -435,7 +435,7 @@
         512.8,
         517.53,
         525.18,
-        532.43
+        532.97
       ],
       "dates": [
         "2026-09-08",
@@ -463,8 +463,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 191.88,
-      "change": 1.31,
+      "price": 192.09,
+      "change": 1.42,
       "series": [
         170.3,
         169.53,
@@ -486,7 +486,7 @@
         190.04,
         188.75,
         189.4,
-        191.88
+        192.09
       ],
       "dates": [
         "2026-09-08",
@@ -514,8 +514,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 241.14,
-      "change": 0.94,
+      "price": 240.53,
+      "change": 0.68,
       "series": [
         225.73,
         223.67,
@@ -537,7 +537,7 @@
         230.86,
         233.95,
         238.9,
-        241.14
+        240.53
       ],
       "dates": [
         "2026-09-08",
@@ -565,8 +565,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 380.2,
-      "change": 0.39,
+      "price": 380.54,
+      "change": 0.48,
       "series": [
         368.16,
         367.81,
@@ -588,7 +588,7 @@
         354.11,
         370.59,
         378.73,
-        380.2
+        380.54
       ],
       "dates": [
         "2026-09-08",
@@ -616,8 +616,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 347.65,
-      "change": 0.34,
+      "price": 347.9,
+      "change": 0.41,
       "series": [
         338.36,
         330.65,
@@ -639,7 +639,7 @@
         338.24,
         343.5,
         346.47,
-        347.65
+        347.9
       ],
       "dates": [
         "2026-09-08",
@@ -667,8 +667,8 @@
     },
     {
       "symbol": "META",
-      "price": 741.45,
-      "change": -0.06,
+      "price": 742.77,
+      "change": 0.12,
       "series": [
         613.48,
         653.69,
@@ -690,7 +690,7 @@
         725.93,
         728.08,
         741.9,
-        741.45
+        742.77
       ],
       "dates": [
         "2026-09-08",
@@ -718,8 +718,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 332.39,
-      "change": -0.15,
+      "price": 332.56,
+      "change": -0.1,
       "series": [
         316.22,
         315.34,
@@ -741,7 +741,7 @@
         330.32,
         333.69,
         332.89,
-        332.39
+        332.55
       ],
       "dates": [
         "2026-09-08",
@@ -769,8 +769,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 483.69,
-      "change": -0.43,
+      "price": 483.79,
+      "change": -0.41,
       "series": [
         439.0,
         435.36,
@@ -792,7 +792,7 @@
         459.2,
         472.78,
         485.8,
-        483.69
+        483.79
       ],
       "dates": [
         "2026-09-08",
@@ -820,15 +820,6 @@
     }
   ],
   "ai": [
-    {
-      "title": "Google froze its open source bug bounty program due to a \u2018significant rise\u2019 in AI submissions",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "tags": [
-        "Google"
-      ]
-    },
     {
       "title": "Can Safeworld convince people that GenAI robots won\u2019t hurt them?",
       "summary": "",
@@ -907,99 +898,107 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
       "tags": []
+    },
+    {
+      "title": "OpenAI will start watermarking ChatGPT\u2019s text in the EU",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "tags": [
+        "OpenAI",
+        "Regulation"
+      ]
     }
   ],
   "markets": [
     {
-      "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here\u2019s the hidden cost.",
+      "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
       "tags": [
-        "Google",
-        "Oil & energy"
-      ]
-    },
-    {
-      "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Prediction markets are coming for pop culture",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "As a mortgage loan officer, I rejected wealthy couples. Here\u2019s what can get your application declined.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018The pain was excruciating\u2019: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "These 5 chip stocks are cheaper than the S&P 500 \u2014\u00a0and offer faster growth",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-5-chip-stocks-are-cheaper-than-the-s-p-500-and-offer-faster-growth-f8ab4386?mod=mw_rss_topstories",
-      "tags": [
+        "Meta",
         "Nvidia"
       ]
     },
     {
-      "title": "Business Daily",
+      "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9w?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
       "tags": []
     },
     {
-      "title": "Why are minimum alcohol prices going up?",
+      "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cm2dwd97repyo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+      "tags": []
+    },
+    {
+      "title": "Trump\u2019s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
+      "tags": []
+    },
+    {
+      "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+      "tags": []
+    },
+    {
+      "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
+      "tags": []
+    },
+    {
+      "title": "Goldman Sachs CEO succession planning faces one big problem",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
+      "tags": []
+    },
+    {
+      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+      "tags": []
+    },
+    {
+      "title": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
+      "tags": []
+    },
+    {
+      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
       "tags": []
     }
   ],
-  "updated": "06 Oct 2026, 16:28 UTC",
-  "updated_iso": "2026-10-06T16:28:42.959103+00:00"
+  "updated": "06 Oct 2026, 16:45 UTC",
+  "updated_iso": "2026-10-06T16:45:12.181597+00:00"
 }
