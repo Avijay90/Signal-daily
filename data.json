@@ -157,8 +157,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,532.08",
-      "change": -0.09,
+      "value": "10,529.63",
+      "change": -0.11,
       "series": [
         10811.7,
         10670.1,
@@ -181,7 +181,7 @@
         10462.0,
         10497.9,
         10541.7,
-        10532.08
+        10529.63
       ],
       "dates": [
         "2026-09-08",
@@ -918,20 +918,6 @@
   ],
   "markets": [
     {
-      "title": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected applications from wealthy couples. Here\u2019s why.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Marvell just impressed Wall Street with \u2018good numbers plus a better story\u2019",
       "summary": "",
       "source": "MarketWatch",
@@ -993,20 +979,34 @@
       ]
     },
     {
-      "title": "Trump\u2019s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+      "title": "A Laguna Beach gem renovated by Diane Keaton is up for grabs for $10.3 million",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-laguna-beach-gem-renovated-by-diane-keaton-is-up-for-grabs-for-10-3-million-8e6e1927?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
+      "title": "Josh Brolin sells Atlanta-area mansion for $4 million after slashing price",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/josh-brolin-sells-atlanta-area-mansion-for-4-million-after-slashing-price-52561a89?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Why are minimum alcohol prices going up?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cm2dwd97repyo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Watch: Why has UK diesel price hit an all time high?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "07 Oct 2026, 08:46 UTC",
-  "updated_iso": "2026-10-07T08:46:23.385222+00:00"
+  "updated": "07 Oct 2026, 09:05 UTC",
+  "updated_iso": "2026-10-07T09:05:48.236391+00:00"
 }
