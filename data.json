@@ -157,8 +157,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,478.70",
-      "change": -0.6,
+      "value": "10,477.59",
+      "change": -0.61,
       "series": [
         10811.7,
         10670.1,
@@ -181,7 +181,7 @@
         10462.0,
         10497.9,
         10541.7,
-        10478.7
+        10477.59
       ],
       "dates": [
         "2026-09-08",
@@ -918,92 +918,97 @@
   ],
   "markets": [
     {
-      "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
+      "title": "Longtime tech bull Dan Ives says these are his top tech plays going into 2027",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/longtime-tech-bull-dan-ives-says-these-are-his-top-tech-plays-going-into-2027-3796cb9f?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+      "title": "AMD\u2019s chief executive is planning to invest \u2018tens of billions\u2019 as Asia tour addresses supply-chain chokepoints",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Goldman Sachs CEO succession planning faces one big problem",
+      "title": "SpaceX reportedly is looking to borrow as much money as the company generates in revenue to buy Nvidia chips",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-      "tags": []
-    },
-    {
-      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
-      "tags": []
-    },
-    {
-      "title": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
-      "tags": []
-    },
-    {
-      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
-      "tags": []
-    },
-    {
-      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
       "tags": [
-        "Rates & Fed"
+        "Nvidia",
+        "Earnings"
       ]
     },
     {
-      "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+      "title": "Meta\u2019s stock scores a rare \u2018golden cross\u2019 buy signal as investors swarm to its chart-topping AI agent Muse",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
+      "tags": [
+        "Meta"
+      ]
+    },
+    {
+      "title": "These two hard-hit stocks are poised for a comeback, says fund manager",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
+      "title": "\u2018Trump accounts\u2019 could force MAGA children to own New York Times stock",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Intel investors get some reassurance from Elon Musk over a major chip endeavor",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Parental controls aren\u2019t just for kids anymore",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Kalshi is coming for \u2018Dancing with the Stars\u2019 fans",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Why are minimum alcohol prices going up?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cm2dwd97repyo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Watch: Why has UK diesel price hit an all time high?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "07 Oct 2026, 13:01 UTC",
-  "updated_iso": "2026-10-07T13:01:08.431462+00:00"
+  "updated": "07 Oct 2026, 13:29 UTC",
+  "updated_iso": "2026-10-07T13:29:38.315557+00:00"
 }
