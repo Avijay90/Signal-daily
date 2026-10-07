@@ -107,8 +107,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "70,765.55",
-      "change": 0.12,
+      "value": "70,663.13",
+      "change": -0.03,
       "series": [
         66399.84,
         65269.33,
@@ -129,7 +129,7 @@
         68309.46,
         69946.86,
         70683.98,
-        70765.55
+        70663.13
       ],
       "dates": [
         "2026-09-07",
@@ -914,79 +914,6 @@
   ],
   "markets": [
     {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018Trump accounts\u2019 could force MAGA children to own New York Times stock",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-waives-rules-on-red-dyed-diesel-but-local-tax-and-other-concerns-remain-f6b448c8?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected applications from wealthy couples. Here\u2019s why.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Marvell just impressed Wall Street with \u2018good numbers plus a better story\u2019",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
-      "tags": [
-        "Google",
-        "Oil & energy"
-      ]
-    },
-    {
-      "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn\u2019t buy into an October jinx.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The S&P 500 is back in record territory as the \u2018Magnificent Seven\u2019 ride to the rescue",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Business Daily",
       "summary": "",
       "source": "BBC Business",
@@ -999,8 +926,78 @@
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/videos/cm2dwd97repyo?at_medium=RSS&at_campaign=rss",
       "tags": []
+    },
+    {
+      "title": "Watch: Why has UK diesel price hit an all time high?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "How much is your salary?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cr4glg9p4188o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why Gen Z are planning for life without a state pension",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why the UK is dithering over what to do about e-scooters",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Average five-year mortgage rate hits 6% for first time in three years",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Community supermarket opens in shopping centre",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjnmx6ln4o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Banks still refusing credit cards, watchdog says",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg0lyl3v8eo?at_medium=RSS&at_campaign=rss",
+      "tags": []
     }
   ],
-  "updated": "07 Oct 2026, 00:36 UTC",
-  "updated_iso": "2026-10-07T00:36:43.504970+00:00"
+  "updated": "07 Oct 2026, 01:00 UTC",
+  "updated_iso": "2026-10-07T01:00:37.775189+00:00"
 }
