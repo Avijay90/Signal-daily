@@ -157,8 +157,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,529.63",
-      "change": -0.11,
+      "value": "10,510.77",
+      "change": -0.29,
       "series": [
         10811.7,
         10670.1,
@@ -181,7 +181,7 @@
         10462.0,
         10497.9,
         10541.7,
-        10529.63
+        10510.77
       ],
       "dates": [
         "2026-09-08",
@@ -918,81 +918,6 @@
   ],
   "markets": [
     {
-      "title": "Marvell just impressed Wall Street with \u2018good numbers plus a better story\u2019",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
-      "tags": [
-        "Google",
-        "Oil & energy"
-      ]
-    },
-    {
-      "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn\u2019t buy into an October jinx.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The S&P 500 is back in record territory as the \u2018Magnificent Seven\u2019 ride to the rescue",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "How one trend-following fund outperformed rivals by bringing humans back into the decision-making process",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-one-trend-following-fund-outperformed-rivals-by-bringing-humans-back-into-the-decision-making-process-12285e18?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "A popular tech fund is now overbought. That\u2019s no reason to sell, history shows.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-popular-tech-fund-is-now-overbought-thats-no-reason-to-sell-history-shows-d998aab3?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Meta stock achieves a golden cross as shares thrive since Muse introduction",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
-      "tags": [
-        "Meta"
-      ]
-    },
-    {
-      "title": "A Laguna Beach gem renovated by Diane Keaton is up for grabs for $10.3 million",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-laguna-beach-gem-renovated-by-diane-keaton-is-up-for-grabs-for-10-3-million-8e6e1927?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Josh Brolin sells Atlanta-area mansion for $4 million after slashing price",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/josh-brolin-sells-atlanta-area-mansion-for-4-million-after-slashing-price-52561a89?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Why are minimum alcohol prices going up?",
       "summary": "",
       "source": "BBC Business",
@@ -1005,8 +930,80 @@
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
       "tags": []
+    },
+    {
+      "title": "How much is your salary?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cr4glg9p4188o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Fears coastal town road closure could leave Watchet 'desolate'",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c6rry9ed2gkeo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why Gen Z are planning for life without a state pension",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why the UK is dithering over what to do about e-scooters",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Banks still refusing credit cards, watchdog says",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg0lyl3v8eo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Irish budget tackles childcare and energy costs",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjn3zng1ko?at_medium=RSS&at_campaign=rss",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "We're saving \u00a3100 a month for our kids but they won't get it until they're 57",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
     }
   ],
-  "updated": "07 Oct 2026, 09:05 UTC",
-  "updated_iso": "2026-10-07T09:05:48.236391+00:00"
+  "updated": "07 Oct 2026, 09:28 UTC",
+  "updated_iso": "2026-10-07T09:28:00.038630+00:00"
 }
