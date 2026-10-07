@@ -157,8 +157,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,491.87",
-      "change": -0.47,
+      "value": "10,506.58",
+      "change": -0.33,
       "series": [
         10811.7,
         10670.1,
@@ -181,7 +181,7 @@
         10462.0,
         10497.9,
         10541.7,
-        10491.87
+        10506.58
       ],
       "dates": [
         "2026-09-08",
@@ -977,6 +977,13 @@
       "tags": []
     },
     {
+      "title": "A popular tech fund is now overbought. That\u2019s no reason to sell, history shows.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-popular-tech-fund-is-now-overbought-thats-no-reason-to-sell-history-shows-d998aab3?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Meta stock achieves a golden cross as shares thrive since Muse introduction",
       "summary": "",
       "source": "MarketWatch",
@@ -984,13 +991,6 @@
       "tags": [
         "Meta"
       ]
-    },
-    {
-      "title": "A popular tech fund is now overbought. That\u2019s no reason to sell, history shows.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-popular-tech-fund-is-now-overbought-thats-no-reason-to-sell-history-shows-d998aab3?mod=mw_rss_topstories",
-      "tags": []
     },
     {
       "title": "Trump\u2019s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
@@ -1007,6 +1007,6 @@
       "tags": []
     }
   ],
-  "updated": "07 Oct 2026, 08:06 UTC",
-  "updated_iso": "2026-10-07T08:06:23.770686+00:00"
+  "updated": "07 Oct 2026, 08:29 UTC",
+  "updated_iso": "2026-10-07T08:29:37.446271+00:00"
 }
