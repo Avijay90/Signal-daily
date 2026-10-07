@@ -3,7 +3,7 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,801.75",
+      "value": "7,801.77",
       "change": -0.22,
       "series": [
         7673.52,
@@ -27,7 +27,7 @@
         7722.72,
         7773.95,
         7818.93,
-        7801.75
+        7801.77
       ],
       "dates": [
         "2026-09-08",
@@ -744,8 +744,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 472.15,
-      "change": -2.1,
+      "price": 472.2,
+      "change": -2.09,
       "series": [
         439.0,
         435.36,
@@ -768,7 +768,7 @@
         472.78,
         485.8,
         482.3,
-        472.15
+        472.2
       ],
       "dates": [
         "2026-09-08",
@@ -851,13 +851,6 @@
   ],
   "ai": [
     {
-      "title": "Mistral\u2019s new 1T model aims to leapfrog closed and open rivals",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "tags": []
-    },
-    {
       "title": "LibreOffice says \u2018no AI\u2019 is now a software feature",
       "summary": "",
       "source": "TechCrunch",
@@ -918,6 +911,13 @@
       "tags": []
     },
     {
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "tags": []
+    },
+    {
       "title": "Google\u2019s new SynthID website can identify AI-generated media",
       "summary": "",
       "source": "TechCrunch",
@@ -927,18 +927,20 @@
       ]
     },
     {
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "tags": []
-    },
-    {
       "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
       "summary": "",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
       "tags": []
+    },
+    {
+      "title": "OpenAI\u2019s Alexander Embiricos is coming to TechCrunch Disrupt 2026 \u2014 days after the launch of Dots",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "tags": [
+        "OpenAI"
+      ]
     }
   ],
   "markets": [
@@ -1029,6 +1031,6 @@
       "tags": []
     }
   ],
-  "updated": "07 Oct 2026, 20:04 UTC",
-  "updated_iso": "2026-10-07T20:04:01.077344+00:00"
+  "updated": "07 Oct 2026, 20:27 UTC",
+  "updated_iso": "2026-10-07T20:27:01.438854+00:00"
 }
