@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,787.39",
-      "change": -0.18,
+      "value": "7,791.15",
+      "change": -0.14,
       "series": [
         7636.36,
         7591.7,
@@ -27,7 +27,7 @@
         7773.95,
         7818.93,
         7801.77,
-        7787.39
+        7791.15
       ],
       "dates": [
         "2026-09-09",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,413.29",
-      "change": -0.46,
+      "value": "27,477.19",
+      "change": -0.22,
       "series": [
         26253.34,
         26081.72,
@@ -81,7 +81,7 @@
         27477.31,
         27599.79,
         27538.69,
-        27413.29
+        27477.2
       ],
       "dates": [
         "2026-09-09",
@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,494.82",
-      "change": 0.35,
+      "value": "10,477.12",
+      "change": 0.18,
       "series": [
         10670.1,
         10608.9,
@@ -185,7 +185,7 @@
         10497.9,
         10541.7,
         10458.5,
-        10494.82
+        10477.12
       ],
       "dates": [
         "2026-09-09",
@@ -216,8 +216,8 @@
   "stocks": [
     {
       "symbol": "PLTR",
-      "price": 200.5,
-      "change": 3.29,
+      "price": 199.34,
+      "change": 2.69,
       "series": [
         169.53,
         165.86,
@@ -240,7 +240,7 @@
         189.4,
         192.07,
         194.12,
-        200.5
+        199.34
       ],
       "dates": [
         "2026-09-09",
@@ -269,8 +269,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 351.84,
-      "change": 0.38,
+      "price": 351.96,
+      "change": 0.42,
       "series": [
         330.65,
         332.6,
@@ -293,7 +293,7 @@
         346.47,
         347.68,
         350.5,
-        351.84
+        351.96
       ],
       "dates": [
         "2026-09-09",
@@ -322,8 +322,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 337.38,
-      "change": 0.21,
+      "price": 337.67,
+      "change": 0.3,
       "series": [
         315.34,
         326.57,
@@ -346,60 +346,7 @@
         332.89,
         333.63,
         336.67,
-        337.38
-      ],
-      "dates": [
-        "2026-09-09",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-14",
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08"
-      ]
-    },
-    {
-      "symbol": "MSFT",
-      "price": 530.68,
-      "change": 0.17,
-      "series": [
-        491.65,
-        492.44,
-        495.63,
-        505.41,
-        497.12,
-        490.3,
-        497.75,
-        493.78,
-        501.61,
-        498.0,
-        500.59,
-        497.93,
-        516.17,
-        509.22,
-        508.96,
-        512.9,
-        512.8,
-        517.53,
-        525.18,
-        529.3,
-        529.76,
-        530.68
+        337.67
       ],
       "dates": [
         "2026-09-09",
@@ -428,8 +375,8 @@
     },
     {
       "symbol": "META",
-      "price": 721.72,
-      "change": 0.06,
+      "price": 722.27,
+      "change": 0.13,
       "series": [
         653.69,
         644.38,
@@ -452,7 +399,7 @@
         741.9,
         738.88,
         721.31,
-        721.72
+        722.27
       ],
       "dates": [
         "2026-09-09",
@@ -480,85 +427,32 @@
       ]
     },
     {
-      "symbol": "AMZN",
-      "price": 258.71,
-      "change": -0.46,
+      "symbol": "MSFT",
+      "price": 530.13,
+      "change": 0.07,
       "series": [
-        252.4,
-        251.89,
-        256.78,
-        253.54,
-        248.42,
-        245.96,
-        251.19,
-        253.71,
-        258.45,
-        254.98,
-        249.27,
-        249.38,
-        249.67,
-        246.15,
-        246.67,
-        249.15,
-        248.23,
-        251.52,
-        251.4,
-        256.29,
-        259.92,
-        258.71
-      ],
-      "dates": [
-        "2026-09-09",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-14",
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08"
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "price": 469.1,
-      "change": -0.66,
-      "series": [
-        435.36,
-        428.03,
-        433.24,
-        418.01,
-        413.75,
-        417.72,
-        430.26,
-        434.67,
-        445.14,
-        452.0,
-        446.57,
-        451.15,
-        450.61,
-        452.88,
-        456.94,
-        456.19,
-        459.2,
-        472.78,
-        485.8,
-        482.3,
-        472.2,
-        469.1
+        491.65,
+        492.44,
+        495.63,
+        505.41,
+        497.12,
+        490.3,
+        497.75,
+        493.78,
+        501.61,
+        498.0,
+        500.59,
+        497.93,
+        516.17,
+        509.22,
+        508.96,
+        512.9,
+        512.8,
+        517.53,
+        525.18,
+        529.3,
+        529.76,
+        530.14
       ],
       "dates": [
         "2026-09-09",
@@ -587,8 +481,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 235.56,
-      "change": -0.8,
+      "price": 236.94,
+      "change": -0.22,
       "series": [
         223.67,
         218.36,
@@ -611,7 +505,113 @@
         238.9,
         239.24,
         237.47,
-        235.56
+        236.95
+      ],
+      "dates": [
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08"
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "price": 259.33,
+      "change": -0.23,
+      "series": [
+        252.4,
+        251.89,
+        256.78,
+        253.54,
+        248.42,
+        245.96,
+        251.19,
+        253.71,
+        258.45,
+        254.98,
+        249.27,
+        249.38,
+        249.67,
+        246.15,
+        246.67,
+        249.15,
+        248.23,
+        251.52,
+        251.4,
+        256.29,
+        259.92,
+        259.33
+      ],
+      "dates": [
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08"
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "price": 470.43,
+      "change": -0.38,
+      "series": [
+        435.36,
+        428.03,
+        433.24,
+        418.01,
+        413.75,
+        417.72,
+        430.26,
+        434.67,
+        445.14,
+        452.0,
+        446.57,
+        451.15,
+        450.61,
+        452.88,
+        456.94,
+        456.19,
+        459.2,
+        472.78,
+        485.8,
+        482.3,
+        472.2,
+        470.42
       ],
       "dates": [
         "2026-09-09",
@@ -640,8 +640,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 638.26,
-      "change": -1.18,
+      "price": 642.69,
+      "change": -0.49,
       "series": [
         521.1,
         503.6,
@@ -664,60 +664,7 @@
         631.75,
         649.42,
         645.86,
-        638.27
-      ],
-      "dates": [
-        "2026-09-09",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-14",
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08"
-      ]
-    },
-    {
-      "symbol": "TSLA",
-      "price": 373.18,
-      "change": -1.23,
-      "series": [
-        367.81,
-        363.56,
-        365.44,
-        358.97,
-        356.58,
-        358.08,
-        366.2,
-        364.27,
-        375.3,
-        378.9,
-        380.12,
-        377.94,
-        372.11,
-        357.45,
-        352.84,
-        354.81,
-        354.11,
-        370.59,
-        378.73,
-        380.68,
-        377.81,
-        373.17
+        642.69
       ],
       "dates": [
         "2026-09-09",
@@ -746,8 +693,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 141.54,
-      "change": -1.41,
+      "price": 142.34,
+      "change": -0.85,
       "series": [
         161.63,
         152.94,
@@ -770,7 +717,7 @@
         142.48,
         144.77,
         143.56,
-        141.54
+        142.35
       ],
       "dates": [
         "2026-09-09",
@@ -799,8 +746,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 368.56,
-      "change": -2.11,
+      "price": 371.45,
+      "change": -1.34,
       "series": [
         364.38,
         360.83,
@@ -823,7 +770,60 @@
         362.51,
         375.81,
         376.51,
-        368.56
+        371.45
+      ],
+      "dates": [
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08"
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "price": 372.73,
+      "change": -1.35,
+      "series": [
+        367.81,
+        363.56,
+        365.44,
+        358.97,
+        356.58,
+        358.08,
+        366.2,
+        364.27,
+        375.3,
+        378.9,
+        380.12,
+        377.94,
+        372.11,
+        357.45,
+        352.84,
+        354.81,
+        354.11,
+        370.59,
+        378.73,
+        380.68,
+        377.81,
+        372.73
       ],
       "dates": [
         "2026-09-09",
@@ -853,160 +853,105 @@
   ],
   "ai": [
     {
-      "title": "Can you trust Meta\u2019s Muse or OpenAI\u2019s Dots to run your life?",
-      "summary": "My Decoder guest today is Hayden Field, The Verge\u2019s senior AI reporter, and we\u2019re discussing the new wave of consumer-friendly AI agents. If you\u2019ve\u2026",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
       "tags": [
-        "OpenAI",
-        "Meta"
+        "Funding"
       ]
     },
     {
-      "title": "Artificial is a wicked satire that also sticks to the facts",
-      "summary": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone\u2026",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+      "title": "How AI decision models could change content moderation",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
       "tags": []
     },
     {
-      "title": "It appears .agent and .agi are about to be the hot new domains",
-      "summary": "For the first time in years, the Internet Corporation for Assigned Names and Numbers - better known as ICANN - is accepting applications for new\u2026",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
       "tags": []
     },
     {
-      "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
-      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about\u2026",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-      "tags": [
-        "Microsoft"
-      ]
-    },
-    {
-      "title": "Muse launches on the iPad",
-      "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app\u2026",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
       "tags": []
     },
     {
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and\u2026",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "tags": [
-        "Microsoft"
-      ]
-    },
-    {
-      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-      "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's\u2026",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-      "tags": []
-    },
-    {
-      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
-      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update,\u2026",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Google invests millions in Mark Zuckerberg\u2019s efforts to create a \u2018virtual cell\u2019",
-      "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\"\u2026",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "title": "Google\u2019s new SynthID website can identify AI-generated media",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
       "tags": [
         "Google"
       ]
     },
     {
-      "title": "ChatGPT is getting college planning tools",
-      "summary": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the\u2026",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "tags": []
+    },
+    {
+      "title": "OpenAI\u2019s Alexander Embiricos is coming to TechCrunch Disrupt 2026 \u2014 days after the launch of Dots",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "Google experiments with an AI-powered gaming platform",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "tags": [
+        "Google"
+      ]
+    },
+    {
+      "title": "Tony Fadell on why the first wave of AI gadgets failed \u2014 and what comes next",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "tags": []
+    },
+    {
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "tags": [
+        "Funding"
+      ]
+    },
+    {
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "tags": [
+        "Meta"
+      ]
+    },
+    {
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
       "tags": [
         "OpenAI"
       ]
     }
   ],
   "markets": [
-    {
-      "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who\u2019s right?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected applications from wealthy couples. Here\u2019s why.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "GLP-1s could offer unexpected relief from back and knee pain, but doctors urge caution",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Rising yields are quietly crashing the stock market\u2019s earlier winners of 2026",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Who will benefit more from AI agents when it comes to spending \u2013 companies or you?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/who-will-benefit-more-from-ai-agents-when-it-comes-to-spending-companies-or-you-cec597ed?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here\u2019s where he\u2019s looking now.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "College students have to use credit cards just to cover basic living expenses. Here\u2019s what it\u2019s costing them.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "French bonds are suffering through their worst decade since 1803 \u2014 and investors are bracing for more pain",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
       "summary": "",
@@ -1020,8 +965,82 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
       "tags": []
+    },
+    {
+      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
+      "tags": []
+    },
+    {
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
+      "tags": []
+    },
+    {
+      "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
+      "tags": []
+    },
+    {
+      "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "tags": []
+    },
+    {
+      "title": "'The hottest skill on Wall Street\u2019: Demand for this AI ability jumped 1,721% as banks embrace agents",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Nike, ON Semiconductor, Synaptics, Vylor & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-premarket-nike-on-semiconductor-synaptics-vylor-more.html",
+      "tags": []
+    },
+    {
+      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+      "tags": [
+        "Rates & Fed"
+      ]
     }
   ],
-  "updated": "08 Oct 2026, 14:07 UTC",
-  "updated_iso": "2026-10-08T14:07:41.963105+00:00"
+  "updated": "08 Oct 2026, 14:30 UTC",
+  "updated_iso": "2026-10-08T14:30:48.151524+00:00"
 }
