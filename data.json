@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,426.51",
-      "change": -0.31,
+      "value": "10,430.14",
+      "change": -0.27,
       "series": [
         10670.1,
         10608.9,
@@ -185,7 +185,7 @@
         10497.9,
         10541.7,
         10458.5,
-        10426.51
+        10430.14
       ],
       "dates": [
         "2026-09-09",
@@ -949,10 +949,75 @@
   ],
   "markets": [
     {
-      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+      "title": "French bonds are suffering through their worst decade since 1803 \u2014 and investors are bracing for more pain",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Oil prices are jumping again. Here\u2019s how the S&P 500 has performed on days when crude has seen big gains may be surprising.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "Samsung just did something no tech company has ever done, but investors still aren\u2019t satisfied",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "A true \u2018nuclear renaissance\u2019 is taking shape, and these stocks could be big winners",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-true-nuclear-renaissance-is-taking-shape-and-these-stocks-could-be-big-winners-e04f7364?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Rising yields are quietly crashing the stock market\u2019s earlier winners of 2026",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here\u2019s where he\u2019s looking now.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "A strategist who called the Asian financial crisis sees parallels with the AI boom",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-strategist-who-called-the-asian-financial-crisis-sees-parallels-with-the-ai-boom-b45522ad?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Tesla\u2019s big AI gamble puts its EV business under a microscope",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/teslas-big-ai-gamble-puts-its-ev-business-under-a-microscope-0ea9b387?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -968,73 +1033,8 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
       "tags": []
-    },
-    {
-      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
-      "tags": []
-    },
-    {
-      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
-      "tags": []
-    },
-    {
-      "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
-      "tags": []
-    },
-    {
-      "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "tags": []
-    },
-    {
-      "title": "'The hottest skill on Wall Street\u2019: Demand for this AI ability jumped 1,721% as banks embrace agents",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Nike, ON Semiconductor, Synaptics, Vylor & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-premarket-nike-on-semiconductor-synaptics-vylor-more.html",
-      "tags": []
     }
   ],
-  "updated": "08 Oct 2026, 11:42 UTC",
-  "updated_iso": "2026-10-08T11:42:24.680048+00:00"
+  "updated": "08 Oct 2026, 11:56 UTC",
+  "updated_iso": "2026-10-08T11:56:09.603555+00:00"
 }
