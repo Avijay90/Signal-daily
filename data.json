@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "69,590.95",
-      "change": -0.64,
+      "value": "69,390.04",
+      "change": -0.92,
       "series": [
         65269.33,
         65142.78,
@@ -133,7 +133,7 @@
         69946.86,
         70683.98,
         70035.71,
-        69590.95
+        69390.04
       ],
       "dates": [
         "2026-09-08",
@@ -906,6 +906,13 @@
       "tags": []
     },
     {
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "tags": []
+    },
+    {
       "title": "Google\u2019s new SynthID website can identify AI-generated media",
       "summary": "",
       "source": "TechCrunch",
@@ -913,13 +920,6 @@
       "tags": [
         "Google"
       ]
-    },
-    {
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "tags": []
     },
     {
       "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
@@ -1035,6 +1035,6 @@
       "tags": []
     }
   ],
-  "updated": "08 Oct 2026, 02:05 UTC",
-  "updated_iso": "2026-10-08T02:05:52.225895+00:00"
+  "updated": "08 Oct 2026, 02:24 UTC",
+  "updated_iso": "2026-10-08T02:24:46.829501+00:00"
 }
