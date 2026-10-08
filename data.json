@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,742.50",
-      "change": -0.76,
+      "value": "7,748.86",
+      "change": -0.68,
       "series": [
         7636.36,
         7591.7,
@@ -27,7 +27,7 @@
         7773.95,
         7818.93,
         7801.77,
-        7742.5
+        7748.86
       ],
       "dates": [
         "2026-09-09",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,109.98",
-      "change": -1.56,
+      "value": "27,133.62",
+      "change": -1.47,
       "series": [
         26253.34,
         26081.72,
@@ -81,7 +81,7 @@
         27477.31,
         27599.79,
         27538.69,
-        27109.98
+        27133.62
       ],
       "dates": [
         "2026-09-09",
@@ -214,8 +214,8 @@
   "stocks": [
     {
       "symbol": "PLTR",
-      "price": 196.12,
-      "change": 1.03,
+      "price": 196.47,
+      "change": 1.21,
       "series": [
         169.53,
         165.86,
@@ -238,7 +238,7 @@
         189.4,
         192.07,
         194.12,
-        196.12
+        196.47
       ],
       "dates": [
         "2026-09-09",
@@ -267,8 +267,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 338.52,
-      "change": 0.55,
+      "price": 338.95,
+      "change": 0.68,
       "series": [
         315.34,
         326.57,
@@ -291,7 +291,7 @@
         332.89,
         333.63,
         336.67,
-        338.52
+        338.95
       ],
       "dates": [
         "2026-09-09",
@@ -320,8 +320,8 @@
     },
     {
       "symbol": "META",
-      "price": 716.06,
-      "change": -0.73,
+      "price": 717.05,
+      "change": -0.59,
       "series": [
         653.69,
         644.38,
@@ -344,7 +344,7 @@
         741.9,
         738.88,
         721.31,
-        716.06
+        717.05
       ],
       "dates": [
         "2026-09-09",
@@ -373,8 +373,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 347.25,
-      "change": -0.93,
+      "price": 346.87,
+      "change": -1.04,
       "series": [
         330.65,
         332.6,
@@ -397,60 +397,7 @@
         346.47,
         347.68,
         350.5,
-        347.25
-      ],
-      "dates": [
-        "2026-09-09",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-14",
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08"
-      ]
-    },
-    {
-      "symbol": "MSFT",
-      "price": 519.12,
-      "change": -2.01,
-      "series": [
-        491.65,
-        492.44,
-        495.63,
-        505.41,
-        497.12,
-        490.3,
-        497.75,
-        493.78,
-        501.61,
-        498.0,
-        500.59,
-        497.93,
-        516.17,
-        509.22,
-        508.96,
-        512.9,
-        512.8,
-        517.53,
-        525.18,
-        529.3,
-        529.76,
-        519.12
+        346.87
       ],
       "dates": [
         "2026-09-09",
@@ -479,8 +426,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 370.14,
-      "change": -2.03,
+      "price": 370.95,
+      "change": -1.82,
       "series": [
         367.81,
         363.56,
@@ -503,7 +450,60 @@
         378.73,
         380.68,
         377.81,
-        370.14
+        370.95
+      ],
+      "dates": [
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08"
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "price": 519.21,
+      "change": -1.99,
+      "series": [
+        491.65,
+        492.44,
+        495.63,
+        505.41,
+        497.12,
+        490.3,
+        497.75,
+        493.78,
+        501.61,
+        498.0,
+        500.59,
+        497.93,
+        516.17,
+        509.22,
+        508.96,
+        512.9,
+        512.8,
+        517.53,
+        525.18,
+        529.3,
+        529.76,
+        519.21
       ],
       "dates": [
         "2026-09-09",
@@ -532,8 +532,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 254.47,
-      "change": -2.1,
+      "price": 254.5,
+      "change": -2.09,
       "series": [
         252.4,
         251.89,
@@ -556,7 +556,7 @@
         251.4,
         256.29,
         259.92,
-        254.47
+        254.5
       ],
       "dates": [
         "2026-09-09",
@@ -585,8 +585,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 230.22,
-      "change": -3.05,
+      "price": 230.54,
+      "change": -2.92,
       "series": [
         223.67,
         218.36,
@@ -609,7 +609,7 @@
         238.9,
         239.24,
         237.47,
-        230.23
+        230.54
       ],
       "dates": [
         "2026-09-09",
@@ -638,8 +638,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 455.17,
-      "change": -3.61,
+      "price": 454.73,
+      "change": -3.7,
       "series": [
         435.36,
         428.03,
@@ -662,7 +662,7 @@
         485.8,
         482.3,
         472.2,
-        455.17
+        454.73
       ],
       "dates": [
         "2026-09-09",
@@ -691,8 +691,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 360.97,
-      "change": -4.13,
+      "price": 361.22,
+      "change": -4.06,
       "series": [
         364.38,
         360.83,
@@ -715,7 +715,7 @@
         362.51,
         375.81,
         376.51,
-        360.97
+        361.22
       ],
       "dates": [
         "2026-09-09",
@@ -744,8 +744,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 617.4,
-      "change": -4.41,
+      "price": 618.41,
+      "change": -4.25,
       "series": [
         521.1,
         503.6,
@@ -768,7 +768,7 @@
         631.75,
         649.42,
         645.86,
-        617.4
+        618.41
       ],
       "dates": [
         "2026-09-09",
@@ -797,8 +797,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 136.87,
-      "change": -4.66,
+      "price": 137.22,
+      "change": -4.42,
       "series": [
         161.63,
         152.94,
@@ -821,7 +821,7 @@
         142.48,
         144.77,
         143.56,
-        136.87
+        137.22
       ],
       "dates": [
         "2026-09-09",
@@ -956,6 +956,78 @@
   ],
   "markets": [
     {
+      "title": "Layoffs haven\u2019t been this low since the 1960s. It\u2019s great if you have a job \u2014 but not if you don\u2019t.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/layoffs-havent-been-this-low-since-the-1960s-its-great-if-you-have-a-job-but-not-if-you-dont-74cbdf55?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who\u2019s right?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The Treasury market is facing a crucial vote of investor confidence",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "America\u2019s renters are emerging as a political movement",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Why a longtime skeptic of Palantir\u2019s stock is finally saying it\u2019s time to buy",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "I keep comparing myself to my more financially successful friends. How can I stop?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-keep-comparing-myself-to-my-more-financially-successful-friends-how-can-i-stop-716a2009?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "How to provide guaranteed retirement income while paying no commissions",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
       "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
       "summary": "",
       "source": "CNBC",
@@ -968,82 +1040,8 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
       "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
-      "tags": []
-    },
-    {
-      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
-      "tags": []
-    },
-    {
-      "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
-      "tags": []
-    },
-    {
-      "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "tags": []
-    },
-    {
-      "title": "'The hottest skill on Wall Street\u2019: Demand for this AI ability jumped 1,721% as banks embrace agents",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Nike, ON Semiconductor, Synaptics, Vylor & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-premarket-nike-on-semiconductor-synaptics-vylor-more.html",
-      "tags": []
-    },
-    {
-      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
-      "tags": []
     }
   ],
-  "updated": "08 Oct 2026, 17:56 UTC",
-  "updated_iso": "2026-10-08T17:56:05.995774+00:00"
+  "updated": "08 Oct 2026, 18:07 UTC",
+  "updated_iso": "2026-10-08T18:07:13.540400+00:00"
 }
