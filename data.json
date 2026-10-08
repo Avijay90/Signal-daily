@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,414.98",
-      "change": -0.42,
+      "value": "10,410.87",
+      "change": -0.46,
       "series": [
         10670.1,
         10608.9,
@@ -185,7 +185,7 @@
         10497.9,
         10541.7,
         10458.5,
-        10414.98
+        10410.87
       ],
       "dates": [
         "2026-09-09",
@@ -906,13 +906,6 @@
       "tags": []
     },
     {
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "tags": []
-    },
-    {
       "title": "Google\u2019s new SynthID website can identify AI-generated media",
       "summary": "",
       "source": "TechCrunch",
@@ -920,6 +913,13 @@
       "tags": [
         "Google"
       ]
+    },
+    {
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "tags": []
     },
     {
       "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
@@ -948,13 +948,6 @@
     }
   ],
   "markets": [
-    {
-      "title": "Goldman Sachs CEO succession planning faces one big problem",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
-      "tags": []
-    },
     {
       "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
       "summary": "",
@@ -1033,8 +1026,15 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
       "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Nike, ON Semiconductor, Synaptics, Vylor & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-premarket-nike-on-semiconductor-synaptics-vylor-more.html",
+      "tags": []
     }
   ],
-  "updated": "08 Oct 2026, 09:28 UTC",
-  "updated_iso": "2026-10-08T09:28:21.064951+00:00"
+  "updated": "08 Oct 2026, 09:44 UTC",
+  "updated_iso": "2026-10-08T09:44:45.256277+00:00"
 }
