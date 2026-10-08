@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "69,319.87",
-      "change": -1.02,
+      "value": "69,267.25",
+      "change": -1.1,
       "series": [
         65269.33,
         65142.78,
@@ -133,7 +133,7 @@
         69946.86,
         70683.98,
         70035.71,
-        69319.87
+        69267.25
       ],
       "dates": [
         "2026-09-08",
@@ -949,90 +949,92 @@
   ],
   "markets": [
     {
-      "title": "Why are minimum alcohol prices going up?",
+      "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cm2dwd97repyo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
       "tags": []
     },
     {
-      "title": "Watch: Why has UK diesel price hit an all time high?",
+      "title": "Goldman Sachs CEO succession planning faces one big problem",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
       "tags": []
     },
     {
-      "title": "How much is your salary?",
+      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cr4glg9p4188o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
       "tags": []
     },
     {
-      "title": "Fears coastal town road closure could leave Watchet 'desolate'",
+      "title": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c6rry9ed2gkeo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html",
       "tags": []
     },
     {
-      "title": "Why Gen Z are planning for life without a state pension",
+      "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html",
       "tags": []
     },
     {
-      "title": "Why the UK is dithering over what to do about e-scooters",
+      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
       "tags": []
     },
     {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
       "tags": []
     },
     {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
       "tags": []
     },
     {
-      "title": "My hometown shows that high streets have to change or die",
+      "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
       "tags": []
     },
     {
-      "title": "Landlord's heartbreak as pub shuts down",
+      "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3gnq1752po?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
       "tags": []
     },
     {
-      "title": "P&R's two-pronged budget approach under fire",
+      "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xez6l2x4o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "No child should have to learn in a cold classroom - children's commissioner",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
       "tags": []
     }
   ],
-  "updated": "08 Oct 2026, 03:57 UTC",
-  "updated_iso": "2026-10-08T03:57:36.599174+00:00"
+  "updated": "08 Oct 2026, 04:10 UTC",
+  "updated_iso": "2026-10-08T04:10:02.940786+00:00"
 }
