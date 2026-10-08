@@ -955,78 +955,6 @@
   ],
   "markets": [
     {
-      "title": "The options market is reminding investors there\u2019s a cure for rising bond yields \u2014 higher yields",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who\u2019s right?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Florida is voting on whether to slash property taxes. Here\u2019s who it would benefit \u2014 and hurt.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "How to downsize like a pro \u2014 and free yourself from being a \u2018prisoner of your possessions\u2019",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "These decisions you make in your 20s \u2014 not your income \u2014 determine whether you\u2019ll spend decades in debt or retire comfortably",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "With mortgage rates soaring above 7.5%, the smart money rents in America",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "A big AI super PAC tried to follow crypto\u2019s playbook to influence the midterms. Critics say it\u2019s not working out.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-big-ai-super-pac-tried-to-follow-cryptos-playbook-to-influence-the-midterms-critics-say-its-not-working-out-d27911e6?mod=mw_rss_topstories",
-      "tags": [
-        "Crypto"
-      ]
-    },
-    {
-      "title": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
       "summary": "",
       "source": "CNBC",
@@ -1039,8 +967,82 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
       "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
+      "tags": []
+    },
+    {
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
+      "tags": []
+    },
+    {
+      "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
+      "tags": []
+    },
+    {
+      "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "tags": []
+    },
+    {
+      "title": "'The hottest skill on Wall Street\u2019: Demand for this AI ability jumped 1,721% as banks embrace agents",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Nike, ON Semiconductor, Synaptics, Vylor & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-premarket-nike-on-semiconductor-synaptics-vylor-more.html",
+      "tags": []
+    },
+    {
+      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+      "tags": []
     }
   ],
-  "updated": "08 Oct 2026, 21:05 UTC",
-  "updated_iso": "2026-10-08T21:05:32.651678+00:00"
+  "updated": "08 Oct 2026, 21:27 UTC",
+  "updated_iso": "2026-10-08T21:27:00.554388+00:00"
 }
