@@ -161,10 +161,9 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,458.50",
-      "change": -0.79,
+      "value": "10,376.65",
+      "change": -0.78,
       "series": [
-        10811.7,
         10670.1,
         10608.9,
         10650.4,
@@ -185,10 +184,10 @@
         10462.0,
         10497.9,
         10541.7,
-        10458.5
+        10458.5,
+        10376.65
       ],
       "dates": [
-        "2026-09-08",
         "2026-09-09",
         "2026-09-10",
         "2026-09-11",
@@ -209,7 +208,8 @@
         "2026-10-02",
         "2026-10-05",
         "2026-10-06",
-        "2026-10-07"
+        "2026-10-07",
+        "2026-10-08"
       ]
     }
   ],
@@ -906,6 +906,13 @@
       "tags": []
     },
     {
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "tags": []
+    },
+    {
       "title": "Google\u2019s new SynthID website can identify AI-generated media",
       "summary": "",
       "source": "TechCrunch",
@@ -913,13 +920,6 @@
       "tags": [
         "Google"
       ]
-    },
-    {
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "tags": []
     },
     {
       "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
@@ -1042,6 +1042,6 @@
       "tags": []
     }
   ],
-  "updated": "08 Oct 2026, 07:00 UTC",
-  "updated_iso": "2026-10-08T07:00:26.278941+00:00"
+  "updated": "08 Oct 2026, 07:29 UTC",
+  "updated_iso": "2026-10-08T07:29:44.764448+00:00"
 }
