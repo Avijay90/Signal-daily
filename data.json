@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,414.13",
-      "change": -0.42,
+      "value": "10,417.46",
+      "change": -0.39,
       "series": [
         10670.1,
         10608.9,
@@ -185,7 +185,7 @@
         10497.9,
         10541.7,
         10458.5,
-        10414.13
+        10417.46
       ],
       "dates": [
         "2026-09-09",
@@ -906,6 +906,13 @@
       "tags": []
     },
     {
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "tags": []
+    },
+    {
       "title": "Google\u2019s new SynthID website can identify AI-generated media",
       "summary": "",
       "source": "TechCrunch",
@@ -913,13 +920,6 @@
       "tags": [
         "Google"
       ]
-    },
-    {
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "tags": []
     },
     {
       "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
@@ -949,92 +949,92 @@
   ],
   "markets": [
     {
-      "title": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who\u2019s right?",
+      "title": "Watch: Why has UK diesel price hit an all time high?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Simone Biles and Jonathan Owens find a buyer for $1.2 million Texas home\u2014in less than a week",
+      "title": "How much is your salary?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-find-a-buyer-for-1-2-million-texas-homein-less-than-a-week-52b1a2a4?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cr4glg9p4188o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "I\u2019m a 68-year-old widow. My two adult children keep asking me for money. Are they taking advantage of me?",
+      "title": "Fears coastal town road closure could leave Watchet 'desolate'",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c6rry9ed2gkeo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "French bonds are suffering through their worst decade since 1803 \u2014 and investors are bracing for more pain",
+      "title": "New vape tax made me swap e-cigs for dartboards",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cmd6dv1446lno?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
+      "title": "Why Gen Z are planning for life without a state pension",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why the UK is dithering over what to do about e-scooters",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "No child should have to learn in a cold classroom - children's commissioner",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "The wildlife winners set to appear on your banknotes revealed",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
       "tags": [
-        "Oil & energy"
+        "Google"
       ]
-    },
-    {
-      "title": "Samsung just did something no tech company has ever done, and investors still aren\u2019t satisfied",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "A true \u2018nuclear renaissance\u2019 is taking shape, and these stocks could be big winners",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-true-nuclear-renaissance-is-taking-shape-and-these-stocks-could-be-big-winners-e04f7364?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here\u2019s where he\u2019s looking now.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Rising yields are quietly crashing the stock market\u2019s earlier winners of 2026",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
-      "tags": []
-    },
-    {
-      "title": "Singapore's Temasek to expand Middle East presence, open Abu Dhabi, Riyadh offices",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/singapores-temasek-expands-in-mideast-with-abu-dhabi-riyadh-offices-.html",
-      "tags": []
     }
   ],
-  "updated": "08 Oct 2026, 11:05 UTC",
-  "updated_iso": "2026-10-08T11:05:29.404287+00:00"
+  "updated": "08 Oct 2026, 11:27 UTC",
+  "updated_iso": "2026-10-08T11:27:25.627561+00:00"
 }
