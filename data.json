@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,397.98",
-      "change": -0.58,
+      "value": "10,414.13",
+      "change": -0.42,
       "series": [
         10670.1,
         10608.9,
@@ -185,7 +185,7 @@
         10497.9,
         10541.7,
         10458.5,
-        10397.98
+        10414.13
       ],
       "dates": [
         "2026-09-09",
@@ -906,13 +906,6 @@
       "tags": []
     },
     {
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "tags": []
-    },
-    {
       "title": "Google\u2019s new SynthID website can identify AI-generated media",
       "summary": "",
       "source": "TechCrunch",
@@ -920,6 +913,13 @@
       "tags": [
         "Google"
       ]
+    },
+    {
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "tags": []
     },
     {
       "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
@@ -948,20 +948,6 @@
     }
   ],
   "markets": [
-    {
-      "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Rising yields are quietly crashing the stock market\u2019s earlier winners of 2026",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who\u2019s right?",
       "summary": "",
@@ -1021,6 +1007,20 @@
       "tags": []
     },
     {
+      "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here\u2019s where he\u2019s looking now.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Rising yields are quietly crashing the stock market\u2019s earlier winners of 2026",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
       "summary": "",
       "source": "CNBC",
@@ -1035,6 +1035,6 @@
       "tags": []
     }
   ],
-  "updated": "08 Oct 2026, 10:55 UTC",
-  "updated_iso": "2026-10-08T10:55:05.307900+00:00"
+  "updated": "08 Oct 2026, 11:05 UTC",
+  "updated_iso": "2026-10-08T11:05:29.404287+00:00"
 }
