@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,759.71",
-      "change": -0.54,
+      "value": "7,752.15",
+      "change": -0.64,
       "series": [
         7636.36,
         7591.7,
@@ -27,7 +27,7 @@
         7773.95,
         7818.93,
         7801.77,
-        7759.71
+        7752.15
       ],
       "dates": [
         "2026-09-09",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,177.37",
-      "change": -1.31,
+      "value": "27,153.73",
+      "change": -1.4,
       "series": [
         26253.34,
         26081.72,
@@ -81,7 +81,7 @@
         27477.31,
         27599.79,
         27538.69,
-        27177.37
+        27153.73
       ],
       "dates": [
         "2026-09-09",
@@ -214,8 +214,8 @@
   "stocks": [
     {
       "symbol": "PLTR",
-      "price": 197.03,
-      "change": 1.5,
+      "price": 196.91,
+      "change": 1.44,
       "series": [
         169.53,
         165.86,
@@ -238,7 +238,7 @@
         189.4,
         192.07,
         194.12,
-        197.04
+        196.91
       ],
       "dates": [
         "2026-09-09",
@@ -267,8 +267,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 340.93,
-      "change": 1.27,
+      "price": 340.64,
+      "change": 1.18,
       "series": [
         315.34,
         326.57,
@@ -291,7 +291,7 @@
         332.89,
         333.63,
         336.67,
-        340.93
+        340.64
       ],
       "dates": [
         "2026-09-09",
@@ -320,8 +320,8 @@
     },
     {
       "symbol": "META",
-      "price": 718.86,
-      "change": -0.34,
+      "price": 719.53,
+      "change": -0.25,
       "series": [
         653.69,
         644.38,
@@ -344,7 +344,7 @@
         741.9,
         738.88,
         721.31,
-        718.85
+        719.53
       ],
       "dates": [
         "2026-09-09",
@@ -373,8 +373,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 347.8,
-      "change": -0.77,
+      "price": 348.16,
+      "change": -0.67,
       "series": [
         330.65,
         332.6,
@@ -397,60 +397,7 @@
         346.47,
         347.68,
         350.5,
-        347.8
-      ],
-      "dates": [
-        "2026-09-09",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-14",
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08"
-      ]
-    },
-    {
-      "symbol": "MSFT",
-      "price": 521.98,
-      "change": -1.47,
-      "series": [
-        491.65,
-        492.44,
-        495.63,
-        505.41,
-        497.12,
-        490.3,
-        497.75,
-        493.78,
-        501.61,
-        498.0,
-        500.59,
-        497.93,
-        516.17,
-        509.22,
-        508.96,
-        512.9,
-        512.8,
-        517.53,
-        525.18,
-        529.3,
-        529.76,
-        521.98
+        348.16
       ],
       "dates": [
         "2026-09-09",
@@ -479,8 +426,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 372.09,
-      "change": -1.51,
+      "price": 371.91,
+      "change": -1.56,
       "series": [
         367.81,
         363.56,
@@ -503,7 +450,60 @@
         378.73,
         380.68,
         377.81,
-        372.09
+        371.91
+      ],
+      "dates": [
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08"
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "price": 521.14,
+      "change": -1.63,
+      "series": [
+        491.65,
+        492.44,
+        495.63,
+        505.41,
+        497.12,
+        490.3,
+        497.75,
+        493.78,
+        501.61,
+        498.0,
+        500.59,
+        497.93,
+        516.17,
+        509.22,
+        508.96,
+        512.9,
+        512.8,
+        517.53,
+        525.18,
+        529.3,
+        529.76,
+        521.15
       ],
       "dates": [
         "2026-09-09",
@@ -532,8 +532,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 254.84,
-      "change": -1.95,
+      "price": 254.68,
+      "change": -2.02,
       "series": [
         252.4,
         251.89,
@@ -556,7 +556,7 @@
         251.4,
         256.29,
         259.92,
-        254.84
+        254.68
       ],
       "dates": [
         "2026-09-09",
@@ -585,8 +585,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 230.43,
-      "change": -2.96,
+      "price": 230.49,
+      "change": -2.94,
       "series": [
         223.67,
         218.36,
@@ -609,7 +609,7 @@
         238.9,
         239.24,
         237.47,
-        230.43
+        230.49
       ],
       "dates": [
         "2026-09-09",
@@ -638,8 +638,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 456.31,
-      "change": -3.37,
+      "price": 455.32,
+      "change": -3.57,
       "series": [
         435.36,
         428.03,
@@ -662,7 +662,7 @@
         485.8,
         482.3,
         472.2,
-        456.31
+        455.33
       ],
       "dates": [
         "2026-09-09",
@@ -691,8 +691,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 618.28,
-      "change": -4.27,
+      "price": 614.99,
+      "change": -4.78,
       "series": [
         521.1,
         503.6,
@@ -715,7 +715,7 @@
         631.75,
         649.42,
         645.86,
-        618.28
+        614.99
       ],
       "dates": [
         "2026-09-09",
@@ -744,8 +744,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 359.55,
-      "change": -4.51,
+      "price": 358.03,
+      "change": -4.91,
       "series": [
         364.38,
         360.83,
@@ -768,7 +768,7 @@
         362.51,
         375.81,
         376.51,
-        359.55
+        358.03
       ],
       "dates": [
         "2026-09-09",
@@ -797,8 +797,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 135.66,
-      "change": -5.5,
+      "price": 134.96,
+      "change": -5.99,
       "series": [
         161.63,
         152.94,
@@ -821,7 +821,7 @@
         142.48,
         144.77,
         143.56,
-        135.66
+        134.96
       ],
       "dates": [
         "2026-09-09",
@@ -959,20 +959,6 @@
   ],
   "markets": [
     {
-      "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "America\u2019s renters are emerging as a political movement",
       "summary": "",
       "source": "MarketWatch",
@@ -1031,6 +1017,20 @@
       "tags": []
     },
     {
+      "title": "The options market is reminding investors there\u2019s a cure for rising bond yields \u2014 higher yields",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who\u2019s right?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves premarket: Robinhood, Boeing, Moderna & more",
       "summary": "",
       "source": "CNBC",
@@ -1045,6 +1045,6 @@
       "tags": []
     }
   ],
-  "updated": "08 Oct 2026, 18:50 UTC",
-  "updated_iso": "2026-10-08T18:50:11.270127+00:00"
+  "updated": "08 Oct 2026, 19:07 UTC",
+  "updated_iso": "2026-10-08T19:07:08.602158+00:00"
 }
