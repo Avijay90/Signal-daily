@@ -952,29 +952,6 @@
   ],
   "markets": [
     {
-      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I feel like a loser\u2019: I check my ETFs every day. They\u2019re up one minute, down the next. Should I be worried?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Hurricane Isaias to \u2018stress test\u2019 oil markets already hobbled by tight fuel supplies",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5?mod=mw_rss_topstories",
-      "tags": [
-        "Oil & energy"
-      ]
-    },
-    {
       "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who\u2019s right?",
       "summary": "",
       "source": "MarketWatch",
@@ -1024,6 +1001,29 @@
       "tags": []
     },
     {
+      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I feel like a loser\u2019: I check my ETFs every day. They\u2019re up one minute, down the next. Should I be worried?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Microsoft is nearing a big milestone that solidifies its revival",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+      "tags": [
+        "Microsoft"
+      ]
+    },
+    {
       "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
       "summary": "",
       "source": "CNBC",
@@ -1038,6 +1038,6 @@
       "tags": []
     }
   ],
-  "updated": "09 Oct 2026, 21:05 UTC",
-  "updated_iso": "2026-10-09T21:05:20.924305+00:00"
+  "updated": "09 Oct 2026, 21:25 UTC",
+  "updated_iso": "2026-10-09T21:25:44.934929+00:00"
 }
