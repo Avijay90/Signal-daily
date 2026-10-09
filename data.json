@@ -3,7 +3,7 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,808.80",
+      "value": "7,808.93",
       "change": 0.56,
       "series": [
         7591.7,
@@ -27,7 +27,7 @@
         7818.93,
         7801.77,
         7765.36,
-        7808.8
+        7808.93
       ],
       "dates": [
         "2026-09-10",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,345.63",
-      "change": 0.56,
+      "value": "27,339.07",
+      "change": 0.54,
       "series": [
         26081.72,
         26333.04,
@@ -81,7 +81,7 @@
         27599.79,
         27538.69,
         27193.34,
-        27345.63
+        27339.07
       ],
       "dates": [
         "2026-09-10",
@@ -214,8 +214,8 @@
   "stocks": [
     {
       "symbol": "ORCL",
-      "price": 142.43,
-      "change": 4.97,
+      "price": 142.56,
+      "change": 5.06,
       "series": [
         152.94,
         150.28,
@@ -238,7 +238,7 @@
         144.77,
         143.56,
         135.69,
-        142.43
+        142.56
       ],
       "dates": [
         "2026-09-10",
@@ -267,8 +267,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 205.93,
-      "change": 3.6,
+      "price": 205.78,
+      "change": 3.52,
       "series": [
         165.86,
         167.23,
@@ -291,7 +291,7 @@
         192.07,
         194.12,
         198.78,
-        205.93
+        205.77
       ],
       "dates": [
         "2026-09-10",
@@ -320,8 +320,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 260.8,
-      "change": 2.65,
+      "price": 261.11,
+      "change": 2.77,
       "series": [
         251.89,
         256.78,
@@ -344,60 +344,7 @@
         256.29,
         259.92,
         254.06,
-        260.8
-      ],
-      "dates": [
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-14",
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09"
-      ]
-    },
-    {
-      "symbol": "MSFT",
-      "price": 534.13,
-      "change": 2.2,
-      "series": [
-        492.44,
-        495.63,
-        505.41,
-        497.12,
-        490.3,
-        497.75,
-        493.78,
-        501.61,
-        498.0,
-        500.59,
-        497.93,
-        516.17,
-        509.22,
-        508.96,
-        512.9,
-        512.8,
-        517.53,
-        525.18,
-        529.3,
-        529.76,
-        522.61,
-        534.13
+        261.11
       ],
       "dates": [
         "2026-09-10",
@@ -426,8 +373,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 383.19,
-      "change": 2.18,
+      "price": 383.06,
+      "change": 2.15,
       "series": [
         363.56,
         365.44,
@@ -450,7 +397,60 @@
         380.68,
         377.81,
         375.0,
-        383.18
+        383.05
+      ],
+      "dates": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09"
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "price": 533.75,
+      "change": 2.13,
+      "series": [
+        492.44,
+        495.63,
+        505.41,
+        497.12,
+        490.3,
+        497.75,
+        493.78,
+        501.61,
+        498.0,
+        500.59,
+        497.93,
+        516.17,
+        509.22,
+        508.96,
+        512.9,
+        512.8,
+        517.53,
+        525.18,
+        529.3,
+        529.76,
+        522.61,
+        533.75
       ],
       "dates": [
         "2026-09-10",
@@ -479,8 +479,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 352.49,
-      "change": 1.21,
+      "price": 351.83,
+      "change": 1.02,
       "series": [
         332.6,
         338.5,
@@ -503,7 +503,7 @@
         347.68,
         350.5,
         348.29,
-        352.49
+        351.83
       ],
       "dates": [
         "2026-09-10",
@@ -532,8 +532,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 362.68,
-      "change": 0.71,
+      "price": 362.63,
+      "change": 0.69,
       "series": [
         360.83,
         361.99,
@@ -556,7 +556,7 @@
         375.81,
         376.51,
         360.14,
-        362.68
+        362.63
       ],
       "dates": [
         "2026-09-10",
@@ -585,8 +585,8 @@
     },
     {
       "symbol": "META",
-      "price": 720.94,
-      "change": 0.01,
+      "price": 720.0,
+      "change": -0.12,
       "series": [
         644.38,
         648.03,
@@ -609,7 +609,7 @@
         738.88,
         721.31,
         720.89,
-        720.94
+        720.0
       ],
       "dates": [
         "2026-09-10",
@@ -638,8 +638,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 229.62,
-      "change": -0.37,
+      "price": 229.38,
+      "change": -0.48,
       "series": [
         218.36,
         218.29,
@@ -662,113 +662,7 @@
         239.24,
         237.47,
         230.48,
-        229.62
-      ],
-      "dates": [
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-14",
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09"
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "price": 451.44,
-      "change": -1.43,
-      "series": [
-        428.03,
-        433.24,
-        418.01,
-        413.75,
-        417.72,
-        430.26,
-        434.67,
-        445.14,
-        452.0,
-        446.57,
-        451.15,
-        450.61,
-        452.88,
-        456.94,
-        456.19,
-        459.2,
-        472.78,
-        485.8,
-        482.3,
-        472.2,
-        457.99,
-        451.43
-      ],
-      "dates": [
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-14",
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09"
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "price": 610.8,
-      "change": -1.59,
-      "series": [
-        503.6,
-        516.13,
-        493.41,
-        504.2,
-        512.5,
-        545.09,
-        559.82,
-        615.52,
-        623.77,
-        614.61,
-        629.26,
-        630.63,
-        607.87,
-        607.57,
-        611.76,
-        615.73,
-        633.91,
-        631.75,
-        649.42,
-        645.86,
-        620.68,
-        610.8
+        229.38
       ],
       "dates": [
         "2026-09-10",
@@ -797,8 +691,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 334.79,
-      "change": -1.65,
+      "price": 335.19,
+      "change": -1.54,
       "series": [
         326.57,
         332.27,
@@ -821,7 +715,113 @@
         333.63,
         336.67,
         340.42,
-        334.79
+        335.19
+      ],
+      "dates": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09"
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "price": 450.52,
+      "change": -1.63,
+      "series": [
+        428.03,
+        433.24,
+        418.01,
+        413.75,
+        417.72,
+        430.26,
+        434.67,
+        445.14,
+        452.0,
+        446.57,
+        451.15,
+        450.61,
+        452.88,
+        456.94,
+        456.19,
+        459.2,
+        472.78,
+        485.8,
+        482.3,
+        472.2,
+        457.99,
+        450.52
+      ],
+      "dates": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09"
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "price": 609.92,
+      "change": -1.73,
+      "series": [
+        503.6,
+        516.13,
+        493.41,
+        504.2,
+        512.5,
+        545.09,
+        559.82,
+        615.52,
+        623.77,
+        614.61,
+        629.26,
+        630.63,
+        607.87,
+        607.57,
+        611.76,
+        615.73,
+        633.91,
+        631.75,
+        649.42,
+        645.86,
+        620.68,
+        609.92
       ],
       "dates": [
         "2026-09-10",
@@ -952,6 +952,83 @@
   ],
   "markets": [
     {
+      "title": "Hurricane Isaias to \u2018stress test\u2019 oil markets already hobbled by tight fuel supplies",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5?mod=mw_rss_topstories",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here\u2019s who could pay the most.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Flu season is already here. Here\u2019s what to know about this year\u2019s flu shots.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Elon Musk is now richer than any American ever \u2014 and it\u2019s not even close",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "More evidence that broad-market index funds remain unbeatable, even in the era of AI stock-picking",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/more-evidence-that-broad-market-index-funds-remain-unbeatable-even-in-the-era-of-ai-stock-picking-3c61deac?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+      "tags": [
+        "OpenAI",
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Trump ramps up battle to fire Fed\u2019s Lisa Cook. Her lawyers say there\u2019s no basis to remove her.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-ramps-up-battle-to-fire-feds-lisa-cook-her-lawyers-say-theres-no-basis-to-remove-her-3a62c5cd?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
       "summary": "",
       "source": "CNBC",
@@ -964,80 +1041,8 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
       "tags": []
-    },
-    {
-      "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
-      "tags": []
-    },
-    {
-      "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "tags": []
-    },
-    {
-      "title": "'The hottest skill on Wall Street\u2019: Demand for this AI ability jumped 1,721% as banks embrace agents",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Nike, ON Semiconductor, Synaptics, Vylor & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-premarket-nike-on-semiconductor-synaptics-vylor-more.html",
-      "tags": []
-    },
-    {
-      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
-      "tags": []
-    },
-    {
-      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
-      "tags": []
-    },
-    {
-      "title": "Sports betting is increasingly the norm for Gen Z.  Here\u2019s why some financial and mental health experts are worried",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/stocks-making-the-biggest-moves-premarket-dkng-itub-ptc.html",
-      "tags": []
-    },
-    {
-      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
-      "tags": []
     }
   ],
-  "updated": "09 Oct 2026, 17:53 UTC",
-  "updated_iso": "2026-10-09T17:53:56.127971+00:00"
+  "updated": "09 Oct 2026, 18:05 UTC",
+  "updated_iso": "2026-10-09T18:05:15.783411+00:00"
 }
