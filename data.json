@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "68,963.46",
-      "change": -0.11,
+      "value": "68,994.63",
+      "change": -0.07,
       "series": [
         65142.78,
         65270.95,
@@ -133,7 +133,7 @@
         70683.98,
         70035.71,
         69042.11,
-        68963.46
+        68994.63
       ],
       "dates": [
         "2026-09-09",
@@ -1031,20 +1031,20 @@
       "tags": []
     },
     {
-      "title": "How much is your salary?",
+      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cr4glg9p4188o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
       "tags": []
     },
     {
-      "title": "Fears coastal town road closure could leave Watchet 'desolate'",
+      "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c6rry9ed2gkeo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
       "tags": []
     }
   ],
-  "updated": "09 Oct 2026, 05:27 UTC",
-  "updated_iso": "2026-10-09T05:27:24.513959+00:00"
+  "updated": "09 Oct 2026, 05:43 UTC",
+  "updated_iso": "2026-10-09T05:43:00.598392+00:00"
 }
