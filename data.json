@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,790.49",
-      "change": 0.32,
+      "value": "7,799.64",
+      "change": 0.44,
       "series": [
         7591.7,
         7656.98,
@@ -27,7 +27,7 @@
         7818.93,
         7801.77,
         7765.36,
-        7790.49
+        7799.64
       ],
       "dates": [
         "2026-09-10",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,307.91",
-      "change": 0.42,
+      "value": "27,348.34",
+      "change": 0.57,
       "series": [
         26081.72,
         26333.04,
@@ -81,7 +81,7 @@
         27599.79,
         27538.69,
         27193.34,
-        27307.91
+        27348.34
       ],
       "dates": [
         "2026-09-10",
@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,556.01",
-      "change": 1.1,
+      "value": "10,549.87",
+      "change": 1.04,
       "series": [
         10608.9,
         10650.4,
@@ -185,7 +185,7 @@
         10541.7,
         10458.5,
         10441.6,
-        10556.01
+        10549.87
       ],
       "dates": [
         "2026-09-10",
@@ -216,8 +216,8 @@
   "stocks": [
     {
       "symbol": "ORCL",
-      "price": 142.0,
-      "change": 4.65,
+      "price": 142.38,
+      "change": 4.93,
       "series": [
         152.94,
         150.28,
@@ -240,7 +240,7 @@
         144.77,
         143.56,
         135.69,
-        141.99
+        142.38
       ],
       "dates": [
         "2026-09-10",
@@ -269,8 +269,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 386.08,
-      "change": 2.95,
+      "price": 387.08,
+      "change": 3.22,
       "series": [
         363.56,
         365.44,
@@ -293,113 +293,7 @@
         380.68,
         377.81,
         375.0,
-        386.08
-      ],
-      "dates": [
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-14",
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09"
-      ]
-    },
-    {
-      "symbol": "PLTR",
-      "price": 202.49,
-      "change": 1.86,
-      "series": [
-        165.86,
-        167.23,
-        173.31,
-        172.56,
-        174.34,
-        176.24,
-        177.64,
-        183.09,
-        184.99,
-        191.79,
-        192.59,
-        189.67,
-        187.48,
-        186.97,
-        187.05,
-        190.04,
-        188.75,
-        189.4,
-        192.07,
-        194.12,
-        198.78,
-        202.49
-      ],
-      "dates": [
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-14",
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09"
-      ]
-    },
-    {
-      "symbol": "MSFT",
-      "price": 531.36,
-      "change": 1.67,
-      "series": [
-        492.44,
-        495.63,
-        505.41,
-        497.12,
-        490.3,
-        497.75,
-        493.78,
-        501.61,
-        498.0,
-        500.59,
-        497.93,
-        516.17,
-        509.22,
-        508.96,
-        512.9,
-        512.8,
-        517.53,
-        525.18,
-        529.3,
-        529.76,
-        522.61,
-        531.36
+        387.08
       ],
       "dates": [
         "2026-09-10",
@@ -428,8 +322,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 258.12,
-      "change": 1.6,
+      "price": 260.42,
+      "change": 2.5,
       "series": [
         251.89,
         256.78,
@@ -452,7 +346,113 @@
         256.29,
         259.92,
         254.06,
-        258.12
+        260.42
+      ],
+      "dates": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09"
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "price": 533.03,
+      "change": 1.99,
+      "series": [
+        492.44,
+        495.63,
+        505.41,
+        497.12,
+        490.3,
+        497.75,
+        493.78,
+        501.61,
+        498.0,
+        500.59,
+        497.93,
+        516.17,
+        509.22,
+        508.96,
+        512.9,
+        512.8,
+        517.53,
+        525.18,
+        529.3,
+        529.76,
+        522.61,
+        533.03
+      ],
+      "dates": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09"
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "price": 202.45,
+      "change": 1.85,
+      "series": [
+        165.86,
+        167.23,
+        173.31,
+        172.56,
+        174.34,
+        176.24,
+        177.64,
+        183.09,
+        184.99,
+        191.79,
+        192.59,
+        189.67,
+        187.48,
+        186.97,
+        187.05,
+        190.04,
+        188.75,
+        189.4,
+        192.07,
+        194.12,
+        198.78,
+        202.45
       ],
       "dates": [
         "2026-09-10",
@@ -481,8 +481,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 363.93,
-      "change": 1.05,
+      "price": 365.25,
+      "change": 1.42,
       "series": [
         360.83,
         361.99,
@@ -505,7 +505,7 @@
         375.81,
         376.51,
         360.14,
-        363.93
+        365.24
       ],
       "dates": [
         "2026-09-10",
@@ -534,8 +534,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 350.74,
-      "change": 0.7,
+      "price": 351.74,
+      "change": 0.99,
       "series": [
         332.6,
         338.5,
@@ -558,7 +558,7 @@
         347.68,
         350.5,
         348.29,
-        350.73
+        351.74
       ],
       "dates": [
         "2026-09-10",
@@ -587,8 +587,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 230.78,
-      "change": 0.13,
+      "price": 231.57,
+      "change": 0.47,
       "series": [
         218.36,
         218.29,
@@ -611,7 +611,7 @@
         239.24,
         237.47,
         230.48,
-        230.77
+        231.57
       ],
       "dates": [
         "2026-09-10",
@@ -640,8 +640,8 @@
     },
     {
       "symbol": "META",
-      "price": 721.0,
-      "change": 0.02,
+      "price": 722.54,
+      "change": 0.23,
       "series": [
         644.38,
         648.03,
@@ -664,7 +664,7 @@
         738.88,
         721.31,
         720.89,
-        721.0
+        722.54
       ],
       "dates": [
         "2026-09-10",
@@ -693,8 +693,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 615.87,
-      "change": -0.77,
+      "price": 614.98,
+      "change": -0.92,
       "series": [
         503.6,
         516.13,
@@ -717,7 +717,7 @@
         649.42,
         645.86,
         620.68,
-        615.87
+        614.98
       ],
       "dates": [
         "2026-09-10",
@@ -746,8 +746,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 454.05,
-      "change": -0.86,
+      "price": 453.6,
+      "change": -0.96,
       "series": [
         428.03,
         433.24,
@@ -770,7 +770,7 @@
         482.3,
         472.2,
         457.99,
-        454.05
+        453.6
       ],
       "dates": [
         "2026-09-10",
@@ -799,8 +799,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 333.42,
-      "change": -2.06,
+      "price": 333.72,
+      "change": -1.97,
       "series": [
         326.57,
         332.27,
@@ -823,7 +823,7 @@
         333.63,
         336.67,
         340.42,
-        333.42
+        333.72
       ],
       "dates": [
         "2026-09-10",
@@ -957,90 +957,94 @@
   ],
   "markets": [
     {
-      "title": "Business Daily",
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8gly?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
       "tags": []
     },
     {
-      "title": "New vape tax made me swap e-cigs for dartboards",
+      "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cmd6dv1446lno?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
       "tags": []
     },
     {
-      "title": "How soon into dating do you talk about your salary?",
+      "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
       "tags": []
     },
     {
-      "title": "Why are there so many sports subscriptions?",
+      "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
       "tags": []
     },
     {
-      "title": "Why Gen Z are planning for life without a state pension",
+      "title": "'The hottest skill on Wall Street\u2019: Demand for this AI ability jumped 1,721% as banks embrace agents",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
       "tags": []
     },
     {
-      "title": "Why the UK is dithering over what to do about e-scooters",
+      "title": "Stocks making the biggest moves premarket: Nike, ON Semiconductor, Synaptics, Vylor & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-premarket-nike-on-semiconductor-synaptics-vylor-more.html",
       "tags": []
     },
     {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
       "tags": []
     },
     {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
       "tags": []
     },
     {
-      "title": "My hometown shows that high streets have to change or die",
+      "title": "Sports betting is increasingly the norm for Gen Z.  Here\u2019s why some financial and mental health experts are worried",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
       "tags": []
     },
     {
-      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "title": "Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Contribution of high value residents discussed",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly0vxd2v9eo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/stocks-making-the-biggest-moves-premarket-dkng-itub-ptc.html",
       "tags": []
     }
   ],
-  "updated": "09 Oct 2026, 14:33 UTC",
-  "updated_iso": "2026-10-09T14:33:47.857347+00:00"
+  "updated": "09 Oct 2026, 14:57 UTC",
+  "updated_iso": "2026-10-09T14:57:07.717579+00:00"
 }
