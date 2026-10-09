@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,519.76",
-      "change": 0.75,
+      "value": "10,524.27",
+      "change": 0.79,
       "series": [
         10608.9,
         10650.4,
@@ -185,7 +185,7 @@
         10541.7,
         10458.5,
         10441.6,
-        10519.76
+        10524.27
       ],
       "dates": [
         "2026-09-10",
@@ -957,94 +957,90 @@
   ],
   "markets": [
     {
-      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+      "title": "Fears coastal town road closure could leave Watchet 'desolate'",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c6rry9ed2gkeo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
+      "title": "The Bottom Line",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/m0032fqq?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+      "title": "Business Daily",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8gly?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves midday: Accenture, Synopsys, United Therapeutics, Vicor and more",
+      "title": "New vape tax made me swap e-cigs for dartboards",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-midday-acn-snps-uthr-vicr-.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cmd6dv1446lno?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
+      "title": "How soon into dating do you talk about your salary?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
+      "title": "Why Gen Z are planning for life without a state pension",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "'The hottest skill on Wall Street\u2019: Demand for this AI ability jumped 1,721% as banks embrace agents",
+      "title": "Why the UK is dithering over what to do about e-scooters",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: Nike, ON Semiconductor, Synaptics, Vylor & more",
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-premarket-nike-on-semiconductor-synaptics-vylor-more.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+      "title": "My hometown shows that high streets have to change or die",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "09 Oct 2026, 08:05 UTC",
-  "updated_iso": "2026-10-09T08:05:59.127383+00:00"
+  "updated": "09 Oct 2026, 08:29 UTC",
+  "updated_iso": "2026-10-09T08:29:34.558634+00:00"
 }
