@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,514.45",
-      "change": 0.7,
+      "value": "10,540.49",
+      "change": 0.95,
       "series": [
         10608.9,
         10650.4,
@@ -185,7 +185,7 @@
         10541.7,
         10458.5,
         10441.6,
-        10514.45
+        10540.49
       ],
       "dates": [
         "2026-09-10",
@@ -957,13 +957,6 @@
   ],
   "markets": [
     {
-      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "How to downsize like a pro \u2014 and free yourself from being a \u2018prisoner of your possessions\u2019",
       "summary": "",
       "source": "MarketWatch",
@@ -1027,6 +1020,13 @@
       "tags": []
     },
     {
+      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who\u2019s right?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
       "summary": "",
       "source": "CNBC",
@@ -1041,6 +1041,6 @@
       "tags": []
     }
   ],
-  "updated": "09 Oct 2026, 11:05 UTC",
-  "updated_iso": "2026-10-09T11:05:19.146914+00:00"
+  "updated": "09 Oct 2026, 11:26 UTC",
+  "updated_iso": "2026-10-09T11:26:10.491080+00:00"
 }
