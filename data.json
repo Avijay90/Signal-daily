@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,817.59",
-      "change": 0.67,
+      "value": "7,814.81",
+      "change": 0.64,
       "series": [
         7591.7,
         7656.98,
@@ -27,7 +27,7 @@
         7818.93,
         7801.77,
         7765.36,
-        7817.59
+        7814.81
       ],
       "dates": [
         "2026-09-10",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,384.78",
-      "change": 0.7,
+      "value": "27,367.93",
+      "change": 0.64,
       "series": [
         26081.72,
         26333.04,
@@ -81,7 +81,7 @@
         27599.79,
         27538.69,
         27193.34,
-        27384.78
+        27367.93
       ],
       "dates": [
         "2026-09-10",
@@ -214,8 +214,8 @@
   "stocks": [
     {
       "symbol": "ORCL",
-      "price": 142.25,
-      "change": 4.83,
+      "price": 142.03,
+      "change": 4.68,
       "series": [
         152.94,
         150.28,
@@ -238,7 +238,7 @@
         144.77,
         143.56,
         135.69,
-        142.25
+        142.04
       ],
       "dates": [
         "2026-09-10",
@@ -267,8 +267,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 207.65,
-      "change": 4.46,
+      "price": 207.62,
+      "change": 4.45,
       "series": [
         165.86,
         167.23,
@@ -291,7 +291,7 @@
         192.07,
         194.12,
         198.78,
-        207.65
+        207.62
       ],
       "dates": [
         "2026-09-10",
@@ -320,8 +320,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 261.81,
-      "change": 3.05,
+      "price": 262.65,
+      "change": 3.38,
       "series": [
         251.89,
         256.78,
@@ -344,7 +344,7 @@
         256.29,
         259.92,
         254.06,
-        261.82
+        262.65
       ],
       "dates": [
         "2026-09-10",
@@ -373,8 +373,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 535.75,
-      "change": 2.51,
+      "price": 535.8,
+      "change": 2.52,
       "series": [
         492.44,
         495.63,
@@ -397,7 +397,7 @@
         529.3,
         529.76,
         522.61,
-        535.74
+        535.8
       ],
       "dates": [
         "2026-09-10",
@@ -426,8 +426,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 383.98,
-      "change": 2.39,
+      "price": 383.41,
+      "change": 2.24,
       "series": [
         363.56,
         365.44,
@@ -450,7 +450,7 @@
         380.68,
         377.81,
         375.0,
-        383.98
+        383.41
       ],
       "dates": [
         "2026-09-10",
@@ -479,8 +479,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 351.29,
-      "change": 0.86,
+      "price": 352.46,
+      "change": 1.2,
       "series": [
         332.6,
         338.5,
@@ -503,7 +503,7 @@
         347.68,
         350.5,
         348.29,
-        351.29
+        352.46
       ],
       "dates": [
         "2026-09-10",
@@ -532,8 +532,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 362.44,
-      "change": 0.64,
+      "price": 361.67,
+      "change": 0.42,
       "series": [
         360.83,
         361.99,
@@ -556,7 +556,7 @@
         375.81,
         376.51,
         360.14,
-        362.44
+        361.67
       ],
       "dates": [
         "2026-09-10",
@@ -585,8 +585,8 @@
     },
     {
       "symbol": "META",
-      "price": 720.3,
-      "change": -0.08,
+      "price": 719.84,
+      "change": -0.15,
       "series": [
         644.38,
         648.03,
@@ -609,7 +609,7 @@
         738.88,
         721.31,
         720.89,
-        720.3
+        719.84
       ],
       "dates": [
         "2026-09-10",
@@ -638,8 +638,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 229.85,
-      "change": -0.27,
+      "price": 229.58,
+      "change": -0.39,
       "series": [
         218.36,
         218.29,
@@ -662,7 +662,7 @@
         239.24,
         237.47,
         230.48,
-        229.85
+        229.58
       ],
       "dates": [
         "2026-09-10",
@@ -691,8 +691,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 337.31,
-      "change": -0.91,
+      "price": 336.72,
+      "change": -1.09,
       "series": [
         326.57,
         332.27,
@@ -715,7 +715,7 @@
         333.63,
         336.67,
         340.42,
-        337.31
+        336.72
       ],
       "dates": [
         "2026-09-10",
@@ -744,8 +744,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 452.07,
-      "change": -1.29,
+      "price": 452.14,
+      "change": -1.28,
       "series": [
         428.03,
         433.24,
@@ -768,7 +768,7 @@
         482.3,
         472.2,
         457.99,
-        452.08
+        452.14
       ],
       "dates": [
         "2026-09-10",
@@ -797,8 +797,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 610.15,
-      "change": -1.7,
+      "price": 606.41,
+      "change": -2.3,
       "series": [
         503.6,
         516.13,
@@ -821,7 +821,7 @@
         649.42,
         645.86,
         620.68,
-        610.16
+        606.41
       ],
       "dates": [
         "2026-09-10",
@@ -850,15 +850,6 @@
     }
   ],
   "ai": [
-    {
-      "title": "Google releases a new local-first Granola competitor",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
-      "tags": [
-        "Google"
-      ]
-    },
     {
       "title": "Cal AI\u2019s 19-year-old founder just raised $10M for his new AI startup",
       "summary": "",
@@ -948,6 +939,15 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
       "tags": []
+    },
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "tags": [
+        "OpenAI"
+      ]
     }
   ],
   "markets": [
@@ -1038,6 +1038,6 @@
       "tags": []
     }
   ],
-  "updated": "09 Oct 2026, 19:25 UTC",
-  "updated_iso": "2026-10-09T19:25:48.764439+00:00"
+  "updated": "09 Oct 2026, 19:39 UTC",
+  "updated_iso": "2026-10-09T19:39:59.632781+00:00"
 }
