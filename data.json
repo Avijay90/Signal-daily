@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,808.99",
-      "change": 0.56,
+      "value": "7,807.74",
+      "change": 0.55,
       "series": [
         7591.7,
         7656.98,
@@ -27,7 +27,7 @@
         7818.93,
         7801.77,
         7765.36,
-        7808.99
+        7807.74
       ],
       "dates": [
         "2026-09-10",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,356.99",
-      "change": 0.6,
+      "value": "27,342.87",
+      "change": 0.55,
       "series": [
         26081.72,
         26333.04,
@@ -81,7 +81,7 @@
         27599.79,
         27538.69,
         27193.34,
-        27356.99
+        27342.87
       ],
       "dates": [
         "2026-09-10",
@@ -214,8 +214,8 @@
   "stocks": [
     {
       "symbol": "ORCL",
-      "price": 141.7,
-      "change": 4.43,
+      "price": 141.44,
+      "change": 4.24,
       "series": [
         152.94,
         150.28,
@@ -238,7 +238,7 @@
         144.77,
         143.56,
         135.69,
-        141.7
+        141.44
       ],
       "dates": [
         "2026-09-10",
@@ -267,8 +267,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 205.49,
-      "change": 3.38,
+      "price": 205.31,
+      "change": 3.29,
       "series": [
         165.86,
         167.23,
@@ -291,7 +291,7 @@
         192.07,
         194.12,
         198.78,
-        205.49
+        205.32
       ],
       "dates": [
         "2026-09-10",
@@ -320,8 +320,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 261.29,
-      "change": 2.85,
+      "price": 260.62,
+      "change": 2.58,
       "series": [
         251.89,
         256.78,
@@ -344,7 +344,7 @@
         256.29,
         259.92,
         254.06,
-        261.29
+        260.62
       ],
       "dates": [
         "2026-09-10",
@@ -373,8 +373,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 534.89,
-      "change": 2.35,
+      "price": 534.79,
+      "change": 2.33,
       "series": [
         492.44,
         495.63,
@@ -397,7 +397,7 @@
         529.3,
         529.76,
         522.61,
-        534.9
+        534.79
       ],
       "dates": [
         "2026-09-10",
@@ -426,8 +426,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 383.53,
-      "change": 2.27,
+      "price": 383.39,
+      "change": 2.24,
       "series": [
         363.56,
         365.44,
@@ -450,7 +450,7 @@
         380.68,
         377.81,
         375.0,
-        383.53
+        383.39
       ],
       "dates": [
         "2026-09-10",
@@ -479,8 +479,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 354.29,
-      "change": 1.72,
+      "price": 353.36,
+      "change": 1.46,
       "series": [
         332.6,
         338.5,
@@ -503,7 +503,7 @@
         347.68,
         350.5,
         348.29,
-        354.29
+        353.36
       ],
       "dates": [
         "2026-09-10",
@@ -532,8 +532,8 @@
     },
     {
       "symbol": "META",
-      "price": 727.39,
-      "change": 0.9,
+      "price": 726.17,
+      "change": 0.73,
       "series": [
         644.38,
         648.03,
@@ -556,7 +556,7 @@
         738.88,
         721.31,
         720.89,
-        727.4
+        726.17
       ],
       "dates": [
         "2026-09-10",
@@ -585,8 +585,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 362.61,
-      "change": 0.69,
+      "price": 362.28,
+      "change": 0.59,
       "series": [
         360.83,
         361.99,
@@ -609,7 +609,7 @@
         375.81,
         376.51,
         360.14,
-        362.61
+        362.28
       ],
       "dates": [
         "2026-09-10",
@@ -638,8 +638,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 229.42,
-      "change": -0.46,
+      "price": 229.34,
+      "change": -0.49,
       "series": [
         218.36,
         218.29,
@@ -662,7 +662,7 @@
         239.24,
         237.47,
         230.48,
-        229.42
+        229.34
       ],
       "dates": [
         "2026-09-10",
@@ -691,8 +691,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 335.17,
-      "change": -1.54,
+      "price": 335.07,
+      "change": -1.57,
       "series": [
         326.57,
         332.27,
@@ -715,7 +715,7 @@
         333.63,
         336.67,
         340.42,
-        335.17
+        335.07
       ],
       "dates": [
         "2026-09-10",
@@ -744,8 +744,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 450.23,
-      "change": -1.69,
+      "price": 450.29,
+      "change": -1.68,
       "series": [
         428.03,
         433.24,
@@ -768,7 +768,7 @@
         482.3,
         472.2,
         457.99,
-        450.23
+        450.29
       ],
       "dates": [
         "2026-09-10",
@@ -797,8 +797,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 609.96,
-      "change": -1.73,
+      "price": 609.01,
+      "change": -1.88,
       "series": [
         503.6,
         516.13,
@@ -821,7 +821,7 @@
         649.42,
         645.86,
         620.68,
-        609.96
+        609.01
       ],
       "dates": [
         "2026-09-10",
@@ -850,16 +850,6 @@
     }
   ],
   "ai": [
-    {
-      "title": "China\u2019s Manus raises over $500M in first funding round since split with Meta",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-      "tags": [
-        "Meta",
-        "Funding"
-      ]
-    },
     {
       "title": "Google releases a new local-first Granola competitor",
       "summary": "",
@@ -951,94 +941,107 @@
       "tags": [
         "Funding"
       ]
+    },
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "tags": []
     }
   ],
   "markets": [
     {
-      "title": "Business Daily",
+      "title": "Here\u2019s how much stocks could fall if the Democrats sweep Congress, according to BofA",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8gly?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8?mod=mw_rss_topstories",
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "title": "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "New vape tax made me swap e-cigs for dartboards",
+      "title": "\u2018I feel like a loser\u2019: I check my ETFs every day. They\u2019re up one minute, down the next. Should I be worried?",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cmd6dv1446lno?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "How soon into dating do you talk about your salary?",
+      "title": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected applications from wealthy couples. Here\u2019s why.",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Why are there so many sports subscriptions?",
+      "title": "Hurricane Isaias to \u2018stress test\u2019 oil markets already hobbled by tight fuel supplies",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5?mod=mw_rss_topstories",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here\u2019s who could pay the most.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Why Gen Z are planning for life without a state pension",
+      "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. She wants me to leave my home to her two children.",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Why the UK is dithering over what to do about e-scooters",
+      "title": "Flu season is already here. Here\u2019s what to know about this year\u2019s flu shots.",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "title": "Elon Musk is now richer than any American ever \u2014 and it\u2019s not even close",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "title": "More evidence that broad-market index funds remain unbeatable, even in the era of AI stock-picking",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/more-evidence-that-broad-market-index-funds-remain-unbeatable-even-in-the-era-of-ai-stock-picking-3c61deac?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "My hometown shows that high streets have to change or die",
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-      "tags": []
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "tags": [
+        "Rates & Fed"
+      ]
     },
     {
-      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Contribution of high value residents discussed",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly0vxd2v9eo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
       "tags": []
     }
   ],
-  "updated": "09 Oct 2026, 16:55 UTC",
-  "updated_iso": "2026-10-09T16:55:51.651669+00:00"
+  "updated": "09 Oct 2026, 17:06 UTC",
+  "updated_iso": "2026-10-09T17:06:48.620156+00:00"
 }
