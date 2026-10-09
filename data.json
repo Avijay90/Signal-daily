@@ -952,13 +952,6 @@
   ],
   "markets": [
     {
-      "title": "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after getting married",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/country-music-star-zach-bryan-buys-18-million-40-acre-tennessee-estate-after-getting-married-cb4d20eb?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Here\u2019s how Treasury yields could rise to 6% \u2014 even without market upheaval",
       "summary": "",
       "source": "MarketWatch",
@@ -1027,6 +1020,13 @@
       "tags": []
     },
     {
+      "title": "How to provide guaranteed retirement income while paying no commissions",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
       "summary": "",
       "source": "CNBC",
@@ -1041,6 +1041,6 @@
       "tags": []
     }
   ],
-  "updated": "09 Oct 2026, 22:40 UTC",
-  "updated_iso": "2026-10-09T22:40:52.150245+00:00"
+  "updated": "09 Oct 2026, 22:54 UTC",
+  "updated_iso": "2026-10-09T22:54:31.247877+00:00"
 }
