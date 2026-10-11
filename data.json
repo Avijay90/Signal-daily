@@ -853,15 +853,6 @@
   ],
   "ai": [
     {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
       "title": "Ben Affleck is an AI nerd, and the internet is impressed",
       "summary": "",
       "source": "TechCrunch",
@@ -941,6 +932,15 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "tags": []
+    },
+    {
+      "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "tags": [
+        "Anthropic"
+      ]
     }
   ],
   "markets": [
@@ -1019,20 +1019,20 @@
       "tags": []
     },
     {
-      "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
+      "title": "New vape tax made me swap e-cigs for dartboards",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cmd6dv1446lno?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
+      "title": "How soon into dating do you talk about your salary?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "11 Oct 2026, 21:04 UTC",
-  "updated_iso": "2026-10-11T21:04:36.758645+00:00"
+  "updated": "11 Oct 2026, 21:25 UTC",
+  "updated_iso": "2026-10-11T21:25:09.055260+00:00"
 }
