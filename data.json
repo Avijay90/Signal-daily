@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,807.57",
-      "change": -0.05,
+      "value": "7,813.20",
+      "change": 0.02,
       "series": [
         7619.98,
         7585.73,
@@ -26,7 +26,7 @@
         7801.77,
         7765.36,
         7811.54,
-        7807.57
+        7813.2
       ],
       "dates": [
         "2026-09-14",
@@ -55,8 +55,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,275.30",
-      "change": -0.33,
+      "value": "27,299.35",
+      "change": -0.24,
       "series": [
         26186.41,
         25981.57,
@@ -78,7 +78,7 @@
         27538.69,
         27193.34,
         27366.17,
-        27275.3
+        27299.35
       ],
       "dates": [
         "2026-09-14",
@@ -157,8 +157,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,640.86",
-      "change": 0.84,
+      "value": "10,644.00",
+      "change": 0.87,
       "series": [
         10697.6,
         10658.1,
@@ -180,7 +180,7 @@
         10458.5,
         10441.6,
         10552.1,
-        10640.86
+        10644.0
       ],
       "dates": [
         "2026-09-14",
@@ -210,8 +210,8 @@
   "stocks": [
     {
       "symbol": "META",
-      "price": 746.57,
-      "change": 3.88,
+      "price": 745.61,
+      "change": 3.75,
       "series": [
         665.6,
         670.24,
@@ -233,7 +233,7 @@
         721.31,
         720.89,
         718.67,
-        746.57
+        745.61
       ],
       "dates": [
         "2026-09-14",
@@ -261,8 +261,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 541.8,
-      "change": 1.26,
+      "price": 541.5,
+      "change": 1.2,
       "series": [
         505.41,
         497.12,
@@ -284,7 +284,7 @@
         529.76,
         522.61,
         535.07,
-        541.8
+        541.5
       ],
       "dates": [
         "2026-09-14",
@@ -312,8 +312,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 340.2,
-      "change": 1.06,
+      "price": 339.79,
+      "change": 0.94,
       "series": [
         333.08,
         331.34,
@@ -335,7 +335,7 @@
         336.67,
         340.42,
         336.64,
-        340.2
+        339.79
       ],
       "dates": [
         "2026-09-14",
@@ -363,8 +363,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 354.7,
-      "change": 0.86,
+      "price": 354.0,
+      "change": 0.67,
       "series": [
         349.39,
         344.98,
@@ -386,7 +386,7 @@
         350.5,
         348.29,
         351.66,
-        354.7
+        354.0
       ],
       "dates": [
         "2026-09-14",
@@ -414,8 +414,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 208.23,
-      "change": -0.39,
+      "price": 208.25,
+      "change": -0.38,
       "series": [
         173.31,
         172.56,
@@ -437,7 +437,7 @@
         194.12,
         198.78,
         209.05,
-        208.23
+        208.25
       ],
       "dates": [
         "2026-09-14",
@@ -465,8 +465,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 261.27,
-      "change": -0.44,
+      "price": 261.38,
+      "change": -0.4,
       "series": [
         253.54,
         248.42,
@@ -488,7 +488,7 @@
         259.92,
         254.06,
         262.43,
-        261.27
+        261.38
       ],
       "dates": [
         "2026-09-14",
@@ -516,8 +516,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 378.57,
-      "change": -1.08,
+      "price": 379.46,
+      "change": -0.85,
       "series": [
         358.97,
         356.58,
@@ -539,7 +539,7 @@
         377.81,
         375.0,
         382.7,
-        378.57
+        379.46
       ],
       "dates": [
         "2026-09-14",
@@ -567,8 +567,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 356.43,
-      "change": -1.41,
+      "price": 357.39,
+      "change": -1.15,
       "series": [
         344.72,
         339.27,
@@ -590,7 +590,7 @@
         376.51,
         360.14,
         361.54,
-        356.43
+        357.39
       ],
       "dates": [
         "2026-09-14",
@@ -618,8 +618,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 446.82,
-      "change": -1.43,
+      "price": 447.87,
+      "change": -1.2,
       "series": [
         418.01,
         413.75,
@@ -641,7 +641,7 @@
         472.2,
         457.99,
         453.31,
-        446.82
+        447.86
       ],
       "dates": [
         "2026-09-14",
@@ -669,8 +669,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 225.74,
-      "change": -1.54,
+      "price": 226.41,
+      "change": -1.25,
       "series": [
         210.96,
         212.17,
@@ -692,7 +692,7 @@
         237.47,
         230.48,
         229.28,
-        225.74
+        226.41
       ],
       "dates": [
         "2026-09-14",
@@ -720,8 +720,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 137.6,
-      "change": -2.68,
+      "price": 137.79,
+      "change": -2.55,
       "series": [
         144.79,
         140.35,
@@ -743,7 +743,7 @@
         143.56,
         135.69,
         141.4,
-        137.6
+        137.79
       ],
       "dates": [
         "2026-09-14",
@@ -771,8 +771,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 587.69,
-      "change": -3.36,
+      "price": 591.2,
+      "change": -2.78,
       "series": [
         493.41,
         504.2,
@@ -794,7 +794,7 @@
         645.86,
         620.68,
         608.1,
-        587.69
+        591.2
       ],
       "dates": [
         "2026-09-14",
@@ -822,13 +822,6 @@
     }
   ],
   "ai": [
-    {
-      "title": "TechCrunch Disrupt 2026 starts in 4 days \u2014 lock in your pass savings of up to $100 before prices rise",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-      "tags": []
-    },
     {
       "title": "a16z\u2019s Olivia Moore on the state of consumer AI",
       "summary": "",
@@ -909,96 +902,107 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
       "tags": []
-    }
-  ],
-  "markets": [
-    {
-      "title": "Mired in their worst losing streak in years, small caps could be the best way for investors to play crucial CPI data",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories",
-      "tags": []
     },
     {
-      "title": "My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?",
+      "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "This five-star money manager shares three stock picks, including one betting on dying American malls",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018The prospectus looks impressive\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The bull market is turning 4 years old \u2014 but yields could crash the party",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Winter heating costs are expected to be 8.3% higher than last year. But could El Ni\u00f1o help?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/winter-is-coming-and-energy-bills-are-climbing-everything-just-keeps-going-up-983cfd2d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Microsoft hits a big milestone that solidifies its revival",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
       "tags": [
         "Microsoft"
       ]
-    },
-    {
-      "title": "Micron makes a statement with the latest clue about its cash windfall",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-makes-a-statement-with-the-latest-clue-about-its-cash-windfall-c9e33f7d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-      "tags": []
-    },
+    }
+  ],
+  "markets": [
     {
       "title": "'The hottest skill on Wall Street\u2019: Demand for this AI ability jumped 1,721% as banks embrace agents",
       "summary": "",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
       "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Nike, ON Semiconductor, Synaptics, Vylor & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-premarket-nike-on-semiconductor-synaptics-vylor-more.html",
+      "tags": []
+    },
+    {
+      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+      "tags": []
+    },
+    {
+      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+      "tags": []
+    },
+    {
+      "title": "Sports betting is increasingly the norm for Gen Z.  Here\u2019s why some financial and mental health experts are worried",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/stocks-making-the-biggest-moves-premarket-dkng-itub-ptc.html",
+      "tags": []
+    },
+    {
+      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
+      "tags": []
+    },
+    {
+      "title": "Cocoa prices are climbing again. Here\u2019s why this time is different",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/cocoa-prices-are-climbing-again-heres-why-this-time-is-different.html",
+      "tags": []
+    },
+    {
+      "title": "House Democrat targets candidate prediction market trades after opponent\u2019s Kalshi penalty",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+      "tags": []
+    },
+    {
+      "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Constellation Energy, Option Care Health, Lennar, P&G and more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/stocks-making-the-biggest-moves-premarket-constellation-energy-option-care-health-lennar-pg-and-more.html",
+      "tags": [
+        "Oil & energy"
+      ]
     }
   ],
-  "updated": "12 Oct 2026, 15:28 UTC",
-  "updated_iso": "2026-10-12T15:28:44.813141+00:00"
+  "updated": "12 Oct 2026, 15:48 UTC",
+  "updated_iso": "2026-10-12T15:48:01.236583+00:00"
 }
