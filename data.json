@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,615.88",
-      "change": 0.6,
+      "value": "10,612.03",
+      "change": 0.57,
       "series": [
         10697.6,
         10658.1,
@@ -184,7 +184,7 @@
         10458.5,
         10441.6,
         10552.1,
-        10615.88
+        10612.03
       ],
       "dates": [
         "2026-09-14",
@@ -943,20 +943,6 @@
   ],
   "markets": [
     {
-      "title": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
       "summary": "",
       "source": "MarketWatch",
@@ -1017,6 +1003,20 @@
       "tags": []
     },
     {
+      "title": "Dr. Phil lists his lavish Beverly Hills estate for a whopping $67.5 million",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/dr-phil-lists-his-lavish-beverly-hills-estate-for-a-whopping-67-5-million-5992b370?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Legal battle continues as Dolly Parton\u2019s estate claims nephew put up barbed wire to avoid summons",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/legal-battle-continues-as-dolly-partons-estate-claims-nephew-put-up-barbed-wire-to-avoid-summons-e4ed0f9a?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
       "summary": "",
       "source": "CNBC",
@@ -1031,6 +1031,6 @@
       "tags": []
     }
   ],
-  "updated": "12 Oct 2026, 08:45 UTC",
-  "updated_iso": "2026-10-12T08:45:47.051945+00:00"
+  "updated": "12 Oct 2026, 09:08 UTC",
+  "updated_iso": "2026-10-12T09:08:08.572162+00:00"
 }
