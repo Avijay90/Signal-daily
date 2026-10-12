@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,623.43",
-      "change": 0.68,
+      "value": "10,621.16",
+      "change": 0.65,
       "series": [
         10697.6,
         10658.1,
@@ -184,7 +184,7 @@
         10458.5,
         10441.6,
         10552.1,
-        10623.43
+        10621.16
       ],
       "dates": [
         "2026-09-14",
@@ -943,20 +943,6 @@
   ],
   "markets": [
     {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
       "summary": "",
       "source": "MarketWatch",
@@ -1015,6 +1001,24 @@
       "tags": []
     },
     {
+      "title": "Fed officials want to hold off a rate hike this month. Will this week\u2019s inflation data let them?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
       "title": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
       "summary": "",
       "source": "CNBC",
@@ -1029,6 +1033,6 @@
       "tags": []
     }
   ],
-  "updated": "12 Oct 2026, 10:56 UTC",
-  "updated_iso": "2026-10-12T10:56:45.034311+00:00"
+  "updated": "12 Oct 2026, 11:10 UTC",
+  "updated_iso": "2026-10-12T11:10:41.730515+00:00"
 }
