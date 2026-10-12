@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,799.74",
-      "change": -0.15,
+      "value": "7,805.04",
+      "change": -0.08,
       "series": [
         7619.98,
         7585.73,
@@ -26,7 +26,7 @@
         7801.77,
         7765.36,
         7811.54,
-        7799.74
+        7805.04
       ],
       "dates": [
         "2026-09-14",
@@ -55,8 +55,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "27,231.92",
-      "change": -0.49,
+      "value": "27,242.51",
+      "change": -0.45,
       "series": [
         26186.41,
         25981.57,
@@ -78,7 +78,7 @@
         27538.69,
         27193.34,
         27366.17,
-        27231.92
+        27242.51
       ],
       "dates": [
         "2026-09-14",
@@ -210,8 +210,8 @@
   "stocks": [
     {
       "symbol": "META",
-      "price": 742.14,
-      "change": 3.27,
+      "price": 741.45,
+      "change": 3.17,
       "series": [
         665.6,
         670.24,
@@ -233,7 +233,7 @@
         721.31,
         720.89,
         718.67,
-        742.14
+        741.45
       ],
       "dates": [
         "2026-09-14",
@@ -261,8 +261,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 340.42,
-      "change": 1.12,
+      "price": 340.26,
+      "change": 1.08,
       "series": [
         333.08,
         331.34,
@@ -284,7 +284,7 @@
         336.67,
         340.42,
         336.64,
-        340.42
+        340.27
       ],
       "dates": [
         "2026-09-14",
@@ -312,8 +312,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 539.86,
-      "change": 0.9,
+      "price": 540.36,
+      "change": 0.99,
       "series": [
         505.41,
         497.12,
@@ -335,7 +335,7 @@
         529.76,
         522.61,
         535.07,
-        539.86
+        540.35
       ],
       "dates": [
         "2026-09-14",
@@ -363,8 +363,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 353.1,
-      "change": 0.41,
+      "price": 352.87,
+      "change": 0.34,
       "series": [
         349.39,
         344.98,
@@ -386,7 +386,7 @@
         350.5,
         348.29,
         351.66,
-        353.1
+        352.87
       ],
       "dates": [
         "2026-09-14",
@@ -414,8 +414,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 207.31,
-      "change": -0.83,
+      "price": 208.68,
+      "change": -0.18,
       "series": [
         173.31,
         172.56,
@@ -437,7 +437,7 @@
         194.12,
         198.78,
         209.05,
-        207.31
+        208.68
       ],
       "dates": [
         "2026-09-14",
@@ -465,8 +465,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 259.65,
-      "change": -1.06,
+      "price": 259.71,
+      "change": -1.03,
       "series": [
         253.54,
         248.42,
@@ -488,7 +488,7 @@
         259.92,
         254.06,
         262.43,
-        259.65
+        259.71
       ],
       "dates": [
         "2026-09-14",
@@ -516,8 +516,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 378.15,
-      "change": -1.19,
+      "price": 378.73,
+      "change": -1.04,
       "series": [
         358.97,
         356.58,
@@ -539,7 +539,7 @@
         377.81,
         375.0,
         382.7,
-        378.15
+        378.73
       ],
       "dates": [
         "2026-09-14",
@@ -567,8 +567,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 226.47,
-      "change": -1.23,
+      "price": 226.66,
+      "change": -1.14,
       "series": [
         210.96,
         212.17,
@@ -590,7 +590,7 @@
         237.47,
         230.48,
         229.28,
-        226.47
+        226.66
       ],
       "dates": [
         "2026-09-14",
@@ -618,8 +618,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 445.57,
-      "change": -1.71,
+      "price": 445.23,
+      "change": -1.78,
       "series": [
         418.01,
         413.75,
@@ -641,7 +641,7 @@
         472.2,
         457.99,
         453.31,
-        445.57
+        445.23
       ],
       "dates": [
         "2026-09-14",
@@ -669,8 +669,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 354.89,
-      "change": -1.84,
+      "price": 354.8,
+      "change": -1.86,
       "series": [
         344.72,
         339.27,
@@ -692,7 +692,7 @@
         376.51,
         360.14,
         361.54,
-        354.89
+        354.8
       ],
       "dates": [
         "2026-09-14",
@@ -720,8 +720,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 591.34,
-      "change": -2.76,
+      "price": 593.78,
+      "change": -2.35,
       "series": [
         493.41,
         504.2,
@@ -743,7 +743,7 @@
         645.86,
         620.68,
         608.1,
-        591.34
+        593.78
       ],
       "dates": [
         "2026-09-14",
@@ -771,8 +771,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 137.05,
-      "change": -3.08,
+      "price": 137.28,
+      "change": -2.91,
       "series": [
         144.79,
         140.35,
@@ -794,7 +794,7 @@
         143.56,
         135.69,
         141.4,
-        137.05
+        137.28
       ],
       "dates": [
         "2026-09-14",
@@ -917,94 +917,98 @@
   ],
   "markets": [
     {
-      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+      "title": "Microsoft hits a big milestone that solidifies its revival",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
       "tags": [
-        "Rates & Fed"
+        "Microsoft"
       ]
     },
     {
-      "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+      "title": "Micron makes a statement with the latest clue about its cash windfall",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-makes-a-statement-with-the-latest-clue-about-its-cash-windfall-c9e33f7d?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+      "title": "Here\u2019s how much extra money could be in your monthly Social Security check next year",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-how-much-extra-money-could-be-in-your-monthly-social-security-check-next-year-2e0c4eb8?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Sports betting is increasingly the norm for Gen Z.  Here\u2019s why some financial and mental health experts are worried",
+      "title": "\u2018The house is worth $925,000\u2019: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC & more",
+      "title": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time to worry?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/stocks-making-the-biggest-moves-premarket-dkng-itub-ptc.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+      "title": "Buy these stocks as plays on Google\u2019s big spending, analyst says",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/buy-these-stocks-as-plays-on-googles-big-spending-analyst-says-a159c170?mod=mw_rss_topstories",
+      "tags": [
+        "Google"
+      ]
+    },
+    {
+      "title": "These stocks could be the future winners \u2014\u00a0and losers \u2014 of a massive shift in IT spending",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-stocks-could-be-the-future-winners-and-losers-of-a-massive-shift-in-it-spending-bfc88c05?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Cocoa prices are climbing again. Here\u2019s why this time is different",
+      "title": "\u2018The prospectus looks impressive\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/cocoa-prices-are-climbing-again-heres-why-this-time-is-different.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "House Democrat targets candidate prediction market trades after opponent\u2019s Kalshi penalty",
+      "title": "Trump\u2019s \u2018energy ceasefire\u2019 collides with real-world problems of dwindling fuel supplies",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
-      "tags": []
-    },
-    {
-      "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Constellation Energy, Option Care Health, Lennar, P&G and more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/stocks-making-the-biggest-moves-premarket-constellation-energy-option-care-health-lennar-pg-and-more.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
       "tags": [
         "Oil & energy"
       ]
     },
     {
-      "title": "How event contract bundles are boosting volume on prediction markets",
+      "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
+      "tags": [
+        "Meta"
+      ]
+    },
+    {
+      "title": "How soon into dating do you talk about your salary?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+      "title": "Business Daily",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9x?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "12 Oct 2026, 19:30 UTC",
-  "updated_iso": "2026-10-12T19:30:31.319032+00:00"
+  "updated": "12 Oct 2026, 19:54 UTC",
+  "updated_iso": "2026-10-12T19:54:39.436697+00:00"
 }
