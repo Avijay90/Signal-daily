@@ -153,8 +153,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,751.68",
-      "change": 0.9,
+      "value": "10,756.38",
+      "change": 0.94,
       "series": [
         10697.6,
         10658.1,
@@ -177,7 +177,7 @@
         10441.6,
         10552.1,
         10656.3,
-        10751.68
+        10756.38
       ],
       "dates": [
         "2026-09-14",
@@ -915,90 +915,92 @@
   ],
   "markets": [
     {
-      "title": "How soon into dating do you talk about your salary?",
+      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
       "tags": []
     },
     {
-      "title": "Business Daily",
+      "title": "Sports betting is increasingly the norm for Gen Z.  Here\u2019s why some financial and mental health experts are worried",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9x?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
       "tags": []
     },
     {
-      "title": "Why are there so many sports subscriptions?",
+      "title": "Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/stocks-making-the-biggest-moves-premarket-dkng-itub-ptc.html",
       "tags": []
     },
     {
-      "title": "Money Box",
+      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
       "tags": []
     },
     {
-      "title": "What are your rights on auto-renew subscriptions?",
+      "title": "Cocoa prices are climbing again. Here\u2019s why this time is different",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/cocoa-prices-are-climbing-again-heres-why-this-time-is-different.html",
       "tags": []
     },
     {
-      "title": "Why Gen Z are planning for life without a state pension",
+      "title": "House Democrat targets candidate prediction market trades after opponent\u2019s Kalshi penalty",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
       "tags": []
     },
     {
-      "title": "Why the UK is dithering over what to do about e-scooters",
+      "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
       "tags": []
     },
     {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "title": "Stocks making the biggest moves premarket: Constellation Energy, Option Care Health, Lennar, P&G and more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/stocks-making-the-biggest-moves-premarket-constellation-energy-option-care-health-lennar-pg-and-more.html",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "How event contract bundles are boosting volume on prediction markets",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
       "tags": []
     },
     {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
       "tags": []
     },
     {
-      "title": "My hometown shows that high streets have to change or die",
+      "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
       "tags": []
     },
     {
-      "title": "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
+      "title": "Stocks making the biggest moves premarket: Constellation Brands, Flutter Entertainment, Neogen & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crkg78q7yz41o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "How to avoid getting stung if you miss credit card payments",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-premarket-stz-flut-neog.html",
       "tags": []
     }
   ],
-  "updated": "13 Oct 2026, 07:58 UTC",
-  "updated_iso": "2026-10-13T07:58:38.121977+00:00"
+  "updated": "13 Oct 2026, 08:14 UTC",
+  "updated_iso": "2026-10-13T08:14:49.165004+00:00"
 }
