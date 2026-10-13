@@ -107,8 +107,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "67,446.11",
-      "change": -2.3,
+      "value": "67,512.11",
+      "change": -2.2,
       "series": [
         63492.99,
         63484.1,
@@ -127,7 +127,7 @@
         70035.71,
         69042.11,
         69030.92,
-        67446.11
+        67512.11
       ],
       "dates": [
         "2026-09-14",
@@ -987,20 +987,20 @@
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+      "title": "How soon into dating do you talk about your salary?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+      "title": "Business Daily",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9x?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "13 Oct 2026, 03:48 UTC",
-  "updated_iso": "2026-10-13T03:48:57.205282+00:00"
+  "updated": "13 Oct 2026, 04:07 UTC",
+  "updated_iso": "2026-10-13T04:07:25.386303+00:00"
 }
