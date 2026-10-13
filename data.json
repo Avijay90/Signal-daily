@@ -156,7 +156,7 @@
       "name": "FTSE 100",
       "symbol": "^FTSE",
       "value": "10,650.33",
-      "change": -0.06,
+      "change": 0.93,
       "series": [
         10697.6,
         10658.1,
@@ -178,8 +178,7 @@
         10458.5,
         10441.6,
         10552.1,
-        10656.3,
-        10650.33
+        10656.3
       ],
       "dates": [
         "2026-09-14",
@@ -202,8 +201,7 @@
         "2026-10-07",
         "2026-10-08",
         "2026-10-09",
-        "2026-10-12",
-        "2026-10-13"
+        "2026-10-12"
       ]
     }
   ],
@@ -847,22 +845,6 @@
   ],
   "ai": [
     {
-      "title": "Will the HomeView be Apple\u2019s first smart home success?",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "tags": []
-    },
-    {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
       "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
       "summary": "",
       "source": "TechCrunch",
@@ -936,98 +918,114 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
       "tags": []
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Day 1",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+      "tags": []
+    },
+    {
+      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google\u2019s",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "tags": [
+        "Google"
+      ]
     }
   ],
   "markets": [
     {
-      "title": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?",
+      "title": "Why are there so many sports subscriptions?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Micron\u2019s stock extends declines as China competition heats up",
+      "title": "Money Box",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Was Broadcom CEO bullish or bearish on AI? \u2018Gamblers\u2019 comment creates storm.",
+      "title": "What are your rights on auto-renew subscriptions?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "UnitedHealth keeps medical costs under control \u2014 and raises its outlook again",
+      "title": "NI company in talks to save Poundland from administration",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why Gen Z are planning for life without a state pension",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why the UK is dithering over what to do about e-scooters",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why some have no choice but to pay costly oil prices",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cq4g1dn81y9xo?at_medium=RSS&at_campaign=rss",
       "tags": [
-        "Funding"
+        "Oil & energy"
       ]
     },
     {
-      "title": "My wife says we can\u2019t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+      "title": "Heating oil customers face tough winter despite shake-up promise",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "AST SpaceMobile\u2019s stock is feeling the heat from SpaceX\u2019s wireless plans",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Six Flags\u2019 stock slumps near 17-year low after fatal incident",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst cautions",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I am a pretty cautious person\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
       "tags": [
-        "Nvidia"
+        "Oil & energy"
       ]
     },
     {
-      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+      "title": "Cost of living struggles inspire 'social supermarket'",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
-      "tags": []
-    },
-    {
-      "title": "Cocoa prices are climbing again. Here\u2019s why this time is different",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/cocoa-prices-are-climbing-again-heres-why-this-time-is-different.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1enm58npo?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "13 Oct 2026, 22:36 UTC",
-  "updated_iso": "2026-10-13T22:36:46.034321+00:00"
+  "updated": "13 Oct 2026, 23:03 UTC",
+  "updated_iso": "2026-10-13T23:03:25.609743+00:00"
 }
