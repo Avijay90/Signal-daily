@@ -107,8 +107,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "67,632.02",
-      "change": -2.03,
+      "value": "67,700.14",
+      "change": -1.93,
       "series": [
         63492.99,
         63484.1,
@@ -127,7 +127,7 @@
         70035.71,
         69042.11,
         69030.92,
-        67632.02
+        67700.14
       ],
       "dates": [
         "2026-09-14",
@@ -913,94 +913,90 @@
   ],
   "markets": [
     {
-      "title": "Microsoft hits a big milestone that solidifies its revival",
+      "title": "How soon into dating do you talk about your salary?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-      "tags": [
-        "Microsoft"
-      ]
-    },
-    {
-      "title": "Why Ciena, Lumentum and other optical stocks were among the market\u2019s biggest losers on Monday",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+      "title": "Business Daily",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9x?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "title": "Why are there so many sports subscriptions?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
+      "title": "Money Box",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "\u2018The prospectus looks impressive\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "title": "What are your rights on auto-renew subscriptions?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "\u2018The house is worth $925,000\u2019: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+      "title": "Why Gen Z are planning for life without a state pension",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst cautions",
+      "title": "Why the UK is dithering over what to do about e-scooters",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+      "title": "My hometown shows that high streets have to change or die",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Campaigners claim minister attempting to undermine 'Holiday Hunger Bill'",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crkg78q7yz41o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "How to avoid getting stung if you miss credit card payments",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "13 Oct 2026, 05:29 UTC",
-  "updated_iso": "2026-10-13T05:29:16.311244+00:00"
+  "updated": "13 Oct 2026, 05:47 UTC",
+  "updated_iso": "2026-10-13T05:47:39.428122+00:00"
 }
