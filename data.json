@@ -153,8 +153,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,715.34",
-      "change": 0.55,
+      "value": "10,706.10",
+      "change": 0.47,
       "series": [
         10697.6,
         10658.1,
@@ -177,7 +177,7 @@
         10441.6,
         10552.1,
         10656.3,
-        10715.34
+        10706.1
       ],
       "dates": [
         "2026-09-14",
@@ -821,13 +821,6 @@
   ],
   "ai": [
     {
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "tags": []
-    },
-    {
       "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
       "summary": "",
       "source": "TechCrunch",
@@ -911,83 +904,16 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
       "tags": []
+    },
+    {
+      "title": "Will the HomeView be Apple\u2019s first smart home success?",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "What to expect from Europe\u2019s most valuable company before it kicks off tech earnings",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-to-expect-from-europes-most-valuable-company-before-it-kicks-off-tech-earnings-a6272cc0?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "\u2018The prospectus looks impressive\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "UnitedHealth keeps medical costs under control \u2014 and raises its outlook again",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
-      "title": "Options traders expect wild stock-market swings beginning later this month. Here are 4 things to watch.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/options-traders-expect-wild-stock-market-swings-beginning-later-this-month-here-are-4-things-to-watch-e4931b02?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "A SpaceX launch shortage is fueling a $100 billion investing spree",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-spacex-launch-shortage-is-fueling-a-100-billion-investing-spree-25b7d043?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018The house is worth $925,000\u2019: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-wealth-has-shifted-to-stocks-from-homes-there-are-big-reasons-to-worry-aa05864d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Six Flags\u2019 stock slumps near 52-week lows after fatal accident",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The South Korean stock market is in free fall, and these are the reasons",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-korean-stock-markets-in-freefall-and-these-are-the-reasons-why-9615ac8d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Why the world\u2019s No. 1 fund manager has just changed its mind on bonds for the first time in six years",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-the-worlds-number-one-fund-manager-has-just-changed-its-mind-on-bonds-for-the-first-time-in-six-years-4b1b5490?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "Sports betting is increasingly the norm for Gen Z.  Here\u2019s why some financial and mental health experts are worried",
       "summary": "",
@@ -1001,8 +927,80 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/05/stocks-making-the-biggest-moves-premarket-dkng-itub-ptc.html",
       "tags": []
+    },
+    {
+      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
+      "tags": []
+    },
+    {
+      "title": "Cocoa prices are climbing again. Here\u2019s why this time is different",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/cocoa-prices-are-climbing-again-heres-why-this-time-is-different.html",
+      "tags": []
+    },
+    {
+      "title": "House Democrat targets candidate prediction market trades after opponent\u2019s Kalshi penalty",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+      "tags": []
+    },
+    {
+      "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Constellation Energy, Option Care Health, Lennar, P&G and more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/stocks-making-the-biggest-moves-premarket-constellation-energy-option-care-health-lennar-pg-and-more.html",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "How event contract bundles are boosting volume on prediction markets",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
+      "tags": []
+    },
+    {
+      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+      "tags": []
+    },
+    {
+      "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Constellation Brands, Flutter Entertainment, Neogen & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-premarket-stz-flut-neog.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
+      "tags": []
     }
   ],
-  "updated": "13 Oct 2026, 12:11 UTC",
-  "updated_iso": "2026-10-13T12:11:56.956181+00:00"
+  "updated": "13 Oct 2026, 12:38 UTC",
+  "updated_iso": "2026-10-13T12:38:53.456814+00:00"
 }
