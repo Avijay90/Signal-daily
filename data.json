@@ -153,8 +153,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,736.39",
-      "change": 0.75,
+      "value": "10,734.84",
+      "change": 0.74,
       "series": [
         10697.6,
         10658.1,
@@ -177,7 +177,7 @@
         10441.6,
         10552.1,
         10656.3,
-        10736.39
+        10734.84
       ],
       "dates": [
         "2026-09-14",
@@ -915,80 +915,6 @@
   ],
   "markets": [
     {
-      "title": "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst cautions",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Was Broadcom CEO bullish or bearish on AI? \u2018Gamblers\u2019 comment creates storm",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "This one chart from the IMF tells the entire story of the world economy this year",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-one-chart-from-the-imf-tells-the-entire-story-of-the-world-economy-this-year-8cc81534?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Newlywed Jim Carrey lists $35 million Maui waterfront mansion",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/newlywed-jim-carrey-lists-35-million-maui-waterfront-mansion-c6502021?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The Korean stock market\u2019s in freefall, and these are the reasons why",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-korean-stock-markets-in-freefall-and-these-are-the-reasons-why-9615ac8d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018Breaking Bad\u2019 star Aaron Paul sells L.A. home for $7.5 million; he now lives in Paris",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/breaking-bad-star-aaron-paul-sells-l-a-home-for-7-5-million-he-now-lives-in-paris-fb5990f5?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My wife says we can\u2019t afford to retire. We have $4 million. Do I just keep working?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "What to expect from Europe\u2019s most valuable company before it kicks off tech earnings",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-to-expect-from-europes-most-valuable-company-before-it-kicks-off-tech-earnings-a6272cc0?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "UnitedHealth keeps medical costs under control \u2014 and raises its outlook again",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
       "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
       "summary": "",
       "source": "CNBC",
@@ -1001,8 +927,80 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
       "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/stocks-making-the-biggest-moves-premarket-dkng-itub-ptc.html",
+      "tags": []
+    },
+    {
+      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
+      "tags": []
+    },
+    {
+      "title": "Cocoa prices are climbing again. Here\u2019s why this time is different",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/cocoa-prices-are-climbing-again-heres-why-this-time-is-different.html",
+      "tags": []
+    },
+    {
+      "title": "House Democrat targets candidate prediction market trades after opponent\u2019s Kalshi penalty",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+      "tags": []
+    },
+    {
+      "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Constellation Energy, Option Care Health, Lennar, P&G and more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/stocks-making-the-biggest-moves-premarket-constellation-energy-option-care-health-lennar-pg-and-more.html",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "How event contract bundles are boosting volume on prediction markets",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
+      "tags": []
+    },
+    {
+      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+      "tags": []
+    },
+    {
+      "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Constellation Brands, Flutter Entertainment, Neogen & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-premarket-stz-flut-neog.html",
+      "tags": []
     }
   ],
-  "updated": "13 Oct 2026, 10:10 UTC",
-  "updated_iso": "2026-10-13T10:10:22.029598+00:00"
+  "updated": "13 Oct 2026, 10:30 UTC",
+  "updated_iso": "2026-10-13T10:30:25.000315+00:00"
 }
