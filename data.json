@@ -107,8 +107,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "67,292.39",
-      "change": -2.52,
+      "value": "67,446.11",
+      "change": -2.3,
       "series": [
         63492.99,
         63484.1,
@@ -127,7 +127,7 @@
         70035.71,
         69042.11,
         69030.92,
-        67292.39
+        67446.11
       ],
       "dates": [
         "2026-09-14",
@@ -913,6 +913,80 @@
   ],
   "markets": [
     {
+      "title": "Microsoft hits a big milestone that solidifies its revival",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+      "tags": [
+        "Microsoft"
+      ]
+    },
+    {
+      "title": "Why Ciena, Lumentum and other optical stocks were among the market\u2019s biggest losers on Monday",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018The prospectus looks impressive\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018The house is worth $925,000\u2019: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst cautions",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
       "summary": "",
       "source": "CNBC",
@@ -925,80 +999,8 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
       "tags": []
-    },
-    {
-      "title": "Sports betting is increasingly the norm for Gen Z.  Here\u2019s why some financial and mental health experts are worried",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/stocks-making-the-biggest-moves-premarket-dkng-itub-ptc.html",
-      "tags": []
-    },
-    {
-      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
-      "tags": []
-    },
-    {
-      "title": "Cocoa prices are climbing again. Here\u2019s why this time is different",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/cocoa-prices-are-climbing-again-heres-why-this-time-is-different.html",
-      "tags": []
-    },
-    {
-      "title": "House Democrat targets candidate prediction market trades after opponent\u2019s Kalshi penalty",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
-      "tags": []
-    },
-    {
-      "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Constellation Energy, Option Care Health, Lennar, P&G and more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/stocks-making-the-biggest-moves-premarket-constellation-energy-option-care-health-lennar-pg-and-more.html",
-      "tags": [
-        "Oil & energy"
-      ]
-    },
-    {
-      "title": "How event contract bundles are boosting volume on prediction markets",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
-      "tags": []
-    },
-    {
-      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
-      "tags": []
-    },
-    {
-      "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-      "tags": []
     }
   ],
-  "updated": "13 Oct 2026, 03:28 UTC",
-  "updated_iso": "2026-10-13T03:28:43.471048+00:00"
+  "updated": "13 Oct 2026, 03:48 UTC",
+  "updated_iso": "2026-10-13T03:48:57.205282+00:00"
 }
