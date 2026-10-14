@@ -159,8 +159,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,673.69",
-      "change": 0.22,
+      "value": "10,691.07",
+      "change": 0.38,
       "series": [
         10658.1,
         10688.5,
@@ -183,7 +183,7 @@
         10552.1,
         10656.3,
         10650.3,
-        10673.69
+        10691.07
       ],
       "dates": [
         "2026-09-15",
@@ -1011,13 +1011,6 @@
       "tags": []
     },
     {
-      "title": "Cost of living struggles inspire 'social supermarket'",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1enm58npo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
       "title": "Three things we've learnt about the UK economy from the IMF",
       "summary": "",
       "source": "BBC Business",
@@ -1030,8 +1023,17 @@
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
       "tags": []
+    },
+    {
+      "title": "Heating oil users facing fuel or food winter choice",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g18we232ro?at_medium=RSS&at_campaign=rss",
+      "tags": [
+        "Oil & energy"
+      ]
     }
   ],
-  "updated": "14 Oct 2026, 10:57 UTC",
-  "updated_iso": "2026-10-14T10:57:04.770232+00:00"
+  "updated": "14 Oct 2026, 11:21 UTC",
+  "updated_iso": "2026-10-14T11:21:11.071960+00:00"
 }
