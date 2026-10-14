@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,718.60",
-      "change": -1.11,
+      "value": "7,701.58",
+      "change": -1.33,
       "series": [
         7585.73,
         7551.81,
@@ -27,7 +27,7 @@
         7811.54,
         7807.24,
         7805.45,
-        7718.6
+        7701.58
       ],
       "dates": [
         "2026-09-15",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,747.26",
-      "change": -1.68,
+      "value": "26,661.45",
+      "change": -2.0,
       "series": [
         25981.57,
         25978.43,
@@ -81,7 +81,7 @@
         27366.17,
         27245.9,
         27204.38,
-        26747.26
+        26661.45
       ],
       "dates": [
         "2026-09-15",
@@ -212,8 +212,8 @@
   "stocks": [
     {
       "symbol": "AAPL",
-      "price": 343.55,
-      "change": 0.67,
+      "price": 341.92,
+      "change": 0.19,
       "series": [
         331.34,
         332.41,
@@ -236,60 +236,7 @@
         336.64,
         340.97,
         341.27,
-        343.55
-      ],
-      "dates": [
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14"
-      ]
-    },
-    {
-      "symbol": "GOOGL",
-      "price": 349.18,
-      "change": -1.3,
-      "series": [
-        344.98,
-        342.87,
-        347.33,
-        349.54,
-        354.97,
-        351.16,
-        337.83,
-        342.36,
-        343.92,
-        342.75,
-        340.92,
-        344.08,
-        338.24,
-        343.5,
-        346.47,
-        347.68,
-        350.5,
-        348.29,
-        351.66,
-        352.72,
-        353.78,
-        349.18
+        341.92
       ],
       "dates": [
         "2026-09-15",
@@ -318,8 +265,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 535.97,
-      "change": -1.38,
+      "price": 535.17,
+      "change": -1.52,
       "series": [
         497.12,
         490.3,
@@ -342,7 +289,60 @@
         535.07,
         541.15,
         543.45,
-        535.97
+        535.17
+      ],
+      "dates": [
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14"
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 348.31,
+      "change": -1.54,
+      "series": [
+        344.98,
+        342.87,
+        347.33,
+        349.54,
+        354.97,
+        351.16,
+        337.83,
+        342.36,
+        343.92,
+        342.75,
+        340.92,
+        344.08,
+        338.24,
+        343.5,
+        346.47,
+        347.68,
+        350.5,
+        348.29,
+        351.66,
+        352.72,
+        353.78,
+        348.32
       ],
       "dates": [
         "2026-09-15",
@@ -371,8 +371,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 254.11,
-      "change": -1.73,
+      "price": 253.62,
+      "change": -1.92,
       "series": [
         248.42,
         245.96,
@@ -395,7 +395,7 @@
         262.43,
         259.53,
         258.58,
-        254.11
+        253.62
       ],
       "dates": [
         "2026-09-15",
@@ -424,8 +424,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 366.96,
-      "change": -2.2,
+      "price": 365.24,
+      "change": -2.66,
       "series": [
         356.58,
         358.08,
@@ -448,166 +448,7 @@
         382.7,
         378.03,
         375.23,
-        366.96
-      ],
-      "dates": [
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14"
-      ]
-    },
-    {
-      "symbol": "NVDA",
-      "price": 222.31,
-      "change": -2.72,
-      "series": [
-        212.17,
-        213.9,
-        219.34,
-        222.27,
-        227.38,
-        228.87,
-        225.51,
-        224.58,
-        225.07,
-        228.86,
-        227.21,
-        228.38,
-        230.86,
-        233.95,
-        238.9,
-        239.24,
-        237.47,
-        230.48,
-        229.28,
-        226.32,
-        228.52,
-        222.3
-      ],
-      "dates": [
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14"
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "price": 346.96,
-      "change": -2.9,
-      "series": [
-        339.27,
-        339.51,
-        347.3,
-        357.61,
-        362.66,
-        364.54,
-        354.99,
-        350.36,
-        352.81,
-        349.57,
-        355.1,
-        351.19,
-        343.64,
-        355.14,
-        362.51,
-        375.81,
-        376.51,
-        360.14,
-        361.54,
-        354.73,
-        357.31,
-        346.96
-      ],
-      "dates": [
-        "2026-09-15",
-        "2026-09-16",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14"
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "price": 431.9,
-      "change": -2.97,
-      "series": [
-        413.75,
-        417.72,
-        430.26,
-        434.67,
-        445.14,
-        452.0,
-        446.57,
-        451.15,
-        450.61,
-        452.88,
-        456.94,
-        456.19,
-        459.2,
-        472.78,
-        485.8,
-        482.3,
-        472.2,
-        457.99,
-        453.31,
-        444.35,
-        445.12,
-        431.9
+        365.24
       ],
       "dates": [
         "2026-09-15",
@@ -636,8 +477,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 202.18,
-      "change": -3.11,
+      "price": 201.94,
+      "change": -3.23,
       "series": [
         172.56,
         174.34,
@@ -660,7 +501,113 @@
         209.05,
         209.0,
         208.67,
-        202.18
+        201.93
+      ],
+      "dates": [
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14"
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "price": 345.61,
+      "change": -3.27,
+      "series": [
+        339.27,
+        339.51,
+        347.3,
+        357.61,
+        362.66,
+        364.54,
+        354.99,
+        350.36,
+        352.81,
+        349.57,
+        355.1,
+        351.19,
+        343.64,
+        355.14,
+        362.51,
+        375.81,
+        376.51,
+        360.14,
+        361.54,
+        354.73,
+        357.31,
+        345.61
+      ],
+      "dates": [
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14"
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "price": 220.8,
+      "change": -3.38,
+      "series": [
+        212.17,
+        213.9,
+        219.34,
+        222.27,
+        227.38,
+        228.87,
+        225.51,
+        224.58,
+        225.07,
+        228.86,
+        227.21,
+        228.38,
+        230.86,
+        233.95,
+        238.9,
+        239.24,
+        237.47,
+        230.48,
+        229.28,
+        226.32,
+        228.52,
+        220.8
       ],
       "dates": [
         "2026-09-15",
@@ -689,8 +636,8 @@
     },
     {
       "symbol": "META",
-      "price": 737.0,
-      "change": -3.34,
+      "price": 736.25,
+      "change": -3.44,
       "series": [
         670.24,
         673.31,
@@ -713,7 +660,60 @@
         718.67,
         742.96,
         762.5,
-        737.01
+        736.25
+      ],
+      "dates": [
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14"
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "price": 429.55,
+      "change": -3.5,
+      "series": [
+        413.75,
+        417.72,
+        430.26,
+        434.67,
+        445.14,
+        452.0,
+        446.57,
+        451.15,
+        450.61,
+        452.88,
+        456.94,
+        456.19,
+        459.2,
+        472.78,
+        485.8,
+        482.3,
+        472.2,
+        457.99,
+        453.31,
+        444.35,
+        445.12,
+        429.55
       ],
       "dates": [
         "2026-09-15",
@@ -742,8 +742,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 573.23,
-      "change": -5.34,
+      "price": 570.24,
+      "change": -5.83,
       "series": [
         504.2,
         512.5,
@@ -766,7 +766,7 @@
         608.1,
         594.24,
         605.53,
-        573.22
+        570.24
       ],
       "dates": [
         "2026-09-15",
@@ -795,8 +795,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 132.62,
-      "change": -7.38,
+      "price": 130.44,
+      "change": -8.91,
       "series": [
         140.35,
         143.16,
@@ -819,7 +819,7 @@
         141.4,
         137.39,
         143.2,
-        132.62
+        130.43
       ],
       "dates": [
         "2026-09-15",
@@ -943,100 +943,92 @@
   ],
   "markets": [
     {
-      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+      "title": "Why are there so many sports subscriptions?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Money Box",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "What are your rights on auto-renew subscriptions?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "NI company in talks to save Poundland from administration",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why Gen Z are planning for life without a state pension",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why the UK is dithering over what to do about e-scooters",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Heating oil users facing fuel or food winter choice",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cv4g18we232ro?at_medium=RSS&at_campaign=rss",
       "tags": [
-        "Earnings"
+        "Oil & energy"
       ]
     },
     {
-      "title": "How Iran\u2019s $2 trillion threat puts your AI stocks at risk",
+      "title": "'It's definitely tight trying to budget on maternity leave'",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-irans-2-trillion-threat-puts-your-ai-stocks-at-risk-2721af43?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewegye0g0qo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+      "title": "Job cuts could fund diesel price drop says deputy",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Micron wins praise from Elon Musk for not being too greedy",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-wins-praise-from-elon-musk-for-not-being-too-greedy-616fa15f?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The truth about being a landlord in retirement",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Rising diesel prices have helped fuel inflation \u2014 and we\u2019re about to see how much worse it could get",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/rising-diesel-prices-have-helped-fuel-inflation-and-were-about-to-see-how-much-worse-it-could-get-430f36d1?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Your Social Security check will rise an average of $75 a month \u2014 will it be able to keep up with inflation?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "3 things that are driving inflation higher",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "How event contract bundles are boosting volume on prediction markets",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
-      "tags": []
-    },
-    {
-      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "14 Oct 2026, 17:18 UTC",
-  "updated_iso": "2026-10-14T17:18:17.101426+00:00"
+  "updated": "14 Oct 2026, 17:56 UTC",
+  "updated_iso": "2026-10-14T17:56:29.942188+00:00"
 }
