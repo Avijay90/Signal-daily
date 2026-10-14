@@ -159,8 +159,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,656.50",
-      "change": 0.06,
+      "value": "10,670.07",
+      "change": 0.19,
       "series": [
         10658.1,
         10688.5,
@@ -183,7 +183,7 @@
         10552.1,
         10656.3,
         10650.3,
-        10656.5
+        10670.07
       ],
       "dates": [
         "2026-09-15",
@@ -948,13 +948,6 @@
   ],
   "markets": [
     {
-      "title": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Micron\u2019s stock extends declines as China competition heats up",
       "summary": "",
       "source": "MarketWatch",
@@ -1022,6 +1015,15 @@
       "tags": []
     },
     {
+      "title": "Chip bellwether ASML says customers are already asking to place orders \u2014 for 2030",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/chip-bellwether-asml-says-customers-are-already-asking-to-place-orders-for-2030-b3aa1a90?mod=mw_rss_topstories",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
       "title": "House Democrat targets candidate prediction market trades after opponent\u2019s Kalshi penalty",
       "summary": "",
       "source": "CNBC",
@@ -1036,6 +1038,6 @@
       "tags": []
     }
   ],
-  "updated": "14 Oct 2026, 08:14 UTC",
-  "updated_iso": "2026-10-14T08:14:02.426074+00:00"
+  "updated": "14 Oct 2026, 08:46 UTC",
+  "updated_iso": "2026-10-14T08:46:24.038755+00:00"
 }
