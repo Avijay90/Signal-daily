@@ -158,8 +158,9 @@
       "name": "FTSE 100",
       "symbol": "^FTSE",
       "value": "10,724.86",
-      "change": 0.7,
+      "change": 0.64,
       "series": [
+        10697.6,
         10658.1,
         10688.5,
         10816.1,
@@ -180,10 +181,10 @@
         10441.6,
         10552.1,
         10656.3,
-        10650.3,
-        10724.86
+        10650.3
       ],
       "dates": [
+        "2026-09-14",
         "2026-09-15",
         "2026-09-16",
         "2026-09-17",
@@ -204,8 +205,7 @@
         "2026-10-08",
         "2026-10-09",
         "2026-10-12",
-        "2026-10-13",
-        "2026-10-14"
+        "2026-10-13"
       ]
     }
   ],
@@ -947,13 +947,6 @@
   ],
   "markets": [
     {
-      "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "The COLA wars are coming for Social Security",
       "summary": "",
       "source": "MarketWatch",
@@ -1021,6 +1014,13 @@
       "tags": []
     },
     {
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
       "summary": "",
       "source": "CNBC",
@@ -1035,6 +1035,6 @@
       "tags": []
     }
   ],
-  "updated": "14 Oct 2026, 22:36 UTC",
-  "updated_iso": "2026-10-14T22:36:23.940155+00:00"
+  "updated": "14 Oct 2026, 23:02 UTC",
+  "updated_iso": "2026-10-14T23:02:52.249135+00:00"
 }
