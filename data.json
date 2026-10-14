@@ -159,8 +159,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,694.80",
-      "change": 0.42,
+      "value": "10,700.92",
+      "change": 0.48,
       "series": [
         10658.1,
         10688.5,
@@ -183,7 +183,7 @@
         10552.1,
         10656.3,
         10650.3,
-        10694.8
+        10700.92
       ],
       "dates": [
         "2026-09-15",
@@ -1011,15 +1011,6 @@
       "tags": []
     },
     {
-      "title": "Heating oil customers face tough winter despite shake-up promise",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
-      "tags": [
-        "Oil & energy"
-      ]
-    },
-    {
       "title": "Cost of living struggles inspire 'social supermarket'",
       "summary": "",
       "source": "BBC Business",
@@ -1032,8 +1023,15 @@
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
       "tags": []
+    },
+    {
+      "title": "Car finance compensation payments delayed until next year",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
     }
   ],
-  "updated": "14 Oct 2026, 09:56 UTC",
-  "updated_iso": "2026-10-14T09:56:58.537175+00:00"
+  "updated": "14 Oct 2026, 10:22 UTC",
+  "updated_iso": "2026-10-14T10:22:06.322712+00:00"
 }
