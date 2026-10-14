@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "68,345.73",
-      "change": 0.84,
+      "value": "68,299.75",
+      "change": 0.77,
       "series": [
         63492.99,
         63484.1,
@@ -132,7 +132,7 @@
         69042.11,
         69030.92,
         67777.52,
-        68345.73
+        68299.75
       ],
       "dates": [
         "2026-09-14",
@@ -1022,20 +1022,20 @@
       "tags": []
     },
     {
-      "title": "House Democrat targets candidate prediction market trades after opponent\u2019s Kalshi penalty",
+      "title": "Why are there so many sports subscriptions?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
+      "title": "Money Box",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "14 Oct 2026, 04:21 UTC",
-  "updated_iso": "2026-10-14T04:21:20.773666+00:00"
+  "updated": "14 Oct 2026, 04:57 UTC",
+  "updated_iso": "2026-10-14T04:57:05.313531+00:00"
 }
