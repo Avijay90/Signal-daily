@@ -212,8 +212,8 @@
   "stocks": [
     {
       "symbol": "ORCL",
-      "price": 134.44,
-      "change": 2.98,
+      "price": 134.47,
+      "change": 3.0,
       "series": [
         143.16,
         150.59,
@@ -236,7 +236,7 @@
         137.39,
         143.2,
         130.55,
-        134.45
+        134.47
       ],
       "dates": [
         "2026-09-16",
@@ -742,8 +742,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 422.55,
-      "change": -1.73,
+      "price": 422.25,
+      "change": -1.8,
       "series": [
         417.72,
         430.26,
@@ -766,7 +766,7 @@
         444.35,
         445.12,
         430.0,
-        422.55
+        422.25
       ],
       "dates": [
         "2026-09-16",
@@ -992,13 +992,6 @@
       "tags": []
     },
     {
-      "title": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "This one governor\u2019s race could derail the AI trade that\u2019s powered the stock market",
       "summary": "",
       "source": "MarketWatch",
@@ -1010,6 +1003,13 @@
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -1029,6 +1029,6 @@
       ]
     }
   ],
-  "updated": "15 Oct 2026, 20:05 UTC",
-  "updated_iso": "2026-10-15T20:05:02.205167+00:00"
+  "updated": "15 Oct 2026, 20:37 UTC",
+  "updated_iso": "2026-10-15T20:37:10.486132+00:00"
 }
