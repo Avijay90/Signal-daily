@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "64,542.26",
-      "change": -4.73,
+      "value": "64,747.34",
+      "change": -4.42,
       "series": [
         63484.1,
         63923.0,
@@ -132,7 +132,7 @@
         69030.92,
         67777.52,
         67744.29,
-        64542.26
+        64747.34
       ],
       "dates": [
         "2026-09-15",
@@ -851,15 +851,6 @@
   ],
   "ai": [
     {
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
       "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
       "summary": "",
       "source": "TechCrunch",
@@ -941,9 +932,94 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
       "tags": []
+    },
+    {
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "tags": [
+        "Funding"
+      ]
     }
   ],
   "markets": [
+    {
+      "title": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "CoreWeave\u2019s AI bonds tumble, raising red flags for the wider market",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Big banks see risks in financing the AI boom, but are happy to keep writing the checks",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/big-banks-see-risks-in-financing-the-ai-boom-but-are-happy-to-keep-writing-the-checks-e459a206?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Your Social Security check will rise an average of $75 a month \u2014 will it be able to keep up with inflation?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "You\u2019re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Rocket Lab\u2019s stock slides as the company pushes back Neutron\u2019s first launch",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Anthropic\u2019s slowing growth could be the AI trade\u2019s latest red flag",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
+      "tags": [
+        "Anthropic"
+      ]
+    },
     {
       "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
       "summary": "",
@@ -957,82 +1033,8 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
       "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Constellation Brands, Flutter Entertainment, Neogen & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-premarket-stz-flut-neog.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
-      "tags": []
-    },
-    {
-      "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Huawei doubles down on smartphones as EV sales slow",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
-      "tags": []
-    },
-    {
-      "title": "After a yearslong slump, China's real estate market may be set for a turnaround",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Haemonetics, Broadcom, Lululemon, Palantir, Wolfspeed & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
-      "tags": []
-    },
-    {
-      "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
-      "tags": []
-    },
-    {
-      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Delta Air Lines, SpaceX, T-Mobile, Humana & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/stocks-making-the-biggest-moves-premarket-dal-spcx-tmus.html",
-      "tags": []
-    },
-    {
-      "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
-      "tags": [
-        "Crypto"
-      ]
     }
   ],
-  "updated": "15 Oct 2026, 04:37 UTC",
-  "updated_iso": "2026-10-15T04:37:11.986282+00:00"
+  "updated": "15 Oct 2026, 05:06 UTC",
+  "updated_iso": "2026-10-15T05:06:40.409576+00:00"
 }
