@@ -159,8 +159,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,779.64",
-      "change": 0.51,
+      "value": "10,777.14",
+      "change": 0.49,
       "series": [
         10688.5,
         10816.1,
@@ -183,7 +183,7 @@
         10656.3,
         10650.3,
         10724.9,
-        10779.64
+        10777.14
       ],
       "dates": [
         "2026-09-16",
@@ -984,7 +984,7 @@
       ]
     },
     {
-      "title": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
+      "title": "TSMC\u2019s CEO sees no sign of a slowdown as chip foundry reports record profit",
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories",
@@ -1036,6 +1036,6 @@
       "tags": []
     }
   ],
-  "updated": "15 Oct 2026, 10:41 UTC",
-  "updated_iso": "2026-10-15T10:41:57.908093+00:00"
+  "updated": "15 Oct 2026, 11:09 UTC",
+  "updated_iso": "2026-10-15T11:09:21.767483+00:00"
 }
