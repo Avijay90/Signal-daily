@@ -159,8 +159,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,776.21",
-      "change": 0.48,
+      "value": "10,778.60",
+      "change": 0.5,
       "series": [
         10688.5,
         10816.1,
@@ -183,7 +183,7 @@
         10656.3,
         10650.3,
         10724.9,
-        10776.21
+        10778.6
       ],
       "dates": [
         "2026-09-16",
@@ -945,15 +945,6 @@
   ],
   "markets": [
     {
-      "title": "Your Social Security check will rise an average of $75 a month \u2014 will it be able to keep up with inflation?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
       "title": "You\u2019re probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
       "summary": "",
       "source": "MarketWatch",
@@ -1024,6 +1015,13 @@
       "tags": []
     },
     {
+      "title": "I\u2019m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
       "summary": "",
       "source": "CNBC",
@@ -1038,6 +1036,6 @@
       "tags": []
     }
   ],
-  "updated": "15 Oct 2026, 09:12 UTC",
-  "updated_iso": "2026-10-15T09:12:14.677254+00:00"
+  "updated": "15 Oct 2026, 09:42 UTC",
+  "updated_iso": "2026-10-15T09:42:27.043646+00:00"
 }
