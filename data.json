@@ -159,8 +159,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,801.53",
-      "change": 0.71,
+      "value": "10,811.49",
+      "change": 0.81,
       "series": [
         10688.5,
         10816.1,
@@ -183,7 +183,7 @@
         10656.3,
         10650.3,
         10724.9,
-        10801.53
+        10811.49
       ],
       "dates": [
         "2026-09-16",
@@ -851,13 +851,6 @@
   ],
   "ai": [
     {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "tags": []
-    },
-    {
       "title": "Facebook is giving users more control over their algorithm",
       "summary": "",
       "source": "TechCrunch",
@@ -941,6 +934,13 @@
       "tags": [
         "Funding"
       ]
+    },
+    {
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco\u2019s Moscone West",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "tags": []
     }
   ],
   "markets": [
@@ -1033,6 +1033,6 @@
       ]
     }
   ],
-  "updated": "15 Oct 2026, 12:08 UTC",
-  "updated_iso": "2026-10-15T12:08:02.711741+00:00"
+  "updated": "15 Oct 2026, 12:48 UTC",
+  "updated_iso": "2026-10-15T12:48:41.269962+00:00"
 }
