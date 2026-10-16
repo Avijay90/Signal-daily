@@ -159,8 +159,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,841.41",
-      "change": 0.01,
+      "value": "10,855.48",
+      "change": 0.14,
       "series": [
         10816.1,
         10659.1,
@@ -183,7 +183,7 @@
         10650.3,
         10724.9,
         10840.4,
-        10841.41
+        10855.48
       ],
       "dates": [
         "2026-09-17",
@@ -851,13 +851,6 @@
   ],
   "ai": [
     {
-      "title": "Floqer\u2019s AI agents research sales prospects so teams don\u2019t have to",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "tags": []
-    },
-    {
       "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
       "summary": "",
       "source": "TechCrunch",
@@ -937,6 +930,15 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
       "tags": []
+    },
+    {
+      "title": "Google\u2019s Universal Cart shopping tool launches in the US",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "tags": [
+        "Google"
+      ]
     }
   ],
   "markets": [
@@ -1033,6 +1035,6 @@
       ]
     }
   ],
-  "updated": "16 Oct 2026, 12:47 UTC",
-  "updated_iso": "2026-10-16T12:47:38.515373+00:00"
+  "updated": "16 Oct 2026, 13:28 UTC",
+  "updated_iso": "2026-10-16T13:28:52.076178+00:00"
 }
