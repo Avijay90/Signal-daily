@@ -159,7 +159,7 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,847.71",
+      "value": "10,847.75",
       "change": 0.07,
       "series": [
         10816.1,
@@ -183,7 +183,7 @@
         10650.3,
         10724.9,
         10840.4,
-        10847.71
+        10847.75
       ],
       "dates": [
         "2026-09-17",
@@ -941,36 +941,6 @@
   ],
   "markets": [
     {
-      "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Tesla finally delivers on its promise to create a flying car",
       "summary": "",
       "source": "MarketWatch",
@@ -1015,20 +985,48 @@
       "tags": []
     },
     {
-      "title": "Huawei doubles down on smartphones as EV sales slow",
+      "title": "Jefferies technical analyst finds an encouraging development in Thursday rebound, setting stage for rally into year-end",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/jefferies-technical-analyst-finds-an-encouraging-development-in-thursday-rebound-setting-stage-for-rally-into-year-end-34ad6e31?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "After a yearslong slump, China's real estate market may be set for a turnaround",
+      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nearly-40-of-the-s-p-500-is-in-a-bear-market-here-are-10-of-those-stocks-that-analysts-say-can-gain-up-to-81-93a51af6?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Can a $55,000-plus robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Money Box",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "What are your rights on auto-renew subscriptions?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "16 Oct 2026, 10:39 UTC",
-  "updated_iso": "2026-10-16T10:39:13.320975+00:00"
+  "updated": "16 Oct 2026, 11:08 UTC",
+  "updated_iso": "2026-10-16T11:08:14.367641+00:00"
 }
