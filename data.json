@@ -3,7 +3,7 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,659.41",
+      "value": "7,659.44",
       "change": -1.09,
       "series": [
         7637.76,
@@ -27,7 +27,7 @@
         7805.45,
         7718.94,
         7744.06,
-        7659.41
+        7659.44
       ],
       "dates": [
         "2026-09-17",
@@ -477,8 +477,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 412.6,
-      "change": -2.29,
+      "price": 412.61,
+      "change": -2.28,
       "series": [
         430.26,
         434.67,
@@ -501,7 +501,7 @@
         445.12,
         430.0,
         422.25,
-        412.6
+        412.61
       ],
       "dates": [
         "2026-09-17",
@@ -583,7 +583,7 @@
     },
     {
       "symbol": "META",
-      "price": 709.34,
+      "price": 709.33,
       "change": -3.72,
       "series": [
         682.31,
@@ -607,7 +607,7 @@
         762.5,
         737.54,
         736.72,
-        709.34
+        709.33
       ],
       "dates": [
         "2026-09-17",
@@ -689,8 +689,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 128.27,
-      "change": -4.61,
+      "price": 128.23,
+      "change": -4.64,
       "series": [
         150.59,
         147.61,
@@ -713,7 +713,7 @@
         143.2,
         130.55,
         134.47,
-        128.27
+        128.23
       ],
       "dates": [
         "2026-09-17",
@@ -943,98 +943,90 @@
   ],
   "markets": [
     {
-      "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
+      "title": "Money Box",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+      "title": "What are your rights on auto-renew subscriptions?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: Delta Air Lines, SpaceX, T-Mobile, Humana & more",
+      "title": "NI company in talks to save Poundland from administration",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/stocks-making-the-biggest-moves-premarket-dal-spcx-tmus.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
+      "title": "'I'd spend $1,000 on a wedding present'",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
-      "tags": [
-        "Crypto"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves midday: T-Mobile, Verizon, AT&T, Crown Castle, Teva & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/stocks-making-the-biggest-moves-midday-tmus-vz-t-cci-teva.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+      "title": "Why Gen Z are planning for life without a state pension",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "This Chinese memory chip maker has global potential and is poised to outperform",
+      "title": "Why the UK is dithering over what to do about e-scooters",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "How much is the minimum wage?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "'TV and cheap booze' blamed for landlord quitting",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyk77jq9d2o?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "16 Oct 2026, 20:01 UTC",
-  "updated_iso": "2026-10-16T20:01:08.351861+00:00"
+  "updated": "16 Oct 2026, 20:36 UTC",
+  "updated_iso": "2026-10-16T20:36:50.529943+00:00"
 }
