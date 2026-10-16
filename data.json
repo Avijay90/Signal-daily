@@ -159,8 +159,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,836.68",
-      "change": -0.03,
+      "value": "10,827.78",
+      "change": -0.12,
       "series": [
         10816.1,
         10659.1,
@@ -183,7 +183,7 @@
         10650.3,
         10724.9,
         10840.4,
-        10836.68
+        10827.78
       ],
       "dates": [
         "2026-09-17",
@@ -941,10 +941,75 @@
   ],
   "markets": [
     {
-      "title": "Huawei doubles down on smartphones as EV sales slow",
+      "title": "Here are the key things Fed Chairman Kevin Warsh said \u2014 and didn\u2019t say \u2014 while Americans were sleeping Thursday night",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "I\u2019m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The best of the AI trade could be behind us. Here\u2019s how to prepare, according to Barclays.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-best-of-the-ai-trade-could-be-behind-us-heres-how-to-prepare-according-to-barclays-725ab4dd?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Jefferies technical analyst finds an encouraging development in Thursday rebound, setting stage for rally into year-end",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/jefferies-technical-analyst-finds-an-encouraging-development-in-thursday-rebound-setting-stage-for-rally-into-year-end-34ad6e31?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nearly-40-of-the-s-p-500-is-in-a-bear-market-here-are-10-of-those-stocks-that-analysts-say-can-gain-up-to-81-93a51af6?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Can a $55,000-plus robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018It\u2019s a wait-and-see situation\u2019: I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Is Apple\u2019s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -960,77 +1025,8 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html",
       "tags": []
-    },
-    {
-      "title": "Little relief expected for gas prices ahead of Election Day, according to prediction markets",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
-      "tags": []
-    },
-    {
-      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Delta Air Lines, SpaceX, T-Mobile, Humana & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/stocks-making-the-biggest-moves-premarket-dal-spcx-tmus.html",
-      "tags": []
-    },
-    {
-      "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
-      "tags": [
-        "Crypto"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves midday: T-Mobile, Verizon, AT&T, Crown Castle, Teva & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/stocks-making-the-biggest-moves-midday-tmus-vz-t-cci-teva.html",
-      "tags": []
-    },
-    {
-      "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-      "tags": []
-    },
-    {
-      "title": "This Chinese memory chip maker has global potential and is poised to outperform",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
-      "tags": []
-    },
-    {
-      "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
-      "tags": [
-        "Rates & Fed"
-      ]
     }
   ],
-  "updated": "16 Oct 2026, 11:38 UTC",
-  "updated_iso": "2026-10-16T11:38:07.889856+00:00"
+  "updated": "16 Oct 2026, 12:06 UTC",
+  "updated_iso": "2026-10-16T12:06:36.528803+00:00"
 }
