@@ -851,15 +851,6 @@
   ],
   "ai": [
     {
-      "title": "Google\u2019s Universal Cart shopping tool launches in the US",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "tags": [
-        "Google"
-      ]
-    },
-    {
       "title": "AI agents are coming to Rivian\u2019s cars",
       "summary": "",
       "source": "TechCrunch",
@@ -940,6 +931,13 @@
       "summary": "",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "tags": []
+    },
+    {
+      "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "tags": []
     }
   ],
@@ -1037,6 +1035,6 @@
       "tags": []
     }
   ],
-  "updated": "18 Oct 2026, 20:35 UTC",
-  "updated_iso": "2026-10-18T20:35:31.485401+00:00"
+  "updated": "18 Oct 2026, 21:01 UTC",
+  "updated_iso": "2026-10-18T21:01:12.881473+00:00"
 }
