@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,704.50",
-      "change": 0.59,
+      "value": "7,708.81",
+      "change": 0.64,
       "series": [
         7764.7,
         7764.64,
@@ -26,7 +26,7 @@
         7718.94,
         7744.06,
         7659.44,
-        7704.5
+        7708.81
       ],
       "dates": [
         "2026-09-21",
@@ -55,8 +55,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,467.85",
-      "change": 1.25,
+      "value": "26,499.25",
+      "change": 1.37,
       "series": [
         27122.09,
         27244.28,
@@ -78,7 +78,7 @@
         26692.87,
         26713.03,
         26140.03,
-        26467.85
+        26499.25
       ],
       "dates": [
         "2026-09-21",
@@ -202,8 +202,8 @@
   "stocks": [
     {
       "symbol": "AMZN",
-      "price": 262.25,
-      "change": 4.9,
+      "price": 263.25,
+      "change": 5.3,
       "series": [
         258.45,
         254.98,
@@ -225,7 +225,7 @@
         254.08,
         254.76,
         250.0,
-        262.25
+        263.24
       ],
       "dates": [
         "2026-09-21",
@@ -253,8 +253,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 194.26,
-      "change": 4.42,
+      "price": 194.35,
+      "change": 4.48,
       "series": [
         183.09,
         184.99,
@@ -276,7 +276,7 @@
         200.97,
         200.5,
         186.03,
-        194.26
+        194.35
       ],
       "dates": [
         "2026-09-21",
@@ -304,8 +304,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 368.29,
-      "change": 3.83,
+      "price": 368.5,
+      "change": 3.88,
       "series": [
         375.3,
         378.9,
@@ -327,58 +327,7 @@
         367.16,
         362.44,
         354.72,
-        368.29
-      ],
-      "dates": [
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19"
-      ]
-    },
-    {
-      "symbol": "TSM",
-      "price": 421.99,
-      "change": 2.27,
-      "series": [
-        445.14,
-        452.0,
-        446.57,
-        451.15,
-        450.61,
-        452.88,
-        456.94,
-        456.19,
-        459.2,
-        472.78,
-        485.8,
-        482.3,
-        472.2,
-        457.99,
-        453.31,
-        444.35,
-        445.12,
-        430.0,
-        422.25,
-        412.61,
-        421.99
+        368.5
       ],
       "dates": [
         "2026-09-21",
@@ -406,8 +355,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 540.39,
-      "change": 2.2,
+      "price": 542.13,
+      "change": 2.53,
       "series": [
         615.52,
         623.77,
@@ -429,7 +378,58 @@
         570.82,
         562.23,
         528.75,
-        540.39
+        542.13
+      ],
+      "dates": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19"
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "price": 423.03,
+      "change": 2.53,
+      "series": [
+        445.14,
+        452.0,
+        446.57,
+        451.15,
+        450.61,
+        452.88,
+        456.94,
+        456.19,
+        459.2,
+        472.78,
+        485.8,
+        482.3,
+        472.2,
+        457.99,
+        453.31,
+        444.35,
+        445.12,
+        430.0,
+        422.25,
+        412.61,
+        423.03
       ],
       "dates": [
         "2026-09-21",
@@ -457,8 +457,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 335.74,
-      "change": 2.12,
+      "price": 336.27,
+      "change": 2.29,
       "series": [
         362.66,
         364.54,
@@ -480,7 +480,7 @@
         346.25,
         344.33,
         328.75,
-        335.73
+        336.27
       ],
       "dates": [
         "2026-09-21",
@@ -508,8 +508,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 217.44,
-      "change": 1.55,
+      "price": 218.14,
+      "change": 1.87,
       "series": [
         227.38,
         228.87,
@@ -531,7 +531,7 @@
         221.3,
         217.23,
         214.13,
-        217.44
+        218.14
       ],
       "dates": [
         "2026-09-21",
@@ -559,8 +559,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 130.12,
-      "change": 1.48,
+      "price": 130.63,
+      "change": 1.87,
       "series": [
         148.56,
         149.2,
@@ -582,7 +582,7 @@
         130.55,
         134.47,
         128.23,
-        130.12
+        130.63
       ],
       "dates": [
         "2026-09-21",
@@ -610,8 +610,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 344.6,
-      "change": 1.18,
+      "price": 345.55,
+      "change": 1.45,
       "series": [
         354.97,
         351.16,
@@ -633,7 +633,7 @@
         347.64,
         349.22,
         340.59,
-        344.6
+        345.55
       ],
       "dates": [
         "2026-09-21",
@@ -661,8 +661,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 534.41,
-      "change": 1.01,
+      "price": 534.22,
+      "change": 0.98,
       "series": [
         501.61,
         498.0,
@@ -684,7 +684,7 @@
         533.69,
         539.44,
         529.05,
-        534.41
+        534.22
       ],
       "dates": [
         "2026-09-21",
@@ -712,8 +712,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 343.11,
-      "change": -0.1,
+      "price": 342.91,
+      "change": -0.16,
       "series": [
         338.98,
         339.75,
@@ -735,7 +735,7 @@
         342.96,
         342.0,
         343.46,
-        343.11
+        342.91
       ],
       "dates": [
         "2026-09-21",
@@ -763,8 +763,8 @@
     },
     {
       "symbol": "META",
-      "price": 705.21,
-      "change": -0.58,
+      "price": 705.93,
+      "change": -0.48,
       "series": [
         741.25,
         736.6,
@@ -786,7 +786,7 @@
         737.54,
         736.72,
         709.33,
-        705.21
+        705.93
       ],
       "dates": [
         "2026-09-21",
@@ -814,22 +814,6 @@
     }
   ],
   "ai": [
-    {
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "tags": []
-    },
-    {
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "tags": [
-        "Meta"
-      ]
-    },
     {
       "title": "When it came to Cal AI\u2019s viral success, a small army of influencers paid off",
       "summary": "",
@@ -909,16 +893,27 @@
         "OpenAI",
         "Anthropic"
       ]
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "tags": [
+        "Meta"
+      ]
     }
   ],
   "markets": [
-    {
-      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
       "summary": "",
@@ -985,6 +980,13 @@
       "tags": []
     },
     {
+      "title": "CoreWeave\u2019s selloff is a lesson in \u2018Finance 101\u2019 \u2014 and Wall Street says the stock can recover",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "What are your rights on auto-renew subscriptions?",
       "summary": "",
       "source": "BBC Business",
@@ -999,6 +1001,6 @@
       "tags": []
     }
   ],
-  "updated": "19 Oct 2026, 18:45 UTC",
-  "updated_iso": "2026-10-19T18:45:23.218565+00:00"
+  "updated": "19 Oct 2026, 19:23 UTC",
+  "updated_iso": "2026-10-19T19:23:46.218644+00:00"
 }
