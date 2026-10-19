@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "64,556.35",
-      "change": -1.18,
+      "value": "64,534.03",
+      "change": -1.21,
       "series": [
         65513.99,
         66364.2,
@@ -130,7 +130,7 @@
         67744.29,
         64425.95,
         65324.29,
-        64556.35
+        64534.03
       ],
       "dates": [
         "2026-09-24",
@@ -939,80 +939,6 @@
   ],
   "markets": [
     {
-      "title": "Fake shopping sprees and \u2018happiness insurance\u2019: The latest fintech apps reveal our financial anxieties",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "There is a silent market rotation inside the S&P 500 that\u2019s warning of more weakness ahead",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "I\u2019m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Stocks making the biggest moves premarket: Delta Air Lines, SpaceX, T-Mobile, Humana & more",
       "summary": "",
       "source": "CNBC",
@@ -1027,8 +953,84 @@
       "tags": [
         "Crypto"
       ]
+    },
+    {
+      "title": "Stocks making the biggest moves midday: T-Mobile, Verizon, AT&T, Crown Castle, Teva & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/stocks-making-the-biggest-moves-midday-tmus-vz-t-cci-teva.html",
+      "tags": []
+    },
+    {
+      "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+      "tags": []
+    },
+    {
+      "title": "This Chinese memory chip maker has global potential and is poised to outperform",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
+      "tags": []
+    },
+    {
+      "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+      "tags": []
+    },
+    {
+      "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+      "tags": []
+    },
+    {
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+      "tags": []
     }
   ],
-  "updated": "19 Oct 2026, 02:36 UTC",
-  "updated_iso": "2026-10-19T02:36:46.338613+00:00"
+  "updated": "19 Oct 2026, 03:08 UTC",
+  "updated_iso": "2026-10-19T03:08:49.260387+00:00"
 }
