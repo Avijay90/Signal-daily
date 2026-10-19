@@ -155,8 +155,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,776.15",
-      "change": -0.97,
+      "value": "10,780.00",
+      "change": -0.94,
       "series": [
         10739.0,
         10708.3,
@@ -178,7 +178,7 @@
         10724.9,
         10840.4,
         10881.9,
-        10776.15
+        10780.0
       ],
       "dates": [
         "2026-09-21",
@@ -937,13 +937,6 @@
   ],
   "markets": [
     {
-      "title": "I\u2019m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
       "summary": "",
       "source": "MarketWatch",
@@ -1007,6 +1000,13 @@
       "tags": []
     },
     {
+      "title": "\u2018My husband suffered a massive stroke at 53\u2019: I\u2019m 64 and will rent for the rest of my life \u2014 but I\u2019m still hopeful",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
       "summary": "",
       "source": "CNBC",
@@ -1023,6 +1023,6 @@
       "tags": []
     }
   ],
-  "updated": "19 Oct 2026, 10:38 UTC",
-  "updated_iso": "2026-10-19T10:38:45.451989+00:00"
+  "updated": "19 Oct 2026, 11:09 UTC",
+  "updated_iso": "2026-10-19T11:09:19.364495+00:00"
 }
