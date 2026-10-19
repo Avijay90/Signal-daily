@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "64,453.68",
-      "change": -1.33,
+      "value": "64,556.35",
+      "change": -1.18,
       "series": [
         65513.99,
         66364.2,
@@ -130,7 +130,7 @@
         67744.29,
         64425.95,
         65324.29,
-        64453.68
+        64556.35
       ],
       "dates": [
         "2026-09-24",
@@ -1013,20 +1013,22 @@
       "tags": []
     },
     {
-      "title": "Money Box",
+      "title": "Stocks making the biggest moves premarket: Delta Air Lines, SpaceX, T-Mobile, Humana & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/stocks-making-the-biggest-moves-premarket-dal-spcx-tmus.html",
       "tags": []
     },
     {
-      "title": "What are your rights on auto-renew subscriptions?",
+      "title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
-      "tags": []
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
+      "tags": [
+        "Crypto"
+      ]
     }
   ],
-  "updated": "19 Oct 2026, 02:09 UTC",
-  "updated_iso": "2026-10-19T02:09:00.598327+00:00"
+  "updated": "19 Oct 2026, 02:36 UTC",
+  "updated_iso": "2026-10-19T02:36:46.338613+00:00"
 }
