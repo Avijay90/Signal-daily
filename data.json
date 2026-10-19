@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,727.84",
-      "change": 0.89,
+      "value": "7,712.21",
+      "change": 0.69,
       "series": [
         7764.7,
         7764.64,
@@ -26,7 +26,7 @@
         7718.94,
         7744.06,
         7659.44,
-        7727.84
+        7712.21
       ],
       "dates": [
         "2026-09-21",
@@ -55,8 +55,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,600.33",
-      "change": 1.76,
+      "value": "26,545.65",
+      "change": 1.55,
       "series": [
         27122.09,
         27244.28,
@@ -78,7 +78,7 @@
         26692.87,
         26713.03,
         26140.03,
-        26600.33
+        26545.64
       ],
       "dates": [
         "2026-09-21",
@@ -149,8 +149,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,752.37",
-      "change": -1.19,
+      "value": "10,764.69",
+      "change": -1.08,
       "series": [
         10739.0,
         10708.3,
@@ -172,7 +172,7 @@
         10724.9,
         10840.4,
         10881.9,
-        10752.37
+        10764.69
       ],
       "dates": [
         "2026-09-21",
@@ -202,8 +202,8 @@
   "stocks": [
     {
       "symbol": "PLTR",
-      "price": 196.56,
-      "change": 5.66,
+      "price": 196.06,
+      "change": 5.39,
       "series": [
         183.09,
         184.99,
@@ -225,7 +225,7 @@
         200.97,
         200.5,
         186.03,
-        196.56
+        196.06
       ],
       "dates": [
         "2026-09-21",
@@ -253,8 +253,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 262.57,
-      "change": 5.03,
+      "price": 262.72,
+      "change": 5.09,
       "series": [
         258.45,
         254.98,
@@ -276,7 +276,7 @@
         254.08,
         254.76,
         250.0,
-        262.57
+        262.72
       ],
       "dates": [
         "2026-09-21",
@@ -304,8 +304,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 553.81,
-      "change": 4.74,
+      "price": 549.09,
+      "change": 3.85,
       "series": [
         615.52,
         623.77,
@@ -327,7 +327,7 @@
         570.82,
         562.23,
         528.75,
-        553.81
+        549.09
       ],
       "dates": [
         "2026-09-21",
@@ -355,8 +355,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 367.52,
-      "change": 3.61,
+      "price": 367.82,
+      "change": 3.69,
       "series": [
         375.3,
         378.9,
@@ -378,7 +378,7 @@
         367.16,
         362.44,
         354.72,
-        367.52
+        367.82
       ],
       "dates": [
         "2026-09-21",
@@ -406,8 +406,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 339.85,
-      "change": 3.38,
+      "price": 338.96,
+      "change": 3.11,
       "series": [
         362.66,
         364.54,
@@ -429,7 +429,7 @@
         346.25,
         344.33,
         328.75,
-        339.85
+        338.96
       ],
       "dates": [
         "2026-09-21",
@@ -457,8 +457,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 426.13,
-      "change": 3.28,
+      "price": 424.74,
+      "change": 2.94,
       "series": [
         445.14,
         452.0,
@@ -480,7 +480,7 @@
         430.0,
         422.25,
         412.61,
-        426.14
+        424.74
       ],
       "dates": [
         "2026-09-21",
@@ -508,8 +508,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 219.23,
-      "change": 2.38,
+      "price": 219.42,
+      "change": 2.47,
       "series": [
         227.38,
         228.87,
@@ -531,7 +531,7 @@
         221.3,
         217.23,
         214.13,
-        219.23
+        219.42
       ],
       "dates": [
         "2026-09-21",
@@ -559,8 +559,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 130.86,
-      "change": 2.05,
+      "price": 130.62,
+      "change": 1.87,
       "series": [
         148.56,
         149.2,
@@ -582,7 +582,7 @@
         130.55,
         134.47,
         128.23,
-        130.86
+        130.62
       ],
       "dates": [
         "2026-09-21",
@@ -610,8 +610,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 345.95,
-      "change": 1.57,
+      "price": 345.05,
+      "change": 1.31,
       "series": [
         354.97,
         351.16,
@@ -633,7 +633,7 @@
         347.64,
         349.22,
         340.59,
-        345.95
+        345.05
       ],
       "dates": [
         "2026-09-21",
@@ -661,8 +661,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 535.34,
-      "change": 1.19,
+      "price": 533.89,
+      "change": 0.92,
       "series": [
         501.61,
         498.0,
@@ -684,7 +684,7 @@
         533.69,
         539.44,
         529.05,
-        535.34
+        533.9
       ],
       "dates": [
         "2026-09-21",
@@ -712,8 +712,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 342.8,
-      "change": -0.19,
+      "price": 341.43,
+      "change": -0.59,
       "series": [
         338.98,
         339.75,
@@ -735,7 +735,7 @@
         342.96,
         342.0,
         343.46,
-        342.8
+        341.43
       ],
       "dates": [
         "2026-09-21",
@@ -763,8 +763,8 @@
     },
     {
       "symbol": "META",
-      "price": 703.72,
-      "change": -0.79,
+      "price": 702.56,
+      "change": -0.95,
       "series": [
         741.25,
         736.6,
@@ -786,7 +786,7 @@
         737.54,
         736.72,
         709.33,
-        703.72
+        702.56
       ],
       "dates": [
         "2026-09-21",
@@ -909,6 +909,80 @@
   ],
   "markets": [
     {
+      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "France and the U.S. share the same debt trap. Why the U.S. has an escape valve.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018My husband suffered a massive stroke at 53\u2019: I\u2019m 64 and will rent for the rest of my life \u2014 but I\u2019m still hopeful",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
       "summary": "",
       "source": "CNBC",
@@ -923,86 +997,8 @@
       "tags": [
         "Nvidia"
       ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
-      "tags": []
-    },
-    {
-      "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
-      "tags": []
-    },
-    {
-      "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
-      "tags": []
-    },
-    {
-      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
-      "tags": []
-    },
-    {
-      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-      "tags": []
-    },
-    {
-      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-      "tags": [
-        "Earnings"
-      ]
     }
   ],
-  "updated": "19 Oct 2026, 15:39 UTC",
-  "updated_iso": "2026-10-19T15:39:54.308107+00:00"
+  "updated": "19 Oct 2026, 16:11 UTC",
+  "updated_iso": "2026-10-19T16:11:18.183152+00:00"
 }
