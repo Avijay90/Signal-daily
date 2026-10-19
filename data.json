@@ -815,13 +815,6 @@
   ],
   "ai": [
     {
-      "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "tags": []
-    },
-    {
       "title": "Jev is Vercel\u2019s fastest-adopted AI model ever",
       "summary": "",
       "source": "TechCrunch",
@@ -911,6 +904,15 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
       "tags": []
+    },
+    {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "tags": [
+        "Nvidia"
+      ]
     }
   ],
   "markets": [
@@ -1009,6 +1011,6 @@
       ]
     }
   ],
-  "updated": "19 Oct 2026, 22:17 UTC",
-  "updated_iso": "2026-10-19T22:17:00.936923+00:00"
+  "updated": "19 Oct 2026, 22:53 UTC",
+  "updated_iso": "2026-10-19T22:53:02.824070+00:00"
 }
