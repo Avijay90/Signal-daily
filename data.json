@@ -847,13 +847,6 @@
   ],
   "ai": [
     {
-      "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "tags": []
-    },
-    {
       "title": "Tolan snags $30M for its AI companion that helps users navigate life",
       "summary": "",
       "source": "TechCrunch",
@@ -909,6 +902,13 @@
       "tags": []
     },
     {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "tags": []
+    },
+    {
       "title": "Otter.ai raises $320 million from General Catalyst\u2019s growth fund for its meeting tool",
       "summary": "",
       "source": "TechCrunch",
@@ -916,13 +916,6 @@
       "tags": [
         "Funding"
       ]
-    },
-    {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "tags": []
     },
     {
       "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
@@ -936,6 +929,13 @@
       "summary": "",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "tags": []
+    },
+    {
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
       "tags": []
     }
   ],
@@ -1036,6 +1036,6 @@
       ]
     }
   ],
-  "updated": "20 Oct 2026, 21:08 UTC",
-  "updated_iso": "2026-10-20T21:08:31.561731+00:00"
+  "updated": "20 Oct 2026, 21:38 UTC",
+  "updated_iso": "2026-10-20T21:38:03.647529+00:00"
 }
