@@ -262,32 +262,32 @@
       ]
     },
     {
-      "symbol": "TSM",
-      "price": 425.29,
-      "change": 1.21,
+      "symbol": "ORCL",
+      "price": 131.14,
+      "change": 1.2,
       "series": [
-        445.14,
-        452.0,
-        446.57,
-        451.15,
-        450.61,
-        452.88,
-        456.94,
-        456.19,
-        459.2,
-        472.78,
-        485.8,
-        482.3,
-        472.2,
-        457.99,
-        453.31,
-        444.35,
-        445.12,
-        430.0,
-        422.25,
-        412.61,
-        420.22,
-        425.29
+        148.56,
+        149.2,
+        144.56,
+        139.54,
+        137.1,
+        132.6,
+        137.79,
+        137.3,
+        138.07,
+        142.3,
+        142.48,
+        144.77,
+        143.56,
+        135.69,
+        141.4,
+        137.39,
+        143.2,
+        130.55,
+        134.47,
+        128.23,
+        129.59,
+        131.14
       ],
       "dates": [
         "2026-09-21",
@@ -315,32 +315,32 @@
       ]
     },
     {
-      "symbol": "ORCL",
-      "price": 131.09,
+      "symbol": "TSM",
+      "price": 425.08,
       "change": 1.16,
       "series": [
-        148.56,
-        149.2,
-        144.56,
-        139.54,
-        137.1,
-        132.6,
-        137.79,
-        137.3,
-        138.07,
-        142.3,
-        142.48,
-        144.77,
-        143.56,
-        135.69,
-        141.4,
-        137.39,
-        143.2,
-        130.55,
-        134.47,
-        128.23,
-        129.59,
-        131.09
+        445.14,
+        452.0,
+        446.57,
+        451.15,
+        450.61,
+        452.88,
+        456.94,
+        456.19,
+        459.2,
+        472.78,
+        485.8,
+        482.3,
+        472.2,
+        457.99,
+        453.31,
+        444.35,
+        445.12,
+        430.0,
+        422.25,
+        412.61,
+        420.22,
+        425.08
       ],
       "dates": [
         "2026-09-21",
@@ -847,13 +847,6 @@
   ],
   "ai": [
     {
-      "title": "People are using AI to make their smart TVs dumb again",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "tags": []
-    },
-    {
       "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
       "summary": "",
       "source": "TechCrunch",
@@ -926,13 +919,6 @@
       "tags": []
     },
     {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "tags": []
-    },
-    {
       "title": "Otter.ai raises $320 million from General Catalyst\u2019s growth fund for its meeting tool",
       "summary": "",
       "source": "TechCrunch",
@@ -940,6 +926,20 @@
       "tags": [
         "Funding"
       ]
+    },
+    {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "tags": []
+    },
+    {
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "tags": []
     }
   ],
   "markets": [
@@ -1039,6 +1039,6 @@
       "tags": []
     }
   ],
-  "updated": "20 Oct 2026, 20:06 UTC",
-  "updated_iso": "2026-10-20T20:06:09.694991+00:00"
+  "updated": "20 Oct 2026, 20:39 UTC",
+  "updated_iso": "2026-10-20T20:39:13.482914+00:00"
 }
