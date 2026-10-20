@@ -107,8 +107,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "64,287.45",
-      "change": -1.59,
+      "value": "64,034.49",
+      "change": -1.97,
       "series": [
         65513.99,
         66364.2,
@@ -126,7 +126,7 @@
         67744.29,
         64425.95,
         65324.29,
-        64287.45
+        64034.49
       ],
       "dates": [
         "2026-09-24",
@@ -791,13 +791,6 @@
   ],
   "ai": [
     {
-      "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "tags": []
-    },
-    {
       "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
       "summary": "",
       "source": "TechCrunch",
@@ -889,100 +882,104 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
       "tags": []
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "tags": [
+        "Nvidia",
+        "Funding"
+      ]
     }
   ],
   "markets": [
     {
-      "title": "Retiring abroad? Don\u2019t cut these financial ties to the U.S.",
+      "title": "What are your rights on auto-renew subscriptions?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
+      "title": "NI company in talks to save Poundland from administration",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+      "title": "'I'd spend $1,000 on a wedding present'",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "SpaceX earnings will be all about AI \u2014 for better or for worse",
+      "title": "What are the new faces coming to UK bank notes?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "Micron and other chip stocks spring back to life after bruising selloff",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life \u2014 but here\u2019s I\u2019m still hopeful",
+      "title": "Why Gen Z are planning for life without a state pension",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
+      "title": "Why the UK is dithering over what to do about e-scooters",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "When should you dump your target-date funds?",
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Blood clots are \u2018incredibly common,\u2019 even for pro athletes like Jalen Hurts. Here\u2019s what to know.",
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "This Chinese memory chip maker has global potential and is poised to outperform",
+      "title": "My hometown shows that high streets have to change or die",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html",
-      "tags": [
-        "Nvidia"
-      ]
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
+      "title": "Gleaning group gives \u00a31m of produce to food banks",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Charities 'busier than ever' with furniture poverty",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "20 Oct 2026, 00:58 UTC",
-  "updated_iso": "2026-10-20T00:58:20.438293+00:00"
+  "updated": "20 Oct 2026, 01:29 UTC",
+  "updated_iso": "2026-10-20T01:29:02.163093+00:00"
 }
