@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,707.93",
-      "change": 0.22,
+      "value": "7,721.96",
+      "change": 0.41,
       "series": [
         7764.7,
         7764.64,
@@ -27,7 +27,7 @@
         7744.06,
         7659.44,
         7690.73,
-        7707.93
+        7721.96
       ],
       "dates": [
         "2026-09-21",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,430.32",
-      "change": -0.0,
+      "value": "26,487.96",
+      "change": 0.22,
       "series": [
         27122.09,
         27244.28,
@@ -81,7 +81,7 @@
         26713.03,
         26140.03,
         26430.89,
-        26430.32
+        26487.96
       ],
       "dates": [
         "2026-09-21",
@@ -155,8 +155,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,747.96",
-      "change": -0.16,
+      "value": "10,731.86",
+      "change": -0.31,
       "series": [
         10739.0,
         10708.3,
@@ -179,7 +179,7 @@
         10840.4,
         10881.9,
         10764.7,
-        10747.96
+        10731.86
       ],
       "dates": [
         "2026-09-21",
@@ -211,7 +211,7 @@
     {
       "symbol": "ORCL",
       "price": 132.72,
-      "change": 2.42,
+      "change": 2.41,
       "series": [
         148.56,
         149.2,
@@ -234,7 +234,7 @@
         134.47,
         128.23,
         129.59,
-        132.72
+        132.71
       ],
       "dates": [
         "2026-09-21",
@@ -263,8 +263,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 374.48,
-      "change": 1.74,
+      "price": 374.14,
+      "change": 1.65,
       "series": [
         375.3,
         378.9,
@@ -287,7 +287,7 @@
         362.44,
         354.72,
         368.06,
-        374.48
+        374.14
       ],
       "dates": [
         "2026-09-21",
@@ -316,8 +316,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 424.86,
-      "change": 1.1,
+      "price": 426.94,
+      "change": 1.6,
       "series": [
         445.14,
         452.0,
@@ -340,7 +340,7 @@
         422.25,
         412.61,
         420.22,
-        424.86
+        426.94
       ],
       "dates": [
         "2026-09-21",
@@ -369,8 +369,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 540.17,
-      "change": 0.39,
+      "price": 540.94,
+      "change": 0.54,
       "series": [
         615.52,
         623.77,
@@ -393,7 +393,7 @@
         562.23,
         528.75,
         538.05,
-        540.17
+        540.94
       ],
       "dates": [
         "2026-09-21",
@@ -422,8 +422,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 262.81,
-      "change": 0.14,
+      "price": 263.39,
+      "change": 0.36,
       "series": [
         258.45,
         254.98,
@@ -446,7 +446,7 @@
         254.76,
         250.0,
         262.45,
-        262.81
+        263.39
       ],
       "dates": [
         "2026-09-21",
@@ -475,8 +475,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 334.99,
-      "change": 0.12,
+      "price": 335.71,
+      "change": 0.33,
       "series": [
         362.66,
         364.54,
@@ -499,7 +499,7 @@
         344.33,
         328.75,
         334.59,
-        334.99
+        335.71
       ],
       "dates": [
         "2026-09-21",
@@ -528,8 +528,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 194.26,
-      "change": 0.06,
+      "price": 194.6,
+      "change": 0.23,
       "series": [
         183.09,
         184.99,
@@ -552,7 +552,7 @@
         200.5,
         186.03,
         194.15,
-        194.26
+        194.6
       ],
       "dates": [
         "2026-09-21",
@@ -581,8 +581,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 216.37,
-      "change": -0.33,
+      "price": 217.06,
+      "change": -0.01,
       "series": [
         227.38,
         228.87,
@@ -605,60 +605,7 @@
         217.23,
         214.13,
         217.09,
-        216.37
-      ],
-      "dates": [
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20"
-      ]
-    },
-    {
-      "symbol": "GOOGL",
-      "price": 341.75,
-      "change": -0.71,
-      "series": [
-        354.97,
-        351.16,
-        337.83,
-        342.36,
-        343.92,
-        342.75,
-        340.92,
-        344.08,
-        338.24,
-        343.5,
-        346.47,
-        347.68,
-        350.5,
-        348.29,
-        351.66,
-        352.72,
-        353.78,
-        347.64,
-        349.22,
-        340.59,
-        344.18,
-        341.75
+        217.06
       ],
       "dates": [
         "2026-09-21",
@@ -687,8 +634,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 529.48,
-      "change": -0.76,
+      "price": 531.6,
+      "change": -0.36,
       "series": [
         501.61,
         498.0,
@@ -711,7 +658,60 @@
         539.44,
         529.05,
         533.52,
-        529.48
+        531.59
+      ],
+      "dates": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20"
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 341.87,
+      "change": -0.67,
+      "series": [
+        354.97,
+        351.16,
+        337.83,
+        342.36,
+        343.92,
+        342.75,
+        340.92,
+        344.08,
+        338.24,
+        343.5,
+        346.47,
+        347.68,
+        350.5,
+        348.29,
+        351.66,
+        352.72,
+        353.78,
+        347.64,
+        349.22,
+        340.59,
+        344.18,
+        341.87
       ],
       "dates": [
         "2026-09-21",
@@ -740,8 +740,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 339.64,
-      "change": -0.96,
+      "price": 340.59,
+      "change": -0.69,
       "series": [
         338.98,
         339.75,
@@ -764,7 +764,7 @@
         342.0,
         343.46,
         342.94,
-        339.64
+        340.59
       ],
       "dates": [
         "2026-09-21",
@@ -793,8 +793,8 @@
     },
     {
       "symbol": "META",
-      "price": 691.58,
-      "change": -1.96,
+      "price": 693.66,
+      "change": -1.67,
       "series": [
         741.25,
         736.6,
@@ -817,7 +817,7 @@
         736.72,
         709.33,
         705.44,
-        691.58
+        693.66
       ],
       "dates": [
         "2026-09-21",
@@ -946,90 +946,103 @@
   ],
   "markets": [
     {
-      "title": "Meet the college students trying to reverse an obscure ban on trading onion futures",
+      "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/meet-the-college-students-trying-to-reverse-an-obscure-ban-on-trading-onion-futures-16b8dc5d?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
       "tags": []
     },
     {
-      "title": "My unmarried partner of 17 years left me his $1.1 million home. His children are crying foul. Should I share my inheritance?",
+      "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
       "tags": []
     },
     {
-      "title": "Salesforce gets a chilly investor response to a $6 billion deal at a 58% premium",
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
       "tags": []
     },
     {
-      "title": "Money-saving habits to cope with higher prices \u2014 from our readers",
+      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
       "tags": []
     },
     {
-      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life \u2014 but here\u2019s why I\u2019m still hopeful",
+      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
       "tags": []
     },
     {
-      "title": "Should you dump your target-date funds when you retire?",
+      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "China's exports and imports surge past expectations in September",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
       "tags": []
     },
     {
-      "title": "Here\u2019s why GM\u2019s stock is having its worst day in over a year",
+      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-why-gms-stock-is-having-its-worst-day-in-over-a-year-072c4366?mod=mw_rss_topstories",
-      "tags": []
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "tags": [
+        "Regulation",
+        "Earnings"
+      ]
     },
     {
-      "title": "Is your annuity really guaranteed? Read this before you buy one.",
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-your-annuity-really-guaranteed-read-this-before-you-buy-one-4664fc44?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "What are your rights on auto-renew subscriptions?",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "NI company in talks to save Poundland from administration",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
-      "tags": []
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "tags": [
+        "Earnings"
+      ]
     }
   ],
-  "updated": "20 Oct 2026, 15:14 UTC",
-  "updated_iso": "2026-10-20T15:14:08.721322+00:00"
+  "updated": "20 Oct 2026, 15:44 UTC",
+  "updated_iso": "2026-10-20T15:44:17.727849+00:00"
 }
