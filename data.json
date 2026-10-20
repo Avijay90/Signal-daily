@@ -847,16 +847,6 @@
   ],
   "ai": [
     {
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "tags": [
-        "Nvidia",
-        "Funding"
-      ]
-    },
-    {
       "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
       "summary": "",
       "source": "TechCrunch",
@@ -940,18 +930,16 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
       "tags": []
+    },
+    {
+      "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
     {
       "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
       "summary": "",
@@ -1037,8 +1025,17 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
       "tags": []
+    },
+    {
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "tags": [
+        "Anthropic"
+      ]
     }
   ],
-  "updated": "20 Oct 2026, 20:39 UTC",
-  "updated_iso": "2026-10-20T20:39:13.482914+00:00"
+  "updated": "20 Oct 2026, 21:08 UTC",
+  "updated_iso": "2026-10-20T21:08:31.561731+00:00"
 }
