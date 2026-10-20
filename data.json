@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,706.10",
-      "change": 0.2,
+      "value": "7,712.57",
+      "change": 0.28,
       "series": [
         7764.7,
         7764.64,
@@ -27,7 +27,7 @@
         7744.06,
         7659.44,
         7690.73,
-        7706.1
+        7712.57
       ],
       "dates": [
         "2026-09-21",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,401.96",
-      "change": -0.11,
+      "value": "26,424.82",
+      "change": -0.02,
       "series": [
         27122.09,
         27244.28,
@@ -81,7 +81,7 @@
         26713.03,
         26140.03,
         26430.89,
-        26401.96
+        26424.82
       ],
       "dates": [
         "2026-09-21",
@@ -210,8 +210,8 @@
   "stocks": [
     {
       "symbol": "TSLA",
-      "price": 375.08,
-      "change": 1.91,
+      "price": 373.71,
+      "change": 1.54,
       "series": [
         375.3,
         378.9,
@@ -234,60 +234,7 @@
         362.44,
         354.72,
         368.06,
-        375.08
-      ],
-      "dates": [
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20"
-      ]
-    },
-    {
-      "symbol": "ORCL",
-      "price": 131.23,
-      "change": 1.27,
-      "series": [
-        148.56,
-        149.2,
-        144.56,
-        139.54,
-        137.1,
-        132.6,
-        137.79,
-        137.3,
-        138.07,
-        142.3,
-        142.48,
-        144.77,
-        143.56,
-        135.69,
-        141.4,
-        137.39,
-        143.2,
-        130.55,
-        134.47,
-        128.23,
-        129.59,
-        131.23
+        373.71
       ],
       "dates": [
         "2026-09-21",
@@ -316,8 +263,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 424.68,
-      "change": 1.06,
+      "price": 425.29,
+      "change": 1.21,
       "series": [
         445.14,
         452.0,
@@ -340,7 +287,7 @@
         422.25,
         412.61,
         420.22,
-        424.68
+        425.29
       ],
       "dates": [
         "2026-09-21",
@@ -368,32 +315,32 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "price": 537.93,
-      "change": -0.02,
+      "symbol": "ORCL",
+      "price": 131.09,
+      "change": 1.16,
       "series": [
-        615.52,
-        623.77,
-        614.61,
-        629.26,
-        630.63,
-        607.87,
-        607.57,
-        611.76,
-        615.73,
-        633.91,
-        631.75,
-        649.42,
-        645.86,
-        620.68,
-        608.1,
-        594.24,
-        605.53,
-        570.82,
-        562.23,
-        528.75,
-        538.05,
-        537.93
+        148.56,
+        149.2,
+        144.56,
+        139.54,
+        137.1,
+        132.6,
+        137.79,
+        137.3,
+        138.07,
+        142.3,
+        142.48,
+        144.77,
+        143.56,
+        135.69,
+        141.4,
+        137.39,
+        143.2,
+        130.55,
+        134.47,
+        128.23,
+        129.59,
+        131.09
       ],
       "dates": [
         "2026-09-21",
@@ -422,8 +369,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 262.28,
-      "change": -0.06,
+      "price": 262.63,
+      "change": 0.07,
       "series": [
         258.45,
         254.98,
@@ -446,7 +393,7 @@
         254.76,
         250.0,
         262.45,
-        262.28
+        262.63
       ],
       "dates": [
         "2026-09-21",
@@ -475,8 +422,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 334.39,
-      "change": -0.06,
+      "price": 334.37,
+      "change": -0.07,
       "series": [
         362.66,
         364.54,
@@ -499,7 +446,7 @@
         344.33,
         328.75,
         334.59,
-        334.39
+        334.37
       ],
       "dates": [
         "2026-09-21",
@@ -528,8 +475,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 216.28,
-      "change": -0.37,
+      "price": 216.47,
+      "change": -0.29,
       "series": [
         227.38,
         228.87,
@@ -552,7 +499,7 @@
         217.23,
         214.13,
         217.09,
-        216.28
+        216.47
       ],
       "dates": [
         "2026-09-21",
@@ -581,8 +528,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 530.59,
-      "change": -0.55,
+      "price": 531.87,
+      "change": -0.31,
       "series": [
         501.61,
         498.0,
@@ -605,7 +552,60 @@
         539.44,
         529.05,
         533.52,
-        530.59
+        531.87
+      ],
+      "dates": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20"
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "price": 534.74,
+      "change": -0.62,
+      "series": [
+        615.52,
+        623.77,
+        614.61,
+        629.26,
+        630.63,
+        607.87,
+        607.57,
+        611.76,
+        615.73,
+        633.91,
+        631.75,
+        649.42,
+        645.86,
+        620.68,
+        608.1,
+        594.24,
+        605.53,
+        570.82,
+        562.23,
+        528.75,
+        538.05,
+        534.74
       ],
       "dates": [
         "2026-09-21",
@@ -634,8 +634,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 193.06,
-      "change": -0.56,
+      "price": 192.6,
+      "change": -0.8,
       "series": [
         183.09,
         184.99,
@@ -658,7 +658,7 @@
         200.5,
         186.03,
         194.15,
-        193.05
+        192.6
       ],
       "dates": [
         "2026-09-21",
@@ -687,8 +687,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 339.05,
-      "change": -1.13,
+      "price": 339.5,
+      "change": -1.0,
       "series": [
         338.98,
         339.75,
@@ -711,7 +711,7 @@
         342.0,
         343.46,
         342.94,
-        339.05
+        339.5
       ],
       "dates": [
         "2026-09-21",
@@ -740,8 +740,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 339.01,
-      "change": -1.5,
+      "price": 340.27,
+      "change": -1.13,
       "series": [
         354.97,
         351.16,
@@ -764,7 +764,7 @@
         349.22,
         340.59,
         344.18,
-        339.01
+        340.27
       ],
       "dates": [
         "2026-09-21",
@@ -793,8 +793,8 @@
     },
     {
       "symbol": "META",
-      "price": 688.5,
-      "change": -2.4,
+      "price": 694.25,
+      "change": -1.59,
       "series": [
         741.25,
         736.6,
@@ -817,7 +817,7 @@
         736.72,
         709.33,
         705.44,
-        688.5
+        694.25
       ],
       "dates": [
         "2026-09-21",
@@ -926,6 +926,13 @@
       "tags": []
     },
     {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "tags": []
+    },
+    {
       "title": "Otter.ai raises $320 million from General Catalyst\u2019s growth fund for its meeting tool",
       "summary": "",
       "source": "TechCrunch",
@@ -933,90 +940,9 @@
       "tags": [
         "Funding"
       ]
-    },
-    {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "It\u2019s no secret what the best financial advice for retirement is \u2014 but most people ignore it anyway",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "It\u2019s not just California\u2019s billionaire tax. Wealth is on the ballot in the midterm elections.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life \u2014 but here\u2019s why I\u2019m still hopeful",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Investors\u2019 search for safety has made toothpaste stocks more expensive than tech",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Here\u2019s what matters most to Tesla investors heading into earnings",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories",
-      "tags": [
-        "Anthropic"
-      ]
-    },
     {
       "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
       "summary": "",
@@ -1032,8 +958,87 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
       "tags": []
+    },
+    {
+      "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+      "tags": []
+    },
+    {
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+      "tags": []
+    },
+    {
+      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+      "tags": []
+    },
+    {
+      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "China's exports and imports surge past expectations in September",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+      "tags": []
+    },
+    {
+      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "tags": [
+        "Regulation",
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
+      "tags": []
     }
   ],
-  "updated": "20 Oct 2026, 19:40 UTC",
-  "updated_iso": "2026-10-20T19:40:32.123581+00:00"
+  "updated": "20 Oct 2026, 20:06 UTC",
+  "updated_iso": "2026-10-20T20:06:09.694991+00:00"
 }
