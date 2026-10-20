@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,712.46",
-      "change": 0.28,
+      "value": "7,722.48",
+      "change": 0.41,
       "series": [
         7764.7,
         7764.64,
@@ -27,7 +27,7 @@
         7744.06,
         7659.44,
         7690.73,
-        7712.46
+        7722.48
       ],
       "dates": [
         "2026-09-21",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,445.47",
-      "change": 0.06,
+      "value": "26,486.82",
+      "change": 0.21,
       "series": [
         27122.09,
         27244.28,
@@ -81,7 +81,7 @@
         26713.03,
         26140.03,
         26430.89,
-        26445.46
+        26486.82
       ],
       "dates": [
         "2026-09-21",
@@ -210,8 +210,8 @@
   "stocks": [
     {
       "symbol": "ORCL",
-      "price": 132.04,
-      "change": 1.89,
+      "price": 132.09,
+      "change": 1.93,
       "series": [
         148.56,
         149.2,
@@ -234,7 +234,7 @@
         134.47,
         128.23,
         129.59,
-        132.04
+        132.09
       ],
       "dates": [
         "2026-09-21",
@@ -263,8 +263,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 374.04,
-      "change": 1.62,
+      "price": 374.49,
+      "change": 1.75,
       "series": [
         375.3,
         378.9,
@@ -287,7 +287,7 @@
         362.44,
         354.72,
         368.06,
-        374.04
+        374.49
       ],
       "dates": [
         "2026-09-21",
@@ -316,8 +316,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 426.67,
-      "change": 1.53,
+      "price": 426.81,
+      "change": 1.57,
       "series": [
         445.14,
         452.0,
@@ -340,7 +340,7 @@
         422.25,
         412.61,
         420.22,
-        426.67
+        426.82
       ],
       "dates": [
         "2026-09-21",
@@ -369,8 +369,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 539.1,
-      "change": 0.2,
+      "price": 540.84,
+      "change": 0.52,
       "series": [
         615.52,
         623.77,
@@ -393,7 +393,7 @@
         562.23,
         528.75,
         538.05,
-        539.1
+        540.84
       ],
       "dates": [
         "2026-09-21",
@@ -422,8 +422,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 194.46,
-      "change": 0.16,
+      "price": 195.04,
+      "change": 0.46,
       "series": [
         183.09,
         184.99,
@@ -446,7 +446,7 @@
         200.5,
         186.03,
         194.15,
-        194.46
+        195.04
       ],
       "dates": [
         "2026-09-21",
@@ -475,8 +475,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 262.77,
-      "change": 0.12,
+      "price": 263.21,
+      "change": 0.29,
       "series": [
         258.45,
         254.98,
@@ -499,7 +499,7 @@
         254.76,
         250.0,
         262.45,
-        262.77
+        263.21
       ],
       "dates": [
         "2026-09-21",
@@ -528,8 +528,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 334.6,
-      "change": 0.0,
+      "price": 334.96,
+      "change": 0.11,
       "series": [
         362.66,
         364.54,
@@ -552,60 +552,7 @@
         344.33,
         328.75,
         334.59,
-        334.6
-      ],
-      "dates": [
-        "2026-09-21",
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20"
-      ]
-    },
-    {
-      "symbol": "NVDA",
-      "price": 216.8,
-      "change": -0.13,
-      "series": [
-        227.38,
-        228.87,
-        225.51,
-        224.58,
-        225.07,
-        228.86,
-        227.21,
-        228.38,
-        230.86,
-        233.95,
-        238.9,
-        239.24,
-        237.47,
-        230.48,
-        229.28,
-        226.32,
-        228.52,
-        221.3,
-        217.23,
-        214.13,
-        217.09,
-        216.8
+        334.96
       ],
       "dates": [
         "2026-09-21",
@@ -634,8 +581,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 532.03,
-      "change": -0.28,
+      "price": 534.03,
+      "change": 0.1,
       "series": [
         501.61,
         498.0,
@@ -658,7 +605,60 @@
         539.44,
         529.05,
         533.52,
-        532.03
+        534.03
+      ],
+      "dates": [
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20"
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "price": 217.12,
+      "change": 0.01,
+      "series": [
+        227.38,
+        228.87,
+        225.51,
+        224.58,
+        225.07,
+        228.86,
+        227.21,
+        228.38,
+        230.86,
+        233.95,
+        238.9,
+        239.24,
+        237.47,
+        230.48,
+        229.28,
+        226.32,
+        228.52,
+        221.3,
+        217.23,
+        214.13,
+        217.09,
+        217.12
       ],
       "dates": [
         "2026-09-21",
@@ -687,8 +687,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 340.56,
-      "change": -0.69,
+      "price": 340.48,
+      "change": -0.72,
       "series": [
         338.98,
         339.75,
@@ -711,7 +711,7 @@
         342.0,
         343.46,
         342.94,
-        340.56
+        340.48
       ],
       "dates": [
         "2026-09-21",
@@ -740,8 +740,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 341.0,
-      "change": -0.92,
+      "price": 341.38,
+      "change": -0.81,
       "series": [
         354.97,
         351.16,
@@ -764,7 +764,7 @@
         349.22,
         340.59,
         344.18,
-        341.01
+        341.38
       ],
       "dates": [
         "2026-09-21",
@@ -793,8 +793,8 @@
     },
     {
       "symbol": "META",
-      "price": 690.01,
-      "change": -2.19,
+      "price": 691.5,
+      "change": -1.98,
       "series": [
         741.25,
         736.6,
@@ -817,7 +817,7 @@
         736.72,
         709.33,
         705.44,
-        690.01
+        691.5
       ],
       "dates": [
         "2026-09-21",
@@ -846,13 +846,6 @@
     }
   ],
   "ai": [
-    {
-      "title": "Disney agrees to hire the majority of Character AI\u2019s workforce",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "tags": []
-    },
     {
       "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
       "summary": "",
@@ -940,96 +933,103 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
       "tags": []
+    },
+    {
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "tags": [
+        "Anthropic"
+      ]
     }
   ],
   "markets": [
     {
-      "title": "Here\u2019s why GM\u2019s stock is having its worst day in over a year",
+      "title": "What are your rights on auto-renew subscriptions?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-why-gms-stock-is-having-its-worst-day-in-over-a-year-072c4366?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Is your annuity really guaranteed? Read this before you buy one.",
+      "title": "NI company in talks to save Poundland from administration",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-your-annuity-really-guaranteed-read-this-before-you-buy-one-4664fc44?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
+      "title": "'I'd spend $1,000 on a wedding present'",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath",
+      "title": "What are the new faces coming to UK bank notes?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Salesforce\u2019s stock falls as investors chafe at the cost of latest AI purchase",
+      "title": "Why Gen Z are planning for life without a state pension",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
+      "title": "Why the UK is dithering over what to do about e-scooters",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "It\u2019s no secret what the best financial advice for retirement is \u2014 but most people ignore it anyway",
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "title": "My hometown shows that high streets have to change or die",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "It\u2019s not just California\u2019s billionaire tax. Wealth is on the ballot in the midterm elections.",
+      "title": "Charities 'busier than ever' with furniture poverty",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "title": "Home sellers cut asking prices on 3,000 properties a day",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-      "tags": [
-        "Rates & Fed"
-      ]
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+      "tags": []
     },
     {
-      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
+      "title": "Food aid charity under pressure from fuel costs",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqy0rxw37x2eo?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "20 Oct 2026, 16:58 UTC",
-  "updated_iso": "2026-10-20T16:58:28.929771+00:00"
+  "updated": "20 Oct 2026, 17:41 UTC",
+  "updated_iso": "2026-10-20T17:41:31.680493+00:00"
 }
