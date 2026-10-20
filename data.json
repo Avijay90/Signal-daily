@@ -902,13 +902,6 @@
       "tags": []
     },
     {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "tags": []
-    },
-    {
       "title": "Otter.ai raises $320 million from General Catalyst\u2019s growth fund for its meeting tool",
       "summary": "",
       "source": "TechCrunch",
@@ -916,6 +909,13 @@
       "tags": [
         "Funding"
       ]
+    },
+    {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "tags": []
     },
     {
       "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
@@ -1036,6 +1036,6 @@
       ]
     }
   ],
-  "updated": "20 Oct 2026, 21:38 UTC",
-  "updated_iso": "2026-10-20T21:38:03.647529+00:00"
+  "updated": "20 Oct 2026, 22:08 UTC",
+  "updated_iso": "2026-10-20T22:08:10.737805+00:00"
 }
