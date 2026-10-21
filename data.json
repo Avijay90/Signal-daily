@@ -159,8 +159,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,732.12",
-      "change": -0.01,
+      "value": "10,738.04",
+      "change": 0.05,
       "series": [
         10708.3,
         10705.3,
@@ -183,7 +183,7 @@
         10881.9,
         10764.7,
         10733.0,
-        10732.12
+        10738.04
       ],
       "dates": [
         "2026-09-22",
@@ -947,28 +947,7 @@
   ],
   "markets": [
     {
-      "title": "Tesla\u2019s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Super Micro\u2019s stock soars after surprise update \u2014 with Dell and HPE shares joining the rally",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Bull markets tend to peak with a whimper, not a bang \u2014 but a 15% correction for the S&P 500 may be next",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "AI stocks are probably in a bubble \u2014 but might be worth holding onto, says Citadel\u2019s Ken Griffin",
+      "title": "AI stocks are probably in a bubble \u2014 but might be worth holding on to, says Citadel\u2019s Ken Griffin",
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
@@ -1021,6 +1000,29 @@
       "tags": []
     },
     {
+      "title": "AT&T shrugs off SpaceX fears with its own large haul of new internet subscribers",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/at-t-shrugs-off-spacex-fears-with-its-own-large-haul-of-new-internet-subscribers-644f66a8?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Opposition to data centers will drive up inflation, says BlackRock\u2019s Larry Fink",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
       "summary": "",
       "source": "CNBC",
@@ -1035,6 +1037,6 @@
       "tags": []
     }
   ],
-  "updated": "21 Oct 2026, 10:42 UTC",
-  "updated_iso": "2026-10-21T10:42:26.818473+00:00"
+  "updated": "21 Oct 2026, 11:13 UTC",
+  "updated_iso": "2026-10-21T11:13:09.017434+00:00"
 }
