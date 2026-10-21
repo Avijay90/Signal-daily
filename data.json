@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,750.68",
-      "change": 0.49,
+      "value": "7,751.12",
+      "change": 0.5,
       "series": [
         7764.64,
         7706.03,
@@ -27,7 +27,7 @@
         7659.44,
         7690.73,
         7712.57,
-        7750.68
+        7751.12
       ],
       "dates": [
         "2026-09-22",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,713.83",
-      "change": 1.09,
+      "value": "26,701.60",
+      "change": 1.05,
       "series": [
         27244.28,
         26936.04,
@@ -81,7 +81,7 @@
         26140.03,
         26430.89,
         26424.82,
-        26713.83
+        26701.6
       ],
       "dates": [
         "2026-09-22",
@@ -157,8 +157,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,750.44",
-      "change": 0.16,
+      "value": "10,752.88",
+      "change": 0.19,
       "series": [
         10708.3,
         10705.3,
@@ -181,7 +181,7 @@
         10881.9,
         10764.7,
         10733.0,
-        10750.44
+        10752.88
       ],
       "dates": [
         "2026-09-22",
@@ -212,8 +212,8 @@
   "stocks": [
     {
       "symbol": "PLTR",
-      "price": 199.22,
-      "change": 3.44,
+      "price": 199.46,
+      "change": 3.56,
       "series": [
         184.99,
         191.79,
@@ -236,7 +236,7 @@
         186.03,
         194.15,
         192.6,
-        199.22
+        199.46
       ],
       "dates": [
         "2026-09-22",
@@ -265,8 +265,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 385.53,
-      "change": 3.16,
+      "price": 386.46,
+      "change": 3.41,
       "series": [
         378.9,
         380.12,
@@ -289,7 +289,7 @@
         354.72,
         368.06,
         373.71,
-        385.53
+        386.46
       ],
       "dates": [
         "2026-09-22",
@@ -318,8 +318,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 549.14,
-      "change": 2.69,
+      "price": 550.67,
+      "change": 2.98,
       "series": [
         623.77,
         614.61,
@@ -342,7 +342,7 @@
         528.75,
         538.05,
         534.74,
-        549.14
+        550.67
       ],
       "dates": [
         "2026-09-22",
@@ -371,8 +371,8 @@
     },
     {
       "symbol": "META",
-      "price": 711.58,
-      "change": 2.5,
+      "price": 710.85,
+      "change": 2.39,
       "series": [
         736.6,
         744.1,
@@ -395,7 +395,7 @@
         709.33,
         705.44,
         694.25,
-        711.58
+        710.85
       ],
       "dates": [
         "2026-09-22",
@@ -424,8 +424,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 220.34,
-      "change": 1.79,
+      "price": 220.46,
+      "change": 1.84,
       "series": [
         228.87,
         225.51,
@@ -448,7 +448,7 @@
         214.13,
         217.09,
         216.47,
-        220.35
+        220.46
       ],
       "dates": [
         "2026-09-22",
@@ -477,8 +477,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 344.31,
-      "change": 1.42,
+      "price": 343.65,
+      "change": 1.22,
       "series": [
         339.75,
         337.02,
@@ -501,60 +501,7 @@
         343.46,
         342.94,
         339.5,
-        344.31
-      ],
-      "dates": [
-        "2026-09-22",
-        "2026-09-23",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21"
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "price": 337.48,
-      "change": 0.93,
-      "series": [
-        364.54,
-        354.99,
-        350.36,
-        352.81,
-        349.57,
-        355.1,
-        351.19,
-        343.64,
-        355.14,
-        362.51,
-        375.81,
-        376.51,
-        360.14,
-        361.54,
-        354.73,
-        357.31,
-        346.25,
-        344.33,
-        328.75,
-        334.59,
-        334.37,
-        337.48
+        343.65
       ],
       "dates": [
         "2026-09-22",
@@ -583,8 +530,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 427.5,
-      "change": 0.57,
+      "price": 428.6,
+      "change": 0.83,
       "series": [
         452.0,
         446.57,
@@ -607,7 +554,60 @@
         412.61,
         420.22,
         425.08,
-        427.5
+        428.6
+      ],
+      "dates": [
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21"
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "price": 337.08,
+      "change": 0.81,
+      "series": [
+        364.54,
+        354.99,
+        350.36,
+        352.81,
+        349.57,
+        355.1,
+        351.19,
+        343.64,
+        355.14,
+        362.51,
+        375.81,
+        376.51,
+        360.14,
+        361.54,
+        354.73,
+        357.31,
+        346.25,
+        344.33,
+        328.75,
+        334.59,
+        334.37,
+        337.08
       ],
       "dates": [
         "2026-09-22",
@@ -636,8 +636,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 262.89,
-      "change": 0.1,
+      "price": 262.55,
+      "change": -0.03,
       "series": [
         254.98,
         249.27,
@@ -660,7 +660,7 @@
         250.0,
         262.45,
         262.63,
-        262.89
+        262.55
       ],
       "dates": [
         "2026-09-22",
@@ -689,8 +689,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 531.56,
-      "change": -0.06,
+      "price": 531.52,
+      "change": -0.07,
       "series": [
         498.0,
         500.59,
@@ -713,7 +713,7 @@
         529.05,
         533.52,
         531.87,
-        531.56
+        531.52
       ],
       "dates": [
         "2026-09-22",
@@ -742,8 +742,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 130.48,
-      "change": -0.5,
+      "price": 130.08,
+      "change": -0.81,
       "series": [
         149.2,
         144.56,
@@ -766,7 +766,7 @@
         128.23,
         129.59,
         131.14,
-        130.48
+        130.08
       ],
       "dates": [
         "2026-09-22",
@@ -795,8 +795,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 333.76,
-      "change": -1.92,
+      "price": 332.86,
+      "change": -2.18,
       "series": [
         351.16,
         337.83,
@@ -819,7 +819,7 @@
         340.59,
         344.18,
         340.28,
-        333.76
+        332.86
       ],
       "dates": [
         "2026-09-22",
@@ -945,92 +945,103 @@
   ],
   "markets": [
     {
-      "title": "NI company in talks to save Poundland from administration",
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
       "tags": []
     },
     {
-      "title": "'I'd spend $1,000 on a wedding present'",
+      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
       "tags": []
     },
     {
-      "title": "What are the new faces coming to UK bank notes?",
+      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
       "tags": []
     },
     {
-      "title": "Watch: 'We don't pay' - lawyer advises how to avoid \u00a345,000 illegal-worker fine",
+      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Why Gen Z are planning for life without a state pension",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Why the UK is dithering over what to do about e-scooters",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "My hometown shows that high streets have to change or die",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Food aid charity under pressure from fuel costs",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cqy0rxw37x2eo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
       "tags": [
         "Rates & Fed"
       ]
     },
     {
-      "title": "\u00a330 rise in payments for crisis-hit households",
+      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c59vz71kxxgzo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "China's exports and imports surge past expectations in September",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+      "tags": []
+    },
+    {
+      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "tags": [
+        "Regulation",
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
+      "tags": []
+    },
+    {
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-premarket-crwv-rklb-skhy.html",
       "tags": []
     }
   ],
-  "updated": "21 Oct 2026, 15:44 UTC",
-  "updated_iso": "2026-10-21T15:44:09.547648+00:00"
+  "updated": "21 Oct 2026, 16:15 UTC",
+  "updated_iso": "2026-10-21T16:15:51.351788+00:00"
 }
