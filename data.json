@@ -849,22 +849,6 @@
   ],
   "ai": [
     {
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "tags": []
-    },
-    {
-      "title": "Otter AI raises $320M from General Catalyst\u2019s growth fund for its meeting tool",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
       "title": "Yelp can now call on your behalf to check wait times at a restaurant",
       "summary": "",
       "source": "TechCrunch",
@@ -944,9 +928,100 @@
         "Google",
         "Nvidia"
       ]
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "tags": [
+        "OpenAI",
+        "Funding"
+      ]
+    },
+    {
+      "title": "SpaceX\u2019s AI business is beating expectations",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "tags": []
     }
   ],
   "markets": [
+    {
+      "title": "\u2018Super\u2019 El Ni\u00f1o may soon make your coffee super expensive",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/super-el-nino-risks-driving-up-the-price-of-your-caffeine-fix-bb1d58b1?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The Social Security Administration wants more babies signed up for \u2018Trump accounts.\u2019 But there\u2019s still a catch.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "SpaceX\u2019s massive AI targets will test the limits of reality",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I\u2019m crazy. Who\u2019s right?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "7 healthcare stocks that stand out as investors pay up for the sector",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "Trump says data centers should generate their own electricity \u2014 but experts say only states can mandate that",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
+      "tags": []
+    },
     {
       "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
       "summary": "",
@@ -960,91 +1035,8 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
       "tags": []
-    },
-    {
-      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-      "tags": []
-    },
-    {
-      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "China's exports and imports surge past expectations in September",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
-      "tags": []
-    },
-    {
-      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "tags": [
-        "Regulation",
-        "Earnings"
-      ]
-    },
-    {
-      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
-      "tags": []
-    },
-    {
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-premarket-crwv-rklb-skhy.html",
-      "tags": []
     }
   ],
-  "updated": "21 Oct 2026, 21:08 UTC",
-  "updated_iso": "2026-10-21T21:08:48.773519+00:00"
+  "updated": "21 Oct 2026, 21:38 UTC",
+  "updated_iso": "2026-10-21T21:38:52.343327+00:00"
 }
