@@ -161,10 +161,9 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,752.88",
-      "change": 0.19,
+      "value": "10,677.88",
+      "change": -0.7,
       "series": [
-        10708.3,
         10705.3,
         10680.0,
         10695.3,
@@ -185,10 +184,10 @@
         10881.9,
         10764.7,
         10733.0,
-        10752.9
+        10752.9,
+        10677.88
       ],
       "dates": [
-        "2026-09-22",
         "2026-09-23",
         "2026-09-24",
         "2026-09-25",
@@ -209,7 +208,8 @@
         "2026-10-16",
         "2026-10-19",
         "2026-10-20",
-        "2026-10-21"
+        "2026-10-21",
+        "2026-10-22"
       ]
     }
   ],
@@ -959,13 +959,6 @@
   ],
   "markets": [
     {
-      "title": "7 healthcare stocks that stand out as investors pay up for the sector",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
       "summary": "",
       "source": "MarketWatch",
@@ -1033,6 +1026,13 @@
       "tags": []
     },
     {
+      "title": "Top HSBC strategist has a warning for retail investors chasing the AI rally",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
       "summary": "",
       "source": "CNBC",
@@ -1047,6 +1047,6 @@
       "tags": []
     }
   ],
-  "updated": "22 Oct 2026, 06:46 UTC",
-  "updated_iso": "2026-10-22T06:46:59.503433+00:00"
+  "updated": "22 Oct 2026, 07:33 UTC",
+  "updated_iso": "2026-10-22T07:33:20.822967+00:00"
 }
