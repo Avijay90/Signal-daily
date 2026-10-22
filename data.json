@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,723.41",
-      "change": -0.27,
+      "value": "10,738.98",
+      "change": -0.13,
       "series": [
         10705.3,
         10680.0,
@@ -185,7 +185,7 @@
         10764.7,
         10733.0,
         10752.9,
-        10723.41
+        10738.98
       ],
       "dates": [
         "2026-09-23",
@@ -853,13 +853,6 @@
   ],
   "ai": [
     {
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "tags": []
-    },
-    {
       "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
       "summary": "",
       "source": "TechCrunch",
@@ -955,6 +948,13 @@
       "tags": [
         "Anthropic"
       ]
+    },
+    {
+      "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "tags": []
     }
   ],
   "markets": [
@@ -1056,6 +1056,6 @@
       "tags": []
     }
   ],
-  "updated": "22 Oct 2026, 12:25 UTC",
-  "updated_iso": "2026-10-22T12:25:58.047883+00:00"
+  "updated": "22 Oct 2026, 13:13 UTC",
+  "updated_iso": "2026-10-22T13:13:52.087905+00:00"
 }
