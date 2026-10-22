@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,679.02",
-      "change": -0.69,
+      "value": "10,689.23",
+      "change": -0.59,
       "series": [
         10705.3,
         10680.0,
@@ -185,7 +185,7 @@
         10764.7,
         10733.0,
         10752.9,
-        10679.02
+        10689.23
       ],
       "dates": [
         "2026-09-23",
@@ -966,15 +966,6 @@
       "tags": []
     },
     {
-      "title": "Meta\u2019s stock rises as investors glimpse an opportunity that could dwarf the ad business",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
-      "tags": [
-        "Meta"
-      ]
-    },
-    {
       "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
       "summary": "",
       "source": "MarketWatch",
@@ -1033,6 +1024,15 @@
       "tags": []
     },
     {
+      "title": "Meta\u2019s stock falls in early trading amid broader sector selloff, despite well-received results",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "tags": [
+        "Meta"
+      ]
+    },
+    {
       "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
       "summary": "",
       "source": "CNBC",
@@ -1047,6 +1047,6 @@
       "tags": []
     }
   ],
-  "updated": "22 Oct 2026, 09:40 UTC",
-  "updated_iso": "2026-10-22T09:40:51.848742+00:00"
+  "updated": "22 Oct 2026, 10:15 UTC",
+  "updated_iso": "2026-10-22T10:15:07.643657+00:00"
 }
