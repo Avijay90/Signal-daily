@@ -161,7 +161,7 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,677.88",
+      "value": "10,677.67",
       "change": -0.7,
       "series": [
         10705.3,
@@ -185,7 +185,7 @@
         10764.7,
         10733.0,
         10752.9,
-        10677.88
+        10677.67
       ],
       "dates": [
         "2026-09-23",
@@ -1033,20 +1033,20 @@
       "tags": []
     },
     {
-      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "title": "NI company in talks to save Poundland from administration",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+      "title": "'I'd spend $1,000 on a wedding present'",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "22 Oct 2026, 07:33 UTC",
-  "updated_iso": "2026-10-22T07:33:20.822967+00:00"
+  "updated": "22 Oct 2026, 08:18 UTC",
+  "updated_iso": "2026-10-22T08:18:25.967158+00:00"
 }
