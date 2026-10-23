@@ -162,8 +162,9 @@
       "name": "FTSE 100",
       "symbol": "^FTSE",
       "value": "10,690.36",
-      "change": -0.32,
+      "change": -0.58,
       "series": [
+        10705.3,
         10680.0,
         10695.3,
         10684.9,
@@ -184,10 +185,10 @@
         10764.7,
         10733.0,
         10752.9,
-        10725.0,
-        10690.36
+        10725.0
       ],
       "dates": [
+        "2026-09-23",
         "2026-09-24",
         "2026-09-25",
         "2026-09-28",
@@ -208,8 +209,7 @@
         "2026-10-19",
         "2026-10-20",
         "2026-10-21",
-        "2026-10-22",
-        "2026-10-23"
+        "2026-10-22"
       ]
     }
   ],
@@ -853,13 +853,6 @@
   ],
   "ai": [
     {
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "tags": []
-    },
-    {
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
       "summary": "",
       "source": "TechCrunch",
@@ -949,6 +942,13 @@
       "tags": [
         "Microsoft"
       ]
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "tags": []
     }
   ],
   "markets": [
@@ -1050,6 +1050,6 @@
       "tags": []
     }
   ],
-  "updated": "23 Oct 2026, 22:53 UTC",
-  "updated_iso": "2026-10-23T22:53:11.336630+00:00"
+  "updated": "23 Oct 2026, 23:14 UTC",
+  "updated_iso": "2026-10-23T23:14:05.197051+00:00"
 }
