@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "62,255.88",
-      "change": -1.04,
+      "value": "62,210.25",
+      "change": -1.11,
       "series": [
         65513.99,
         66364.2,
@@ -134,7 +134,7 @@
         64075.42,
         64621.24,
         62907.84,
-        62255.88
+        62210.25
       ],
       "dates": [
         "2026-09-24",
@@ -855,15 +855,6 @@
   ],
   "ai": [
     {
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
       "title": "PHP Armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
       "summary": "",
       "source": "TechCrunch",
@@ -952,6 +943,15 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
       "tags": []
+    },
+    {
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "tags": [
+        "OpenAI"
+      ]
     }
   ],
   "markets": [
@@ -1053,6 +1053,6 @@
       "tags": []
     }
   ],
-  "updated": "23 Oct 2026, 04:13 UTC",
-  "updated_iso": "2026-10-23T04:13:07.902056+00:00"
+  "updated": "23 Oct 2026, 04:41 UTC",
+  "updated_iso": "2026-10-23T04:41:39.739294+00:00"
 }
