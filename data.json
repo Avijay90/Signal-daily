@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "62,907.84",
-      "change": -1.82,
+      "value": "62,046.95",
+      "change": -3.98,
       "series": [
         65513.99,
         66364.2,
@@ -132,7 +132,8 @@
         65324.29,
         64916.7,
         64075.42,
-        64621.24
+        64621.24,
+        62046.95
       ],
       "dates": [
         "2026-09-24",
@@ -153,7 +154,8 @@
         "2026-10-16",
         "2026-10-19",
         "2026-10-20",
-        "2026-10-21"
+        "2026-10-21",
+        "2026-10-23"
       ]
     },
     {
@@ -827,13 +829,6 @@
   ],
   "ai": [
     {
-      "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "tags": []
-    },
-    {
       "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
       "summary": "",
       "source": "TechCrunch",
@@ -924,6 +919,13 @@
       "tags": [
         "Anthropic"
       ]
+    },
+    {
+      "title": "Spotify\u2019s current AI bet is about being the music service that agents choose",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "tags": []
     }
   ],
   "markets": [
@@ -1025,6 +1027,6 @@
       "tags": []
     }
   ],
-  "updated": "23 Oct 2026, 00:14 UTC",
-  "updated_iso": "2026-10-23T00:14:32.355530+00:00"
+  "updated": "23 Oct 2026, 00:59 UTC",
+  "updated_iso": "2026-10-23T00:59:28.032718+00:00"
 }
