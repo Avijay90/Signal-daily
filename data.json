@@ -163,10 +163,9 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,725.03",
-      "change": -0.26,
+      "value": "10,710.09",
+      "change": -0.14,
       "series": [
-        10705.3,
         10680.0,
         10695.3,
         10684.9,
@@ -187,10 +186,10 @@
         10764.7,
         10733.0,
         10752.9,
-        10725.0
+        10725.0,
+        10710.09
       ],
       "dates": [
-        "2026-09-23",
         "2026-09-24",
         "2026-09-25",
         "2026-09-28",
@@ -211,7 +210,8 @@
         "2026-10-19",
         "2026-10-20",
         "2026-10-21",
-        "2026-10-22"
+        "2026-10-22",
+        "2026-10-23"
       ]
     }
   ],
@@ -956,92 +956,96 @@
   ],
   "markets": [
     {
-      "title": "What are the new faces coming to UK bank notes?",
+      "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Watch: 'We don't pay' - lawyer advises how to avoid \u00a345,000 illegal-worker fine",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "A warning to anyone with credit card debt...",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c620reny4e1no?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "The Briefing Room",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Renting in London - 'I pay \u00a32,000 for one bedroom'",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Why Gen Z are planning for life without a state pension",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Why the UK is dithering over what to do about e-scooters",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "My hometown shows that high streets have to change or die",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Woman 'scared to turn heating on' due to oil cost",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cmgel220j7nvo?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
       "tags": [
         "Oil & energy"
       ]
     },
     {
-      "title": "Children in care to get \u00a310 a week savings",
+      "title": "3 big reasons Micron and other chip stocks fell hard on Thursday",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg0klve484o?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Americans are having fewer babies \u2014 and pampering them with luxury diapers",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/americans-are-having-fewer-babies-and-pampering-them-with-luxury-diapers-a84222cd?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here\u2019s what\u2019s going on.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The U.S. stock market is fracturing into two camps, and it\u2019s leaving investors with a brutal case of whiplash",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "CoreWeave set off a wave of anxiety \u2014 but Wall Street\u2019s dire prognosis is premature",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I\u2019m crazy. Who\u2019s right?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
       "tags": []
     }
   ],
-  "updated": "23 Oct 2026, 06:45 UTC",
-  "updated_iso": "2026-10-23T06:45:32.296527+00:00"
+  "updated": "23 Oct 2026, 07:32 UTC",
+  "updated_iso": "2026-10-23T07:32:30.987006+00:00"
 }
