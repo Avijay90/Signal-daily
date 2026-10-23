@@ -951,13 +951,6 @@
   ],
   "markets": [
     {
-      "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Even the wealthy increasingly want all-inclusive resorts",
       "summary": "",
       "source": "MarketWatch",
@@ -1025,20 +1018,27 @@
       ]
     },
     {
-      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn\u2019t work out.",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+      "title": "A warning to anyone with credit card debt...",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c620reny4e1no?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "The Briefing Room",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "23 Oct 2026, 21:18 UTC",
-  "updated_iso": "2026-10-23T21:18:02.310921+00:00"
+  "updated": "23 Oct 2026, 21:54 UTC",
+  "updated_iso": "2026-10-23T21:54:43.747988+00:00"
 }
