@@ -855,15 +855,6 @@
   ],
   "ai": [
     {
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "tags": [
-        "Meta"
-      ]
-    },
-    {
       "title": "Blackstone\u2019s Jas Khaira says fears over AI-buildout debt are overblown",
       "summary": "",
       "source": "TechCrunch",
@@ -930,6 +921,13 @@
       ]
     },
     {
+      "title": "Canva releases its first image generation model",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "tags": []
+    },
+    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "summary": "",
       "source": "TechCrunch",
@@ -939,18 +937,21 @@
       ]
     },
     {
-      "title": "Canva releases its first image generation model",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "tags": []
-    },
-    {
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
       "summary": "",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "tags": []
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "tags": [
+        "OpenAI",
+        "Funding"
+      ]
     }
   ],
   "markets": [
@@ -1052,6 +1053,6 @@
       "tags": []
     }
   ],
-  "updated": "24 Oct 2026, 15:35 UTC",
-  "updated_iso": "2026-10-24T15:35:37.130951+00:00"
+  "updated": "24 Oct 2026, 16:05 UTC",
+  "updated_iso": "2026-10-24T16:05:03.646212+00:00"
 }
