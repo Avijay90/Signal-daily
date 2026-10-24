@@ -930,13 +930,6 @@
       ]
     },
     {
-      "title": "Canva releases its first image generation model",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "tags": []
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "summary": "",
       "source": "TechCrunch",
@@ -944,6 +937,13 @@
       "tags": [
         "OpenAI"
       ]
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "tags": []
     },
     {
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -955,90 +955,103 @@
   ],
   "markets": [
     {
-      "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
       "tags": []
     },
     {
-      "title": "Moderna\u2019s cancer vaccine is \u2018likely\u2019 to get approved. Skeptics question if it will be the best option.",
+      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
       "tags": []
     },
     {
-      "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
       "tags": []
     },
     {
-      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "China's exports and imports surge past expectations in September",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
       "tags": []
     },
     {
-      "title": "My niece\u2019s college rent is covered by a 529 plan. What else can I pay for tax-free?",
+      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-nieces-college-rent-is-covered-by-a-529-plan-what-else-can-i-pay-for-tax-free-d1686b63?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "tags": [
+        "Regulation",
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
       "tags": []
     },
     {
-      "title": "Investors\u2019 recent money moves show a preference for lowering risks over boosting rewards",
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
-      "tags": []
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "tags": [
+        "Anthropic"
+      ]
     },
     {
-      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
+      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-      "tags": []
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+      "tags": [
+        "Regulation"
+      ]
     },
     {
-      "title": "Young Americans are giving up on car ownership. It\u2019s a path to financial freedom for some.",
+      "title": "Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix & more",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Everyone\u2019s talking about Roth conversions, but here\u2019s how few people really do them \u2014 and why you shouldn\u2019t have FOMO about it",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "A warning to anyone with credit card debt...",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c620reny4e1no?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "The Briefing Room",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-premarket-crwv-rklb-skhy.html",
       "tags": []
     }
   ],
-  "updated": "24 Oct 2026, 15:04 UTC",
-  "updated_iso": "2026-10-24T15:04:06.369922+00:00"
+  "updated": "24 Oct 2026, 15:35 UTC",
+  "updated_iso": "2026-10-24T15:35:37.130951+00:00"
 }
