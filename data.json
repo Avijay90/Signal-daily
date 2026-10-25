@@ -896,13 +896,6 @@
       ]
     },
     {
-      "title": "Canva releases its first image generation model",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "tags": []
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "summary": "",
       "source": "TechCrunch",
@@ -910,6 +903,13 @@
       "tags": [
         "OpenAI"
       ]
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "tags": []
     },
     {
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -1051,6 +1051,6 @@
       "tags": []
     }
   ],
-  "updated": "25 Oct 2026, 20:49 UTC",
-  "updated_iso": "2026-10-25T20:49:55.314757+00:00"
+  "updated": "25 Oct 2026, 21:12 UTC",
+  "updated_iso": "2026-10-25T21:12:16.910690+00:00"
 }
