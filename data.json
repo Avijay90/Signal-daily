@@ -855,15 +855,6 @@
   ],
   "ai": [
     {
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
       "title": "Claude Duet app is Anthropic\u2019s bet on agents",
       "summary": "",
       "source": "TechCrunch",
@@ -952,39 +943,16 @@
       "tags": [
         "Nvidia"
       ]
+    },
+    {
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "Young Americans are giving up on car ownership. It\u2019s a path to financial freedom for some.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Here\u2019s the real signal to watch for the Fed\u2019s next move",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Why economic health no longer dictates stock-market returns",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "\u2018Nonanswers\u2019 aren\u2019t working. This is what investors really need from the Fed.",
       "summary": "",
@@ -1032,6 +1000,36 @@
       "tags": []
     },
     {
+      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I\u2019m crazy. Who\u2019s right?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
       "summary": "",
       "source": "CNBC",
@@ -1046,6 +1044,6 @@
       "tags": []
     }
   ],
-  "updated": "25 Oct 2026, 16:36 UTC",
-  "updated_iso": "2026-10-25T16:36:38.096805+00:00"
+  "updated": "25 Oct 2026, 17:06 UTC",
+  "updated_iso": "2026-10-25T17:06:41.557927+00:00"
 }
