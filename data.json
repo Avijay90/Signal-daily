@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,716.03",
-      "change": 0.24,
+      "value": "10,742.14",
+      "change": 0.48,
       "series": [
         10684.9,
         10636.7,
@@ -184,7 +184,7 @@
         10752.9,
         10725.0,
         10690.4,
-        10716.03
+        10742.14
       ],
       "dates": [
         "2026-09-28",
@@ -883,13 +883,6 @@
       ]
     },
     {
-      "title": "Canva releases its first image generation model",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "tags": []
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "summary": "",
       "source": "TechCrunch",
@@ -897,6 +890,13 @@
       "tags": [
         "OpenAI"
       ]
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "tags": []
     },
     {
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -1047,6 +1047,6 @@
       "tags": []
     }
   ],
-  "updated": "26 Oct 2026, 08:26 UTC",
-  "updated_iso": "2026-10-26T08:26:08.988747+00:00"
+  "updated": "26 Oct 2026, 09:09 UTC",
+  "updated_iso": "2026-10-26T09:09:48.889871+00:00"
 }
