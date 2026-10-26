@@ -114,8 +114,6 @@
       "value": "62,693.16",
       "change": -0.34,
       "series": [
-        65513.99,
-        66364.2,
         65877.62,
         65481.27,
         66753.72,
@@ -137,8 +135,6 @@
         62693.16
       ],
       "dates": [
-        "2026-09-24",
-        "2026-09-25",
         "2026-09-28",
         "2026-09-29",
         "2026-09-30",
@@ -887,13 +883,6 @@
       ]
     },
     {
-      "title": "Canva releases its first image generation model",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "tags": []
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "summary": "",
       "source": "TechCrunch",
@@ -901,6 +890,13 @@
       "tags": [
         "OpenAI"
       ]
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "tags": []
     },
     {
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -1051,6 +1047,6 @@
       "tags": []
     }
   ],
-  "updated": "25 Oct 2026, 23:45 UTC",
-  "updated_iso": "2026-10-25T23:45:27.751659+00:00"
+  "updated": "26 Oct 2026, 00:12 UTC",
+  "updated_iso": "2026-10-26T00:12:39.654898+00:00"
 }
