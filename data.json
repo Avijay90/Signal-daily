@@ -950,54 +950,12 @@
   ],
   "markets": [
     {
-      "title": "The U.S. economy is gathering steam. This is the chief reason why.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Bond investors are starting to say \u2018anything but tech.\u2019 What that means for the AI boom.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "When will Anthropic go public? Here\u2019s what to know about the IPO timeline.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories",
-      "tags": [
-        "Anthropic",
-        "Funding"
-      ]
-    },
-    {
-      "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
       "title": "\u2018CryptoDad\u2019 on stablecoins, bitcoin\u2019s role in a portfolio and why he does not directly own any crypto",
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1?mod=mw_rss_topstories",
       "tags": [
         "Crypto"
-      ]
-    },
-    {
-      "title": "The big reason Boeing\u2019s stock is falling so hard after earnings",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
       ]
     },
     {
@@ -1031,6 +989,45 @@
       "tags": []
     },
     {
+      "title": "What gold and platinum are telling us about the stock market\u2019s direction",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "How Broadcom\u2019s stock can surge and overcome \u2018the biggest dislocation in the market\u2019",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The big reason Boeing\u2019s stock is falling so hard after earnings",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
       "title": "The Documentary",
       "summary": "",
       "source": "BBC Business",
@@ -1045,6 +1042,6 @@
       "tags": []
     }
   ],
-  "updated": "27 Oct 2026, 20:24 UTC",
-  "updated_iso": "2026-10-27T20:24:20.361101+00:00"
+  "updated": "27 Oct 2026, 20:57 UTC",
+  "updated_iso": "2026-10-27T20:57:59.750261+00:00"
 }
