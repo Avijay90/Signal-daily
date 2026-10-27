@@ -853,22 +853,6 @@
   ],
   "ai": [
     {
-      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "tags": [
-        "OpenAI"
-      ]
-    },
-    {
-      "title": "Block\u2019s new voice model sounds eerily human",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "tags": []
-    },
-    {
       "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
       "summary": "",
       "source": "TechCrunch",
@@ -945,6 +929,24 @@
       "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
       "tags": [
         "OpenAI"
+      ]
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "tags": [
+        "Funding"
       ]
     }
   ],
@@ -1034,6 +1036,6 @@
       "tags": []
     }
   ],
-  "updated": "27 Oct 2026, 21:25 UTC",
-  "updated_iso": "2026-10-27T21:25:45.987989+00:00"
+  "updated": "27 Oct 2026, 21:58 UTC",
+  "updated_iso": "2026-10-27T21:58:48.584072+00:00"
 }
