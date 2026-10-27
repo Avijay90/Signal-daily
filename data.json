@@ -159,8 +159,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,767.33",
-      "change": 0.72,
+      "value": "10,681.29",
+      "change": -0.8,
       "series": [
         10684.9,
         10636.7,
@@ -182,7 +182,8 @@
         10752.9,
         10725.0,
         10690.4,
-        10767.3
+        10767.3,
+        10681.29
       ],
       "dates": [
         "2026-09-28",
@@ -205,7 +206,8 @@
         "2026-10-21",
         "2026-10-22",
         "2026-10-23",
-        "2026-10-26"
+        "2026-10-26",
+        "2026-10-27"
       ]
     }
   ],
@@ -999,13 +1001,13 @@
       "tags": []
     },
     {
-      "title": "Budget hopes for struggling first-time buyers",
+      "title": "First-time buyers hoping for help from the Budget",
       "summary": "",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c317kpqv4njno?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "27 Oct 2026, 07:39 UTC",
-  "updated_iso": "2026-10-27T07:39:43.968590+00:00"
+  "updated": "27 Oct 2026, 08:21 UTC",
+  "updated_iso": "2026-10-27T08:21:00.370422+00:00"
 }
