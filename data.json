@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,719.38",
-      "change": 0.56,
+      "value": "7,724.09",
+      "change": 0.62,
       "series": [
         7683.69,
         7670.84,
@@ -27,7 +27,7 @@
         7663.43,
         7623.68,
         7676.77,
-        7719.38
+        7724.09
       ],
       "dates": [
         "2026-09-28",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,476.49",
-      "change": 1.17,
+      "value": "26,482.69",
+      "change": 1.2,
       "series": [
         26820.38,
         26797.54,
@@ -81,7 +81,7 @@
         26008.86,
         25955.34,
         26169.38,
-        26476.49
+        26482.7
       ],
       "dates": [
         "2026-09-28",
@@ -216,8 +216,8 @@
   "stocks": [
     {
       "symbol": "AMD",
-      "price": 559.5,
-      "change": 5.31,
+      "price": 559.93,
+      "change": 5.39,
       "series": [
         607.87,
         607.57,
@@ -240,60 +240,7 @@
         507.93,
         516.79,
         531.28,
-        559.5
-      ],
-      "dates": [
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27"
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "price": 343.15,
-      "change": 4.25,
-      "series": [
-        349.57,
-        355.1,
-        351.19,
-        343.64,
-        355.14,
-        362.51,
-        375.81,
-        376.51,
-        360.14,
-        361.54,
-        354.73,
-        357.31,
-        346.25,
-        344.33,
-        328.75,
-        334.59,
-        334.37,
-        337.8,
-        323.24,
-        321.68,
-        329.17,
-        343.15
+        559.93
       ],
       "dates": [
         "2026-09-28",
@@ -322,8 +269,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 131.2,
-      "change": 4.08,
+      "price": 131.63,
+      "change": 4.42,
       "series": [
         132.6,
         137.79,
@@ -346,7 +293,60 @@
         125.54,
         126.16,
         126.06,
-        131.2
+        131.63
+      ],
+      "dates": [
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27"
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "price": 342.91,
+      "change": 4.17,
+      "series": [
+        349.57,
+        355.1,
+        351.19,
+        343.64,
+        355.14,
+        362.51,
+        375.81,
+        376.51,
+        360.14,
+        361.54,
+        354.73,
+        357.31,
+        346.25,
+        344.33,
+        328.75,
+        334.59,
+        334.37,
+        337.8,
+        323.24,
+        321.68,
+        329.17,
+        342.91
       ],
       "dates": [
         "2026-09-28",
@@ -375,8 +375,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 406.85,
-      "change": 3.89,
+      "price": 405.78,
+      "change": 3.62,
       "series": [
         357.45,
         352.84,
@@ -399,7 +399,7 @@
         374.58,
         372.22,
         391.62,
-        406.85
+        405.78
       ],
       "dates": [
         "2026-09-28",
@@ -428,8 +428,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 437.05,
-      "change": 2.99,
+      "price": 437.54,
+      "change": 3.1,
       "series": [
         452.88,
         456.94,
@@ -452,7 +452,7 @@
         412.35,
         418.51,
         424.37,
-        437.05
+        437.54
       ],
       "dates": [
         "2026-09-28",
@@ -481,8 +481,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 253.47,
-      "change": 1.76,
+      "price": 253.75,
+      "change": 1.87,
       "series": [
         246.15,
         246.67,
@@ -505,7 +505,7 @@
         250.38,
         248.0,
         249.09,
-        253.46
+        253.75
       ],
       "dates": [
         "2026-09-28",
@@ -534,8 +534,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 320.77,
-      "change": 1.25,
+      "price": 322.08,
+      "change": 1.67,
       "series": [
         342.75,
         340.92,
@@ -558,7 +558,7 @@
         324.22,
         320.21,
         316.8,
-        320.77
+        322.08
       ],
       "dates": [
         "2026-09-28",
@@ -587,8 +587,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 218.28,
-      "change": 1.05,
+      "price": 218.05,
+      "change": 0.95,
       "series": [
         228.86,
         227.21,
@@ -611,7 +611,7 @@
         212.21,
         210.96,
         216.0,
-        218.27
+        218.05
       ],
       "dates": [
         "2026-09-28",
@@ -640,8 +640,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 345.42,
-      "change": 0.44,
+      "price": 345.92,
+      "change": 0.58,
       "series": [
         338.4,
         329.4,
@@ -664,7 +664,7 @@
         348.22,
         347.73,
         343.91,
-        345.42
+        345.92
       ],
       "dates": [
         "2026-09-28",
@@ -693,8 +693,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 199.62,
-      "change": 0.39,
+      "price": 199.46,
+      "change": 0.31,
       "series": [
         187.48,
         186.97,
@@ -717,7 +717,7 @@
         196.19,
         196.75,
         198.84,
-        199.62
+        199.46
       ],
       "dates": [
         "2026-09-28",
@@ -746,8 +746,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 532.16,
-      "change": -0.08,
+      "price": 531.93,
+      "change": -0.12,
       "series": [
         509.22,
         508.96,
@@ -770,7 +770,7 @@
         521.08,
         524.51,
         532.6,
-        532.16
+        531.93
       ],
       "dates": [
         "2026-09-28",
@@ -799,8 +799,8 @@
     },
     {
       "symbol": "META",
-      "price": 623.85,
-      "change": -1.06,
+      "price": 624.17,
+      "change": -1.01,
       "series": [
         715.62,
         738.79,
@@ -823,7 +823,7 @@
         648.85,
         642.62,
         630.56,
-        623.84
+        624.17
       ],
       "dates": [
         "2026-09-28",
@@ -948,100 +948,90 @@
   ],
   "markets": [
     {
-      "title": "With the Anthropic IPO, the devil is in the details",
+      "title": "The little-known investment Martin Lewis wants you to understand...",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-      "tags": [
-        "Anthropic",
-        "Funding"
-      ]
-    },
-    {
-      "title": "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
+      "title": "The Documentary",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct9kk8?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "McDonald\u2019s new bet on chicken hits a snag as franchisees say the birds are too big",
+      "title": "Business Daily",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
+      "title": "How the beauty industry is boosting High Streets",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cmr4y51lp5zko?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "The U.S. economy is gathering steam. This is the chief reason why.",
+      "title": "Why Gen Z are planning for life without a state pension",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Bond investors are starting to say \u2018anything but tech.\u2019 What that means for the AI boom.",
+      "title": "Why the UK is dithering over what to do about e-scooters",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "When will Anthropic go public? Here\u2019s what to know about the IPO timeline.",
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories",
-      "tags": [
-        "Anthropic",
-        "Funding"
-      ]
-    },
-    {
-      "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Budget 2026: 'Surrey is a lovely place - but it can be stressful'",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xk7klnkwo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "First-time buyers hoping for help from the Budget",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c317kpqv4njno?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Will the Budget pass Burnham's Makerfield test?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx1e9ylv1o?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "27 Oct 2026, 17:08 UTC",
-  "updated_iso": "2026-10-27T17:08:51.905102+00:00"
+  "updated": "27 Oct 2026, 17:49 UTC",
+  "updated_iso": "2026-10-27T17:49:33.629651+00:00"
 }
