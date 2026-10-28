@@ -218,8 +218,8 @@
   "stocks": [
     {
       "symbol": "ORCL",
-      "price": 144.34,
-      "change": 10.58,
+      "price": 144.54,
+      "change": 10.73,
       "series": [
         137.79,
         137.3,
@@ -242,7 +242,7 @@
         126.16,
         126.06,
         130.53,
-        144.34
+        144.54
       ],
       "dates": [
         "2026-09-29",
@@ -430,8 +430,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 439.57,
-      "change": 0.62,
+      "price": 439.51,
+      "change": 0.6,
       "series": [
         456.94,
         456.19,
@@ -454,7 +454,7 @@
         418.51,
         424.37,
         436.87,
-        439.57
+        439.51
       ],
       "dates": [
         "2026-09-29",
@@ -957,39 +957,6 @@
   ],
   "markets": [
     {
-      "title": "Bullish on Anthropic but don\u2019t want to wait until the IPO? Here\u2019s how you can invest today.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
-      "tags": [
-        "Anthropic",
-        "Funding"
-      ]
-    },
-    {
-      "title": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "I\u2019m planning a trip to Europe. Is it dumb to take travel advice from influencers?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
       "summary": "",
       "source": "MarketWatch",
@@ -1001,20 +968,6 @@
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Here\u2019s what just sent Oracle\u2019s stock soaring",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -1034,20 +987,66 @@
       ]
     },
     {
-      "title": "Former Conservative chancellor unsure Budget will 'fix big problems'",
+      "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c65ynlg4rxvqo?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "What do you want from the Budget?",
+      "title": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c63elx3x70jno?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/u-s-oil-refinery-stocks-are-up-roughly-150-this-year-how-long-could-this-historic-run-last-f01c590f?mod=mw_rss_topstories",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "Caregivers are now spending more than $11,000 a year out of pocket\u2014up 60% in five years",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "ServiceNow\u2019s stock slides as earnings miss clouds a raised AI outlook",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Here\u2019s what just sent Oracle\u2019s stock soaring",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
       "tags": []
     }
   ],
-  "updated": "28 Oct 2026, 20:06 UTC",
-  "updated_iso": "2026-10-28T20:06:54.034522+00:00"
+  "updated": "28 Oct 2026, 20:47 UTC",
+  "updated_iso": "2026-10-28T20:47:01.554342+00:00"
 }
