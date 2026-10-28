@@ -165,10 +165,9 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,686.54",
-      "change": -0.75,
+      "value": "10,650.73",
+      "change": -0.33,
       "series": [
-        10684.9,
         10636.7,
         10606.0,
         10428.3,
@@ -189,10 +188,10 @@
         10725.0,
         10690.4,
         10767.3,
-        10686.5
+        10686.5,
+        10650.73
       ],
       "dates": [
-        "2026-09-28",
         "2026-09-29",
         "2026-09-30",
         "2026-10-01",
@@ -213,7 +212,8 @@
         "2026-10-22",
         "2026-10-23",
         "2026-10-26",
-        "2026-10-27"
+        "2026-10-27",
+        "2026-10-28"
       ]
     }
   ],
@@ -960,87 +960,6 @@
   ],
   "markets": [
     {
-      "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "How Broadcom\u2019s stock can surge and overcome \u2018the biggest dislocation in the market\u2019",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The big reason Boeing\u2019s stock is falling so hard after earnings",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The rest of the market is leaving Big Tech behind after a historic comeback",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "As Trump touts energy companies\u2019 fortunes, U.S. consumers face the most expensive year for gas prices ever",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
-      "tags": [
-        "Oil & energy"
-      ]
-    },
-    {
-      "title": "CoreWeave and other AI stocks rise as Anthropic restores the market\u2019s faith in sustained spending",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Retail traders buy the dip on chip stocks \u2014 but Robinhood gets burned by the crypto market",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
-      "tags": [
-        "Nvidia",
-        "Crypto"
-      ]
-    },
-    {
-      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
       "summary": "",
       "source": "CNBC",
@@ -1053,8 +972,91 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
       "tags": []
+    },
+    {
+      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+      "tags": []
+    },
+    {
+      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "China's exports and imports surge past expectations in September",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+      "tags": []
+    },
+    {
+      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "tags": [
+        "Regulation",
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
+      "tags": []
+    },
+    {
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-premarket-crwv-rklb-skhy.html",
+      "tags": []
     }
   ],
-  "updated": "28 Oct 2026, 07:45 UTC",
-  "updated_iso": "2026-10-28T07:45:48.241109+00:00"
+  "updated": "28 Oct 2026, 08:35 UTC",
+  "updated_iso": "2026-10-28T08:35:11.227068+00:00"
 }
