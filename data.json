@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "64,054.31",
-      "change": 3.0,
+      "value": "63,942.52",
+      "change": 2.82,
       "series": [
         65877.62,
         65481.27,
@@ -134,7 +134,7 @@
         62907.84,
         62693.16,
         62189.65,
-        64054.31
+        63942.52
       ],
       "dates": [
         "2026-09-28",
@@ -829,13 +829,6 @@
   ],
   "ai": [
     {
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "tags": []
-    },
-    {
       "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
       "summary": "",
       "source": "TechCrunch",
@@ -924,6 +917,17 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
       "tags": []
+    },
+    {
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "tags": [
+        "Google",
+        "Meta",
+        "Microsoft"
+      ]
     }
   ],
   "markets": [
@@ -1025,6 +1029,6 @@
       "tags": []
     }
   ],
-  "updated": "28 Oct 2026, 00:21 UTC",
-  "updated_iso": "2026-10-28T00:21:46.275237+00:00"
+  "updated": "28 Oct 2026, 01:27 UTC",
+  "updated_iso": "2026-10-28T01:27:45.549776+00:00"
 }
