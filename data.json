@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "64,030.95",
-      "change": 1.21,
+      "value": "64,053.34",
+      "change": 1.24,
       "series": [
         65877.62,
         65481.27,
@@ -135,7 +135,7 @@
         62693.16,
         62189.65,
         63268.37,
-        64030.95
+        64053.34
       ],
       "dates": [
         "2026-09-28",
@@ -1023,27 +1023,27 @@
       "tags": []
     },
     {
-      "title": "More cats abandoned 'due to rising costs'",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxwzzewpz1o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "How much is the minimum wage?",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
       "title": "'Tone deaf at best' - advice to stock up on essentials worries experts and low-income families",
       "summary": "",
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c6x238kpxj8do?at_medium=RSS&at_campaign=rss",
       "tags": []
+    },
+    {
+      "title": "I get \u00a34,062 a year and am trying my best - here's what I want from the Budget",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Cash grants for groups helping with money and debt",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5z37lrgwo?at_medium=RSS&at_campaign=rss",
+      "tags": []
     }
   ],
-  "updated": "28 Oct 2026, 05:28 UTC",
-  "updated_iso": "2026-10-28T05:28:34.320745+00:00"
+  "updated": "28 Oct 2026, 06:09 UTC",
+  "updated_iso": "2026-10-28T06:09:19.738359+00:00"
 }
