@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,737.14",
-      "change": 0.19,
+      "value": "7,739.07",
+      "change": 0.21,
       "series": [
         7670.84,
         7651.54,
@@ -27,7 +27,7 @@
         7623.68,
         7676.77,
         7722.6,
-        7737.14
+        7739.07
       ],
       "dates": [
         "2026-09-29",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,477.12",
-      "change": -0.0,
+      "value": "26,484.73",
+      "change": 0.03,
       "series": [
         26797.54,
         26861.06,
@@ -81,7 +81,7 @@
         25955.34,
         26169.38,
         26477.81,
-        26477.12
+        26484.73
       ],
       "dates": [
         "2026-09-29",
@@ -218,8 +218,8 @@
   "stocks": [
     {
       "symbol": "AVGO",
-      "price": 348.4,
-      "change": 1.77,
+      "price": 348.05,
+      "change": 1.67,
       "series": [
         355.1,
         351.19,
@@ -242,7 +242,7 @@
         321.68,
         329.17,
         342.33,
-        348.41
+        348.05
       ],
       "dates": [
         "2026-09-29",
@@ -271,8 +271,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 570.11,
-      "change": 1.76,
+      "price": 569.42,
+      "change": 1.63,
       "series": [
         607.57,
         611.76,
@@ -295,7 +295,7 @@
         516.79,
         531.28,
         560.26,
-        570.11
+        569.42
       ],
       "dates": [
         "2026-09-29",
@@ -324,8 +324,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 324.36,
-      "change": 1.18,
+      "price": 324.41,
+      "change": 1.19,
       "series": [
         340.92,
         344.08,
@@ -348,7 +348,7 @@
         320.21,
         316.8,
         320.58,
-        324.36
+        324.41
       ],
       "dates": [
         "2026-09-29",
@@ -377,8 +377,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 438.77,
-      "change": 0.43,
+      "price": 438.38,
+      "change": 0.34,
       "series": [
         456.94,
         456.19,
@@ -401,7 +401,7 @@
         418.51,
         424.37,
         436.87,
-        438.77
+        438.38
       ],
       "dates": [
         "2026-09-29",
@@ -430,8 +430,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 252.94,
-      "change": -0.06,
+      "price": 252.7,
+      "change": -0.16,
       "series": [
         246.67,
         249.15,
@@ -454,7 +454,7 @@
         248.0,
         249.09,
         253.1,
-        252.94
+        252.7
       ],
       "dates": [
         "2026-09-29",
@@ -483,8 +483,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 130.37,
-      "change": -0.12,
+      "price": 130.25,
+      "change": -0.22,
       "series": [
         137.79,
         137.3,
@@ -507,7 +507,7 @@
         126.16,
         126.06,
         130.53,
-        130.37
+        130.24
       ],
       "dates": [
         "2026-09-29",
@@ -536,8 +536,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 217.3,
-      "change": -0.29,
+      "price": 217.16,
+      "change": -0.36,
       "series": [
         227.21,
         228.38,
@@ -560,7 +560,7 @@
         210.96,
         216.0,
         217.94,
-        217.3
+        217.16
       ],
       "dates": [
         "2026-09-29",
@@ -589,8 +589,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 345.64,
-      "change": -0.42,
+      "price": 345.38,
+      "change": -0.5,
       "series": [
         329.4,
         333.02,
@@ -613,7 +613,7 @@
         347.73,
         343.91,
         347.1,
-        345.64
+        345.38
       ],
       "dates": [
         "2026-09-29",
@@ -642,8 +642,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 527.18,
-      "change": -0.78,
+      "price": 527.04,
+      "change": -0.81,
       "series": [
         508.96,
         512.9,
@@ -666,60 +666,7 @@
         524.51,
         532.6,
         531.33,
-        527.18
-      ],
-      "dates": [
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28"
-      ]
-    },
-    {
-      "symbol": "META",
-      "price": 612.67,
-      "change": -1.21,
-      "series": [
-        738.79,
-        725.18,
-        725.93,
-        728.08,
-        741.9,
-        738.88,
-        721.31,
-        720.89,
-        718.67,
-        742.96,
-        762.5,
-        737.54,
-        736.72,
-        709.33,
-        705.44,
-        694.25,
-        697.52,
-        648.85,
-        642.62,
-        630.56,
-        620.19,
-        612.67
+        527.04
       ],
       "dates": [
         "2026-09-29",
@@ -748,8 +695,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 401.66,
-      "change": -1.42,
+      "price": 402.48,
+      "change": -1.22,
       "series": [
         352.84,
         354.81,
@@ -772,7 +719,60 @@
         372.22,
         391.62,
         407.46,
-        401.66
+        402.48
+      ],
+      "dates": [
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28"
+      ]
+    },
+    {
+      "symbol": "META",
+      "price": 612.15,
+      "change": -1.3,
+      "series": [
+        738.79,
+        725.18,
+        725.93,
+        728.08,
+        741.9,
+        738.88,
+        721.31,
+        720.89,
+        718.67,
+        742.96,
+        762.5,
+        737.54,
+        736.72,
+        709.33,
+        705.44,
+        694.25,
+        697.52,
+        648.85,
+        642.62,
+        630.56,
+        620.19,
+        612.15
       ],
       "dates": [
         "2026-09-29",
@@ -801,8 +801,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 193.85,
-      "change": -2.46,
+      "price": 194.26,
+      "change": -2.25,
       "series": [
         186.97,
         187.05,
@@ -825,7 +825,7 @@
         196.75,
         198.84,
         198.73,
-        193.85
+        194.26
       ],
       "dates": [
         "2026-09-29",
@@ -854,13 +854,6 @@
     }
   ],
   "ai": [
-    {
-      "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "tags": []
-    },
     {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
       "summary": "",
@@ -954,9 +947,93 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
       "tags": []
+    },
+    {
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "tags": []
     }
   ],
   "markets": [
+    {
+      "title": "McDonald\u2019s new bet on chicken hits a snag as franchisees say the birds are too big",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids \u2014 and I can\u2019t bear to leave.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "3 reasons home prices keep going up, even though fewer people are buying",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "We\u2019re spending more than $11,000 a year of our own money caring for our aging parents and loved ones",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Micron\u2019s stock rises after SK Hynix earnings. Here\u2019s its next major test.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Bullish on Anthropic but don\u2019t want to wait until the IPO? Here\u2019s how you can invest today.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
+      "tags": [
+        "Anthropic",
+        "Funding"
+      ]
+    },
+    {
+      "title": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Wendy\u2019s buyout offer suggests the burger chain\u2019s overhaul could be very expensive",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
     {
       "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
       "summary": "",
@@ -970,91 +1047,8 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
       "tags": []
-    },
-    {
-      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-      "tags": []
-    },
-    {
-      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "China's exports and imports surge past expectations in September",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
-      "tags": []
-    },
-    {
-      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "tags": [
-        "Regulation",
-        "Earnings"
-      ]
-    },
-    {
-      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
-      "tags": []
-    },
-    {
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-premarket-crwv-rklb-skhy.html",
-      "tags": []
     }
   ],
-  "updated": "28 Oct 2026, 17:14 UTC",
-  "updated_iso": "2026-10-28T17:14:05.715680+00:00"
+  "updated": "28 Oct 2026, 17:55 UTC",
+  "updated_iso": "2026-10-28T17:55:23.274562+00:00"
 }
