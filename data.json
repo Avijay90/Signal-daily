@@ -165,8 +165,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,738.98",
-      "change": 0.42,
+      "value": "10,731.44",
+      "change": 0.35,
       "series": [
         10606.0,
         10428.3,
@@ -189,7 +189,7 @@
         10767.3,
         10686.5,
         10694.5,
-        10738.98
+        10731.44
       ],
       "dates": [
         "2026-09-30",
@@ -957,6 +957,86 @@
   ],
   "markets": [
     {
+      "title": "ServiceNow\u2019s stock slides as earnings miss overshadows a raised AI outlook",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Fortinet\u2019s stock is taking a dive after earnings. Here\u2019s why.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "The major reason Microsoft\u2019s stock is heading higher after earnings",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+      "tags": [
+        "Microsoft",
+        "Earnings"
+      ]
+    },
+    {
+      "title": "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Lumentum\u2019s stock pops as investors cheer a possible sale to Marvell",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
+      "tags": [
+        "Nvidia",
+        "Microsoft"
+      ]
+    },
+    {
+      "title": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Why Alphabet\u2019s stock could see its worst drop in years after the latest results",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018Fancy cars hold no appeal\u2019: My wife and I have a 99% chance of outliving our savings. Why don\u2019t we spend it all?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "ServiceNow stock is on track for its largest drop on record. But JPMorgan sees a bright spot.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "What do you want from the Budget?",
       "summary": "",
       "source": "BBC Business",
@@ -969,78 +1049,8 @@
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/videos/c95ynvr04vgdo?at_medium=RSS&at_campaign=rss",
       "tags": []
-    },
-    {
-      "title": "Chancellor begins to deliver his first Budget",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Three ways the Budget affects you",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cjkgern1yw0lo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Chancellor says government has 'moral duty' to help young people out of work",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Why Gen Z are planning for life without a state pension",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Why the UK is dithering over what to do about e-scooters",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "My hometown shows that high streets have to change or die",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Restaurants sceptical over 'garlic and gherkins' plan",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "tags": []
     }
   ],
-  "updated": "29 Oct 2026, 09:28 UTC",
-  "updated_iso": "2026-10-29T09:28:56.573930+00:00"
+  "updated": "29 Oct 2026, 10:17 UTC",
+  "updated_iso": "2026-10-29T10:17:37.310793+00:00"
 }
