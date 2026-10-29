@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,716.98",
-      "change": -0.35,
+      "value": "7,708.74",
+      "change": -0.46,
       "series": [
         7651.54,
         7666.45,
@@ -27,7 +27,7 @@
         7676.77,
         7722.6,
         7743.98,
-        7716.98
+        7708.74
       ],
       "dates": [
         "2026-09-30",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "26,195.24",
-      "change": -1.34,
+      "value": "26,158.33",
+      "change": -1.47,
       "series": [
         26861.06,
         26871.6,
@@ -81,7 +81,7 @@
         26169.38,
         26477.81,
         26549.85,
-        26195.24
+        26158.33
       ],
       "dates": [
         "2026-09-30",
@@ -163,8 +163,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,732.83",
-      "change": 0.36,
+      "value": "10,722.07",
+      "change": 0.26,
       "series": [
         10606.0,
         10428.3,
@@ -187,7 +187,7 @@
         10767.3,
         10686.5,
         10694.5,
-        10732.83
+        10722.07
       ],
       "dates": [
         "2026-09-30",
@@ -218,8 +218,8 @@
   "stocks": [
     {
       "symbol": "META",
-      "price": 630.0,
-      "change": 2.86,
+      "price": 630.55,
+      "change": 2.95,
       "series": [
         725.18,
         725.93,
@@ -242,7 +242,7 @@
         630.56,
         620.19,
         612.49,
-        630.0
+        630.55
       ],
       "dates": [
         "2026-09-30",
@@ -271,8 +271,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 349.54,
-      "change": 1.66,
+      "price": 349.92,
+      "change": 1.77,
       "series": [
         333.02,
         330.32,
@@ -295,7 +295,7 @@
         343.91,
         347.1,
         343.83,
-        349.54
+        349.92
       ],
       "dates": [
         "2026-09-30",
@@ -324,8 +324,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 405.98,
-      "change": 0.44,
+      "price": 403.83,
+      "change": -0.1,
       "series": [
         354.81,
         354.11,
@@ -348,7 +348,7 @@
         391.62,
         407.46,
         404.22,
-        405.98
+        403.83
       ],
       "dates": [
         "2026-09-30",
@@ -377,8 +377,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 213.39,
-      "change": -0.92,
+      "price": 213.15,
+      "change": -1.04,
       "series": [
         228.38,
         230.86,
@@ -401,60 +401,7 @@
         216.0,
         217.94,
         215.38,
-        213.39
-      ],
-      "dates": [
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29"
-      ]
-    },
-    {
-      "symbol": "PLTR",
-      "price": 194.57,
-      "change": -1.14,
-      "series": [
-        187.05,
-        190.04,
-        188.75,
-        189.4,
-        192.07,
-        194.12,
-        198.78,
-        209.05,
-        209.0,
-        208.67,
-        200.97,
-        200.5,
-        186.03,
-        194.15,
-        192.6,
-        201.72,
-        196.19,
-        196.75,
-        198.84,
-        198.73,
-        196.81,
-        194.57
+        213.15
       ],
       "dates": [
         "2026-09-30",
@@ -483,8 +430,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 524.62,
-      "change": -1.2,
+      "price": 524.26,
+      "change": -1.27,
       "series": [
         512.9,
         512.8,
@@ -507,7 +454,7 @@
         532.6,
         531.33,
         531.01,
-        524.61
+        524.26
       ],
       "dates": [
         "2026-09-30",
@@ -535,32 +482,32 @@
       ]
     },
     {
-      "symbol": "AMD",
-      "price": 570.77,
-      "change": -1.33,
+      "symbol": "PLTR",
+      "price": 193.59,
+      "change": -1.64,
       "series": [
-        611.76,
-        615.73,
-        633.91,
-        631.75,
-        649.42,
-        645.86,
-        620.68,
-        608.1,
-        594.24,
-        605.53,
-        570.82,
-        562.23,
-        528.75,
-        538.05,
-        534.74,
-        552.72,
-        507.93,
-        516.79,
-        531.28,
-        560.26,
-        578.44,
-        570.77
+        187.05,
+        190.04,
+        188.75,
+        189.4,
+        192.07,
+        194.12,
+        198.78,
+        209.05,
+        209.0,
+        208.67,
+        200.97,
+        200.5,
+        186.03,
+        194.15,
+        192.6,
+        201.72,
+        196.19,
+        196.75,
+        198.84,
+        198.73,
+        196.81,
+        193.59
       ],
       "dates": [
         "2026-09-30",
@@ -589,8 +536,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 433.46,
-      "change": -1.38,
+      "price": 431.4,
+      "change": -1.85,
       "series": [
         456.19,
         459.2,
@@ -613,7 +560,7 @@
         424.37,
         436.87,
         439.51,
-        433.46
+        431.4
       ],
       "dates": [
         "2026-09-30",
@@ -642,8 +589,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 344.37,
-      "change": -2.11,
+      "price": 344.86,
+      "change": -1.98,
       "series": [
         351.19,
         343.64,
@@ -666,7 +613,60 @@
         329.17,
         342.33,
         351.81,
-        344.37
+        344.86
+      ],
+      "dates": [
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29"
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "price": 566.26,
+      "change": -2.1,
+      "series": [
+        611.76,
+        615.73,
+        633.91,
+        631.75,
+        649.42,
+        645.86,
+        620.68,
+        608.1,
+        594.24,
+        605.53,
+        570.82,
+        562.23,
+        528.75,
+        538.05,
+        534.74,
+        552.72,
+        507.93,
+        516.79,
+        531.28,
+        560.26,
+        578.44,
+        566.27
       ],
       "dates": [
         "2026-09-30",
@@ -695,8 +695,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 246.35,
-      "change": -3.24,
+      "price": 245.72,
+      "change": -3.49,
       "series": [
         249.15,
         248.23,
@@ -719,7 +719,7 @@
         249.09,
         253.1,
         254.6,
-        246.35
+        245.72
       ],
       "dates": [
         "2026-09-30",
@@ -748,8 +748,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 139.66,
-      "change": -3.38,
+      "price": 137.61,
+      "change": -4.79,
       "series": [
         137.3,
         138.07,
@@ -772,7 +772,7 @@
         126.06,
         130.53,
         144.54,
-        139.66
+        137.61
       ],
       "dates": [
         "2026-09-30",
@@ -801,8 +801,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 284.5,
-      "change": -12.43,
+      "price": 284.15,
+      "change": -12.54,
       "series": [
         344.08,
         338.24,
@@ -825,7 +825,7 @@
         316.8,
         320.58,
         324.89,
-        284.5
+        284.15
       ],
       "dates": [
         "2026-09-30",
@@ -854,13 +854,6 @@
     }
   ],
   "ai": [
-    {
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "tags": []
-    },
     {
       "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
       "summary": "",
@@ -948,48 +941,19 @@
       "tags": [
         "Anthropic"
       ]
+    },
+    {
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "tags": [
+        "Microsoft",
+        "Earnings"
+      ]
     }
   ],
   "markets": [
-    {
-      "title": "Gen Z midterm voters told us they\u2019re focused on their financial future, as social causes take a back seat",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "3 reasons home prices keep going up, even though fewer people are buying",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The midterms are crucial to the future of Social Security \u2013 no matter how old you are",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Inflation surges, PCE shows. Fed pause on rate hikes unlikely to last with prices still rising.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/inflation-surges-pce-shows-fed-pause-on-rate-hikes-unlikely-to-last-long-with-prices-still-rising-79128886?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Consumers are spending more, but they\u2019re not getting their money\u2019s worth due to inflation",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
     {
       "title": "Caterpillar\u2019s stock is sinking. Here\u2019s what that means for the Dow.",
       "summary": "",
@@ -1028,6 +992,43 @@
       ]
     },
     {
+      "title": "You can\u2019t rely on the S&P 500 as much as you may think",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Get ready for the \u2018Year of Starlink\u2019 as airlines battle over superfast WiFi",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/get-ready-for-the-year-of-starlink-as-airlines-battle-over-superfast-wifi-6bce32c1?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "This credit card is the \u2018best weapon\u2019 to fight debt while interest rates keep climbing",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "All the reasons Marvell investors are \u2019freaking out\u2019 as Lumentum deal rumors swirl",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
       "summary": "",
       "source": "CNBC",
@@ -1042,6 +1043,6 @@
       "tags": []
     }
   ],
-  "updated": "29 Oct 2026, 16:22 UTC",
-  "updated_iso": "2026-10-29T16:22:11.101393+00:00"
+  "updated": "29 Oct 2026, 17:16 UTC",
+  "updated_iso": "2026-10-29T17:16:36.946429+00:00"
 }
