@@ -165,8 +165,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,734.27",
-      "change": 0.11,
+      "value": "10,748.71",
+      "change": 0.25,
       "series": [
         10428.3,
         10462.0,
@@ -189,7 +189,7 @@
         10686.5,
         10694.5,
         10722.1,
-        10734.27
+        10748.71
       ],
       "dates": [
         "2026-10-01",
@@ -961,6 +961,78 @@
   ],
   "markets": [
     {
+      "title": "A Starbucks turnaround is brewing \u2014\u00a0but perhaps not quickly enough for investors",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Amazon\u2019s stock drops \u2014\u00a0even in the face of a bold new cloud forecast",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Solidcore founder Anne Mahlum plans enormous 10-bedroom \u2018dream home\u2019",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/solidcore-founder-anne-mahlum-plans-enormous-10-bedroom-dream-home-032e0444?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My father has early Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. What can I do?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Why Intel\u2019s stock is sinking toward its worst drop in two years",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Here\u2019s when Binance plans to reopen after what\u2019s believed to be the largest-ever $6.3 billion hack",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he right to leave everything to me?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Here\u2019s the math on Amazon CEO\u2019s claim to be on path to two trillion-dollar revenue businesses",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a high-yield savings account?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
       "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
       "summary": "",
       "source": "CNBC",
@@ -973,91 +1045,8 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
       "tags": []
-    },
-    {
-      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
-      "tags": []
-    },
-    {
-      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "China's exports and imports surge past expectations in September",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
-      "tags": []
-    },
-    {
-      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "tags": [
-        "Regulation",
-        "Earnings"
-      ]
-    },
-    {
-      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
-      "tags": []
-    },
-    {
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-premarket-crwv-rklb-skhy.html",
-      "tags": []
     }
   ],
-  "updated": "30 Oct 2026, 10:17 UTC",
-  "updated_iso": "2026-10-30T10:17:46.262782+00:00"
+  "updated": "30 Oct 2026, 11:04 UTC",
+  "updated_iso": "2026-10-30T11:04:57.166480+00:00"
 }
