@@ -165,10 +165,9 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,722.07",
-      "change": 0.26,
+      "value": "10,755.64",
+      "change": 0.31,
       "series": [
-        10606.0,
         10428.3,
         10462.0,
         10497.9,
@@ -189,10 +188,10 @@
         10767.3,
         10686.5,
         10694.5,
-        10722.1
+        10722.1,
+        10755.64
       ],
       "dates": [
-        "2026-09-30",
         "2026-10-01",
         "2026-10-02",
         "2026-10-05",
@@ -213,7 +212,8 @@
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
-        "2026-10-29"
+        "2026-10-29",
+        "2026-10-30"
       ]
     }
   ],
@@ -961,103 +961,94 @@
   ],
   "markets": [
     {
-      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "title": "Three ways the Budget affects you",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cjkgern1yw0lo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+      "title": "The Bottom Line",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/m0033g29?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+      "title": "Chancellor says government has 'moral duty' to help young people out of work",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
+      "title": "Watch: Hundreds queue for city's new Lego store",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "China's exports and imports surge past expectations in September",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cw1m4k1nx5r0o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+      "title": "Who should pay on the first date?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "tags": [
-        "Regulation",
-        "Earnings"
-      ]
-    },
-    {
-      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/stocks-moving-premarket-bank-of-america-blackrock-asml.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cmpq0g3g2r8zo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "title": "Why Gen Z are planning for life without a state pension",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/stocks-making-the-biggest-moves-premarket-crwv-rklb-skhy.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
       "tags": []
+    },
+    {
+      "title": "Why the UK is dithering over what to do about e-scooters",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Island Energy: No plans to remove gas standing charge",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7l1375d74o?at_medium=RSS&at_campaign=rss",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "Your pay, energy bills and savings: How the Budget affects you",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+      "tags": [
+        "Oil & energy"
+      ]
     }
   ],
-  "updated": "30 Oct 2026, 07:52 UTC",
-  "updated_iso": "2026-10-30T07:52:30.900133+00:00"
+  "updated": "30 Oct 2026, 08:38 UTC",
+  "updated_iso": "2026-10-30T08:38:49.244393+00:00"
 }
