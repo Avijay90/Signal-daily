@@ -165,8 +165,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,739.50",
-      "change": 0.16,
+      "value": "10,732.86",
+      "change": 0.1,
       "series": [
         10428.3,
         10462.0,
@@ -189,7 +189,7 @@
         10686.5,
         10694.5,
         10722.1,
-        10739.5
+        10732.86
       ],
       "dates": [
         "2026-10-01",
@@ -857,20 +857,6 @@
   ],
   "ai": [
     {
-      "title": "The \u2018Vulnpocalypse\u2019 is coming for the internet\u2019s aging code, says Wiz\u2019s CTO",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
-      "tags": []
-    },
-    {
-      "title": "Wiz\u2019s CTO on PHP2Shell and the coming \u2018vulnpocalypse\u2019",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-      "tags": []
-    },
-    {
       "title": "Anthropic just launched tools to show companies what their AI spending is buying",
       "summary": "",
       "source": "TechCrunch",
@@ -957,53 +943,23 @@
       "tags": [
         "Nvidia"
       ]
+    },
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "tags": []
+    },
+    {
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "Solidcore founder Anne Mahlum plans enormous 10-bedroom \u2018dream home\u2019",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/solidcore-founder-anne-mahlum-plans-enormous-10-bedroom-dream-home-032e0444?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My father has early Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. What can I do?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Here\u2019s when Binance plans to reopen after what\u2019s believed to be the largest-ever $6.3 billion hack",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018He was heartbroken\u2019: My husband\u2019s kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Here\u2019s the math on Amazon CEO\u2019s claim to be on path to two trillion-dollar revenue businesses",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a high-yield savings account?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "AI could hit consumers\u2019 ability to manage their debt. Here\u2019s the trade.",
       "summary": "",
@@ -1026,13 +982,61 @@
       "tags": []
     },
     {
-      "title": "This one chart tells you everything you need to know about Exxon, Chevron and BP\u2019s forecasting-beating earnings",
+      "title": "\u2018Fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "This one chart tells you everything you need to know about Exxon, Chevron and BP\u2019s forecast-beating earnings",
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories",
       "tags": [
         "Earnings"
       ]
+    },
+    {
+      "title": "Bitcoin slides after crypto\u2019s nightmare scenario: a historic $6.3 billion heist",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+      "tags": [
+        "Crypto"
+      ]
+    },
+    {
+      "title": "My father has early Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. What can I do?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "This credit card is the \u2018best weapon\u2019 to fight debt while interest rates keep climbing",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "AMD\u2019s stock slides after Intel earnings reveal two big issues",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Gen Z voters told us the midterms boil down to affording life, as social causes take a back seat",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
+      "tags": []
     },
     {
       "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
@@ -1049,6 +1053,6 @@
       "tags": []
     }
   ],
-  "updated": "30 Oct 2026, 12:27 UTC",
-  "updated_iso": "2026-10-30T12:27:42.896233+00:00"
+  "updated": "30 Oct 2026, 13:28 UTC",
+  "updated_iso": "2026-10-30T13:28:35.345889+00:00"
 }
