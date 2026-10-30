@@ -165,8 +165,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,748.71",
-      "change": 0.25,
+      "value": "10,753.11",
+      "change": 0.29,
       "series": [
         10428.3,
         10462.0,
@@ -189,7 +189,7 @@
         10686.5,
         10694.5,
         10722.1,
-        10748.71
+        10753.11
       ],
       "dates": [
         "2026-10-01",
@@ -961,20 +961,6 @@
   ],
   "markets": [
     {
-      "title": "A Starbucks turnaround is brewing \u2014\u00a0but perhaps not quickly enough for investors",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Amazon\u2019s stock drops \u2014\u00a0even in the face of a bold new cloud forecast",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there.",
       "summary": "",
       "source": "MarketWatch",
@@ -993,13 +979,6 @@
       "summary": "",
       "source": "MarketWatch",
       "url": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Why Intel\u2019s stock is sinking toward its worst drop in two years",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
       "tags": []
     },
     {
@@ -1033,20 +1012,41 @@
       "tags": []
     },
     {
-      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "title": "AI could hit consumers\u2019 ability to manage their debt. Here\u2019s the trade.",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ai-could-hit-consumers-ability-to-manage-their-debt-heres-the-trade-43d1787e?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+      "title": "Why Intel\u2019s stock is sinking toward its worst day in two years \u2014 and a $128 billion wipeout",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Amazon\u2019s and Intel\u2019s stocks are set to plunge. But Wall Street\u2019s October winners may surprise you.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/amazons-and-intels-stocks-are-set-to-plunge-but-wall-streets-october-winners-may-surprise-you-4d74e4d4?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Three ways the Budget affects you",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cjkgern1yw0lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "The Bottom Line",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/m0033g29?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "30 Oct 2026, 11:04 UTC",
-  "updated_iso": "2026-10-30T11:04:57.166480+00:00"
+  "updated": "30 Oct 2026, 11:45 UTC",
+  "updated_iso": "2026-10-30T11:45:21.402129+00:00"
 }
