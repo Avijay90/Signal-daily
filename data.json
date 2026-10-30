@@ -165,8 +165,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,753.11",
-      "change": 0.29,
+      "value": "10,739.50",
+      "change": 0.16,
       "series": [
         10428.3,
         10462.0,
@@ -189,7 +189,7 @@
         10686.5,
         10694.5,
         10722.1,
-        10753.11
+        10739.5
       ],
       "dates": [
         "2026-10-01",
@@ -961,13 +961,6 @@
   ],
   "markets": [
     {
-      "title": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Solidcore founder Anne Mahlum plans enormous 10-bedroom \u2018dream home\u2019",
       "summary": "",
       "source": "MarketWatch",
@@ -1033,20 +1026,29 @@
       "tags": []
     },
     {
-      "title": "Three ways the Budget affects you",
+      "title": "This one chart tells you everything you need to know about Exxon, Chevron and BP\u2019s forecasting-beating earnings",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cjkgern1yw0lo?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
       "tags": []
     },
     {
-      "title": "The Bottom Line",
+      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/m0033g29?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
       "tags": []
     }
   ],
-  "updated": "30 Oct 2026, 11:45 UTC",
-  "updated_iso": "2026-10-30T11:45:21.402129+00:00"
+  "updated": "30 Oct 2026, 12:27 UTC",
+  "updated_iso": "2026-10-30T12:27:42.896233+00:00"
 }
