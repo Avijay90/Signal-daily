@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "62,935.92",
-      "change": -2.67,
+      "value": "63,019.78",
+      "change": -2.54,
       "series": [
         66753.72,
         68956.72,
@@ -135,7 +135,7 @@
         63268.37,
         63954.19,
         64659.47,
-        62935.92
+        63019.78
       ],
       "dates": [
         "2026-09-30",
@@ -961,13 +961,6 @@
   ],
   "markets": [
     {
-      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "\u2018Fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
       "summary": "",
       "source": "MarketWatch",
@@ -1035,20 +1028,27 @@
       "tags": []
     },
     {
-      "title": "Chancellor begins to deliver his first Budget",
+      "title": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there.",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Three ways the Budget affects you",
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cjkgern1yw0lo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/stocks-making-the-biggest-moves-premarket-jpm-mu-unh.html",
       "tags": []
     }
   ],
-  "updated": "30 Oct 2026, 02:41 UTC",
-  "updated_iso": "2026-10-30T02:41:11.772295+00:00"
+  "updated": "30 Oct 2026, 03:23 UTC",
+  "updated_iso": "2026-10-30T03:23:12.115184+00:00"
 }
