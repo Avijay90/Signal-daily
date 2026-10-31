@@ -857,32 +857,6 @@
   ],
   "ai": [
     {
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "tags": [
-        "Meta"
-      ]
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "tags": [
-        "OpenAI",
-        "Funding"
-      ]
-    },
-    {
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "tags": []
-    },
-    {
       "title": "As search traffic dries up, Reddit announces it\u2019s shifting to a logged-in experience",
       "summary": "",
       "source": "TechCrunch",
@@ -946,6 +920,27 @@
       "tags": [
         "Google"
       ]
+    },
+    {
+      "title": "Zest\u2019s new AI agent finds restaurants and books reservations over text",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "tags": []
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "tags": []
+    },
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "tags": []
     }
   ],
   "markets": [
@@ -1047,6 +1042,6 @@
       "tags": []
     }
   ],
-  "updated": "31 Oct 2026, 18:54 UTC",
-  "updated_iso": "2026-10-31T18:54:01.887368+00:00"
+  "updated": "31 Oct 2026, 22:01 UTC",
+  "updated_iso": "2026-10-31T22:01:56.379357+00:00"
 }
