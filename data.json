@@ -857,20 +857,6 @@
   ],
   "ai": [
     {
-      "title": "As search traffic dries up, Reddit announces it\u2019s shifting to a logged-in experience",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "tags": []
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says \u2014 but first, it will spend big",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "tags": []
-    },
-    {
       "title": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
       "summary": "",
       "source": "TechCrunch",
@@ -940,6 +926,23 @@
       "summary": "",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "tags": []
+    },
+    {
+      "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "tags": [
+        "Anthropic",
+        "Funding"
+      ]
+    },
+    {
+      "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
       "tags": []
     }
   ],
@@ -1042,6 +1045,6 @@
       "tags": []
     }
   ],
-  "updated": "01 Nov 2026, 19:00 UTC",
-  "updated_iso": "2026-11-01T19:00:16.715818+00:00"
+  "updated": "01 Nov 2026, 22:46 UTC",
+  "updated_iso": "2026-11-01T22:46:17.778051+00:00"
 }
