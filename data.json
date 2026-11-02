@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "63,225.29",
-      "change": -0.1,
+      "value": "63,081.86",
+      "change": -0.33,
       "series": [
         68309.46,
         69946.86,
@@ -134,7 +134,7 @@
         63954.19,
         64659.47,
         63290.11,
-        63225.29
+        63081.86
       ],
       "dates": [
         "2026-10-02",
@@ -163,10 +163,9 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,729.78",
-      "change": 0.07,
+      "value": "10,718.97",
+      "change": -0.1,
       "series": [
-        10428.3,
         10462.0,
         10497.9,
         10541.7,
@@ -187,10 +186,10 @@
         10686.5,
         10694.5,
         10722.1,
-        10729.8
+        10729.8,
+        10718.97
       ],
       "dates": [
-        "2026-10-01",
         "2026-10-02",
         "2026-10-05",
         "2026-10-06",
@@ -211,7 +210,8 @@
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-02"
       ]
     }
   ],
@@ -1018,22 +1018,20 @@
       "tags": []
     },
     {
-      "title": "Diwali hampers to bring hope to families in need",
+      "title": "Shops looted as German cost-of-living protests turn violent",
       "summary": "",
       "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Energy bills help 'doesn't go far enough'",
+      "title": "North Carolina voters weigh up Trump's track record on cost of living",
       "summary": "",
       "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
-      "tags": [
-        "Oil & energy"
-      ]
+      "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
+      "tags": []
     }
   ],
-  "updated": "02 Nov 2026, 01:57 UTC",
-  "updated_iso": "2026-11-02T01:57:57.411928+00:00"
+  "updated": "02 Nov 2026, 08:51 UTC",
+  "updated_iso": "2026-11-02T08:51:27.359141+00:00"
 }
