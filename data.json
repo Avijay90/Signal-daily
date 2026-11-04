@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,685.03",
-      "change": 1.53,
+      "value": "7,688.62",
+      "change": 1.58,
       "series": [
         7818.93,
         7801.77,
@@ -27,7 +27,7 @@
         7580.07,
         7541.4,
         7568.92,
-        7685.03
+        7688.62
       ],
       "dates": [
         "2026-10-06",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "25,795.00",
-      "change": 1.67,
+      "value": "25,736.51",
+      "change": 1.44,
       "series": [
         27599.79,
         27538.69,
@@ -81,7 +81,7 @@
         25437.0,
         25164.31,
         25372.01,
-        25795.0
+        25736.51
       ],
       "dates": [
         "2026-10-06",
@@ -161,8 +161,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,850.24",
-      "change": 1.99,
+      "value": "10,829.21",
+      "change": 1.79,
       "series": [
         10541.7,
         10458.5,
@@ -185,7 +185,7 @@
         10729.8,
         10761.3,
         10638.4,
-        10850.24
+        10829.21
       ],
       "dates": [
         "2026-10-06",
@@ -215,32 +215,32 @@
   ],
   "stocks": [
     {
-      "symbol": "AMZN",
-      "price": 266.66,
-      "change": 6.37,
+      "symbol": "MSFT",
+      "price": 555.8,
+      "change": 6.68,
       "series": [
-        256.29,
-        259.92,
-        254.06,
-        262.43,
-        259.53,
-        258.58,
-        254.08,
-        254.76,
-        250.0,
-        262.45,
-        262.63,
-        262.37,
-        250.38,
-        248.0,
-        249.09,
-        253.1,
-        254.6,
-        243.79,
-        240.35,
-        245.63,
-        250.69,
-        266.66
+        529.3,
+        529.76,
+        522.61,
+        535.07,
+        541.15,
+        543.45,
+        533.69,
+        539.44,
+        529.05,
+        533.52,
+        531.87,
+        532.95,
+        521.08,
+        524.51,
+        532.6,
+        531.33,
+        531.01,
+        530.14,
+        521.91,
+        507.12,
+        520.99,
+        555.8
       ],
       "dates": [
         "2026-10-06",
@@ -268,32 +268,32 @@
       ]
     },
     {
-      "symbol": "MSFT",
-      "price": 553.83,
-      "change": 6.3,
+      "symbol": "AMZN",
+      "price": 266.03,
+      "change": 6.12,
       "series": [
-        529.3,
-        529.76,
-        522.61,
-        535.07,
-        541.15,
-        543.45,
-        533.69,
-        539.44,
-        529.05,
-        533.52,
-        531.87,
-        532.95,
-        521.08,
-        524.51,
-        532.6,
-        531.33,
-        531.01,
-        530.14,
-        521.91,
-        507.12,
-        520.99,
-        553.83
+        256.29,
+        259.92,
+        254.06,
+        262.43,
+        259.53,
+        258.58,
+        254.08,
+        254.76,
+        250.0,
+        262.45,
+        262.63,
+        262.37,
+        250.38,
+        248.0,
+        249.09,
+        253.1,
+        254.6,
+        243.79,
+        240.35,
+        245.63,
+        250.69,
+        266.03
       ],
       "dates": [
         "2026-10-06",
@@ -322,8 +322,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 352.46,
-      "change": 6.19,
+      "price": 349.51,
+      "change": 5.31,
       "series": [
         333.63,
         336.67,
@@ -346,7 +346,7 @@
         344.63,
         338.32,
         331.9,
-        352.46
+        349.51
       ],
       "dates": [
         "2026-10-06",
@@ -375,8 +375,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 292.39,
-      "change": 4.41,
+      "price": 288.93,
+      "change": 3.18,
       "series": [
         347.68,
         350.5,
@@ -399,7 +399,7 @@
         279.84,
         278.99,
         280.03,
-        292.39
+        288.93
       ],
       "dates": [
         "2026-10-06",
@@ -428,8 +428,8 @@
     },
     {
       "symbol": "META",
-      "price": 632.2,
-      "change": 1.8,
+      "price": 630.0,
+      "change": 1.44,
       "series": [
         738.88,
         721.31,
@@ -452,7 +452,7 @@
         614.99,
         606.73,
         621.03,
-        632.2
+        630.0
       ],
       "dates": [
         "2026-10-06",
@@ -481,8 +481,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 486.72,
-      "change": 0.58,
+      "price": 488.78,
+      "change": 1.01,
       "series": [
         649.42,
         645.86,
@@ -505,7 +505,7 @@
         504.8,
         466.84,
         483.9,
-        486.72
+        488.78
       ],
       "dates": [
         "2026-10-06",
@@ -534,8 +534,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 126.38,
-      "change": 0.15,
+      "price": 123.73,
+      "change": -1.95,
       "series": [
         144.77,
         143.56,
@@ -558,113 +558,7 @@
         130.67,
         119.22,
         126.19,
-        126.38
-      ],
-      "dates": [
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04"
-      ]
-    },
-    {
-      "symbol": "PLTR",
-      "price": 174.46,
-      "change": -0.54,
-      "series": [
-        192.07,
-        194.12,
-        198.78,
-        209.05,
-        209.0,
-        208.67,
-        200.97,
-        200.5,
-        186.03,
-        194.15,
-        192.6,
-        201.72,
-        196.19,
-        196.75,
-        198.84,
-        198.73,
-        196.81,
-        196.42,
-        184.11,
-        178.34,
-        175.4,
-        174.46
-      ],
-      "dates": [
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04"
-      ]
-    },
-    {
-      "symbol": "NVDA",
-      "price": 202.99,
-      "change": -1.79,
-      "series": [
-        239.24,
-        237.47,
-        230.48,
-        229.28,
-        226.32,
-        228.52,
-        221.3,
-        217.23,
-        214.13,
-        217.09,
-        216.47,
-        221.97,
-        212.21,
-        210.96,
-        216.0,
-        217.94,
-        215.38,
-        213.66,
-        204.64,
-        202.06,
-        206.69,
-        202.99
+        123.73
       ],
       "dates": [
         "2026-10-06",
@@ -693,8 +587,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 325.45,
-      "change": -2.01,
+      "price": 325.48,
+      "change": -2.0,
       "series": [
         375.81,
         376.51,
@@ -717,7 +611,60 @@
         326.08,
         322.23,
         332.13,
-        325.45
+        325.48
+      ],
+      "dates": [
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04"
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "price": 171.7,
+      "change": -2.11,
+      "series": [
+        192.07,
+        194.12,
+        198.78,
+        209.05,
+        209.0,
+        208.67,
+        200.97,
+        200.5,
+        186.03,
+        194.15,
+        192.6,
+        201.72,
+        196.19,
+        196.75,
+        198.84,
+        198.73,
+        196.81,
+        196.42,
+        184.11,
+        178.34,
+        175.4,
+        171.7
       ],
       "dates": [
         "2026-10-06",
@@ -746,8 +693,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 395.11,
-      "change": -2.39,
+      "price": 395.75,
+      "change": -2.24,
       "series": [
         482.3,
         472.2,
@@ -770,7 +717,60 @@
         406.13,
         398.63,
         404.8,
-        395.11
+        395.75
+      ],
+      "dates": [
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04"
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "price": 200.13,
+      "change": -3.17,
+      "series": [
+        239.24,
+        237.47,
+        230.48,
+        229.28,
+        226.32,
+        228.52,
+        221.3,
+        217.23,
+        214.13,
+        217.09,
+        216.47,
+        221.97,
+        212.21,
+        210.96,
+        216.0,
+        217.94,
+        215.38,
+        213.66,
+        204.64,
+        202.06,
+        206.69,
+        200.13
       ],
       "dates": [
         "2026-10-06",
@@ -799,8 +799,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 384.42,
-      "change": -3.53,
+      "price": 385.19,
+      "change": -3.34,
       "series": [
         380.68,
         377.81,
@@ -823,7 +823,7 @@
         399.81,
         403.82,
         398.5,
-        384.42
+        385.19
       ],
       "dates": [
         "2026-10-06",
@@ -852,63 +852,6 @@
     }
   ],
   "ai": [
-    {
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "tags": []
-    },
-    {
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "tags": []
-    },
-    {
-      "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
-      "title": "Y Combinator\u2019s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "tags": []
-    },
-    {
-      "title": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "tags": [
-        "Google"
-      ]
-    },
     {
       "title": "Apple Watch\u2019s AI features for rewinding and recapping conversations begin beta testing",
       "summary": "",
@@ -944,6 +887,61 @@
       "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
       "tags": [
         "Google"
+      ]
+    },
+    {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Netflix\u2019s new AI Discover tab helps you find something to watch based on your mood",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "tags": []
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "tags": [
+        "Funding"
+      ]
+    },
+    {
+      "title": "Hiding inside Palantir\u2019s skyrocketing quarter is a foreboding signal",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "tags": []
+    },
+    {
+      "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "tags": []
+    },
+    {
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "tags": []
+    },
+    {
+      "title": "Anthropic is working on a system to prove AI models\u2019 identity",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "tags": [
+        "Anthropic"
       ]
     }
   ],
@@ -1048,6 +1046,6 @@
       "tags": []
     }
   ],
-  "updated": "04 Nov 2026, 16:14 UTC",
-  "updated_iso": "2026-11-04T16:14:02.641165+00:00"
+  "updated": "04 Nov 2026, 21:53 UTC",
+  "updated_iso": "2026-11-04T21:53:11.771963+00:00"
 }
