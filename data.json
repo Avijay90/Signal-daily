@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,443.74",
-      "change": -3.18,
+      "value": "7,353.73",
+      "change": -4.36,
       "series": [
         7801.77,
         7765.36,
@@ -27,7 +27,7 @@
         7541.4,
         7568.92,
         7688.62,
-        7443.74
+        7353.73
       ],
       "dates": [
         "2026-10-07",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "24,627.02",
-      "change": -4.31,
+      "value": "24,315.00",
+      "change": -5.52,
       "series": [
         27538.69,
         27193.34,
@@ -81,7 +81,7 @@
         25164.31,
         25372.01,
         25736.51,
-        24627.02
+        24315.0
       ],
       "dates": [
         "2026-10-07",
@@ -163,8 +163,8 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,771.46",
-      "change": -0.53,
+      "value": "10,782.66",
+      "change": -0.43,
       "series": [
         10458.5,
         10441.6,
@@ -187,7 +187,7 @@
         10761.3,
         10638.4,
         10829.2,
-        10771.46
+        10782.66
       ],
       "dates": [
         "2026-10-07",
@@ -218,8 +218,8 @@
   "stocks": [
     {
       "symbol": "AAPL",
-      "price": 345.09,
-      "change": -1.26,
+      "price": 344.17,
+      "change": -1.53,
       "series": [
         336.67,
         340.42,
@@ -242,60 +242,7 @@
         338.32,
         331.9,
         349.51,
-        345.09
-      ],
-      "dates": [
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05"
-      ]
-    },
-    {
-      "symbol": "GOOGL",
-      "price": 284.06,
-      "change": -1.69,
-      "series": [
-        350.5,
-        348.29,
-        351.66,
-        352.72,
-        353.78,
-        347.64,
-        349.22,
-        340.59,
-        344.18,
-        340.28,
-        334.76,
-        324.22,
-        320.21,
-        316.8,
-        320.58,
-        324.89,
-        283.82,
-        279.84,
-        278.99,
-        280.03,
-        288.93,
-        284.05
+        344.17
       ],
       "dates": [
         "2026-10-07",
@@ -324,8 +271,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 261.54,
-      "change": -1.69,
+      "price": 260.21,
+      "change": -2.19,
       "series": [
         259.92,
         254.06,
@@ -348,7 +295,60 @@
         245.63,
         250.69,
         266.03,
-        261.54
+        260.21
+      ],
+      "dates": [
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05"
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 282.57,
+      "change": -2.2,
+      "series": [
+        350.5,
+        348.29,
+        351.66,
+        352.72,
+        353.78,
+        347.64,
+        349.22,
+        340.59,
+        344.18,
+        340.28,
+        334.76,
+        324.22,
+        320.21,
+        316.8,
+        320.58,
+        324.89,
+        283.82,
+        279.84,
+        278.99,
+        280.03,
+        288.93,
+        282.57
       ],
       "dates": [
         "2026-10-07",
@@ -377,8 +377,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 542.54,
-      "change": -2.39,
+      "price": 535.93,
+      "change": -3.58,
       "series": [
         529.76,
         522.61,
@@ -401,7 +401,7 @@
         507.12,
         520.99,
         555.8,
-        542.54
+        535.93
       ],
       "dates": [
         "2026-10-07",
@@ -430,8 +430,8 @@
     },
     {
       "symbol": "META",
-      "price": 608.0,
-      "change": -3.49,
+      "price": 605.08,
+      "change": -3.96,
       "series": [
         721.31,
         720.89,
@@ -454,113 +454,7 @@
         606.73,
         621.03,
         630.0,
-        608.01
-      ],
-      "dates": [
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05"
-      ]
-    },
-    {
-      "symbol": "NVDA",
-      "price": 186.49,
-      "change": -6.82,
-      "series": [
-        237.47,
-        230.48,
-        229.28,
-        226.32,
-        228.52,
-        221.3,
-        217.23,
-        214.13,
-        217.09,
-        216.47,
-        221.97,
-        212.21,
-        210.96,
-        216.0,
-        217.94,
-        215.38,
-        213.66,
-        204.64,
-        202.06,
-        206.69,
-        200.13,
-        186.49
-      ],
-      "dates": [
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05"
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "price": 302.7,
-      "change": -7.0,
-      "series": [
-        376.51,
-        360.14,
-        361.54,
-        354.73,
-        357.31,
-        346.25,
-        344.33,
-        328.75,
-        334.59,
-        334.37,
-        337.8,
-        323.24,
-        321.68,
-        329.17,
-        342.33,
-        351.81,
-        345.0,
-        326.08,
-        322.23,
-        332.13,
-        325.48,
-        302.7
+        605.08
       ],
       "dates": [
         "2026-10-07",
@@ -589,8 +483,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 114.94,
-      "change": -7.11,
+      "price": 115.16,
+      "change": -6.93,
       "series": [
         143.56,
         135.69,
@@ -613,7 +507,7 @@
         119.22,
         126.19,
         123.73,
-        114.93
+        115.16
       ],
       "dates": [
         "2026-10-07",
@@ -641,32 +535,32 @@
       ]
     },
     {
-      "symbol": "TSM",
-      "price": 362.21,
-      "change": -8.48,
+      "symbol": "NVDA",
+      "price": 181.6,
+      "change": -9.26,
       "series": [
-        472.2,
-        457.99,
-        453.31,
-        444.35,
-        445.12,
-        430.0,
-        422.25,
-        412.61,
-        420.22,
-        425.08,
-        431.89,
-        412.35,
-        418.51,
-        424.37,
-        436.87,
-        439.51,
-        431.81,
-        406.13,
-        398.63,
-        404.8,
-        395.75,
-        362.21
+        237.47,
+        230.48,
+        229.28,
+        226.32,
+        228.52,
+        221.3,
+        217.23,
+        214.13,
+        217.09,
+        216.47,
+        221.97,
+        212.21,
+        210.96,
+        216.0,
+        217.94,
+        215.38,
+        213.66,
+        204.64,
+        202.06,
+        206.69,
+        200.13,
+        181.6
       ],
       "dates": [
         "2026-10-07",
@@ -695,8 +589,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 155.73,
-      "change": -9.3,
+      "price": 154.99,
+      "change": -9.73,
       "series": [
         194.12,
         198.78,
@@ -719,7 +613,60 @@
         178.34,
         175.4,
         171.7,
-        155.73
+        154.99
+      ],
+      "dates": [
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05"
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "price": 291.53,
+      "change": -10.43,
+      "series": [
+        376.51,
+        360.14,
+        361.54,
+        354.73,
+        357.31,
+        346.25,
+        344.33,
+        328.75,
+        334.59,
+        334.37,
+        337.8,
+        323.24,
+        321.68,
+        329.17,
+        342.33,
+        351.81,
+        345.0,
+        326.08,
+        322.23,
+        332.13,
+        325.48,
+        291.53
       ],
       "dates": [
         "2026-10-07",
@@ -748,8 +695,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 345.64,
-      "change": -10.27,
+      "price": 343.69,
+      "change": -10.77,
       "series": [
         377.81,
         375.0,
@@ -772,7 +719,60 @@
         403.82,
         398.5,
         385.19,
-        345.64
+        343.69
+      ],
+      "dates": [
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05"
+      ]
+    },
+    {
+      "symbol": "TSM",
+      "price": 353.1,
+      "change": -10.78,
+      "series": [
+        472.2,
+        457.99,
+        453.31,
+        444.35,
+        445.12,
+        430.0,
+        422.25,
+        412.61,
+        420.22,
+        425.08,
+        431.89,
+        412.35,
+        418.51,
+        424.37,
+        436.87,
+        439.51,
+        431.81,
+        406.13,
+        398.63,
+        404.8,
+        395.75,
+        353.1
       ],
       "dates": [
         "2026-10-07",
@@ -801,8 +801,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 421.26,
-      "change": -13.81,
+      "price": 404.4,
+      "change": -17.26,
       "series": [
         645.86,
         620.68,
@@ -825,7 +825,7 @@
         466.84,
         483.9,
         488.78,
-        421.27
+        404.4
       ],
       "dates": [
         "2026-10-07",
@@ -854,45 +854,6 @@
     }
   ],
   "ai": [
-    {
-      "title": "Anthropic is working on a system to prove AI models\u2019 identity",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-      "tags": []
-    },
-    {
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "tags": [
-        "Google"
-      ]
-    },
-    {
-      "title": "I tried Apple\u2019s Siri Recaps. They\u2019re surprisingly useful \u2014 and a little unsettling",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "tags": []
-    },
-    {
-      "title": "Building on open source AI? Hugging Face\u2019s policy chief on the costs, risks, and trade-offs",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-      "tags": []
-    },
     {
       "title": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
       "summary": "",
@@ -952,106 +913,135 @@
       "tags": [
         "Regulation"
       ]
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "tags": []
+    },
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "tags": []
+    },
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "tags": []
+    },
+    {
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "tags": []
+    },
+    {
+      "title": "Box taps Nvidia\u2019s Nemotron for new agent-first content retrieval system",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+      "tags": [
+        "Nvidia"
+      ]
     }
   ],
   "markets": [
     {
-      "title": "One week out, prediction markets see Democrats as favored to sweep Congress",
+      "title": "Bloom Energy\u2019s stock is one of the S&P 500\u2019s biggest losers amid fears of data-center delays",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/2026-midterms-prediction-markets-democrats-congress.html",
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "title": "Margin debt growth slows sharply as stock market warning signs build",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves after hours: Visa, Robinhood, NXP, Seagate and more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/stocks-making-the-biggest-moves-after-hours-v-hood-nxp-stx-more-.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Ultralife, SK Hynix, Robinhood, Enphase Energy & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-premarket-ulbi-slhy-hood-enph.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
       "tags": [
         "Oil & energy"
       ]
     },
     {
-      "title": "Fed holds rates steady despite concerns over inflation",
+      "title": "5 of this year\u2019s biggest stock losers that are good bets in 2027",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Here is what changed in the new Fed statement",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/5-of-this-years-biggest-stock-losers-that-are-good-bets-in-2027-bb861d4c?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
+      "title": "As Nvidia\u2019s stock enters a bear market, bargain hunters see a golden buying opportunity",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
-      "tags": []
-    },
-    {
-      "title": "Kalshi valuation jumps to $40 billion in latest funding round",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/kalshi-40-billion-valuation-funding-round.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
       "tags": [
-        "Funding"
+        "Nvidia"
       ]
     },
     {
-      "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
+      "title": "Micron, Sandisk and other AI stocks see steep drops: \u2018Investors don\u2019t like uncertainty\u2019",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Aon CEO warns AI data center insurance risks could threaten financing",
+      "title": "Is this \u2018the big one\u2019 for the stock market? Wall Street sounds off as tech plunges.",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "After tech-stock rout, October jobs report could bring relief \u2014 or more pain",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The \u2018Musk selloff\u2019 deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Here\u2019s what\u2019s driving Iren\u2019s stock higher after a brutal selloff",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Business Daily",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8grr?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "05 Nov 2026, 16:50 UTC",
-  "updated_iso": "2026-11-05T16:50:43.738695+00:00"
+  "updated": "05 Nov 2026, 22:26 UTC",
+  "updated_iso": "2026-11-05T22:26:42.572377+00:00"
 }
