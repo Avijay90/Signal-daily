@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "57,810.15",
-      "change": -5.35,
+      "value": "57,434.77",
+      "change": -5.96,
       "series": [
         70683.98,
         70035.71,
@@ -135,7 +135,7 @@
         63081.86,
         62188.63,
         61077.9,
-        57810.15
+        57434.77
       ],
       "dates": [
         "2026-10-06",
@@ -165,10 +165,9 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,782.66",
-      "change": -0.43,
+      "value": "10,645.27",
+      "change": -1.27,
       "series": [
-        10458.5,
         10441.6,
         10552.1,
         10656.3,
@@ -189,10 +188,10 @@
         10761.3,
         10638.4,
         10829.2,
-        10782.7
+        10782.7,
+        10645.27
       ],
       "dates": [
-        "2026-10-07",
         "2026-10-08",
         "2026-10-09",
         "2026-10-12",
@@ -213,7 +212,8 @@
         "2026-11-02",
         "2026-11-03",
         "2026-11-04",
-        "2026-11-05"
+        "2026-11-05",
+        "2026-11-06"
       ]
     }
   ],
@@ -857,15 +857,6 @@
   ],
   "ai": [
     {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
       "title": "Meta acquires AI coding startup Conductor",
       "summary": "",
       "source": "TechCrunch",
@@ -950,106 +941,103 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
       "tags": []
+    },
+    {
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "tags": [
+        "Funding"
+      ]
     }
   ],
   "markets": [
     {
-      "title": "Stocks making the biggest moves after hours: Visa, Robinhood, NXP, Seagate and more",
+      "title": "The \u2018Musk selloff\u2019 deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/stocks-making-the-biggest-moves-after-hours-v-hood-nxp-stx-more-.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: Ultralife, SK Hynix, Robinhood, Enphase Energy & more",
+      "title": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-premarket-ulbi-slhy-hood-enph.html",
-      "tags": [
-        "Oil & energy"
-      ]
-    },
-    {
-      "title": "Fed holds rates steady despite concerns over inflation",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Here is what changed in the new Fed statement",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
+      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Kalshi valuation jumps to $40 billion in latest funding round",
+      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/kalshi-40-billion-valuation-funding-round.html",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Aon CEO warns AI data center insurance risks could threaten financing",
+      "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+      "title": "Here are the 2027 capital-gains tax rates for each income level",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
+      "title": "Cloudflare\u2019s stock mounts a big comeback after fastest sales surge in nearly 4 years",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
-      "tags": [
-        "Crypto"
-      ]
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Here\u2019s what\u2019s driving Iren\u2019s stock higher after a brutal selloff",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Business Daily",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8grr?at_medium=RSS&at_campaign=rss",
+      "tags": []
     }
   ],
-  "updated": "06 Nov 2026, 02:40 UTC",
-  "updated_iso": "2026-11-06T02:40:13.977334+00:00"
+  "updated": "06 Nov 2026, 09:51 UTC",
+  "updated_iso": "2026-11-06T09:51:40.462026+00:00"
 }
