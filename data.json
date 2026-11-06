@@ -111,10 +111,9 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "61,077.90",
-      "change": -3.18,
+      "value": "57,810.15",
+      "change": -5.35,
       "series": [
-        69946.86,
         70683.98,
         70035.71,
         69042.11,
@@ -134,10 +133,11 @@
         64659.47,
         63290.11,
         63081.86,
-        62188.63
+        62188.63,
+        61077.9,
+        57810.15
       ],
       "dates": [
-        "2026-10-05",
         "2026-10-06",
         "2026-10-07",
         "2026-10-08",
@@ -157,7 +157,9 @@
         "2026-10-29",
         "2026-10-30",
         "2026-11-02",
-        "2026-11-04"
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
       ]
     },
     {
@@ -187,7 +189,7 @@
         10761.3,
         10638.4,
         10829.2,
-        10782.66
+        10782.7
       ],
       "dates": [
         "2026-10-07",
@@ -855,15 +857,6 @@
   ],
   "ai": [
     {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "tags": [
-        "Google"
-      ]
-    },
-    {
       "title": "Open source AI is booming. Hugging Face explains who profits.",
       "summary": "",
       "source": "TechCrunch",
@@ -950,98 +943,113 @@
       "tags": [
         "Nvidia"
       ]
+    },
+    {
+      "title": "Aina\u2019s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+      "tags": []
     }
   ],
   "markets": [
     {
-      "title": "Bloom Energy\u2019s stock is one of the S&P 500\u2019s biggest losers amid fears of data-center delays",
+      "title": "Stocks making the biggest moves after hours: Visa, Robinhood, NXP, Seagate and more",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/27/stocks-making-the-biggest-moves-after-hours-v-hood-nxp-stx-more-.html",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Ultralife, SK Hynix, Robinhood, Enphase Energy & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-premarket-ulbi-slhy-hood-enph.html",
       "tags": [
         "Oil & energy"
       ]
     },
     {
-      "title": "5 of this year\u2019s biggest stock losers that are good bets in 2027",
+      "title": "Fed holds rates steady despite concerns over inflation",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/5-of-this-years-biggest-stock-losers-that-are-good-bets-in-2027-bb861d4c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "As Nvidia\u2019s stock enters a bear market, bargain hunters see a golden buying opportunity",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
       "tags": [
-        "Nvidia"
+        "Rates & Fed"
       ]
     },
     {
-      "title": "Micron, Sandisk and other AI stocks see steep drops: \u2018Investors don\u2019t like uncertainty\u2019",
+      "title": "Here is what changed in the new Fed statement",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
       "tags": []
     },
     {
-      "title": "Is this \u2018the big one\u2019 for the stock market? Wall Street sounds off as tech plunges.",
+      "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
       "tags": []
     },
     {
-      "title": "After tech-stock rout, October jobs report could bring relief \u2014 or more pain",
+      "title": "Kalshi valuation jumps to $40 billion in latest funding round",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/kalshi-40-billion-valuation-funding-round.html",
+      "tags": [
+        "Funding"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
       "tags": []
     },
     {
-      "title": "The \u2018Musk selloff\u2019 deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
+      "title": "Aon CEO warns AI data center insurance risks could threaten financing",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
       "tags": []
     },
     {
-      "title": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
+      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
       "tags": []
     },
     {
-      "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+      "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Here\u2019s what\u2019s driving Iren\u2019s stock higher after a brutal selloff",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Business Daily",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8grr?at_medium=RSS&at_campaign=rss",
-      "tags": []
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
+      "tags": [
+        "Crypto"
+      ]
     }
   ],
-  "updated": "05 Nov 2026, 22:26 UTC",
-  "updated_iso": "2026-11-05T22:26:42.572377+00:00"
+  "updated": "06 Nov 2026, 02:40 UTC",
+  "updated_iso": "2026-11-06T02:40:13.977334+00:00"
 }
