@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,424.19",
-      "change": 0.96,
+      "value": "7,376.86",
+      "change": 0.31,
       "series": [
         7765.36,
         7811.54,
@@ -27,7 +27,7 @@
         7568.92,
         7688.62,
         7353.73,
-        7424.19
+        7376.86
       ],
       "dates": [
         "2026-10-08",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "24,722.27",
-      "change": 1.67,
+      "value": "24,579.42",
+      "change": 1.09,
       "series": [
         27193.34,
         27366.17,
@@ -81,7 +81,7 @@
         25372.01,
         25736.51,
         24315.0,
-        24722.27
+        24579.42
       ],
       "dates": [
         "2026-10-08",
@@ -218,8 +218,8 @@
   "stocks": [
     {
       "symbol": "AMD",
-      "price": 444.67,
-      "change": 9.96,
+      "price": 449.04,
+      "change": 11.04,
       "series": [
         620.68,
         608.1,
@@ -242,7 +242,7 @@
         483.9,
         488.78,
         404.4,
-        444.67
+        449.04
       ],
       "dates": [
         "2026-10-08",
@@ -271,8 +271,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 375.57,
-      "change": 6.36,
+      "price": 375.44,
+      "change": 6.33,
       "series": [
         457.99,
         453.31,
@@ -295,7 +295,7 @@
         404.8,
         395.75,
         353.1,
-        375.57
+        375.44
       ],
       "dates": [
         "2026-10-08",
@@ -324,8 +324,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 361.07,
-      "change": 5.06,
+      "price": 358.22,
+      "change": 4.23,
       "series": [
         375.0,
         382.7,
@@ -348,7 +348,7 @@
         398.5,
         385.19,
         343.69,
-        361.08
+        358.22
       ],
       "dates": [
         "2026-10-08",
@@ -377,8 +377,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 161.54,
-      "change": 4.23,
+      "price": 160.38,
+      "change": 3.48,
       "series": [
         198.78,
         209.05,
@@ -401,7 +401,7 @@
         175.4,
         171.7,
         154.99,
-        161.54
+        160.38
       ],
       "dates": [
         "2026-10-08",
@@ -430,8 +430,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 188.36,
-      "change": 3.72,
+      "price": 186.64,
+      "change": 2.78,
       "series": [
         230.48,
         229.28,
@@ -454,7 +454,7 @@
         206.69,
         200.13,
         181.6,
-        188.36
+        186.64
       ],
       "dates": [
         "2026-10-08",
@@ -483,8 +483,8 @@
     },
     {
       "symbol": "META",
-      "price": 620.9,
-      "change": 2.61,
+      "price": 610.15,
+      "change": 0.84,
       "series": [
         720.89,
         718.67,
@@ -507,113 +507,7 @@
         621.03,
         630.0,
         605.08,
-        620.9
-      ],
-      "dates": [
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06"
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "price": 296.46,
-      "change": 1.69,
-      "series": [
-        360.14,
-        361.54,
-        354.73,
-        357.31,
-        346.25,
-        344.33,
-        328.75,
-        334.59,
-        334.37,
-        337.8,
-        323.24,
-        321.68,
-        329.17,
-        342.33,
-        351.81,
-        345.0,
-        326.08,
-        322.23,
-        332.13,
-        325.48,
-        291.53,
-        296.46
-      ],
-      "dates": [
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06"
-      ]
-    },
-    {
-      "symbol": "GOOGL",
-      "price": 286.99,
-      "change": 1.56,
-      "series": [
-        348.29,
-        351.66,
-        352.72,
-        353.78,
-        347.64,
-        349.22,
-        340.59,
-        344.18,
-        340.28,
-        334.76,
-        324.22,
-        320.21,
-        316.8,
-        320.58,
-        324.89,
-        283.82,
-        279.84,
-        278.99,
-        280.03,
-        288.93,
-        282.57,
-        286.99
+        610.15
       ],
       "dates": [
         "2026-10-08",
@@ -642,8 +536,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 116.74,
-      "change": 1.37,
+      "price": 116.1,
+      "change": 0.82,
       "series": [
         135.69,
         141.4,
@@ -666,7 +560,113 @@
         126.19,
         123.73,
         115.16,
-        116.74
+        116.1
+      ],
+      "dates": [
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 284.78,
+      "change": 0.78,
+      "series": [
+        348.29,
+        351.66,
+        352.72,
+        353.78,
+        347.64,
+        349.22,
+        340.59,
+        344.18,
+        340.28,
+        334.76,
+        324.22,
+        320.21,
+        316.8,
+        320.58,
+        324.89,
+        283.82,
+        279.84,
+        278.99,
+        280.03,
+        288.93,
+        282.57,
+        284.78
+      ],
+      "dates": [
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "price": 293.69,
+      "change": 0.74,
+      "series": [
+        360.14,
+        361.54,
+        354.73,
+        357.31,
+        346.25,
+        344.33,
+        328.75,
+        334.59,
+        334.37,
+        337.8,
+        323.24,
+        321.68,
+        329.17,
+        342.33,
+        351.81,
+        345.0,
+        326.08,
+        322.23,
+        332.13,
+        325.48,
+        291.53,
+        293.69
       ],
       "dates": [
         "2026-10-08",
@@ -695,8 +695,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 263.15,
-      "change": 1.13,
+      "price": 259.3,
+      "change": -0.35,
       "series": [
         254.06,
         262.43,
@@ -719,60 +719,7 @@
         250.69,
         266.03,
         260.21,
-        263.15
-      ],
-      "dates": [
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06"
-      ]
-    },
-    {
-      "symbol": "MSFT",
-      "price": 535.92,
-      "change": -0.0,
-      "series": [
-        522.61,
-        535.07,
-        541.15,
-        543.45,
-        533.69,
-        539.44,
-        529.05,
-        533.52,
-        531.87,
-        532.95,
-        521.08,
-        524.51,
-        532.6,
-        531.33,
-        531.01,
-        530.14,
-        521.91,
-        507.12,
-        520.99,
-        555.8,
-        535.93,
-        535.92
+        259.3
       ],
       "dates": [
         "2026-10-08",
@@ -801,8 +748,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 344.02,
-      "change": -0.04,
+      "price": 342.37,
+      "change": -0.52,
       "series": [
         340.42,
         336.64,
@@ -825,7 +772,60 @@
         331.9,
         349.51,
         344.17,
-        344.02
+        342.37
+      ],
+      "dates": [
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "price": 530.61,
+      "change": -0.99,
+      "series": [
+        522.61,
+        535.07,
+        541.15,
+        543.45,
+        533.69,
+        539.44,
+        529.05,
+        533.52,
+        531.87,
+        532.95,
+        521.08,
+        524.51,
+        532.6,
+        531.33,
+        531.01,
+        530.14,
+        521.91,
+        507.12,
+        520.99,
+        555.8,
+        535.93,
+        530.61
       ],
       "dates": [
         "2026-10-08",
@@ -854,36 +854,6 @@
     }
   ],
   "ai": [
-    {
-      "title": "AI PACs spent millions trying to shape Congress \u2014 here\u2019s how they fared",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "tags": []
-    },
-    {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "tags": []
-    },
-    {
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-      "tags": []
-    },
     {
       "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
       "summary": "",
@@ -950,27 +920,41 @@
       "tags": [
         "OpenAI"
       ]
+    },
+    {
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "tags": [
+        "Meta"
+      ]
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "tags": [
+        "Meta"
+      ]
+    },
+    {
+      "title": "Airbnb says it\u2019s launching an AI travel agent in the first half of 2027",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "tags": []
+    },
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "Stocks making the biggest moves premarket: Ultralife, SK Hynix, Robinhood, Enphase Energy & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-premarket-ulbi-slhy-hood-enph.html",
-      "tags": [
-        "Oil & energy"
-      ]
-    },
-    {
-      "title": "Fed holds rates steady despite concerns over inflation",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
     {
       "title": "Here is what changed in the new Fed statement",
       "summary": "",
@@ -1048,8 +1032,24 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
       "tags": []
+    },
+    {
+      "title": "Fed officials are already saying they\u2019ll need to get back to hiking rates",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+      "tags": []
     }
   ],
-  "updated": "06 Nov 2026, 17:00 UTC",
-  "updated_iso": "2026-11-06T17:00:12.619618+00:00"
+  "updated": "06 Nov 2026, 22:04 UTC",
+  "updated_iso": "2026-11-06T22:04:06.036474+00:00"
 }
