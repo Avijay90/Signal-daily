@@ -81,7 +81,7 @@
         25372.01,
         25736.51,
         24315.0,
-        24579.42
+        24579.43
       ],
       "dates": [
         "2026-10-08",
@@ -378,6 +378,59 @@
       ]
     },
     {
+      "symbol": "PLTR",
+      "price": 160.38,
+      "change": 3.48,
+      "series": [
+        198.78,
+        209.05,
+        209.0,
+        208.67,
+        200.97,
+        200.5,
+        186.03,
+        194.15,
+        192.6,
+        201.72,
+        196.19,
+        196.75,
+        198.84,
+        198.73,
+        196.81,
+        196.42,
+        184.11,
+        178.34,
+        175.4,
+        171.7,
+        154.99,
+        160.38
+      ],
+      "dates": [
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
+      ]
+    },
+    {
       "symbol": "NVDA",
       "price": 186.64,
       "change": 2.78,
@@ -404,6 +457,59 @@
         200.13,
         181.6,
         186.64
+      ],
+      "dates": [
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06"
+      ]
+    },
+    {
+      "symbol": "META",
+      "price": 610.15,
+      "change": 0.84,
+      "series": [
+        720.89,
+        718.67,
+        742.96,
+        762.5,
+        737.54,
+        736.72,
+        709.33,
+        705.44,
+        694.25,
+        697.52,
+        648.85,
+        642.62,
+        630.56,
+        620.19,
+        612.49,
+        624.52,
+        614.99,
+        606.73,
+        621.03,
+        630.0,
+        605.08,
+        610.15
       ],
       "dates": [
         "2026-10-08",
@@ -747,112 +853,6 @@
         "2026-11-05",
         "2026-11-06"
       ]
-    },
-    {
-      "symbol": "META",
-      "price": 610.15,
-      "change": -3.15,
-      "series": [
-        721.31,
-        720.89,
-        718.67,
-        742.96,
-        762.5,
-        737.54,
-        736.72,
-        709.33,
-        705.44,
-        694.25,
-        697.52,
-        648.85,
-        642.62,
-        630.56,
-        620.19,
-        612.49,
-        624.52,
-        614.99,
-        606.73,
-        621.03,
-        630.0,
-        605.08
-      ],
-      "dates": [
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05"
-      ]
-    },
-    {
-      "symbol": "PLTR",
-      "price": 160.38,
-      "change": -6.59,
-      "series": [
-        194.12,
-        198.78,
-        209.05,
-        209.0,
-        208.67,
-        200.97,
-        200.5,
-        186.03,
-        194.15,
-        192.6,
-        201.72,
-        196.19,
-        196.75,
-        198.84,
-        198.73,
-        196.81,
-        196.42,
-        184.11,
-        178.34,
-        175.4,
-        171.7,
-        154.99
-      ],
-      "dates": [
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05"
-      ]
     }
   ],
   "ai": [
@@ -958,100 +958,94 @@
   ],
   "markets": [
     {
-      "title": "Here is what changed in the new Fed statement",
+      "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Cybertruck\u2019s run comes to an end as Musk kills off pricey pet project",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Micron\u2019s stock is dirt cheap \u2014\u00a0and that\u2019s igniting a fierce online debate",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Data centers run on debt. That was a problem for bonds this year \u2014 and it\u2019s only going to get worse.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Elon Musk opens the door for a big SpaceX acquisition",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "What in the World",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct990m?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "What does the raise in interest rates mean?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
       "tags": [
         "Rates & Fed"
       ]
-    },
-    {
-      "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
-      "tags": []
-    },
-    {
-      "title": "Kalshi valuation jumps to $40 billion in latest funding round",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/kalshi-40-billion-valuation-funding-round.html",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
-      "tags": []
-    },
-    {
-      "title": "Aon CEO warns AI data center insurance risks could threaten financing",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
-      "tags": []
-    },
-    {
-      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-      "tags": []
-    },
-    {
-      "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
-      "tags": [
-        "Crypto"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
-      "tags": []
-    },
-    {
-      "title": "Fed officials are already saying they\u2019ll need to get back to hiking rates",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-      "tags": []
     }
   ],
-  "updated": "07 Nov 2026, 01:52 UTC",
-  "updated_iso": "2026-11-07T01:52:28.707461+00:00"
+  "updated": "07 Nov 2026, 07:58 UTC",
+  "updated_iso": "2026-11-07T07:58:08.727151+00:00"
 }
