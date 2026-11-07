@@ -857,22 +857,6 @@
   ],
   "ai": [
     {
-      "title": "Aina\u2019s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "tags": []
-    },
-    {
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
       "title": "Axiom Math wants to keep AI slop out of mathematics",
       "summary": "",
       "source": "TechCrunch",
@@ -954,103 +938,117 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
       "tags": []
+    },
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "tags": []
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "tags": [
+        "Anthropic",
+        "Funding"
+      ]
     }
   ],
   "markets": [
     {
-      "title": "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
+      "title": "What does the raise in interest rates mean?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Alphabet, Caterpillar, Eli Lilly, DoorDash & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
-      "tags": []
-    },
-    {
-      "title": "Kalshi valuation jumps to $40 billion in latest funding round",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/kalshi-40-billion-valuation-funding-round.html",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
-      "tags": []
-    },
-    {
-      "title": "Aon CEO warns AI data center insurance risks could threaten financing",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
-      "tags": []
-    },
-    {
-      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-      "tags": []
-    },
-    {
-      "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
-      "tags": [
-        "Crypto"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
-      "tags": []
-    },
-    {
-      "title": "Fed officials are already saying they\u2019ll need to get back to hiking rates",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
       "tags": [
         "Rates & Fed"
       ]
     },
     {
-      "title": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
+      "title": "Workers' rights 'second place' to economic growth",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cq369l9r634ro?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
+      "title": "Ipswich Town's new club shop 'here to stay'",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why Gen Z are planning for life without a state pension",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why the UK is dithering over what to do about e-scooters",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "'I've taken an extra job to pay for heating oil'",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&at_campaign=rss",
       "tags": [
-        "Funding",
-        "Crypto"
+        "Oil & energy"
       ]
     },
     {
-      "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
+      "title": "Winter support for residents facing cost pressures",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo?at_medium=RSS&at_campaign=rss",
       "tags": []
+    },
+    {
+      "title": "Food bank to close amid rising costs",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "'My mortgage is going up \u00a3200 a month': How rising interest rates are hitting people's pockets",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "tags": [
+        "Rates & Fed"
+      ]
     }
   ],
-  "updated": "07 Nov 2026, 19:01 UTC",
-  "updated_iso": "2026-11-07T19:01:54.332102+00:00"
+  "updated": "07 Nov 2026, 22:41 UTC",
+  "updated_iso": "2026-11-07T22:41:54.473677+00:00"
 }
