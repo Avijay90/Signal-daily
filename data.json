@@ -958,27 +958,6 @@
   ],
   "markets": [
     {
-      "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Cybertruck\u2019s run comes to an end as Musk kills off pricey pet project",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "Micron\u2019s stock is dirt cheap \u2014\u00a0and that\u2019s igniting a fierce online debate",
       "summary": "",
       "source": "MarketWatch",
@@ -1030,22 +1009,46 @@
       "tags": []
     },
     {
-      "title": "What in the World",
+      "title": "The AI trade is now counting on Anthropic\u2019s IPO \u2014 but it couldn\u2019t be happening at a worse time",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct990m?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-ai-trade-is-now-counting-on-anthropics-ipo-but-it-couldnt-be-happening-at-a-worse-time-8bd0f1c4?mod=mw_rss_topstories",
+      "tags": [
+        "Anthropic",
+        "Funding"
+      ]
+    },
+    {
+      "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "What does the raise in interest rates mean?",
+      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
       "tags": [
         "Rates & Fed"
       ]
+    },
+    {
+      "title": "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
+      "tags": []
     }
   ],
-  "updated": "07 Nov 2026, 07:58 UTC",
-  "updated_iso": "2026-11-07T07:58:08.727151+00:00"
+  "updated": "07 Nov 2026, 14:39 UTC",
+  "updated_iso": "2026-11-07T14:39:46.621991+00:00"
 }
