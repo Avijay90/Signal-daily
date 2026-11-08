@@ -857,13 +857,6 @@
   ],
   "ai": [
     {
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "tags": []
-    },
-    {
       "title": "Claude can now analyze your spending with its new Personal Finance tool",
       "summary": "",
       "source": "TechCrunch",
@@ -955,81 +948,16 @@
         "Anthropic",
         "Funding"
       ]
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "This market signal called the tech selloff. Now it\u2019s sending another warning.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Stocks are moving in sync again for the first time in a while. There\u2019s just one problem.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream-cheese sales",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Corporate America\u2019s profit numbers are just barely beating Wall Street\u2019s expectations",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
       "summary": "",
@@ -1043,8 +971,87 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
       "tags": []
+    },
+    {
+      "title": "Kalshi valuation jumps to $40 billion in latest funding round",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/kalshi-40-billion-valuation-funding-round.html",
+      "tags": [
+        "Funding"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
+      "tags": []
+    },
+    {
+      "title": "Aon CEO warns AI data center insurance risks could threaten financing",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
+      "tags": []
+    },
+    {
+      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+      "tags": []
+    },
+    {
+      "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
+      "tags": [
+        "Crypto"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
+      "tags": []
+    },
+    {
+      "title": "Fed officials are already saying they\u2019ll need to get back to hiking rates",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+      "tags": []
+    },
+    {
+      "title": "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
+      "tags": [
+        "Funding",
+        "Crypto"
+      ]
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
+      "tags": []
     }
   ],
-  "updated": "08 Nov 2026, 19:50 UTC",
-  "updated_iso": "2026-11-08T19:50:02.511748+00:00"
+  "updated": "08 Nov 2026, 23:16 UTC",
+  "updated_iso": "2026-11-08T23:16:19.469466+00:00"
 }
