@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "59,411.34",
-      "change": 3.44,
+      "value": "58,775.50",
+      "change": 2.33,
       "series": [
         69030.92,
         67777.52,
@@ -133,7 +133,7 @@
         62188.63,
         61077.9,
         57434.77,
-        59411.34
+        58775.5
       ],
       "dates": [
         "2026-10-09",
@@ -161,10 +161,9 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,673.94",
-      "change": -1.01,
+      "value": "10,734.16",
+      "change": 0.56,
       "series": [
-        10441.6,
         10552.1,
         10656.3,
         10650.3,
@@ -185,10 +184,10 @@
         10638.4,
         10829.2,
         10782.7,
-        10673.9
+        10673.9,
+        10734.16
       ],
       "dates": [
-        "2026-10-08",
         "2026-10-09",
         "2026-10-12",
         "2026-10-13",
@@ -209,7 +208,8 @@
         "2026-11-03",
         "2026-11-04",
         "2026-11-05",
-        "2026-11-06"
+        "2026-11-06",
+        "2026-11-09"
       ]
     }
   ],
@@ -853,15 +853,6 @@
   ],
   "ai": [
     {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
       "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
       "summary": "",
       "source": "TechCrunch",
@@ -951,9 +942,88 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
       "tags": []
+    },
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "tags": []
     }
   ],
   "markets": [
+    {
+      "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "I\u2019m second-guessing my adviser: Is an annuity the right move in this market?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "How Wall Street is reacting to the news of Nvidia\u2019s investigation into Jensen Huang spy claims",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/brewers-star-christian-yelich-is-selling-his-hillside-malibu-mansion-for-30-million-92bee567?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Ryan Serhant of \u2018Owning Manhattan\u2019 on why you shouldn\u2019t wait to buy a house, and the hot spots to watch for",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018We had the worst fight we\u2019ve ever had\u2019: I want my husband to retire at 65. But I don\u2019t want to lose his $280,000 salary.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Until sentiment in the AI trade improves, Citi tells investors it\u2019s better to sit out the global tech trade",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "The market\u2019s correction is entering its final phase \u2014 but wait before buying the dip, says Morgan Stanley chief strategist",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
+      "tags": []
+    },
     {
       "title": "It's a 'socialist' bank \u2014 and North Dakota Republicans love it",
       "summary": "",
@@ -967,87 +1037,8 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-premarket-.html",
       "tags": []
-    },
-    {
-      "title": "Kalshi valuation jumps to $40 billion in latest funding round",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/kalshi-40-billion-valuation-funding-round.html",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
-      "tags": []
-    },
-    {
-      "title": "Aon CEO warns AI data center insurance risks could threaten financing",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
-      "tags": []
-    },
-    {
-      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-      "tags": []
-    },
-    {
-      "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
-      "tags": [
-        "Crypto"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
-      "tags": []
-    },
-    {
-      "title": "Fed officials are already saying they\u2019ll need to get back to hiking rates",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-      "tags": []
-    },
-    {
-      "title": "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-      "tags": [
-        "Funding",
-        "Crypto"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
-      "tags": []
     }
   ],
-  "updated": "09 Nov 2026, 02:48 UTC",
-  "updated_iso": "2026-11-09T02:48:40.626940+00:00"
+  "updated": "09 Nov 2026, 10:35 UTC",
+  "updated_iso": "2026-11-09T10:35:15.839182+00:00"
 }
