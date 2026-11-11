@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "60,459.58",
-      "change": 5.27,
+      "value": "60,942.48",
+      "change": 0.8,
       "series": [
         67777.52,
         67744.29,
@@ -132,7 +132,9 @@
         62188.63,
         61077.9,
         57434.77,
-        58775.5
+        58775.5,
+        60459.58,
+        60942.48
       ],
       "dates": [
         "2026-10-13",
@@ -153,7 +155,9 @@
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
-        "2026-11-09"
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11"
       ]
     },
     {
@@ -183,7 +187,7 @@
         10782.7,
         10673.9,
         10782.9,
-        10751.59
+        10751.6
       ],
       "dates": [
         "2026-10-12",
@@ -952,97 +956,92 @@
   ],
   "markets": [
     {
-      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+      "title": "Ipswich Town's new club shop 'here to stay'",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
+      "title": "The facial recognition technology stopping shoplifters",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
-      "tags": [
-        "Crypto"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Fed officials are already saying they\u2019ll need to get back to hiking rates",
+      "title": "Why Gen Z are planning for life without a state pension",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why the UK is dithering over what to do about e-scooters",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "US inflation higher than expected in October - here's what is happening with prices",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
       "tags": [
         "Rates & Fed"
       ]
     },
     {
-      "title": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
+      "title": "Thousands of 'off-grid' homes eligible for \u00a3250 to help with heating bills",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Binance\u2019s $6.3 billion hack raises questions about crypto wallet safety",
+      "title": "Some pupils 'struggling just to get a hot meal'",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-      "tags": [
-        "Funding",
-        "Crypto"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Stock market after midterm elections: What S&P 500 history shows",
+      "title": "Law on 'holiday hunger' passed by Stormont assembly",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
+      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
-      "tags": []
-    },
-    {
-      "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-      "tags": []
-    },
-    {
-      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies  & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "10 Nov 2026, 23:49 UTC",
-  "updated_iso": "2026-11-10T23:49:26.805310+00:00"
+  "updated": "11 Nov 2026, 03:41 UTC",
+  "updated_iso": "2026-11-11T03:41:56.009885+00:00"
 }
