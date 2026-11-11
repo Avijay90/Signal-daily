@@ -81,7 +81,7 @@
         24315.0,
         24579.43,
         25253.14,
-        25065.88
+        25065.87
       ],
       "dates": [
         "2026-10-12",
@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "60,942.48",
-      "change": 0.8,
+      "value": "61,248.59",
+      "change": 1.31,
       "series": [
         67777.52,
         67744.29,
@@ -134,7 +134,7 @@
         57434.77,
         58775.5,
         60459.58,
-        60942.48
+        61248.59
       ],
       "dates": [
         "2026-10-13",
@@ -163,10 +163,9 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,751.59",
-      "change": -0.29,
+      "value": "10,796.02",
+      "change": 0.41,
       "series": [
-        10656.3,
         10650.3,
         10724.9,
         10840.4,
@@ -187,10 +186,10 @@
         10782.7,
         10673.9,
         10782.9,
-        10751.6
+        10751.6,
+        10796.02
       ],
       "dates": [
-        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -211,7 +210,8 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
-        "2026-11-10"
+        "2026-11-10",
+        "2026-11-11"
       ]
     }
   ],
@@ -855,15 +855,6 @@
   ],
   "ai": [
     {
-      "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
       "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
       "summary": "",
       "source": "TechCrunch",
@@ -952,96 +943,105 @@
         "Google",
         "Nvidia"
       ]
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "tags": [
+        "Nvidia"
+      ]
     }
   ],
   "markets": [
     {
-      "title": "Ipswich Town's new club shop 'here to stay'",
+      "title": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "The facial recognition technology stopping shoplifters",
+      "title": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Why Gen Z are planning for life without a state pension",
+      "title": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Why the UK is dithering over what to do about e-scooters",
+      "title": "One reason Children\u2019s Place is filing for bankruptcy? Not enough children.",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "title": "Among full-size SUVs, the 2027 Ford Expedition is worth a look for its spacious seating and mighty engine",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/among-full-size-suvs-the-2027-ford-expedition-is-worth-a-look-for-its-spacious-seating-and-mighty-engine-2c169852?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "title": "Tiger Woods has another private, 18-hole golf destination in the works \u2014 this one for Long Island\u2019s Gold Coast",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "My hometown shows that high streets have to change or die",
+      "title": "CoreWeave\u2019s stock pops as new financing playbook eases debt concerns",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "US inflation higher than expected in October - here's what is happening with prices",
+      "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "I\u2019m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
+      "tags": []
+    },
+    {
+      "title": "Fed officials are already saying they\u2019ll need to get back to hiking rates",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
       "tags": [
         "Rates & Fed"
       ]
-    },
-    {
-      "title": "Thousands of 'off-grid' homes eligible for \u00a3250 to help with heating bills",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Some pupils 'struggling just to get a hot meal'",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Law on 'holiday hunger' passed by Stormont assembly",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-      "tags": []
     }
   ],
-  "updated": "11 Nov 2026, 03:41 UTC",
-  "updated_iso": "2026-11-11T03:41:56.009885+00:00"
+  "updated": "11 Nov 2026, 11:27 UTC",
+  "updated_iso": "2026-11-11T11:27:10.777770+00:00"
 }
