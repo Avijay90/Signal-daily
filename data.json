@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,645.16",
-      "change": 1.65,
+      "value": "7,619.38",
+      "change": 1.31,
       "series": [
         7805.45,
         7718.94,
@@ -27,7 +27,7 @@
         7376.86,
         7549.94,
         7520.93,
-        7645.16
+        7619.38
       ],
       "dates": [
         "2026-10-13",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "25,635.99",
-      "change": 2.27,
+      "value": "25,466.19",
+      "change": 1.6,
       "series": [
         27204.38,
         26692.87,
@@ -81,7 +81,7 @@
         24579.43,
         25253.14,
         25065.87,
-        25635.99
+        25466.19
       ],
       "dates": [
         "2026-10-13",
@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "61,248.59",
-      "change": 4.21,
+      "value": "61,449.55",
+      "change": 1.64,
       "series": [
         67777.52,
         67744.29,
@@ -133,7 +133,8 @@
         61077.9,
         57434.77,
         58775.5,
-        60459.58
+        60459.58,
+        61449.55
       ],
       "dates": [
         "2026-10-13",
@@ -155,15 +156,17 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
-        "2026-11-10"
+        "2026-11-10",
+        "2026-11-12"
       ]
     },
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
       "value": "10,835.47",
-      "change": 0.78,
+      "change": 0.49,
       "series": [
+        10656.3,
         10650.3,
         10724.9,
         10840.4,
@@ -184,10 +187,10 @@
         10782.7,
         10673.9,
         10782.9,
-        10751.6,
-        10835.47
+        10751.6
       ],
       "dates": [
+        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -208,70 +211,17 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
-        "2026-11-10",
-        "2026-11-11"
+        "2026-11-10"
       ]
     }
   ],
   "stocks": [
     {
-      "symbol": "ORCL",
-      "price": 130.21,
-      "change": 10.37,
-      "series": [
-        143.2,
-        130.55,
-        134.47,
-        128.23,
-        129.59,
-        131.14,
-        129.13,
-        125.54,
-        126.16,
-        126.06,
-        130.53,
-        144.54,
-        139.56,
-        130.67,
-        119.22,
-        126.19,
-        123.73,
-        115.16,
-        116.1,
-        119.79,
-        117.98,
-        130.21
-      ],
-      "dates": [
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06",
-        "2026-11-09",
-        "2026-11-10",
-        "2026-11-11"
-      ]
-    },
-    {
       "symbol": "AMD",
-      "price": 565.27,
-      "change": 9.72,
+      "price": 552.9,
+      "change": 8.71,
       "series": [
+        594.24,
         605.53,
         570.82,
         562.23,
@@ -292,10 +242,10 @@
         404.4,
         449.04,
         508.58,
-        515.21,
-        565.28
+        515.21
       ],
       "dates": [
+        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -316,15 +266,15 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
-        "2026-11-10",
-        "2026-11-11"
+        "2026-11-10"
       ]
     },
     {
       "symbol": "AVGO",
-      "price": 352.98,
-      "change": 6.32,
+      "price": 345.22,
+      "change": 8.06,
       "series": [
+        354.73,
         357.31,
         346.25,
         344.33,
@@ -345,10 +295,10 @@
         291.53,
         293.69,
         319.48,
-        331.98,
-        352.98
+        331.98
       ],
       "dates": [
+        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -369,15 +319,68 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
-        "2026-11-10",
-        "2026-11-11"
+        "2026-11-10"
+      ]
+    },
+    {
+      "symbol": "ORCL",
+      "price": 128.38,
+      "change": 7.17,
+      "series": [
+        137.39,
+        143.2,
+        130.55,
+        134.47,
+        128.23,
+        129.59,
+        131.14,
+        129.13,
+        125.54,
+        126.16,
+        126.06,
+        130.53,
+        144.54,
+        139.56,
+        130.67,
+        119.22,
+        126.19,
+        123.73,
+        115.16,
+        116.1,
+        119.79,
+        117.98
+      ],
+      "dates": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10"
       ]
     },
     {
       "symbol": "TSM",
-      "price": 416.64,
-      "change": 5.08,
+      "price": 413.35,
+      "change": 6.36,
       "series": [
+        444.35,
         445.12,
         430.0,
         422.25,
@@ -398,10 +401,10 @@
         353.1,
         375.44,
         388.62,
-        396.48,
-        416.64
+        396.48
       ],
       "dates": [
+        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -422,68 +425,15 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
-        "2026-11-10",
-        "2026-11-11"
-      ]
-    },
-    {
-      "symbol": "NVDA",
-      "price": 177.1,
-      "change": 4.86,
-      "series": [
-        228.52,
-        221.3,
-        217.23,
-        214.13,
-        217.09,
-        216.47,
-        221.97,
-        212.21,
-        210.96,
-        216.0,
-        217.94,
-        215.38,
-        213.66,
-        204.64,
-        202.06,
-        206.69,
-        200.13,
-        181.6,
-        186.64,
-        178.67,
-        168.89,
-        177.1
-      ],
-      "dates": [
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06",
-        "2026-11-09",
-        "2026-11-10",
-        "2026-11-11"
+        "2026-11-10"
       ]
     },
     {
       "symbol": "TSLA",
-      "price": 394.03,
-      "change": 3.75,
+      "price": 390.84,
+      "change": 3.38,
       "series": [
+        378.03,
         375.23,
         367.16,
         362.44,
@@ -504,10 +454,10 @@
         343.69,
         358.22,
         378.05,
-        379.78,
-        394.03
+        379.78
       ],
       "dates": [
+        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -528,68 +478,15 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
-        "2026-11-10",
-        "2026-11-11"
-      ]
-    },
-    {
-      "symbol": "GOOGL",
-      "price": 295.44,
-      "change": 2.8,
-      "series": [
-        353.78,
-        347.64,
-        349.22,
-        340.59,
-        344.18,
-        340.28,
-        334.76,
-        324.22,
-        320.21,
-        316.8,
-        320.58,
-        324.89,
-        283.82,
-        279.84,
-        278.99,
-        280.03,
-        288.93,
-        282.57,
-        284.78,
-        288.15,
-        287.38,
-        295.44
-      ],
-      "dates": [
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06",
-        "2026-11-09",
-        "2026-11-10",
-        "2026-11-11"
+        "2026-11-10"
       ]
     },
     {
       "symbol": "PLTR",
-      "price": 173.53,
-      "change": 2.79,
+      "price": 172.4,
+      "change": 1.89,
       "series": [
+        209.0,
         208.67,
         200.97,
         200.5,
@@ -610,10 +507,10 @@
         154.99,
         160.38,
         169.2,
-        168.82,
-        173.53
+        168.82
       ],
       "dates": [
+        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -634,15 +531,68 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
-        "2026-11-10",
-        "2026-11-11"
+        "2026-11-10"
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "price": 293.45,
+      "change": 1.84,
+      "series": [
+        352.72,
+        353.78,
+        347.64,
+        349.22,
+        340.59,
+        344.18,
+        340.28,
+        334.76,
+        324.22,
+        320.21,
+        316.8,
+        320.58,
+        324.89,
+        283.82,
+        279.84,
+        278.99,
+        280.03,
+        288.93,
+        282.57,
+        284.78,
+        288.15,
+        287.38
+      ],
+      "dates": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10"
       ]
     },
     {
       "symbol": "AAPL",
-      "price": 355.15,
-      "change": 1.91,
+      "price": 355.63,
+      "change": 1.41,
       "series": [
+        340.97,
         341.27,
         342.96,
         342.0,
@@ -663,10 +613,10 @@
         344.17,
         342.37,
         350.69,
-        348.51,
-        355.15
+        348.51
       ],
       "dates": [
+        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -687,68 +637,15 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
-        "2026-11-10",
-        "2026-11-11"
-      ]
-    },
-    {
-      "symbol": "META",
-      "price": 639.66,
-      "change": -0.27,
-      "series": [
-        762.5,
-        737.54,
-        736.72,
-        709.33,
-        705.44,
-        694.25,
-        697.52,
-        648.85,
-        642.62,
-        630.56,
-        620.19,
-        612.49,
-        624.52,
-        614.99,
-        606.73,
-        621.03,
-        630.0,
-        605.08,
-        610.15,
-        641.37,
-        641.39,
-        639.66
-      ],
-      "dates": [
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06",
-        "2026-11-09",
-        "2026-11-10",
-        "2026-11-11"
+        "2026-11-10"
       ]
     },
     {
       "symbol": "AMZN",
-      "price": 266.86,
-      "change": -1.48,
+      "price": 266.17,
+      "change": -0.28,
       "series": [
+        259.53,
         258.58,
         254.08,
         254.76,
@@ -769,10 +666,10 @@
         260.21,
         259.3,
         266.93,
-        270.87,
-        266.86
+        270.87
       ],
       "dates": [
+        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -793,15 +690,121 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
-        "2026-11-10",
-        "2026-11-11"
+        "2026-11-10"
+      ]
+    },
+    {
+      "symbol": "META",
+      "price": 628.77,
+      "change": -1.96,
+      "series": [
+        742.96,
+        762.5,
+        737.54,
+        736.72,
+        709.33,
+        705.44,
+        694.25,
+        697.52,
+        648.85,
+        642.62,
+        630.56,
+        620.19,
+        612.49,
+        624.52,
+        614.99,
+        606.73,
+        621.03,
+        630.0,
+        605.08,
+        610.15,
+        641.37,
+        641.39
+      ],
+      "dates": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10"
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "price": 173.73,
+      "change": -2.76,
+      "series": [
+        226.32,
+        228.52,
+        221.3,
+        217.23,
+        214.13,
+        217.09,
+        216.47,
+        221.97,
+        212.21,
+        210.96,
+        216.0,
+        217.94,
+        215.38,
+        213.66,
+        204.64,
+        202.06,
+        206.69,
+        200.13,
+        181.6,
+        186.64,
+        178.67,
+        168.89
+      ],
+      "dates": [
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10"
       ]
     },
     {
       "symbol": "MSFT",
-      "price": 522.05,
-      "change": -2.08,
+      "price": 521.12,
+      "change": -4.41,
       "series": [
+        541.15,
         543.45,
         533.69,
         539.44,
@@ -822,10 +825,10 @@
         535.93,
         530.61,
         545.18,
-        533.16,
-        522.05
+        533.16
       ],
       "dates": [
+        "2026-10-12",
         "2026-10-13",
         "2026-10-14",
         "2026-10-15",
@@ -846,89 +849,11 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-09",
-        "2026-11-10",
-        "2026-11-11"
+        "2026-11-10"
       ]
     }
   ],
   "ai": [
-    {
-      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-      "tags": []
-    },
-    {
-      "title": "Spotify\u2019s AI DJ gets new voices, personalities, and an option for less chatter",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "tags": []
-    },
-    {
-      "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "tags": [
-        "Google"
-      ]
-    },
-    {
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-      "tags": [
-        "Anthropic",
-        "Funding"
-      ]
-    },
-    {
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "tags": []
-    },
-    {
-      "title": "Meta\u2019s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "tags": [
-        "Meta"
-      ]
-    },
-    {
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "tags": [
-        "Google",
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "tags": [
-        "Anthropic"
-      ]
-    },
     {
       "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
       "summary": "",
@@ -953,6 +878,85 @@
       "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
       "tags": [
         "Funding"
+      ]
+    },
+    {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "tags": [
+        "Anthropic",
+        "Funding"
+      ]
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York\u2019s AI safety law takes effect",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "tags": [
+        "OpenAI",
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "tags": [
+        "OpenAI",
+        "Funding"
+      ]
+    },
+    {
+      "title": "Nvidia\u2019s crisis has corporate governance experts reaching for the popcorn",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "tags": []
+    },
+    {
+      "title": "Databricks\u2019 new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "tags": []
+    },
+    {
+      "title": "OpenAI\u2019s quarterly revenue reportedly crosses $10B for the first time",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "tags": [
+        "OpenAI",
+        "Earnings"
+      ]
+    },
+    {
+      "title": "Is Jensen Huang\u2019s bad behavior more commonplace than it seems?",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "tags": []
+    },
+    {
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "tags": [
+        "Regulation"
       ]
     }
   ],
@@ -1047,6 +1051,6 @@
       "tags": []
     }
   ],
-  "updated": "11 Nov 2026, 18:49 UTC",
-  "updated_iso": "2026-11-11T18:49:23.197153+00:00"
+  "updated": "12 Nov 2026, 01:08 UTC",
+  "updated_iso": "2026-11-12T01:08:19.568131+00:00"
 }
