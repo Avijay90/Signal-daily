@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,540.58",
-      "change": -0.68,
+      "value": "7,561.67",
+      "change": -0.4,
       "series": [
         7744.06,
         7659.44,
@@ -27,7 +27,7 @@
         7520.93,
         7619.38,
         7592.4,
-        7540.58
+        7561.67
       ],
       "dates": [
         "2026-10-15",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "25,068.64",
-      "change": -1.17,
+      "value": "25,136.27",
+      "change": -0.91,
       "series": [
         26713.03,
         26140.03,
@@ -81,7 +81,7 @@
         25065.87,
         25466.19,
         25366.09,
-        25068.64
+        25136.27
       ],
       "dates": [
         "2026-10-15",
@@ -220,8 +220,8 @@
   "stocks": [
     {
       "symbol": "META",
-      "price": 638.28,
-      "change": 2.35,
+      "price": 641.69,
+      "change": 2.9,
       "series": [
         736.72,
         709.33,
@@ -244,7 +244,7 @@
         641.39,
         628.77,
         623.61,
-        638.28
+        641.69
       ],
       "dates": [
         "2026-10-15",
@@ -273,8 +273,8 @@
     },
     {
       "symbol": "AAPL",
-      "price": 357.92,
-      "change": 0.86,
+      "price": 356.27,
+      "change": 0.39,
       "series": [
         342.0,
         343.46,
@@ -297,7 +297,7 @@
         348.51,
         355.63,
         354.88,
-        357.92
+        356.27
       ],
       "dates": [
         "2026-10-15",
@@ -326,8 +326,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 524.32,
-      "change": 0.25,
+      "price": 523.88,
+      "change": 0.17,
       "series": [
         539.44,
         529.05,
@@ -350,7 +350,7 @@
         533.16,
         521.13,
         523.0,
-        524.32
+        523.88
       ],
       "dates": [
         "2026-10-15",
@@ -379,8 +379,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 265.56,
-      "change": -0.7,
+      "price": 266.66,
+      "change": -0.29,
       "series": [
         254.76,
         250.0,
@@ -403,7 +403,7 @@
         270.87,
         266.17,
         267.44,
-        265.55
+        266.66
       ],
       "dates": [
         "2026-10-15",
@@ -432,8 +432,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 295.51,
-      "change": -1.07,
+      "price": 295.77,
+      "change": -0.98,
       "series": [
         349.22,
         340.59,
@@ -456,60 +456,7 @@
         287.38,
         293.45,
         298.7,
-        295.51
-      ],
-      "dates": [
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06",
-        "2026-11-09",
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-13"
-      ]
-    },
-    {
-      "symbol": "TSLA",
-      "price": 390.66,
-      "change": -1.71,
-      "series": [
-        362.44,
-        354.72,
-        368.06,
-        373.71,
-        386.47,
-        374.58,
-        372.22,
-        391.62,
-        407.46,
-        404.22,
-        403.3,
-        399.81,
-        403.82,
-        398.5,
-        385.19,
-        343.69,
-        358.22,
-        378.05,
-        379.78,
-        390.84,
-        397.45,
-        390.66
+        295.77
       ],
       "dates": [
         "2026-10-15",
@@ -538,8 +485,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 124.42,
-      "change": -2.12,
+      "price": 125.35,
+      "change": -1.38,
       "series": [
         134.47,
         128.23,
@@ -562,60 +509,7 @@
         117.98,
         128.38,
         127.11,
-        124.42
-      ],
-      "dates": [
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06",
-        "2026-11-09",
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-13"
-      ]
-    },
-    {
-      "symbol": "PLTR",
-      "price": 167.93,
-      "change": -2.13,
-      "series": [
-        200.5,
-        186.03,
-        194.15,
-        192.6,
-        201.72,
-        196.19,
-        196.75,
-        198.84,
-        198.73,
-        196.81,
-        196.42,
-        184.11,
-        178.34,
-        175.4,
-        171.7,
-        154.99,
-        160.38,
-        169.2,
-        168.82,
-        172.4,
-        171.58,
-        167.93
+        125.35
       ],
       "dates": [
         "2026-10-15",
@@ -644,8 +538,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 396.28,
-      "change": -2.27,
+      "price": 398.73,
+      "change": -1.67,
       "series": [
         422.25,
         412.61,
@@ -668,7 +562,60 @@
         396.48,
         413.35,
         405.49,
-        396.28
+        398.73
+      ],
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13"
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "price": 390.22,
+      "change": -1.82,
+      "series": [
+        362.44,
+        354.72,
+        368.06,
+        373.71,
+        386.47,
+        374.58,
+        372.22,
+        391.62,
+        407.46,
+        404.22,
+        403.3,
+        399.81,
+        403.82,
+        398.5,
+        385.19,
+        343.69,
+        358.22,
+        378.05,
+        379.78,
+        390.84,
+        397.45,
+        390.22
       ],
       "dates": [
         "2026-10-15",
@@ -697,8 +644,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 161.12,
-      "change": -3.05,
+      "price": 162.85,
+      "change": -2.01,
       "series": [
         217.23,
         214.13,
@@ -721,7 +668,60 @@
         168.89,
         173.73,
         166.19,
-        161.12
+        162.85
+      ],
+      "dates": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13"
+      ]
+    },
+    {
+      "symbol": "PLTR",
+      "price": 167.99,
+      "change": -2.09,
+      "series": [
+        200.5,
+        186.03,
+        194.15,
+        192.6,
+        201.72,
+        196.19,
+        196.75,
+        198.84,
+        198.73,
+        196.81,
+        196.42,
+        184.11,
+        178.34,
+        175.4,
+        171.7,
+        154.99,
+        160.38,
+        169.2,
+        168.82,
+        172.4,
+        171.58,
+        167.99
       ],
       "dates": [
         "2026-10-15",
@@ -750,8 +750,8 @@
     },
     {
       "symbol": "AVGO",
-      "price": 344.9,
-      "change": -5.34,
+      "price": 347.01,
+      "change": -4.76,
       "series": [
         344.33,
         328.75,
@@ -774,7 +774,7 @@
         331.98,
         345.22,
         364.36,
-        344.9
+        347.01
       ],
       "dates": [
         "2026-10-15",
@@ -803,8 +803,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 523.72,
-      "change": -10.52,
+      "price": 534.06,
+      "change": -8.75,
       "series": [
         562.23,
         528.75,
@@ -827,7 +827,7 @@
         515.21,
         552.9,
         585.3,
-        523.72
+        534.06
       ],
       "dates": [
         "2026-10-15",
@@ -856,31 +856,6 @@
     }
   ],
   "ai": [
-    {
-      "title": "Jensen Huang is out at Nvidia \u2014 who is Colette Kress, his interim replacement?",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang\u2019s successor",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "tags": []
-    },
-    {
-      "title": "Five ways Jensen Huang\u2019s ouster from Nvidia could damage the AI industry",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "tags": [
-        "Nvidia"
-      ]
-    },
     {
       "title": "Jensen Huang agrees to testify before Congress",
       "summary": "",
@@ -949,96 +924,123 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
       "tags": []
+    },
+    {
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "tags": []
+    },
+    {
+      "title": "Muse can now place calls to US businesses \u2014 if you pay",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "tags": []
+    },
+    {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "tags": [
+        "Nvidia"
+      ]
     }
   ],
   "markets": [
     {
-      "title": "Are branded cold and flu tablets really worth the extra money?",
+      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cw4gnxm0y43po?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
       "tags": []
     },
     {
-      "title": "Jensen Huang has resigned, what's next for Nvidia?",
+      "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies  & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+      "tags": []
+    },
+    {
+      "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
       "tags": [
-        "Nvidia"
+        "Oil & energy"
       ]
     },
     {
-      "title": "'My window faces a brick wall': What's your rent in NYC?",
+      "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
       "tags": []
     },
     {
-      "title": "Shoplifters 'stealing to order' in Scottish shops",
+      "title": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html",
       "tags": []
     },
     {
-      "title": "What are people emergency stockpiling?",
+      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
       "tags": []
     },
     {
-      "title": "Why Gen Z are planning for life without a state pension",
+      "title": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html",
       "tags": []
     },
     {
-      "title": "Why the UK is dithering over what to do about e-scooters",
+      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
       "tags": []
     },
     {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "title": "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
       "tags": []
     },
     {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "title": "Outside groups urge congressional Dems to target corporate interests over Trump",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-      "tags": []
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/democrats-corporate-oversight-trump.html",
+      "tags": [
+        "Regulation"
+      ]
     },
     {
-      "title": "My hometown shows that high streets have to change or die",
+      "title": "Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Gas bills to rise as Middle East turmoil persists",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-premarket-moderna-airbnb-cloudflare-affirm-more.html",
       "tags": []
     }
   ],
-  "updated": "13 Nov 2026, 17:55 UTC",
-  "updated_iso": "2026-11-13T17:55:30.216172+00:00"
+  "updated": "13 Nov 2026, 23:01 UTC",
+  "updated_iso": "2026-11-13T23:01:30.990044+00:00"
 }
