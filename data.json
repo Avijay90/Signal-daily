@@ -111,10 +111,9 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "60,819.36",
-      "change": 0.6,
+      "value": "61,816.72",
+      "change": 1.64,
       "series": [
-        67777.52,
         67744.29,
         64425.95,
         65324.29,
@@ -134,10 +133,11 @@
         57434.77,
         58775.5,
         60459.58,
-        61248.59
+        61248.59,
+        60819.36,
+        61816.72
       ],
       "dates": [
-        "2026-10-13",
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
@@ -157,7 +157,9 @@
         "2026-11-06",
         "2026-11-09",
         "2026-11-10",
-        "2026-11-11"
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13"
       ]
     },
     {
@@ -187,7 +189,7 @@
         10782.9,
         10751.6,
         10835.5,
-        10863.09
+        10863.1
       ],
       "dates": [
         "2026-10-14",
@@ -855,15 +857,6 @@
   ],
   "ai": [
     {
-      "title": "Nvidia\u2019s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
       "summary": "",
       "source": "TechCrunch",
@@ -945,16 +938,16 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
       "tags": []
+    },
+    {
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang\u2019s exit",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "Stock market after midterm elections: What S&P 500 history shows",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "tags": []
-    },
     {
       "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
       "summary": "",
@@ -1035,8 +1028,15 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
       "tags": []
+    },
+    {
+      "title": "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+      "tags": []
     }
   ],
-  "updated": "12 Nov 2026, 22:29 UTC",
-  "updated_iso": "2026-11-12T22:29:16.729138+00:00"
+  "updated": "13 Nov 2026, 02:48 UTC",
+  "updated_iso": "2026-11-13T02:48:42.317388+00:00"
 }
