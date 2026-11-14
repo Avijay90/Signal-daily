@@ -951,96 +951,100 @@
   ],
   "markets": [
     {
-      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+      "tags": [
+        "Anthropic",
+        "Funding",
+        "Crypto"
+      ]
+    },
+    {
+      "title": "\u2018She has a history of financial mismanagement\u2019: My brother cut our sister out of his will. I\u2019ll get everything. Do I tell her?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies  & more",
+      "title": "\u2018He calls my plans a fantasy\u2019: My husband says we can\u2019t afford a $200,000-a-year retirement. Is he being cheap?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "title": "Global oil supplies are suddenly flowing. Why a crude glut won\u2019t mean cheaper diesel.",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
       "tags": [
         "Oil & energy"
       ]
     },
     {
-      "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+      "title": "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html",
-      "tags": []
-    },
-    {
-      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-      "tags": []
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html",
-      "tags": []
-    },
-    {
-      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
       "tags": [
-        "Rates & Fed"
+        "Nvidia"
       ]
     },
     {
-      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+      "title": "4 expert tips for signing up for Medicare",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
+      "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Outside groups urge congressional Dems to target corporate interests over Trump",
+      "title": "14 dividend stocks selected for long-term growth",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/06/democrats-corporate-oversight-trump.html",
-      "tags": [
-        "Regulation"
-      ]
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+      "tags": []
     },
     {
-      "title": "Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more",
+      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-premarket-moderna-airbnb-cloudflare-affirm-more.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "'My window faces a brick wall': What's your rent in NYC?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Shoplifters 'stealing to order' in Scottish shops",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss",
       "tags": []
     }
   ],
-  "updated": "14 Nov 2026, 03:09 UTC",
-  "updated_iso": "2026-11-14T03:09:21.191880+00:00"
+  "updated": "14 Nov 2026, 10:14 UTC",
+  "updated_iso": "2026-11-14T10:14:56.949035+00:00"
 }
