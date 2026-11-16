@@ -111,11 +111,9 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "61,142.35",
-      "change": 0.53,
+      "value": "60,182.50",
+      "change": -1.57,
       "series": [
-        67744.29,
-        64425.95,
         65324.29,
         64916.7,
         64075.42,
@@ -135,11 +133,10 @@
         60459.58,
         61248.59,
         60819.36,
-        61142.35
+        61142.35,
+        60182.5
       ],
       "dates": [
-        "2026-10-14",
-        "2026-10-15",
         "2026-10-16",
         "2026-10-19",
         "2026-10-20",
@@ -159,7 +156,8 @@
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
-        "2026-11-13"
+        "2026-11-13",
+        "2026-11-16"
       ]
     },
     {
@@ -857,15 +855,6 @@
   ],
   "ai": [
     {
-      "title": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "tags": [
-        "Google"
-      ]
-    },
-    {
       "title": "Jensen Huang was having a third affair, Reuters reports",
       "summary": "",
       "source": "TechCrunch",
@@ -951,18 +940,18 @@
       "tags": [
         "Funding"
       ]
+    },
+    {
+      "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "tags": [
+        "Funding"
+      ]
     }
   ],
   "markets": [
-    {
-      "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-      "tags": [
-        "Oil & energy"
-      ]
-    },
     {
       "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
       "summary": "",
@@ -1045,8 +1034,17 @@
       "tags": [
         "Rates & Fed"
       ]
+    },
+    {
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "tags": [
+        "Earnings"
+      ]
     }
   ],
-  "updated": "15 Nov 2026, 23:40 UTC",
-  "updated_iso": "2026-11-15T23:40:39.313621+00:00"
+  "updated": "16 Nov 2026, 03:05 UTC",
+  "updated_iso": "2026-11-16T03:05:58.962410+00:00"
 }
