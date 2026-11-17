@@ -107,8 +107,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "58,956.67",
-      "change": -1.18,
+      "value": "58,860.43",
+      "change": -1.34,
       "series": [
         64916.7,
         64075.42,
@@ -130,7 +130,7 @@
         60819.36,
         61142.35,
         59662.02,
-        58956.67
+        58860.43
       ],
       "dates": [
         "2026-10-19",
@@ -159,10 +159,9 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,881.55",
-      "change": -0.19,
+      "value": "10,801.63",
+      "change": -0.73,
       "series": [
-        10881.9,
         10764.7,
         10733.0,
         10752.9,
@@ -183,10 +182,10 @@
         10835.5,
         10863.1,
         10902.6,
-        10881.6
+        10881.6,
+        10801.63
       ],
       "dates": [
-        "2026-10-16",
         "2026-10-19",
         "2026-10-20",
         "2026-10-21",
@@ -207,7 +206,8 @@
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
-        "2026-11-16"
+        "2026-11-16",
+        "2026-11-17"
       ]
     }
   ],
@@ -925,13 +925,82 @@
   ],
   "markets": [
     {
-      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+      "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
       "tags": [
-        "Rates & Fed"
+        "Nvidia"
       ]
+    },
+    {
+      "title": "United Airlines resolves system outage that delayed flights Monday",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Here\u2019s how much of Deutsche Bank\u2019s market cap has been wiped away after reports on 15 million leaked documents",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-how-much-of-deutsche-banks-market-cap-has-been-wiped-away-after-reports-on-15-million-leaked-documents-fe3db078?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Supermodel Bella Hadid snaps up a charming Colorado compound for $5.5 million",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/supermodel-bella-hadid-snaps-up-a-charming-colorado-compound-for-5-5-million-b907958c?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018Breaking Bad\u2019 star Dean Norris is selling 11-acre California estate for $3.2 million amid divorce",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/breaking-bad-star-dean-norris-is-selling-11-acre-california-estate-for-3-2-million-amid-divorce-03963997?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018Nvidia spooked me\u2019: Should I sell my stocks or ride out the market turmoil?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Tepper, Loeb among fund managers piling into Nvidia and other megacap tech on the eve of October drawdown",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Pick the two sectors where earnings growth will accelerate \u2014 as long as the 10-year stays below this key level, say strategists",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/pick-the-two-sectors-where-earnings-growth-will-accelerate-as-long-as-the-10-year-stays-below-this-key-level-say-strategists-e7c13914?mod=mw_rss_topstories",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "\u2018It is heartbreaking, exhausting and downright dirty\u2019: My brother took over our ailing mother\u2019s life and finances. What can I do?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "tags": []
     },
     {
       "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
@@ -946,83 +1015,8 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
       "tags": []
-    },
-    {
-      "title": "Outside groups urge congressional Dems to target corporate interests over Trump",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/06/democrats-corporate-oversight-trump.html",
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-premarket-moderna-airbnb-cloudflare-affirm-more.html",
-      "tags": []
-    },
-    {
-      "title": "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "tags": []
-    },
-    {
-      "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-      "tags": [
-        "Earnings"
-      ]
-    },
-    {
-      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress\u2019 new makeup",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-      "tags": []
-    },
-    {
-      "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-      "tags": [
-        "Rates & Fed"
-      ]
     }
   ],
-  "updated": "17 Nov 2026, 03:25 UTC",
-  "updated_iso": "2026-11-17T03:25:01.549942+00:00"
+  "updated": "17 Nov 2026, 12:10 UTC",
+  "updated_iso": "2026-11-17T12:10:36.904549+00:00"
 }
