@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "58,506.32",
-      "change": -0.6,
+      "value": "59,024.28",
+      "change": 0.28,
       "series": [
         64916.7,
         64075.42,
@@ -135,7 +135,7 @@
         61142.35,
         59662.02,
         58860.43,
-        58506.32
+        59024.28
       ],
       "dates": [
         "2026-10-19",
@@ -165,10 +165,9 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,689.87",
-      "change": -1.76,
+      "value": "10,666.19",
+      "change": -0.22,
       "series": [
-        10764.7,
         10733.0,
         10752.9,
         10725.0,
@@ -189,10 +188,10 @@
         10863.1,
         10902.6,
         10881.6,
-        10689.9
+        10689.9,
+        10666.19
       ],
       "dates": [
-        "2026-10-19",
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
@@ -213,7 +212,8 @@
         "2026-11-12",
         "2026-11-13",
         "2026-11-16",
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-18"
       ]
     }
   ],
@@ -962,15 +962,6 @@
   ],
   "markets": [
     {
-      "title": "Outside groups urge congressional Dems to target corporate interests over Trump",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/06/democrats-corporate-oversight-trump.html",
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
       "title": "Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more",
       "summary": "",
       "source": "CNBC",
@@ -1060,8 +1051,17 @@
       "tags": [
         "Nvidia"
       ]
+    },
+    {
+      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+      "tags": [
+        "Rates & Fed"
+      ]
     }
   ],
-  "updated": "18 Nov 2026, 02:39 UTC",
-  "updated_iso": "2026-11-18T02:39:43.354701+00:00"
+  "updated": "18 Nov 2026, 10:42 UTC",
+  "updated_iso": "2026-11-18T10:42:34.054882+00:00"
 }
