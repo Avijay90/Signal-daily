@@ -111,11 +111,9 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "59,444.21",
-      "change": 0.99,
+      "value": "56,589.32",
+      "change": -4.8,
       "series": [
-        64916.7,
-        64075.42,
         64621.24,
         62907.84,
         62693.16,
@@ -135,11 +133,11 @@
         61142.35,
         59662.02,
         58860.43,
-        59024.28
+        59024.28,
+        59444.21,
+        56589.32
       ],
       "dates": [
-        "2026-10-19",
-        "2026-10-20",
         "2026-10-21",
         "2026-10-22",
         "2026-10-23",
@@ -159,7 +157,9 @@
         "2026-11-13",
         "2026-11-16",
         "2026-11-17",
-        "2026-11-18"
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20"
       ]
     },
     {
@@ -189,7 +189,7 @@
         10881.6,
         10689.9,
         10551.2,
-        10452.68
+        10452.7
       ],
       "dates": [
         "2026-10-21",
@@ -274,8 +274,9 @@
     {
       "symbol": "PLTR",
       "price": 153.68,
-      "change": -1.91,
+      "change": -1.84,
       "series": [
+        192.6,
         201.72,
         196.19,
         196.75,
@@ -296,10 +297,10 @@
         167.99,
         160.39,
         156.56,
-        156.67,
-        153.68
+        156.67
       ],
       "dates": [
+        "2026-10-20",
         "2026-10-21",
         "2026-10-22",
         "2026-10-23",
@@ -320,8 +321,7 @@
         "2026-11-13",
         "2026-11-16",
         "2026-11-17",
-        "2026-11-18",
-        "2026-11-19"
+        "2026-11-18"
       ]
     },
     {
@@ -590,59 +590,6 @@
       ]
     },
     {
-      "symbol": "META",
-      "price": 596.22,
-      "change": -3.27,
-      "series": [
-        697.52,
-        648.85,
-        642.62,
-        630.56,
-        620.19,
-        612.49,
-        624.52,
-        614.99,
-        606.73,
-        621.03,
-        630.0,
-        605.08,
-        610.15,
-        641.37,
-        641.39,
-        628.77,
-        623.61,
-        641.69,
-        626.41,
-        618.87,
-        616.38,
-        596.22
-      ],
-      "dates": [
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06",
-        "2026-11-09",
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-13",
-        "2026-11-16",
-        "2026-11-17",
-        "2026-11-18",
-        "2026-11-19"
-      ]
-    },
-    {
       "symbol": "NVDA",
       "price": 145.98,
       "change": -3.3,
@@ -746,6 +693,59 @@
         "2026-11-17",
         "2026-11-18",
         "2026-11-19"
+      ]
+    },
+    {
+      "symbol": "META",
+      "price": 596.22,
+      "change": -3.66,
+      "series": [
+        694.25,
+        697.52,
+        648.85,
+        642.62,
+        630.56,
+        620.19,
+        612.49,
+        624.52,
+        614.99,
+        606.73,
+        621.03,
+        630.0,
+        605.08,
+        610.15,
+        641.37,
+        641.39,
+        628.77,
+        623.61,
+        641.69,
+        626.41,
+        618.87,
+        616.38
+      ],
+      "dates": [
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18"
       ]
     },
     {
@@ -857,22 +857,6 @@
   ],
   "ai": [
     {
-      "title": "Palmer Luckey thinks China is \u2018thrilled to have Jensen out,\u2019 so he wants the ousted Nvidia CEO reinstated",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: \u2018It\u2019s time to start running\u2019",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-      "tags": []
-    },
-    {
       "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
       "summary": "",
       "source": "TechCrunch",
@@ -956,83 +940,28 @@
       "tags": [
         "Anthropic"
       ]
+    },
+    {
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "tags": [
+        "Anthropic",
+        "Funding"
+      ]
+    },
+    {
+      "title": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "tags": [
+        "Funding"
+      ]
     }
   ],
   "markets": [
-    {
-      "title": "Why Walmart is making a bigger bet on fast-food delivery",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "UnitedHealth\u2019s stock tumbles after government signals crackdown on Medicare Advantage fraud",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Nvidia\u2019s stock falls further. It has lost $669 billion in six trading days.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Markets are sending troubling signals about the state of the economy",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Anthropic\u2019s stock surges in its debut \u2014 and the rest of the market dives anyway",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "We\u2019re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Intuit\u2019s downbeat outlook deepens Wall Street\u2019s anxiety about software companies",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "These were the only stocks that rose amid the stock market\u2019s wipeout Thursday",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
-      "tags": []
-    },
     {
       "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
       "summary": "",
@@ -1048,8 +977,92 @@
       "tags": [
         "Nvidia"
       ]
+    },
+    {
+      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Polymarket says annualized revenue has topped $1.8 billion",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+      "tags": [
+        "Earnings"
+      ]
+    },
+    {
+      "title": "U.S. gas prices fall below $4 for the first time since July",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+      "tags": []
+    },
+    {
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
+      "tags": []
+    },
+    {
+      "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+      "tags": []
     }
   ],
-  "updated": "19 Nov 2026, 23:47 UTC",
-  "updated_iso": "2026-11-19T23:47:55.071760+00:00"
+  "updated": "20 Nov 2026, 04:48 UTC",
+  "updated_iso": "2026-11-20T04:48:33.365962+00:00"
 }
