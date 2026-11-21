@@ -857,22 +857,6 @@
   ],
   "ai": [
     {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "tags": []
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "tags": [
-        "Microsoft"
-      ]
-    },
-    {
       "title": "Superhuman pushes its Go assistant everywhere",
       "summary": "",
       "source": "TechCrunch",
@@ -958,98 +942,119 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
       "tags": []
+    },
+    {
+      "title": "Meta\u2019s new Muse Charm device may cost $300",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "tags": [
+        "Meta"
+      ]
+    },
+    {
+      "title": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "tags": [
+        "Anthropic",
+        "Funding"
+      ]
     }
   ],
   "markets": [
     {
-      "title": "Who are the investors ready to jump on Anthropic?",
+      "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who\u2019s right?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018Never too late to start\u2019: Practical investing advice from some of the top women in finance",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year\u2019s peak",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Here\u2019s what\u2019s been proven to help GLP-1 users from losing too much muscle from the drug",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Is it time to sell my stocks?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
       "tags": [
-        "Anthropic"
+        "Nvidia"
       ]
     },
     {
-      "title": "Indian driver wins $1.3m in life-changing lottery prize",
+      "title": "Micron and Sandisk stocks might look like bargains, but analysts say that\u2019s actually a red flag",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "How did Anthropic's stock market debut unfold?",
+      "title": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Is Social Security a Ponzi scheme? No. Don\u2019t get carried away with 1930s-era prophecies of doom.",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
       "tags": [
-        "Anthropic"
+        "Nvidia"
       ]
     },
     {
-      "title": "The secret cyber scramble to protect UK fridge freezers",
+      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Could you spot a fake banknote?",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Why Gen Z are planning for life without a state pension",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Why the UK is dithering over what to do about e-scooters",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "My hometown shows that high streets have to change or die",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Survey reveals 'major increase' in cost of living",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cq772r7kk315o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Social poker with \u00a35 stake is booming, says dealer",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
-      "tags": []
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+      "tags": [
+        "Rates & Fed"
+      ]
     }
   ],
-  "updated": "21 Nov 2026, 10:25 UTC",
-  "updated_iso": "2026-11-21T10:25:52.482218+00:00"
+  "updated": "21 Nov 2026, 17:41 UTC",
+  "updated_iso": "2026-11-21T17:41:36.373090+00:00"
 }
