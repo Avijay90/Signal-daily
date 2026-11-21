@@ -962,107 +962,94 @@
   ],
   "markets": [
     {
-      "title": "U.S. gas prices fall below $4 for the first time since July",
+      "title": "Who are the investors ready to jump on Anthropic?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "Indian driver wins $1.3m in life-changing lottery prize",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "title": "How did Anthropic's stock market debut unfold?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
       "tags": [
-        "Nvidia"
+        "Anthropic"
       ]
     },
     {
-      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+      "title": "The secret cyber scramble to protect UK fridge freezers",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+      "title": "Could you spot a fake banknote?",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-      "tags": [
-        "Oil & energy"
-      ]
-    },
-    {
-      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+      "title": "Why Gen Z are planning for life without a state pension",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
       "tags": []
     },
     {
-      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "title": "Why the UK is dithering over what to do about e-scooters",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-      "tags": [
-        "Nvidia",
-        "Regulation"
-      ]
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Survey reveals 'major increase' in cost of living",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cq772r7kk315o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Social poker with \u00a35 stake is booming, says dealer",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
+      "tags": []
     }
   ],
-  "updated": "21 Nov 2026, 02:49 UTC",
-  "updated_iso": "2026-11-21T02:49:12.166648+00:00"
+  "updated": "21 Nov 2026, 10:25 UTC",
+  "updated_iso": "2026-11-21T10:25:52.482218+00:00"
 }
