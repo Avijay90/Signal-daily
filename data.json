@@ -112,9 +112,8 @@
       "name": "Nikkei 225",
       "symbol": "^N225",
       "value": "56,436.65",
-      "change": -4.38,
+      "change": -5.06,
       "series": [
-        64075.42,
         64621.24,
         62907.84,
         62693.16,
@@ -135,10 +134,10 @@
         59662.02,
         58860.43,
         59024.28,
-        59444.21
+        59444.21,
+        56436.65
       ],
       "dates": [
-        "2026-10-20",
         "2026-10-21",
         "2026-10-22",
         "2026-10-23",
@@ -159,7 +158,8 @@
         "2026-11-16",
         "2026-11-17",
         "2026-11-18",
-        "2026-11-19"
+        "2026-11-19",
+        "2026-11-20"
       ]
     },
     {
@@ -189,7 +189,7 @@
         10689.9,
         10551.2,
         10452.7,
-        10346.34
+        10346.3
       ],
       "dates": [
         "2026-10-22",
@@ -962,94 +962,107 @@
   ],
   "markets": [
     {
-      "title": "Who are the investors ready to jump on Anthropic?",
+      "title": "U.S. gas prices fall below $4 for the first time since July",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+      "tags": []
+    },
+    {
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
       "tags": [
-        "Anthropic"
+        "Nvidia"
       ]
     },
     {
-      "title": "Indian driver wins $1.3m in life-changing lottery prize",
+      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "How did Anthropic's stock market debut unfold?",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
       "tags": [
-        "Anthropic"
+        "Rates & Fed"
       ]
     },
     {
-      "title": "The secret cyber scramble to protect UK fridge freezers",
+      "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
       "tags": []
     },
     {
-      "title": "Could you spot a fake banknote?",
+      "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
       "tags": []
     },
     {
-      "title": "Why Gen Z are planning for life without a state pension",
+      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+      "tags": [
+        "Rates & Fed"
+      ]
+    },
+    {
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
       "tags": []
     },
     {
-      "title": "Why the UK is dithering over what to do about e-scooters",
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "My hometown shows that high streets have to change or die",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Survey reveals 'major increase' in cost of living",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cq772r7kk315o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Social poker with \u00a35 stake is booming, says dealer",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
-      "tags": []
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "tags": [
+        "Nvidia",
+        "Regulation"
+      ]
     }
   ],
-  "updated": "20 Nov 2026, 21:31 UTC",
-  "updated_iso": "2026-11-20T21:31:58.531613+00:00"
+  "updated": "21 Nov 2026, 02:49 UTC",
+  "updated_iso": "2026-11-21T02:49:12.166648+00:00"
 }
