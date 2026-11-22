@@ -857,25 +857,6 @@
   ],
   "ai": [
     {
-      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "tags": [
-        "Anthropic",
-        "Funding"
-      ]
-    },
-    {
       "title": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
       "summary": "",
       "source": "TechCrunch",
@@ -958,17 +939,98 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
       "tags": []
+    },
+    {
+      "title": "The fallout from Nvidia\u2019s Jensen Huang scandal continues",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Chips can survive the space environment \u2014 can their financing?",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "tags": [
+        "Nvidia"
+      ]
     }
   ],
   "markets": [
     {
-      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "title": "\u2018Never too late to start\u2019: Practical investing advice from some of the top women in finance",
       "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over SNL\u2019s \u2018Sister\u2019 sketch",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Is it time to sell my stocks and buy real estate?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
       "tags": [
         "Nvidia"
       ]
+    },
+    {
+      "title": "Private equity has been buying up hospice centers \u2014 with striking consequences",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "These little-known investments could be among the best bargains in a crash",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Social Security should be shut down, this Republican senator says",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Ron Johnson\u2019s Social Security gaffe buried important news",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Corporate America hunts for \u2018generational\u2019 growth in AI, trading cards and the L.A. airport",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+      "tags": []
     },
     {
       "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
@@ -985,84 +1047,8 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
       "tags": []
-    },
-    {
-      "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-      "tags": [
-        "Oil & energy"
-      ]
-    },
-    {
-      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
-      "tags": []
-    },
-    {
-      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-      "tags": []
-    },
-    {
-      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-      "tags": [
-        "Nvidia",
-        "Regulation"
-      ]
-    },
-    {
-      "title": "China\u2019s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-      "summary": "",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-      "tags": []
     }
   ],
-  "updated": "22 Nov 2026, 17:37 UTC",
-  "updated_iso": "2026-11-22T17:37:47.817957+00:00"
+  "updated": "22 Nov 2026, 22:46 UTC",
+  "updated_iso": "2026-11-22T22:46:15.481237+00:00"
 }
