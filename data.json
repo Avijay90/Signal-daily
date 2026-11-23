@@ -857,15 +857,6 @@
   ],
   "ai": [
     {
-      "title": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
       "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
       "summary": "",
       "source": "TechCrunch",
@@ -957,6 +948,13 @@
       "tags": [
         "Nvidia"
       ]
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis \u2014 and a human did, too",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "tags": []
     }
   ],
   "markets": [
@@ -1049,6 +1047,6 @@
       "tags": []
     }
   ],
-  "updated": "22 Nov 2026, 22:46 UTC",
-  "updated_iso": "2026-11-22T22:46:15.481237+00:00"
+  "updated": "23 Nov 2026, 03:21 UTC",
+  "updated_iso": "2026-11-23T03:21:25.002706+00:00"
 }
