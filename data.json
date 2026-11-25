@@ -3,8 +3,8 @@
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "value": "7,193.99",
-      "change": -0.6,
+      "value": "7,201.09",
+      "change": -0.5,
       "series": [
         7676.77,
         7722.6,
@@ -27,7 +27,7 @@
         7175.83,
         6910.39,
         7237.17,
-        7193.99
+        7201.09
       ],
       "dates": [
         "2026-10-26",
@@ -57,8 +57,8 @@
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
-      "value": "23,713.73",
-      "change": -1.56,
+      "value": "23,733.53",
+      "change": -1.48,
       "series": [
         26169.38,
         26477.81,
@@ -81,7 +81,7 @@
         23879.2,
         22617.73,
         24089.56,
-        23713.73
+        23733.54
       ],
       "dates": [
         "2026-10-26",
@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "58,644.63",
-      "change": -1.35,
+      "value": "56,915.00",
+      "change": -2.95,
       "series": [
         62189.65,
         63268.37,
@@ -132,7 +132,9 @@
         58860.43,
         59024.28,
         59444.21,
-        56436.65
+        56436.65,
+        58644.63,
+        56915.0
       ],
       "dates": [
         "2026-10-26",
@@ -153,7 +155,9 @@
         "2026-11-17",
         "2026-11-18",
         "2026-11-19",
-        "2026-11-20"
+        "2026-11-20",
+        "2026-11-24",
+        "2026-11-25"
       ]
     },
     {
@@ -183,7 +187,7 @@
         10452.7,
         10346.3,
         10480.8,
-        10467.07
+        10467.1
       ],
       "dates": [
         "2026-10-26",
@@ -214,8 +218,8 @@
   "stocks": [
     {
       "symbol": "AAPL",
-      "price": 353.8,
-      "change": 1.35,
+      "price": 354.07,
+      "change": 1.43,
       "series": [
         343.91,
         347.1,
@@ -238,7 +242,7 @@
         349.21,
         342.56,
         349.08,
-        353.8
+        354.07
       ],
       "dates": [
         "2026-10-26",
@@ -267,8 +271,8 @@
     },
     {
       "symbol": "PLTR",
-      "price": 161.07,
-      "change": 1.08,
+      "price": 161.18,
+      "change": 1.14,
       "series": [
         198.84,
         198.73,
@@ -291,7 +295,7 @@
         153.68,
         143.49,
         159.36,
-        161.07
+        161.18
       ],
       "dates": [
         "2026-10-26",
@@ -320,8 +324,8 @@
     },
     {
       "symbol": "MSFT",
-      "price": 495.28,
-      "change": 0.56,
+      "price": 496.13,
+      "change": 0.74,
       "series": [
         532.6,
         531.33,
@@ -344,7 +348,7 @@
         498.3,
         484.52,
         492.5,
-        495.28
+        496.13
       ],
       "dates": [
         "2026-10-26",
@@ -373,8 +377,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 384.57,
-      "change": -0.23,
+      "price": 384.68,
+      "change": -0.2,
       "series": [
         391.62,
         407.46,
@@ -397,7 +401,7 @@
         374.41,
         345.82,
         385.46,
-        384.58
+        384.68
       ],
       "dates": [
         "2026-10-26",
@@ -426,8 +430,8 @@
     },
     {
       "symbol": "GOOGL",
-      "price": 278.76,
-      "change": -1.18,
+      "price": 279.05,
+      "change": -1.08,
       "series": [
         316.8,
         320.58,
@@ -450,7 +454,7 @@
         272.66,
         265.29,
         282.1,
-        278.76
+        279.05
       ],
       "dates": [
         "2026-10-26",
@@ -479,8 +483,8 @@
     },
     {
       "symbol": "AMZN",
-      "price": 251.9,
-      "change": -1.37,
+      "price": 252.29,
+      "change": -1.21,
       "series": [
         249.09,
         253.1,
@@ -503,7 +507,7 @@
         257.37,
         246.82,
         255.39,
-        251.9
+        252.29
       ],
       "dates": [
         "2026-10-26",
@@ -532,8 +536,8 @@
     },
     {
       "symbol": "META",
-      "price": 588.89,
-      "change": -1.46,
+      "price": 589.82,
+      "change": -1.3,
       "series": [
         630.56,
         620.19,
@@ -556,7 +560,7 @@
         596.22,
         560.84,
         597.6,
-        588.89
+        589.82
       ],
       "dates": [
         "2026-10-26",
@@ -585,8 +589,8 @@
     },
     {
       "symbol": "ORCL",
-      "price": 109.16,
-      "change": -3.98,
+      "price": 109.5,
+      "change": -3.68,
       "series": [
         126.06,
         130.53,
@@ -609,60 +613,7 @@
         110.57,
         101.19,
         113.68,
-        109.16
-      ],
-      "dates": [
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06",
-        "2026-11-09",
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-13",
-        "2026-11-16",
-        "2026-11-17",
-        "2026-11-18",
-        "2026-11-19",
-        "2026-11-20",
-        "2026-11-23",
-        "2026-11-24"
-      ]
-    },
-    {
-      "symbol": "AVGO",
-      "price": 300.7,
-      "change": -4.1,
-      "series": [
-        329.17,
-        342.33,
-        351.81,
-        345.0,
-        326.08,
-        322.23,
-        332.13,
-        325.48,
-        291.53,
-        293.69,
-        319.48,
-        331.98,
-        345.22,
-        364.36,
-        347.01,
-        333.4,
-        341.6,
-        354.05,
-        346.65,
-        304.41,
-        313.55,
-        300.7
+        109.5
       ],
       "dates": [
         "2026-10-26",
@@ -691,8 +642,8 @@
     },
     {
       "symbol": "TSM",
-      "price": 348.62,
-      "change": -4.12,
+      "price": 349.2,
+      "change": -3.96,
       "series": [
         424.37,
         436.87,
@@ -715,7 +666,60 @@
         352.09,
         318.71,
         363.6,
-        348.62
+        349.2
+      ],
+      "dates": [
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-23",
+        "2026-11-24"
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "price": 301.08,
+      "change": -3.98,
+      "series": [
+        329.17,
+        342.33,
+        351.81,
+        345.0,
+        326.08,
+        322.23,
+        332.13,
+        325.48,
+        291.53,
+        293.69,
+        319.48,
+        331.98,
+        345.22,
+        364.36,
+        347.01,
+        333.4,
+        341.6,
+        354.05,
+        346.65,
+        304.41,
+        313.55,
+        301.08
       ],
       "dates": [
         "2026-10-26",
@@ -744,8 +748,8 @@
     },
     {
       "symbol": "NVDA",
-      "price": 155.11,
-      "change": -6.02,
+      "price": 155.38,
+      "change": -5.86,
       "series": [
         216.0,
         217.94,
@@ -768,7 +772,7 @@
         145.98,
         125.53,
         165.05,
-        155.11
+        155.38
       ],
       "dates": [
         "2026-10-26",
@@ -797,8 +801,8 @@
     },
     {
       "symbol": "AMD",
-      "price": 413.69,
-      "change": -8.77,
+      "price": 413.27,
+      "change": -8.86,
       "series": [
         531.28,
         560.26,
@@ -821,7 +825,7 @@
         489.19,
         424.39,
         453.46,
-        413.69
+        413.27
       ],
       "dates": [
         "2026-10-26",
@@ -850,58 +854,6 @@
     }
   ],
   "ai": [
-    {
-      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-      "tags": [
-        "Funding"
-      ]
-    },
-    {
-      "title": "Trump endorses Jensen Huang\u2019s return to Nvidia, says US has no evidence of wrongdoing",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang\u2019s return",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Jensen Huang isn\u2019t out of the woods yet",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-      "tags": []
-    },
-    {
-      "title": "Amazon snaps up Decart\u2019s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-      "tags": [
-        "Nvidia"
-      ]
-    },
     {
       "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
       "summary": "",
@@ -954,84 +906,57 @@
       "tags": [
         "Funding"
       ]
-    }
-  ],
-  "markets": [
-    {
-      "title": "Tesla has a \u2018legitimate multitrillion-dollar opportunity\u2019 in robotaxis, says former skeptic",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
-      "tags": []
     },
     {
-      "title": "Micron\u2019s stock falls as an analyst warns about a future supply glut",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Visiting Las Vegas is getting too expensive \u2014 but don\u2019t blame airfares",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Feeling tired and losing your hair? You might have low iron \u2014 even if you\u2019ve tested \u2018normal\u2019 before.",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Many people overlook this crucial piece of retirement planning \u2014 and it isn\u2019t money",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "Anthropic\u2019s stock just broke below its IPO price for the first time",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "tags": [
-        "Anthropic",
-        "Funding"
+        "Anthropic"
       ]
     },
     {
-      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street\u2019s newest bulls",
+      "title": "Amazon\u2019s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
       "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump\u2019s push for Huang\u2019s return",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
       "tags": [
         "Nvidia"
       ]
     },
+    {
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "tags": []
+    },
+    {
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "tags": []
+    },
+    {
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "tags": []
+    },
+    {
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "tags": [
+        "Meta"
+      ]
+    }
+  ],
+  "markets": [
     {
       "title": "Witness History",
       "summary": "",
@@ -1047,8 +972,86 @@
       "tags": [
         "Nvidia"
       ]
+    },
+    {
+      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Four generations of a family working in one factory",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why Gen Z are planning for life without a state pension",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Why the UK is dithering over what to do about e-scooters",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "My hometown shows that high streets have to change or die",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "tags": []
+    },
+    {
+      "title": "Will I get the \u00a3100 energy payment and when will I receive it?",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "tags": [
+        "Oil & energy"
+      ]
+    },
+    {
+      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "tags": [
+        "Oil & energy"
+      ]
     }
   ],
-  "updated": "24 Nov 2026, 20:55 UTC",
-  "updated_iso": "2026-11-24T20:55:23.617447+00:00"
+  "updated": "25 Nov 2026, 03:52 UTC",
+  "updated_iso": "2026-11-25T03:52:17.638462+00:00"
 }
