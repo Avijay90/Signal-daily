@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "56,915.00",
-      "change": -2.95,
+      "value": "57,011.62",
+      "change": -2.78,
       "series": [
         62189.65,
         63268.37,
@@ -134,7 +134,7 @@
         59444.21,
         56436.65,
         58644.63,
-        56915.0
+        57011.62
       ],
       "dates": [
         "2026-10-26",
@@ -163,10 +163,9 @@
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,467.07",
-      "change": -0.13,
+      "value": "10,472.46",
+      "change": 0.05,
       "series": [
-        10767.3,
         10686.5,
         10694.5,
         10722.1,
@@ -187,10 +186,10 @@
         10452.7,
         10346.3,
         10480.8,
-        10467.1
+        10467.1,
+        10472.46
       ],
       "dates": [
-        "2026-10-26",
         "2026-10-27",
         "2026-10-28",
         "2026-10-29",
@@ -211,7 +210,8 @@
         "2026-11-19",
         "2026-11-20",
         "2026-11-23",
-        "2026-11-24"
+        "2026-11-24",
+        "2026-11-25"
       ]
     }
   ],
@@ -855,16 +855,6 @@
   ],
   "ai": [
     {
-      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-      "tags": [
-        "Nvidia",
-        "Regulation"
-      ]
-    },
-    {
       "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
       "summary": "",
       "source": "TechCrunch",
@@ -954,104 +944,114 @@
       "tags": [
         "Meta"
       ]
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "tags": []
     }
   ],
   "markets": [
     {
-      "title": "Witness History",
+      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8r4b?at_medium=RSS&at_campaign=rss",
-      "tags": []
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+      "tags": [
+        "Rates & Fed"
+      ]
     },
     {
-      "title": "Nvidia reinstates CEO after affair with alleged spy",
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
       "tags": [
         "Nvidia"
       ]
     },
     {
-      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "tags": []
+    },
+    {
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
       "tags": [
-        "Nvidia"
+        "Nvidia",
+        "Regulation"
       ]
     },
     {
-      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "title": "China\u2019s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "Four generations of a family working in one factory",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
       "tags": []
     },
     {
-      "title": "Why Gen Z are planning for life without a state pension",
+      "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Why the UK is dithering over what to do about e-scooters",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "My hometown shows that high streets have to change or die",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
-    {
-      "title": "Will I get the \u00a3100 energy payment and when will I receive it?",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
       "tags": [
         "Oil & energy"
       ]
     },
     {
-      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could \u2018disappoint\u2019",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
       "tags": [
-        "Oil & energy"
+        "Rates & Fed"
       ]
+    },
+    {
+      "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+      "tags": []
+    },
+    {
+      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+      "tags": []
+    },
+    {
+      "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+      "tags": [
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "JPMorgan is working on AI agent transactions that don\u2019t involve humans",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+      "tags": []
+    },
+    {
+      "title": "Three things to watch as Trump, Xi and Putin meet in China",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+      "tags": []
     }
   ],
-  "updated": "25 Nov 2026, 03:52 UTC",
-  "updated_iso": "2026-11-25T03:52:17.638462+00:00"
+  "updated": "25 Nov 2026, 13:42 UTC",
+  "updated_iso": "2026-11-25T13:42:53.336283+00:00"
 }
