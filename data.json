@@ -111,8 +111,8 @@
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
-      "value": "57,011.62",
-      "change": 1.02,
+      "value": "57,837.93",
+      "change": 1.45,
       "series": [
         62189.65,
         63268.37,
@@ -133,7 +133,9 @@
         59024.28,
         59444.21,
         56436.65,
-        58644.63
+        58644.63,
+        57011.62,
+        57837.93
       ],
       "dates": [
         "2026-10-26",
@@ -155,7 +157,9 @@
         "2026-11-18",
         "2026-11-19",
         "2026-11-20",
-        "2026-11-24"
+        "2026-11-24",
+        "2026-11-25",
+        "2026-11-26"
       ]
     },
     {
@@ -185,7 +189,7 @@
         10346.3,
         10480.8,
         10467.1,
-        10426.94
+        10426.9
       ],
       "dates": [
         "2026-10-27",
@@ -952,38 +956,6 @@
   ],
   "markets": [
     {
-      "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
-      "title": "The Fed says inflation hasn\u2019t gotten any better ahead of its key December vote to raise rates",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
-      "tags": [
-        "Rates & Fed"
-      ]
-    },
-    {
-      "title": "Nvidia is heading for its first \u2018death cross\u2019 since March 2025 as stock continues to struggle",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
-      "title": "How to spot \u2018bogus boutiques\u2019 and other Black Friday shopping scams",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
-      "tags": []
-    },
-    {
       "title": "HP\u2019s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
       "summary": "",
       "source": "MarketWatch",
@@ -1016,15 +988,6 @@
       "tags": []
     },
     {
-      "title": "We are living in perilous times if Nvidia\u2019s Jensen Huang dictates your 401(k) balance",
-      "summary": "",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-      "tags": [
-        "Nvidia"
-      ]
-    },
-    {
       "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?",
       "summary": "",
       "source": "MarketWatch",
@@ -1034,22 +997,60 @@
       ]
     },
     {
-      "title": "Business Daily",
+      "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct98sy?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
       "tags": []
     },
     {
-      "title": "Interest rate affect on Guernsey's housing market",
+      "title": "I\u2019m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/videos/c6x29vne7lnko?at_medium=RSS&at_campaign=rss",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who\u2019s to blame?",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+      "tags": []
+    },
+    {
+      "title": "We are living in perilous times if Nvidia\u2019s Jensen Huang dictates your 401(k) balance",
+      "summary": "",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
       "tags": [
-        "Rates & Fed"
+        "Nvidia"
+      ]
+    },
+    {
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "tags": []
+    },
+    {
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "summary": "",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "tags": [
+        "Nvidia",
+        "Regulation"
       ]
     }
   ],
-  "updated": "25 Nov 2026, 22:46 UTC",
-  "updated_iso": "2026-11-25T22:46:11.350157+00:00"
+  "updated": "26 Nov 2026, 04:35 UTC",
+  "updated_iso": "2026-11-26T04:35:04.991865+00:00"
 }
