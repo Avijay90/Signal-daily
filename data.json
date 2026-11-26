@@ -112,7 +112,7 @@
       "name": "Nikkei 225",
       "symbol": "^N225",
       "value": "57,499.16",
-      "change": 0.86,
+      "change": -1.95,
       "series": [
         62189.65,
         63268.37,
@@ -134,8 +134,7 @@
         59444.21,
         56436.65,
         58644.63,
-        57011.62,
-        57499.16
+        57011.62
       ],
       "dates": [
         "2026-10-26",
@@ -158,15 +157,14 @@
         "2026-11-19",
         "2026-11-20",
         "2026-11-24",
-        "2026-11-25",
-        "2026-11-26"
+        "2026-11-25"
       ]
     },
     {
       "name": "FTSE 100",
       "symbol": "^FTSE",
-      "value": "10,597.48",
-      "change": 1.64,
+      "value": "10,609.30",
+      "change": 1.75,
       "series": [
         10694.5,
         10722.1,
@@ -189,7 +187,7 @@
         10480.8,
         10467.1,
         10426.9,
-        10597.48
+        10609.3
       ],
       "dates": [
         "2026-10-28",
@@ -857,20 +855,6 @@
   ],
   "ai": [
     {
-      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-      "tags": []
-    },
-    {
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "summary": "",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "tags": []
-    },
-    {
       "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
       "summary": "",
       "source": "TechCrunch",
@@ -952,16 +936,25 @@
       "tags": [
         "Nvidia"
       ]
+    },
+    {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "tags": [
+        "Meta"
+      ]
+    },
+    {
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "summary": "",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "tags": []
     }
   ],
   "markets": [
-    {
-      "title": "Business Daily",
-      "summary": "",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct98sy?at_medium=RSS&at_campaign=rss",
-      "tags": []
-    },
     {
       "title": "Interest rate affect on Guernsey's housing market",
       "summary": "",
@@ -1042,8 +1035,15 @@
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
       "tags": []
+    },
+    {
+      "title": "Cost of living roadshow highlights support on offer",
+      "summary": "",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqz0ky4204jlo?at_medium=RSS&at_campaign=rss",
+      "tags": []
     }
   ],
-  "updated": "26 Nov 2026, 14:25 UTC",
-  "updated_iso": "2026-11-26T14:25:53.198978+00:00"
+  "updated": "26 Nov 2026, 23:08 UTC",
+  "updated_iso": "2026-11-26T23:08:16.857080+00:00"
 }
